@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1940297486297702551",
+    "created_at": "2025-07-02T07:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T08:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940304877785366968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893623858911150080",
+          "start": 0,
+          "username": "Apatite98568"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940304877785366968",
+    "in_reply_to_user_id": "1893623858911150080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940303264567951516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apatite98568 心肌缺血"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1940297486297702551",
+        "created_at": "2025-07-02T07:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T08:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940304877785366968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893623858911150080",
+              "start": 0,
+              "username": "Apatite98568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940304877785366968",
+        "in_reply_to_user_id": "1893623858911150080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940303264567951516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apatite98568 心肌缺血"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893623858911150080",
+        "conversation_id": "1940297486297702551",
+        "created_at": "2025-07-02T06:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T07:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940303264567951516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940303264567951516",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940297486297702551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF ？具体什么病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，但本体是前JMR雪球队退役球圆Snowflake（划去）🏳️‍⚧️/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 985,
+          "like_count": 26091,
+          "listed_count": 8,
+          "media_count": 449,
+          "tweet_count": 4884
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T11:28:16.000Z",
+        "description": "高二|福瑞|航天|粥批|二次元|友🏳️‍⚧️🏳️‍🌈|泛性恋|小号@Apatite_Cinis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "Apatite_Cinis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "biupiukiu.net",
+                "end": 23,
+                "expanded_url": "http://biupiukiu.net",
+                "start": 0,
+                "url": "https://t.co/a2fKnAmdyS"
+              }
+            ]
+          }
+        },
+        "id": "1893623858911150080",
+        "location": "在高潮的青年路",
+        "name": "湛隕",
+        "pinned_tweet_id": "1934594315801760111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938092250258694144/rb3BX6Po_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 810,
+          "like_count": 14498,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 3595
+        },
+        "url": "https://t.co/a2fKnAmdyS",
+        "username": "Apatite98568",
+        "verified": false
+      }
+    ]
+  }
+}

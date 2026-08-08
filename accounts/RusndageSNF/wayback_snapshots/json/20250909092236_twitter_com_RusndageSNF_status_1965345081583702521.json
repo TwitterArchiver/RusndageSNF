@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1965135299924881672",
+    "created_at": "2025-09-09T09:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T10:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965345081583702521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705855853231005696",
+          "start": 0,
+          "username": "real_clover_yan"
+        },
+        {
+          "end": 32,
+          "id": "1664948430920359936",
+          "start": 17,
+          "username": "Snowcomics9452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965345081583702521",
+    "in_reply_to_user_id": "1705855853231005696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965338240661275049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_clover_yan @Snowcomics9452 当然不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1965135299924881672",
+        "created_at": "2025-09-09T09:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T10:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965345081583702521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705855853231005696",
+              "start": 0,
+              "username": "real_clover_yan"
+            },
+            {
+              "end": 32,
+              "id": "1664948430920359936",
+              "start": 17,
+              "username": "Snowcomics9452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965345081583702521",
+        "in_reply_to_user_id": "1705855853231005696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965338240661275049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_clover_yan @Snowcomics9452 当然不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705855853231005696",
+        "conversation_id": "1965135299924881672",
+        "created_at": "2025-09-09T08:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T09:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965338240661275049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664948430920359936",
+              "start": 0,
+              "username": "Snowcomics9452"
+            },
+            {
+              "end": 28,
+              "id": "1236317911431536640",
+              "start": 16,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965338240661275049",
+        "in_reply_to_user_id": "1664948430920359936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965243452826026123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowcomics9452 @RusndageSNF 你们不是一个人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 1034,
+          "like_count": 27418,
+          "listed_count": 7,
+          "media_count": 503,
+          "tweet_count": 5312
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T08:05:19.000Z",
+        "description": "InfoSec @ HainanU／当将死之人化石在灰烬中发芽／INFP-T／男的／🦋 https://t.co/bl75LvFbUL ／转推、关注、互关不等于完全赞同／放心取关，但请勿双向／会屏蔽人，屏蔽错请及时联系／FF 外失礼大丈夫／此账号不主动涉及任何政治内容。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "khyan.top",
+                "end": 67,
+                "expanded_url": "http://khyan.top",
+                "start": 44,
+                "url": "https://t.co/bl75LvFbUL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "khyan.top",
+                "end": 23,
+                "expanded_url": "https://www.khyan.top",
+                "start": 0,
+                "url": "https://t.co/sGBcYmol7b"
+              }
+            ]
+          }
+        },
+        "id": "1705855853231005696",
+        "location": "Xianzhou Luofu",
+        "name": "𝓒𝓵𝓸𝓿𝓮𝓻 𝓨𝓪𝓷 ～(∠・ω＜)⌒",
+        "pinned_tweet_id": "1818914665768067403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934404192560631808/Y3uGyk_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 634,
+          "like_count": 16882,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 4002
+        },
+        "url": "https://t.co/sGBcYmol7b",
+        "username": "real_clover_yan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️斷續含糖MtX/F🍥/\n這裡是雪花新聞中心，追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics 小貓窩: @SchneeSchmit 可線下面基",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Snowcomics"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "SchneeSchmit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transky.mtf.wiki",
+                "end": 23,
+                "expanded_url": "https://transky.mtf.wiki/",
+                "start": 0,
+                "url": "https://t.co/z3o74Bauki"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong, 就讀於VTC(李惠利)",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1930283656918249583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939666470113280000/TkkDO3rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 3379,
+          "like_count": 37671,
+          "listed_count": 5,
+          "media_count": 949,
+          "tweet_count": 7728
+        },
+        "url": "https://t.co/z3o74Bauki",
+        "username": "Snowcomics9452",
+        "verified": false
+      }
+    ]
+  }
+}

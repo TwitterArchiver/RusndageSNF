@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1960172159428624774",
+    "created_at": "2025-08-26T19:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T20:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960422597713387843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "535028358",
+          "start": 0,
+          "username": "Beiyan_Yunyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960422597713387843",
+    "in_reply_to_user_id": "535028358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960172159428624774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beiyan_Yunyi 所以说这就是AI存在的必要性，可以训练一个跨性别如何用药的AI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1960172159428624774",
+        "created_at": "2025-08-26T19:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T20:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960422597713387843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "535028358",
+              "start": 0,
+              "username": "Beiyan_Yunyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960422597713387843",
+        "in_reply_to_user_id": "535028358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960172159428624774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beiyan_Yunyi 所以说这就是AI存在的必要性，可以训练一个跨性别如何用药的AI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "535028358",
+        "conversation_id": "1960172159428624774",
+        "created_at": "2025-08-26T02:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T03:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960172159428624774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960172159428624774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11830,
+          "like_count": 167,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "在顶层跨里面呆久了，不知道其他跨子生存状态的时候，可以去药商群里看看。\n读完 hrt 指南的能力是没有的，听概括的能力也是没有的，只有“我想长胸，应该吃哪些药、怎么吃，直接说”\n但是们读文档人真没啥可优越的，人类诞生以来 99% 的时间，和生产直接相关的知识都在口耳相传。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 1030,
+          "like_count": 27261,
+          "listed_count": 7,
+          "media_count": 500,
+          "tweet_count": 5282
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-24T03:02:07.000Z",
+        "description": "MtRF，吃雌二醇的网左，杯水主义仙人\nMothers: @artefaritaUsagi & @sauricat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "sauricat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yunyi.beiyan.us",
+                "end": 23,
+                "expanded_url": "https://blog.yunyi.beiyan.us",
+                "start": 0,
+                "url": "https://t.co/0dCxoXrP6h"
+              }
+            ]
+          }
+        },
+        "id": "535028358",
+        "name": "北雁云依 - 21018365486@o3o.ca",
+        "pinned_tweet_id": "1848540476166885623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668117844700332033/Um3u3YZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3633,
+          "following_count": 223,
+          "like_count": 6906,
+          "listed_count": 16,
+          "media_count": 189,
+          "tweet_count": 1823
+        },
+        "url": "https://t.co/0dCxoXrP6h",
+        "username": "Beiyan_Yunyi",
+        "verified": false
+      }
+    ]
+  }
+}

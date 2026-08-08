@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1854852420893053253",
+    "created_at": "2024-11-08T12:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T13:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854859835080077373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1600649573436780544",
+          "start": 0,
+          "username": "zhngkitng5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854859835080077373",
+    "in_reply_to_user_id": "1600649573436780544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854852420893053253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngkitng5 别吃喹硫平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1854852420893053253",
+        "created_at": "2024-11-08T12:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T13:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854859835080077373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1600649573436780544",
+              "start": 0,
+              "username": "zhngkitng5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854859835080077373",
+        "in_reply_to_user_id": "1600649573436780544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854852420893053253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngkitng5 别吃喹硫平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600649573436780544",
+        "conversation_id": "1854852420893053253",
+        "created_at": "2024-11-08T11:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T12:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854852420893053253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854852420893053253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好朋友确诊双向了，怎么办有什么建议，或者对喹硫平用药有什么提醒吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 742,
+          "like_count": 18715,
+          "listed_count": 4,
+          "tweet_count": 3222
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T00:34:26.000Z",
+        "description": "永远三岁！|药物爱好者|无性别主义|まふ推|恐婚恐育⚠️\n奉天驿驿主\n『中日親善』",
+        "id": "1600649573436780544",
+        "location": "虚拟主板",
+        "name": "三尺微命(",
+        "pinned_tweet_id": "1621180535543595013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636949537356152833/mXhMreC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 637,
+          "like_count": 4972,
+          "listed_count": 3,
+          "tweet_count": 2690
+        },
+        "username": "zhngkitng5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1833367564808032374",
+    "created_at": "2024-09-10T09:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T10:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833439469636047000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1650564592949678080",
+          "start": 0,
+          "username": "Freder21199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833439469636047000",
+    "in_reply_to_user_id": "1650564592949678080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833367564808032374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freder21199 操你妈，史蒂夫不应该是个肌肉络腮胡男吗？毕竟游戏里的皮肤就是那样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1833367564808032374",
+        "created_at": "2024-09-10T09:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T10:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833439469636047000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1650564592949678080",
+              "start": 0,
+              "username": "Freder21199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833439469636047000",
+        "in_reply_to_user_id": "1650564592949678080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833367564808032374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freder21199 操你妈，史蒂夫不应该是个肌肉络腮胡男吗？毕竟游戏里的皮肤就是那样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833367562018820098"
+          ]
+        },
+        "author_id": "1650564592949678080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1833367564808032374",
+        "created_at": "2024-09-10T04:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T05:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833367564808032374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddrfvk5aaq",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Freder21199/status/1833367564808032374/photo/1",
+              "media_key": "3_1833367562018820098",
+              "start": 17,
+              "url": "https://t.co/ddRFVK5aAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833367564808032374",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2700,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何评价《我的世界》真人大电影？ https://t.co/ddRFVK5aAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 697,
+          "like_count": 16686,
+          "listed_count": 5,
+          "tweet_count": 2807
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T18:17:20.000Z",
+        "description": "无政府主义者🏴／包容除了傻逼以外的任何人／检查成分后回fo",
+        "id": "1650564592949678080",
+        "name": "橙子汁-official🍹🏴✝️(zyn的爷爷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830826637694509059/766bgjjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1096,
+          "like_count": 31268,
+          "listed_count": 3,
+          "tweet_count": 2615
+        },
+        "username": "Freder21199",
+        "verified": false
+      }
+    ]
+  }
+}

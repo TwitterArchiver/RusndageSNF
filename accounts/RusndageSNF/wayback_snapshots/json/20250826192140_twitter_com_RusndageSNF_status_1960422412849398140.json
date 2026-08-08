@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1960208414447177910",
+    "created_at": "2025-08-26T19:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T20:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960422412849398140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1159002807174934528",
+          "start": 0,
+          "username": "tinh_lam_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960422412849398140",
+    "in_reply_to_user_id": "1159002807174934528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960208414447177910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tinh_lam_ 我觉得可以特地训练一个关于对于跨性别如何用药的AI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1960208414447177910",
+        "created_at": "2025-08-26T19:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T20:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960422412849398140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1159002807174934528",
+              "start": 0,
+              "username": "tinh_lam_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960422412849398140",
+        "in_reply_to_user_id": "1159002807174934528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960208414447177910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tinh_lam_ 我觉得可以特地训练一个关于对于跨性别如何用药的AI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1159002807174934528",
+        "conversation_id": "1960208414447177910",
+        "created_at": "2025-08-26T05:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T06:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960208414447177910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Beiyan_Yunyi/s…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/Beiyan_Yunyi/status/1960172159428624774",
+              "start": 123,
+              "url": "https://t.co/fx9L7LLvNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960208414447177910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 998,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960172159428624774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以mtfwiki其实面临一个夹缝问题：它一边因为审查和规制环境要求不能太直球地教人diy hrt，一边又不能写得太隐晦/太复杂让很多trans读不懂读不完指南。虽然我还是希望wiki首页上能放一个“mtf吃糖参考方案请点这里”的超链接就是了。 https://t.co/fx9L7LLvNv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 1030,
+          "like_count": 27261,
+          "listed_count": 7,
+          "media_count": 500,
+          "tweet_count": 5281
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T07:26:17.000Z",
+        "description": "泡泡和花火。一捧夏日。（跨）性别观察和研究。",
+        "id": "1159002807174934528",
+        "name": "晴岚 / Maura",
+        "pinned_tweet_id": "1923074895505654046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514142468861747201/mQtb3-s1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 254,
+          "like_count": 4178,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1987
+        },
+        "username": "tinh_lam_",
+        "verified": false
+      }
+    ]
+  }
+}

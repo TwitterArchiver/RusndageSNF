@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1858734242483855831",
+    "created_at": "2024-11-19T21:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T22:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858990559769358749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818920358403256320",
+          "start": 0,
+          "username": "xuanyu20240316"
+        },
+        {
+          "end": 32,
+          "id": "1664859019830517760",
+          "start": 16,
+          "username": "kagurazakachiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858990559769358749",
+    "in_reply_to_user_id": "1818920358403256320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858740419997430134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyu20240316 @kagurazakachiyo 我1718年那时候上推的，不妨碍我22年才吃糖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1858734242483855831",
+        "created_at": "2024-11-19T21:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T22:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858990559769358749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818920358403256320",
+              "start": 0,
+              "username": "xuanyu20240316"
+            },
+            {
+              "end": 32,
+              "id": "1664859019830517760",
+              "start": 16,
+              "username": "kagurazakachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858990559769358749",
+        "in_reply_to_user_id": "1818920358403256320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858740419997430134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyu20240316 @kagurazakachiyo 我1718年那时候上推的，不妨碍我22年才吃糖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818920358403256320",
+        "conversation_id": "1858734242483855831",
+        "created_at": "2024-11-19T05:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T06:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858740419997430134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664859019830517760",
+              "start": 0,
+              "username": "kagurazakachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858740419997430134",
+        "in_reply_to_user_id": "1664859019830517760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1034,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858739947647496625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakachiyo 学信竞的会更早接触网络上的信息，也会更早意识到自己的性别认同（据说是的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 742,
+          "like_count": 19185,
+          "listed_count": 4,
+          "tweet_count": 3294
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "生日20100414/mtf/无证含糖/HRT20240316/CChOer（一个连省一线都过不了的废物）/163cm 47kg",
+        "id": "1818920358403256320",
+        "location": "重庆",
+        "name": "萱雨🏳️‍⚧️",
+        "pinned_tweet_id": "1839717954898014719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819968967810670592/_cPCjwdy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 565,
+          "like_count": 826,
+          "listed_count": 0,
+          "tweet_count": 89
+        },
+        "username": "xuanyu20240316",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T04:58:45.000Z",
+        "description": "别讨厌我🥺",
+        "id": "1664859019830517760",
+        "name": "神楽坂千代🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816712967162925056/QM2X2ZK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 1753,
+          "like_count": 6397,
+          "listed_count": 0,
+          "tweet_count": 1342
+        },
+        "username": "kagurazakachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

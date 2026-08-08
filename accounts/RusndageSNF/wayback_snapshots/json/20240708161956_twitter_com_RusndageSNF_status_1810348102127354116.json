@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1810189746091724912",
+    "created_at": "2024-07-08T16:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T17:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810348102127354116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1521407965567533057",
+          "start": 0,
+          "username": "season696"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810348102127354116",
+    "in_reply_to_user_id": "1521407965567533057",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810189746091724912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@season696 太阳的光辉把我晃瞎了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1810189746091724912",
+        "created_at": "2024-07-08T16:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T17:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810348102127354116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1521407965567533057",
+              "start": 0,
+              "username": "season696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810348102127354116",
+        "in_reply_to_user_id": "1521407965567533057",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810189746091724912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@season696 太阳的光辉把我晃瞎了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1810189737094971392"
+          ]
+        },
+        "author_id": "1521407965567533057",
+        "conversation_id": "1810189746091724912",
+        "created_at": "2024-07-08T05:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T06:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810189746091724912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HYgxVuLRWE",
+              "end": 29,
+              "expanded_url": "https://twitter.com/season696/status/1810189746091724912/photo/1",
+              "media_key": "3_1810189737094971392",
+              "start": 6,
+              "url": "https://t.co/HYgxVuLRWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810189746091724912",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16292,
+          "like_count": 222,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "来测视力了 https://t.co/HYgxVuLRWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 659,
+          "like_count": 14509,
+          "listed_count": 5,
+          "tweet_count": 2540
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T08:35:08.000Z",
+        "description": "额…",
+        "id": "1521407965567533057",
+        "location": "Los Angeles, CA",
+        "name": "瑞酱",
+        "pinned_tweet_id": "1750717274909196699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709584540501676033/WySE3__n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12549,
+          "following_count": 1640,
+          "like_count": 42511,
+          "listed_count": 35,
+          "tweet_count": 15280
+        },
+        "username": "season696",
+        "verified": false
+      }
+    ]
+  }
+}

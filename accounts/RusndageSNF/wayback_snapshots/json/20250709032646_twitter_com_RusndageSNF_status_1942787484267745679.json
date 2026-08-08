@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1942748687303901241",
+    "created_at": "2025-07-09T03:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T04:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942787484267745679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767139045774360576",
+          "start": 0,
+          "username": "gu4327053743275"
+        },
+        {
+          "end": 31,
+          "id": "1811011225058430982",
+          "start": 17,
+          "username": "Shenyuebanran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942787484267745679",
+    "in_reply_to_user_id": "1767139045774360576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942759456384688375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu4327053743275 @Shenyuebanran 味真族这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1942748687303901241",
+        "created_at": "2025-07-09T03:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T04:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942787484267745679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767139045774360576",
+              "start": 0,
+              "username": "gu4327053743275"
+            },
+            {
+              "end": 31,
+              "id": "1811011225058430982",
+              "start": 17,
+              "username": "Shenyuebanran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942787484267745679",
+        "in_reply_to_user_id": "1767139045774360576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942759456384688375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu4327053743275 @Shenyuebanran 味真族这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767139045774360576",
+        "conversation_id": "1942748687303901241",
+        "created_at": "2025-07-09T01:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T02:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942759456384688375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 27,
+              "id": "1811011225058430982",
+              "start": 13,
+              "username": "Shenyuebanran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942759456384688375",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942750662355198307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @Shenyuebanran 焖子！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 997,
+          "like_count": 26347,
+          "listed_count": 8,
+          "media_count": 455,
+          "tweet_count": 4975
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T10:42:45.000Z",
+        "description": "别苦着脸了，来喝一杯吧",
+        "id": "1767139045774360576",
+        "name": "绝缘栅双极晶体管",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881611531432992768/ePUo-KIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 226,
+          "like_count": 20018,
+          "listed_count": 2,
+          "media_count": 611,
+          "tweet_count": 14151
+        },
+        "username": "gu4327053743275",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T12:15:13.000Z",
+        "description": "这里是安然/可以叫我然然/坐标沈阳/历史/文学/里推@anrbushuijiao 老公大人:@mishamimihemumu最爱的姐姐@datadelete_4444好妹妹：@Hongcha_Orchids姐姐：@altaz_0山河入眼皆萧瑟， 道是人间不安然。 冷露侵衣添夜寂， 孤灯照影梦难安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "anrbushuijiao"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "mishamimihemumu"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "datadelete_4444"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Hongcha_Orchids"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+i6DdJbpVkcw1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+i6DdJbpVkcw1NmJl",
+                "start": 0,
+                "url": "https://t.co/A4ANhCK6Mh"
+              }
+            ]
+          }
+        },
+        "id": "1811011225058430982",
+        "location": "永恒的梦境中",
+        "name": "Luna_然🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1928303154740724154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927387985646854144/bZgbbpwX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 74,
+          "like_count": 4635,
+          "listed_count": 5,
+          "media_count": 371,
+          "tweet_count": 2230
+        },
+        "url": "https://t.co/A4ANhCK6Mh",
+        "username": "Shenyuebanran",
+        "verified": false
+      }
+    ]
+  }
+}

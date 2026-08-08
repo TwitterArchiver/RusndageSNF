@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1875546481534627846",
+    "created_at": "2025-01-05T05:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T06:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875772849870577844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1420962557897035781",
+          "start": 0,
+          "username": "shrinkviolet77"
+        },
+        {
+          "end": 32,
+          "id": "1847778949272584192",
+          "start": 16,
+          "username": "jingsheng237248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875772849870577844",
+    "in_reply_to_user_id": "1420962557897035781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875610070542905522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shrinkviolet77 @jingsheng237248 我猜吃的代可可脂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1875546481534627846",
+        "created_at": "2025-01-05T05:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T06:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875772849870577844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1420962557897035781",
+              "start": 0,
+              "username": "shrinkviolet77"
+            },
+            {
+              "end": 32,
+              "id": "1847778949272584192",
+              "start": 16,
+              "username": "jingsheng237248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875772849870577844",
+        "in_reply_to_user_id": "1420962557897035781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875610070542905522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shrinkviolet77 @jingsheng237248 我猜吃的代可可脂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420962557897035781",
+        "conversation_id": "1875546481534627846",
+        "created_at": "2025-01-04T18:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T19:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875610070542905522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847778949272584192",
+              "start": 0,
+              "username": "jingsheng237248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875610070542905522",
+        "in_reply_to_user_id": "1847778949272584192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3746,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875546481534627846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingsheng237248 狗吃了巧克力是会中毒的，编故事都不会编"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 818,
+          "like_count": 21538,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 3666
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T04:20:59.000Z",
+        "description": "不辨寒暑，不识春秋，不分虚实，不知死活。\nShe/Her/They/Them | transgender | Demi Lesbian |",
+        "id": "1420962557897035781",
+        "name": "含羞紫罗兰 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760419597789143040/h-TfEGHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 128,
+          "like_count": 31453,
+          "listed_count": 1,
+          "media_count": 420,
+          "tweet_count": 12551
+        },
+        "username": "shrinkviolet77",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T23:17:00.000Z",
+        "description": "觉得梗图有意思的话麻烦给我的YouTube 频道点个订阅求求你了https://t.co/sbQiOktQdW｜电报群https://t.co/hO6v9As72R｜💯回fo小号@xiaobenzhu211",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "xiaobenzhu211"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@naofujiang?si…",
+                "end": 55,
+                "expanded_url": "https://youtube.com/@naofujiang?si=PB1KJBBda1TvehWg",
+                "start": 32,
+                "url": "https://t.co/sbQiOktQdW"
+              },
+              {
+                "display_url": "t.me/+-r03gqqFd_9jN…",
+                "end": 82,
+                "expanded_url": "https://t.me/+-r03gqqFd_9jNmIx",
+                "start": 59,
+                "url": "https://t.co/hO6v9As72R"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/xiaona…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/xiaonaofujiang.bsky.social",
+                "start": 0,
+                "url": "https://t.co/t48ryN9R9j"
+              }
+            ]
+          }
+        },
+        "id": "1847778949272584192",
+        "location": "小号@xiaobenzhu211",
+        "name": "脑斧酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873060612315455488/mf2pvdmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8185,
+          "following_count": 7921,
+          "like_count": 2351,
+          "listed_count": 8,
+          "media_count": 461,
+          "tweet_count": 2815
+        },
+        "url": "https://t.co/t48ryN9R9j",
+        "username": "jingsheng237248",
+        "verified": true
+      }
+    ]
+  }
+}

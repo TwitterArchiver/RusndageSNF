@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2045729616212750824",
+    "created_at": "2026-04-19T06:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T07:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045747370231832869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663075205261201411",
+          "start": 0,
+          "username": "nianyuxiaojia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045747370231832869",
+    "in_reply_to_user_id": "1663075205261201411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045735420198318401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nianyuxiaojia 主要是如果这种默认的秩序和规则会打压一部分群体那就是错误的，不是人多就是对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2045729616212750824",
+        "created_at": "2026-04-19T06:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045747370231832869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663075205261201411",
+              "start": 0,
+              "username": "nianyuxiaojia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045747370231832869",
+        "in_reply_to_user_id": "1663075205261201411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045735420198318401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nianyuxiaojia 主要是如果这种默认的秩序和规则会打压一部分群体那就是错误的，不是人多就是对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663075205261201411",
+        "conversation_id": "2045729616212750824",
+        "created_at": "2026-04-19T05:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045735420198318401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045735420198318401",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045729616212750824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 哎，一个社会一定会有某种默认的秩序和规则，实际上如果良好，大家应该包容与自己不同的存在。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 1093,
+          "like_count": 29709,
+          "listed_count": 7,
+          "media_count": 574,
+          "tweet_count": 5992
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:50:10.000Z",
+        "description": "10，我的粉丝名字是小鱼卵，我喜欢王菲，喜歡畫畫和了解一些感興趣的事。碎碎念，有负面，介意请取。会突然发很多条\n沈阳、株洲、杭州随机出没|\n想拍电影出专辑|\n@DAna_inX\n#鲶鱼推歌\n#鲶鱼回忆录\n#鲶鱼的花草水木",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "鲶鱼推歌"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "鲶鱼回忆录"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "tag": "鲶鱼的花草水木"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "DAna_inX"
+              }
+            ]
+          }
+        },
+        "id": "1663075205261201411",
+        "location": "啊哦",
+        "name": "鲶鱼",
+        "pinned_tweet_id": "1951552634583994530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000188090498027520/lbrzS0Ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 1186,
+          "like_count": 66018,
+          "listed_count": 1,
+          "media_count": 381,
+          "tweet_count": 3058
+        },
+        "username": "nianyuxiaojia",
+        "verified": false
+      }
+    ]
+  }
+}

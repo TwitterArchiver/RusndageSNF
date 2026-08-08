@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062166674086993920"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062166680357507392",
+    "created_at": "2026-06-03T13:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062166680357507392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tpWsIIUG0U",
+          "end": 29,
+          "expanded_url": "https://x.com/RusndageSNF/status/2062166680357507392/photo/1",
+          "media_key": "3_2062166674086993920",
+          "start": 6,
+          "url": "https://t.co/tpWsIIUG0U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062166680357507392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "情绪又崩了 https://t.co/tpWsIIUG0U"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062166680357507392].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062166680357507392",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062166680357507392"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062166674086993920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5JqgyaoAA0u-f.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 1105,
+          "like_count": 30256,
+          "listed_count": 7,
+          "media_count": 583,
+          "tweet_count": 6141
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

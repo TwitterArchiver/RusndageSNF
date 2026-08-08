@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1917254753526173853",
+    "created_at": "2025-04-29T18:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T19:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917278762561069093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1505107083666276352",
+          "start": 0,
+          "username": "XXSHHZ8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917278762561069093",
+    "in_reply_to_user_id": "1505107083666276352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917254753526173853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XXSHHZ8964 我希望你好好的可以吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917254747352166400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpt1CN_bcAApS8Q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1917254753526173853",
+        "created_at": "2025-04-29T18:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T19:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917278762561069093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1505107083666276352",
+              "start": 0,
+              "username": "XXSHHZ8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917278762561069093",
+        "in_reply_to_user_id": "1505107083666276352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917254753526173853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XXSHHZ8964 我希望你好好的可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917254747352166400"
+          ]
+        },
+        "author_id": "1505107083666276352",
+        "conversation_id": "1917254753526173853",
+        "created_at": "2025-04-29T16:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T17:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917254753526173853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7YFYqbhWPR",
+              "end": 31,
+              "expanded_url": "https://x.com/XXSHHZ8964/status/1917254753526173853/photo/1",
+              "media_key": "3_1917254747352166400",
+              "start": 8,
+              "url": "https://t.co/7YFYqbhWPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917254753526173853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这下无处可割了 https://t.co/7YFYqbhWPR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 950,
+          "like_count": 24666,
+          "listed_count": 7,
+          "media_count": 419,
+          "tweet_count": 4476
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T09:01:15.000Z",
+        "description": "沈阳 / 18岁-173cm-60 kg / MTX / 可出原味 / ⚠️推文R18注意⚠️ / 最喜欢的傻子：@puddings00 / 很懒 随缘更推 / 🚪88 / 求求不要给我私信发🐮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "puddings00"
+              }
+            ]
+          }
+        },
+        "id": "1505107083666276352",
+        "location": "🌍",
+        "name": "西行寺 蛤蛤子",
+        "pinned_tweet_id": "1915023612278718538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888685705855168512/G8X1vAmS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 389,
+          "like_count": 2420,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 1229
+        },
+        "username": "XXSHHZ8964",
+        "verified": false
+      }
+    ]
+  }
+}

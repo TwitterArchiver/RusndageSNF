@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1799399500467114134",
+    "created_at": "2024-06-08T19:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T20:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799527303757570497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799527303757570497",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799399500467114134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi 很简单的商战，哇哈哈用阴的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1799399500467114134",
+        "created_at": "2024-06-08T19:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T20:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799527303757570497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799527303757570497",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799399500467114134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi 很简单的商战，哇哈哈用阴的了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1553107630511603712",
+        "conversation_id": "1799399500467114134",
+        "created_at": "2024-06-08T11:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T12:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799399500467114134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiZhenYouZi/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/JiZhenYouZi/status/1799398697459175748",
+              "start": 144,
+              "url": "https://t.co/VcPG43oa8y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799399500467114134",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1080,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799398697459175748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1、农夫山泉“媚日”\n2、娃哈哈被翻出“从未坑过国人”\n3、娃哈哈创始人宗庆后去世\n4、网上突然掀起“抵制农夫山泉，支持娃哈哈”热潮\n\n这么多的事情，突然在同一段时间内发生\n\n然后农夫山泉暴跌，娃哈哈暴涨\n\n农夫山泉与娃哈哈是中国的两个矿泉水市场巨头\n\n我们的网民，真的没有什么想法吗？ https://t.co/VcPG43oa8y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 648,
+          "like_count": 14007,
+          "listed_count": 5,
+          "tweet_count": 2427
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "蜡照半笼金翡翠，麝熏微度绣芙蓉",
+        "id": "1553107630511603712",
+        "name": "日向幸云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799387152691687424/iLUNOVo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 2022,
+          "like_count": 7935,
+          "listed_count": 8,
+          "tweet_count": 7502
+        },
+        "username": "JiZhenYouZi",
+        "verified": false
+      }
+    ]
+  }
+}

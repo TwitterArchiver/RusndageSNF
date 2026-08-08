@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1940360963842306182",
+    "created_at": "2025-07-03T12:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T13:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940752067767013583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767139045774360576",
+          "start": 0,
+          "username": "gu4327053743275"
+        },
+        {
+          "end": 31,
+          "id": "1918920268296359936",
+          "start": 17,
+          "username": "FIREFLY040132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940752067767013583",
+    "in_reply_to_user_id": "1767139045774360576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940750979529687436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu4327053743275 @FIREFLY040132 不撕袋就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1940360963842306182",
+        "created_at": "2025-07-03T12:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940752067767013583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767139045774360576",
+              "start": 0,
+              "username": "gu4327053743275"
+            },
+            {
+              "end": 31,
+              "id": "1918920268296359936",
+              "start": 17,
+              "username": "FIREFLY040132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940752067767013583",
+        "in_reply_to_user_id": "1767139045774360576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940750979529687436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu4327053743275 @FIREFLY040132 不撕袋就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767139045774360576",
+        "conversation_id": "1940360963842306182",
+        "created_at": "2025-07-03T12:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940750979529687436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 27,
+              "id": "1918920268296359936",
+              "start": 13,
+              "username": "FIREFLY040132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940750979529687436",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940748521038352564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @FIREFLY040132 会有毛刺的吧，不能乱来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 987,
+          "like_count": 26140,
+          "listed_count": 8,
+          "media_count": 449,
+          "tweet_count": 4902
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T10:42:45.000Z",
+        "description": "别苦着脸了，来喝一杯吧",
+        "id": "1767139045774360576",
+        "name": "绝缘栅双极晶体管",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881611531432992768/ePUo-KIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 225,
+          "like_count": 19825,
+          "listed_count": 2,
+          "media_count": 609,
+          "tweet_count": 14050
+        },
+        "username": "gu4327053743275",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T06:47:07.000Z",
+        "description": "15岁没出息小废物，断粮断药，没钱没玩具没衣服，三无产品，求收留",
+        "id": "1918920268296359936",
+        "name": "FIREFLY🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921224896283025408/Ug-tyeGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 183,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 127
+        },
+        "username": "FIREFLY040132",
+        "verified": false
+      }
+    ]
+  }
+}

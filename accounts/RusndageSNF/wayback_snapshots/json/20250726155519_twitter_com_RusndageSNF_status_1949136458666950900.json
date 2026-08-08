@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1948548566118793582",
+    "created_at": "2025-07-26T15:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T16:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949136458666950900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1249525383797456898",
+          "start": 0,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949136458666950900",
+    "in_reply_to_user_id": "1249525383797456898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948548566118793582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jakobsonradical 这不是苹果特色吗，国内苹果店也这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948548550515953664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwqilTUbEAABRYM.jpg",
+        "width": 1099
+      },
+      {
+        "height": 2127,
+        "media_key": "3_1948548550268452864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwqilSZagAAqJNj.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1845,
+        "media_key": "3_1948548550318850049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwqilSlbgAECaJP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1948548566118793582",
+        "created_at": "2025-07-26T15:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949136458666950900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949136458666950900",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948548566118793582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 这不是苹果特色吗，国内苹果店也这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948548550515953664",
+            "3_1948548550268452864",
+            "3_1948548550318850049"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1948548566118793582",
+        "created_at": "2025-07-25T00:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T01:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948548566118793582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vB2V0ewUew",
+              "end": 44,
+              "expanded_url": "https://x.com/jakobsonradical/status/1948548566118793582/photo/1",
+              "media_key": "3_1948548550515953664",
+              "start": 21,
+              "url": "https://t.co/vB2V0ewUew"
+            },
+            {
+              "display_url": "pic.x.com/vB2V0ewUew",
+              "end": 44,
+              "expanded_url": "https://x.com/jakobsonradical/status/1948548566118793582/photo/1",
+              "media_key": "3_1948548550268452864",
+              "start": 21,
+              "url": "https://t.co/vB2V0ewUew"
+            },
+            {
+              "display_url": "pic.x.com/vB2V0ewUew",
+              "end": 44,
+              "expanded_url": "https://x.com/jakobsonradical/status/1948548566118793582/photo/1",
+              "media_key": "3_1948548550318850049",
+              "start": 21,
+              "url": "https://t.co/vB2V0ewUew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948548566118793582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 425943,
+          "like_count": 1247,
+          "quote_count": 6,
+          "reply_count": 99,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "网友分享：日本的苹果店，令人感动的一幕。 https://t.co/vB2V0ewUew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 1012,
+          "like_count": 26774,
+          "listed_count": 7,
+          "media_count": 463,
+          "tweet_count": 5090
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244040,
+          "following_count": 1472,
+          "like_count": 41391,
+          "listed_count": 981,
+          "media_count": 18896,
+          "tweet_count": 26084
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

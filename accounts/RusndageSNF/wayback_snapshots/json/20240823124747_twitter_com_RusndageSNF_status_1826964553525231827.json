@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1826961874573049864",
+    "created_at": "2024-08-23T12:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T13:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826964553525231827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360832451476480002",
+          "start": 0,
+          "username": "Nancynanqian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826964553525231827",
+    "in_reply_to_user_id": "1360832451476480002",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826961874573049864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nancynanqian 这个尾号办宽带必选了属于是（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1826961874573049864",
+        "created_at": "2024-08-23T12:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T13:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826964553525231827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360832451476480002",
+              "start": 0,
+              "username": "Nancynanqian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826964553525231827",
+        "in_reply_to_user_id": "1360832451476480002",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826961874573049864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nancynanqian 这个尾号办宽带必选了属于是（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826961867329458176"
+          ]
+        },
+        "author_id": "1360832451476480002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1826961874573049864",
+        "created_at": "2024-08-23T12:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T13:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826961874573049864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i0da71x2td",
+              "end": 138,
+              "expanded_url": "https://twitter.com/Nancynanqian/status/1826961874573049864/photo/1",
+              "media_key": "3_1826961867329458176",
+              "start": 115,
+              "url": "https://t.co/I0dA71x2TD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826961874573049864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "办宽带，因为没有本地自己实名的电话号码需要办一张，选电话号码刷新出一个1337xxx8964的极品电话号码，选了之后告诉我我未满19办不了？说是7月新规，有点搞不懂也没办下来，希望有机会把这个电话号码搞过来（照片是这几天吃的食堂 https://t.co/I0dA71x2TD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 678,
+          "like_count": 15953,
+          "listed_count": 5,
+          "tweet_count": 2730
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T06:05:24.000Z",
+        "description": "重抑重焦躁郁人/持证含糖🏳️‍⚧️HRT23.6.28/infp/csHvH/",
+        "id": "1360832451476480002",
+        "name": "Nancy囡茜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694317538497499136/P12E5--0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 44,
+          "like_count": 50,
+          "listed_count": 0,
+          "tweet_count": 200
+        },
+        "username": "Nancynanqian",
+        "verified": false
+      }
+    ]
+  }
+}

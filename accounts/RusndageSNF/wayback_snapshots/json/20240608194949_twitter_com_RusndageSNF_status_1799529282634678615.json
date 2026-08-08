@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1799271854513033619",
+    "created_at": "2024-06-08T19:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T20:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799529282634678615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1707388481167925248",
+          "start": 0,
+          "username": "LovedomSs"
+        },
+        {
+          "end": 27,
+          "id": "1644328501980561409",
+          "start": 11,
+          "username": "LitangHospital2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799529282634678615",
+    "in_reply_to_user_id": "1707388481167925248",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799284573081378974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovedomSs @LitangHospital2 EA年货奔着500去了，268真不贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1799271854513033619",
+        "created_at": "2024-06-08T19:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T20:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799529282634678615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1707388481167925248",
+              "start": 0,
+              "username": "LovedomSs"
+            },
+            {
+              "end": 27,
+              "id": "1644328501980561409",
+              "start": 11,
+              "username": "LitangHospital2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799529282634678615",
+        "in_reply_to_user_id": "1707388481167925248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799284573081378974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovedomSs @LitangHospital2 EA年货奔着500去了，268真不贵"
+      },
+      {
+        "attachments": {},
+        "author_id": "1707388481167925248",
+        "conversation_id": "1799271854513033619",
+        "created_at": "2024-06-08T03:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T04:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799284573081378974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644328501980561409",
+              "start": 0,
+              "username": "LitangHospital2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799284573081378974",
+        "in_reply_to_user_id": "1644328501980561409",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1733,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799271854513033619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitangHospital2 他怎么敢卖这么贵的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 648,
+          "like_count": 14007,
+          "listed_count": 5,
+          "tweet_count": 2428
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T13:35:26.000Z",
+        "description": "有点bt",
+        "id": "1707388481167925248",
+        "name": "芒芒生打椰🥥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799247145662660608/F5PQEkuH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 361,
+          "like_count": 3927,
+          "listed_count": 0,
+          "tweet_count": 319
+        },
+        "username": "LovedomSs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:17:27.000Z",
+        "description": "经典回归",
+        "id": "1644328501980561409",
+        "location": "理塘",
+        "name": "丁医生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798011104209334273/XTsGHgjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10842,
+          "following_count": 2687,
+          "like_count": 33738,
+          "listed_count": 38,
+          "tweet_count": 8429
+        },
+        "username": "LitangHospital2",
+        "verified": false
+      }
+    ]
+  }
+}

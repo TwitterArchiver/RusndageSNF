@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1989896586076246069",
+    "created_at": "2025-11-16T03:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T04:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989896586076246069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844926832967286785",
+          "start": 3,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989896586076246069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989547030352404596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orisam123: 一想到很多跨妹在成长过程中缺乏一个提供指导和陪伴的同性角色(比如母亲或者姐姐)导致性格上出现缺陷以及开始作为女性的生活后时不时茫然无措也不注意自我保护\n就感觉很心酸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1989896586076246069",
+        "created_at": "2025-11-16T03:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989896586076246069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 3,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989896586076246069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989547030352404596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orisam123: 一想到很多跨妹在成长过程中缺乏一个提供指导和陪伴的同性角色(比如母亲或者姐姐)导致性格上出现缺陷以及开始作为女性的生活后时不时茫然无措也不注意自我保护\n就感觉很心酸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "1989547030352404596",
+        "created_at": "2025-11-15T04:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T05:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989547030352404596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989547030352404596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14116,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "一想到很多跨妹在成长过程中缺乏一个提供指导和陪伴的同性角色(比如母亲或者姐姐)导致性格上出现缺陷以及开始作为女性的生活后时不时茫然无措也不注意自我保护\n就感觉很心酸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 1046,
+          "like_count": 28017,
+          "listed_count": 7,
+          "media_count": 529,
+          "tweet_count": 5533
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/yTt9lE6zaK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+keUB4EQpayswN…",
+                "end": 90,
+                "expanded_url": "https://t.me/+keUB4EQpayswNThl",
+                "start": 67,
+                "url": "https://t.co/yTt9lE6zaK"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "新京",
+        "name": "折筱orisam🏳️‍⚧️（少女秃头中）",
+        "pinned_tweet_id": "1988295470788341843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2925,
+          "following_count": 1262,
+          "like_count": 55935,
+          "listed_count": 3,
+          "media_count": 769,
+          "tweet_count": 15229
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2041437109425439070",
+    "created_at": "2026-04-07T12:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041489927830188071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1945662305234206720",
+          "start": 0,
+          "username": "AoiLunaStar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041489927830188071",
+    "in_reply_to_user_id": "1945662305234206720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041489191171965044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AoiLunaStar 这么大规模不可能是反跨举报的，只可能是大手发力了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2041437109425439070",
+        "created_at": "2026-04-07T12:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041489927830188071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1945662305234206720",
+              "start": 0,
+              "username": "AoiLunaStar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041489927830188071",
+        "in_reply_to_user_id": "1945662305234206720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041489191171965044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AoiLunaStar 这么大规模不可能是反跨举报的，只可能是大手发力了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945662305234206720",
+        "conversation_id": "2041437109425439070",
+        "created_at": "2026-04-07T12:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041489191171965044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041489191171965044",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041437109425439070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF QQ封药娘群封的最多，我感觉是有反跨恶意举报的，Telegram上面开群从来都不会被封"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 1089,
+          "like_count": 29708,
+          "listed_count": 4,
+          "media_count": 571,
+          "tweet_count": 5960
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T01:50:31.000Z",
+        "description": "09/2/20，喜欢玩抽象和胡言乱语，还有发癫，水平和智商很低，小学生的水平和能力，专业研究LGPTQ群体，喜欢和大家聊天和关注一些新闻，推特经常更新，我本人不参与讨论任何政治话题和内容\n（QQ：3315304485）\n（联系猫猫本人推荐添加主页的QQ号哦，推特的私信不经常看）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AoiLunaStar",
+                "end": 23,
+                "expanded_url": "http://t.me/AoiLunaStar",
+                "start": 0,
+                "url": "https://t.co/ATIOWWS5X1"
+              }
+            ]
+          }
+        },
+        "id": "1945662305234206720",
+        "location": "地球🌍",
+        "name": "疏影横窗晚风香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041487559986130945/P3NhvXfS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 1614,
+          "like_count": 1341,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/ATIOWWS5X1",
+        "username": "AoiLunaStar",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1943621107682353616",
+    "created_at": "2025-07-11T14:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T15:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943677592378491288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "895821776629792772",
+          "start": 0,
+          "username": "kkhahhaa"
+        },
+        {
+          "end": 21,
+          "id": "791197",
+          "start": 10,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943677592378491288",
+    "in_reply_to_user_id": "895821776629792772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943621750413234339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkhahhaa @bbcchinese 你可以不买，没强制要求你买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1943621107682353616",
+        "created_at": "2025-07-11T14:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T15:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943677592378491288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "895821776629792772",
+              "start": 0,
+              "username": "kkhahhaa"
+            },
+            {
+              "end": 21,
+              "id": "791197",
+              "start": 10,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943677592378491288",
+        "in_reply_to_user_id": "895821776629792772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943621750413234339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkhahhaa @bbcchinese 你可以不买，没强制要求你买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "895821776629792772",
+        "conversation_id": "1943621107682353616",
+        "created_at": "2025-07-11T10:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T11:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943621750413234339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943621750413234339",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3239,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943621107682353616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 什么脑瘫DEI文化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 999,
+          "like_count": 26435,
+          "listed_count": 8,
+          "media_count": 457,
+          "tweet_count": 5001
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-11T01:38:49.000Z",
+        "description": "#YOLO 🤡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "YOLO"
+              }
+            ]
+          }
+        },
+        "id": "895821776629792772",
+        "location": "Singapore",
+        "name": "Jooooo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522639188134621185/xpiYROkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 357,
+          "like_count": 726,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 140
+        },
+        "username": "kkhahhaa",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5015960,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11779,
+          "media_count": 23566,
+          "tweet_count": 153138
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

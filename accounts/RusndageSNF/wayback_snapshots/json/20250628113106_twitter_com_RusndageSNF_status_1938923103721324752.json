@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1938264481978884262",
+    "created_at": "2025-06-28T11:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T12:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938923103721324752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1136040115657199617",
+          "start": 0,
+          "username": "mekesuuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938923103721324752",
+    "in_reply_to_user_id": "1136040115657199617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938264481978884262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mekesuuu 她是个傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1938264481978884262",
+        "created_at": "2025-06-28T11:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T12:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938923103721324752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1136040115657199617",
+              "start": 0,
+              "username": "mekesuuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938923103721324752",
+        "in_reply_to_user_id": "1136040115657199617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938264481978884262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mekesuuu 她是个傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1136040115657199617",
+        "conversation_id": "1938264481978884262",
+        "created_at": "2025-06-26T15:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938264481978884262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938264481978884262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 25004,
+          "like_count": 235,
+          "quote_count": 10,
+          "reply_count": 20,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "最近在重温哈利·波特，又刷了一遍罗琳在哈佛的演讲。她有一句话印象深刻：大学毕业之后，父母对你的影响差不多就“到期”了。从那一刻起，你的人生，无论是贫穷、低谷，还是挣扎，都已经不能再归咎于原生家庭了。\n\n也想对那些推上一味抱怨原生家庭的人说一句：可以了，够了，是时候往前走了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 986,
+          "like_count": 25943,
+          "listed_count": 8,
+          "media_count": 446,
+          "tweet_count": 4844
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-04T22:40:44.000Z",
+        "description": "一个普通人的视角，看大陆，看欧盟，看美国！ ps:黑老共可以，黑中国人不行！",
+        "id": "1136040115657199617",
+        "location": "a small island",
+        "name": "Make Su",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667172410683019266/q-6Jr5ya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 539,
+          "like_count": 3374,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2318
+        },
+        "username": "mekesuuu",
+        "verified": false
+      }
+    ]
+  }
+}

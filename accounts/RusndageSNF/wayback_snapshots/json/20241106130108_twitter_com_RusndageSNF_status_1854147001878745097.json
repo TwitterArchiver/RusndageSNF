@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1854089886791581826",
+    "created_at": "2024-11-06T13:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T14:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854147001878745097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545787268501106688",
+          "start": 0,
+          "username": "zzzChumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854147001878745097",
+    "in_reply_to_user_id": "1545787268501106688",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854144488161337722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzChumo 蹭蹭我也想玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1854089886791581826",
+        "created_at": "2024-11-06T13:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T14:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854147001878745097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545787268501106688",
+              "start": 0,
+              "username": "zzzChumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854147001878745097",
+        "in_reply_to_user_id": "1545787268501106688",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854144488161337722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzChumo 蹭蹭我也想玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545787268501106688",
+        "conversation_id": "1854089886791581826",
+        "created_at": "2024-11-06T12:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T13:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854144488161337722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854144488161337722",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854143135070253204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 爹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 739,
+          "like_count": 18625,
+          "listed_count": 4,
+          "tweet_count": 3210
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T15:09:53.000Z",
+        "description": "有双相会发癫/中 Eng/版权头图非请勿用/术术人/第三个号/前两个已经打赢复活赛了但是不想用/情商为0不会说话/智商为0放弃思考/刷机佬/热衷于收集各种电子垃圾/四分之一个技术宅/错字受/沉迷刷推无法自拔/这个人懒死了，什么都没写 (⁠°∀⁠。)（？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzcm.fun",
+                "end": 23,
+                "expanded_url": "http://zzcm.fun",
+                "start": 0,
+                "url": "https://t.co/W0n01joHsj"
+              }
+            ]
+          }
+        },
+        "id": "1545787268501106688",
+        "location": "正在家里蹲着",
+        "name": "初墨",
+        "pinned_tweet_id": "1839826255522488660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545787816457564160/zAiXJmcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 410,
+          "like_count": 37703,
+          "listed_count": 1,
+          "tweet_count": 1489
+        },
+        "url": "https://t.co/W0n01joHsj",
+        "username": "zzzChumo",
+        "verified": true
+      }
+    ]
+  }
+}

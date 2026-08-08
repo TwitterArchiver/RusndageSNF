@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1866194963043844399",
+    "created_at": "2024-12-11T03:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T04:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866685547269460133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1710391034302337024",
+          "start": 0,
+          "username": "AypashaYomoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866685547269460133",
+    "in_reply_to_user_id": "1710391034302337024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866194963043844399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AypashaYomoda 支持正义开盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1866194963043844399",
+        "created_at": "2024-12-11T03:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T04:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866685547269460133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1710391034302337024",
+              "start": 0,
+              "username": "AypashaYomoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866685547269460133",
+        "in_reply_to_user_id": "1710391034302337024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866194963043844399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AypashaYomoda 支持正义开盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710391034302337024",
+        "conversation_id": "1866194963043844399",
+        "created_at": "2024-12-09T18:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T19:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866194963043844399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Misaka1042/sta…",
+              "end": 210,
+              "expanded_url": "https://twitter.com/Misaka1042/status/1866102619422490677",
+              "start": 187,
+              "url": "https://t.co/RlU0n2xNz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866194963043844399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 12705,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866102619422490677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于华中科技大学相关信息的公示\n尤政，1963.12.2-，户籍地址：湖北省武汉市武昌区，身份证号码：**************5290，相关地址：北京市海淀区蓝旗营2楼1302号，相关号码：*3601241090、*3992911122\n邬堂春，1965.7.25-，户籍地址：省市同上硚口区，身份证号码：**********1615，相关号码：*8768830574 https://t.co/RlU0n2xNz5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 760,
+          "like_count": 20276,
+          "listed_count": 4,
+          "media_count": 319,
+          "tweet_count": 3415
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T20:26:30.000Z",
+        "description": "珠江酷儿联谊 Chinese Queer Canton\n佛狸祠主、the Vixenkami、人的Aypasha\n降生并成长为现在的样子、永远期待着与大家的重逢。只知道侍奉的佛狸祠主，究竟能给大家什么程度的新的祝福呢？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+_1aam6lCGB80M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+_1aam6lCGB80M2I1",
+                "start": 0,
+                "url": "https://t.co/DHnFSbuVlw"
+              }
+            ]
+          }
+        },
+        "id": "1710391034302337024",
+        "location": "？？？",
+        "name": "Aypasha bint Dan 阿依帕夏 “帕夏肯定早死了”",
+        "pinned_tweet_id": "1857196871212728756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821927369189306368/CixxvOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 418,
+          "like_count": 283,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2230
+        },
+        "url": "https://t.co/DHnFSbuVlw",
+        "username": "AypashaYomoda",
+        "verified": false
+      }
+    ]
+  }
+}

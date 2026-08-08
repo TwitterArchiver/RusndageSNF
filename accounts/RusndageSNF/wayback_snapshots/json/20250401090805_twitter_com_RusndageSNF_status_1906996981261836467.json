@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1906996115880493060",
+    "created_at": "2025-04-01T09:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T10:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906996981261836467"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "steam",
+          "probability": 0.8817,
+          "start": 23,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1310377675265986560",
+          "start": 0,
+          "username": "FGLeaksAndInfo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906996981261836467",
+    "in_reply_to_user_id": "1310377675265986560",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906996115880493060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FGLeaksAndInfo not on steam"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1906996115880493060",
+        "created_at": "2025-04-01T09:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T10:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906996981261836467"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "steam",
+              "probability": 0.8817,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1310377675265986560",
+              "start": 0,
+              "username": "FGLeaksAndInfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906996981261836467",
+        "in_reply_to_user_id": "1310377675265986560",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906996115880493060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FGLeaksAndInfo not on steam"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1310377675265986560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292818086488203264",
+              "name": "Fall Guys"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292818086488203264",
+              "name": "Fall Guys"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899973419499548",
+              "name": "Battle royale games"
+            }
+          }
+        ],
+        "conversation_id": "1906996115880493060",
+        "created_at": "2025-04-01T09:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T10:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906996115880493060"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "v18.0.0",
+              "probability": 0.5814,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "FallGuys",
+              "probability": 0.8689,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 44,
+              "tag": "FallGuys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906996115880493060",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 301,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "v18.0.0 has released across all platforms!\n\n#FallGuys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️/ADHD+ASD\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 919,
+          "like_count": 23824,
+          "listed_count": 6,
+          "media_count": 405,
+          "tweet_count": 4290
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-28T00:36:07.000Z",
+        "description": "📰 Keeping you updated with the latest #FallGuys news, leaks, and more!\n📨 Contact: fnleaksandinfo@gmail.com\n🚨 Join the Discord to stay up-to-date!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 38,
+                "tag": "FallGuys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/YKK9B9R",
+                "end": 23,
+                "expanded_url": "http://discord.gg/YKK9B9R",
+                "start": 0,
+                "url": "https://t.co/VxLdUfAS11"
+              }
+            ]
+          }
+        },
+        "id": "1310377675265986560",
+        "location": "fallguys-db.pages.dev",
+        "name": "Bean Bot - Fall Guys Leaks",
+        "pinned_tweet_id": "1886729093082964179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824418140459307008/9nXmEK19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21204,
+          "following_count": 139,
+          "like_count": 1027,
+          "listed_count": 102,
+          "media_count": 1537,
+          "tweet_count": 3363
+        },
+        "url": "https://t.co/VxLdUfAS11",
+        "username": "FGLeaksAndInfo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1834563677510574192",
+    "created_at": "2024-09-13T12:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T13:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834568624616419508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834568624616419508",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834563677510574192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ 主要是大部分男孩子应该不会愿意花7-8w去提前八年退休，而且还把自己jb嘎了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1834563677510574192",
+        "created_at": "2024-09-13T12:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T13:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834568624616419508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834568624616419508",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834563677510574192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 主要是大部分男孩子应该不会愿意花7-8w去提前八年退休，而且还把自己jb嘎了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243945571796295681",
+        "conversation_id": "1834563677510574192",
+        "created_at": "2024-09-13T12:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T13:02:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834563190316794183",
+          "1834563677510574192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834563677510574192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "发现了一个盲点\n生理男如果SRS改证 可以提前八年退休\n\nMtF利好政策🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 697,
+          "like_count": 16837,
+          "listed_count": 5,
+          "tweet_count": 2825
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "铨｜我家大人❤️@520Uki｜天残党MtX🏳️‍⚧️｜日常：@RU9SH|日本語：@ryq59|互fo请DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "520Uki"
+              },
+              {
+                "end": 37,
+                "start": 31,
+                "username": "RU9SH"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "username": "ryq59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "TPCO6号门",
+        "name": "𝓠𝓾𝓪𝓷. ᡣ𐭩",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10543,
+          "following_count": 3889,
+          "like_count": 151872,
+          "listed_count": 47,
+          "tweet_count": 16739
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

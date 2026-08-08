@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1802694545249095791",
+    "created_at": "2024-06-17T15:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T16:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802730571480879111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "Switzerland8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802730571480879111",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802694545249095791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Switzerland8964 沙壁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1802694545249095791",
+        "created_at": "2024-06-17T15:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T16:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802730571480879111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "Switzerland8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802730571480879111",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802694545249095791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Switzerland8964 沙壁"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802694541046411264"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "conversation_id": "1802694545249095791",
+        "created_at": "2024-06-17T13:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T14:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802694545249095791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Twp083CP1W",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Switzerland8964/status/1802694545249095791/photo/1",
+              "media_key": "3_1802694541046411264",
+              "start": 0,
+              "url": "https://t.co/Twp083CP1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802694545249095791",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3405,
+          "like_count": 91,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Twp083CP1W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 656,
+          "like_count": 14118,
+          "listed_count": 5,
+          "tweet_count": 2473
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "网上诋毁俄罗斯的人你的脑子是出故障了还是被驴踢了不懂就别乱叫俄罗斯为正义而战坚决支持同胞们俄罗斯如果这次输了后果不堪设想下一次西方很可能又同样的办法来对付我们俄罗斯绝对不能倒下希望天下有正义感的人都站出来为俄罗斯加油打气打倒西方霸权主义正义必胜！",
+        "id": "1680834021377593344",
+        "location": "瑞土",
+        "name": "维为聊瑞土🇨🇭🇨🇳",
+        "pinned_tweet_id": "1802022740146200813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799763745171746816/qA15pZDE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 893,
+          "like_count": 18406,
+          "listed_count": 7,
+          "tweet_count": 7103
+        },
+        "username": "Switzerland8964",
+        "verified": false
+      }
+    ]
+  }
+}

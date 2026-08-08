@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1794359231648612678",
+    "created_at": "2024-05-25T13:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T14:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794359231648612678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1732001776944185344",
+          "start": 3,
+          "username": "interdosegir1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794359231648612678",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793928446428803572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @interdosegir1: 搞一点抽奖，我也是没活了，转关评，6.1开\n一等奖，右美沙芬六盒不折现\n二等奖，右美沙芬四盒不折现\n三等奖，拼手气红包随机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1794359231648612678",
+        "created_at": "2024-05-25T13:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T14:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794359231648612678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1732001776944185344",
+              "start": 3,
+              "username": "interdosegir1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794359231648612678",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793928446428803572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @interdosegir1: 搞一点抽奖，我也是没活了，转关评，6.1开\n一等奖，右美沙芬六盒不折现\n二等奖，右美沙芬四盒不折现\n三等奖，拼手气红包随机"
+      },
+      {
+        "attachments": {},
+        "author_id": "1732001776944185344",
+        "conversation_id": "1793928446428803572",
+        "created_at": "2024-05-24T08:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T09:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793928446428803572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793928446428803572",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20593,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 97,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "搞一点抽奖，我也是没活了，转关评，6.1开\n一等奖，右美沙芬六盒不折现\n二等奖，右美沙芬四盒不折现\n三等奖，拼手气红包随机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 647,
+          "like_count": 13504,
+          "listed_count": 5,
+          "tweet_count": 2321
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T11:39:48.000Z",
+        "description": "而我要做后现代的爱神。门槛188，520，1314",
+        "id": "1732001776944185344",
+        "name": "人青",
+        "pinned_tweet_id": "1776763983036551386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766119503329648640/UhDQH6kC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3708,
+          "following_count": 59,
+          "like_count": 28,
+          "listed_count": 15,
+          "tweet_count": 275
+        },
+        "username": "interdosegir1",
+        "verified": false
+      }
+    ]
+  }
+}

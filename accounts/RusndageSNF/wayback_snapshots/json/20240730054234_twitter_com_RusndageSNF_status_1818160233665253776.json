@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1817814578845393155",
+    "created_at": "2024-07-30T05:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T06:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818160233665253776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1742030700273135616",
+          "start": 0,
+          "username": "A6oser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818160233665253776",
+    "in_reply_to_user_id": "1742030700273135616",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817814578845393155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A6oser 我也是这样的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1817814578845393155",
+        "created_at": "2024-07-30T05:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T06:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818160233665253776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1742030700273135616",
+              "start": 0,
+              "username": "A6oser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818160233665253776",
+        "in_reply_to_user_id": "1742030700273135616",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817814578845393155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A6oser 我也是这样的（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817814567822802944"
+          ]
+        },
+        "author_id": "1742030700273135616",
+        "conversation_id": "1817814578845393155",
+        "created_at": "2024-07-29T06:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-29T07:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817814578845393155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Fh06WLGKTi",
+              "end": 23,
+              "expanded_url": "https://twitter.com/A6oser/status/1817814578845393155/photo/1",
+              "media_key": "3_1817814567822802944",
+              "start": 0,
+              "url": "https://t.co/Fh06WLGKTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817814578845393155",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 27450,
+          "like_count": 438,
+          "quote_count": 6,
+          "reply_count": 37,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Fh06WLGKTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 674,
+          "like_count": 15173,
+          "listed_count": 5,
+          "tweet_count": 2645
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T03:51:19.000Z",
+        "description": "我怎么不能关注我自己🤔@Aooooooser",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "Aooooooser"
+              }
+            ]
+          }
+        },
+        "id": "1742030700273135616",
+        "location": "Tesla Model Y 2022",
+        "name": "Aooooooser",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807054326000758784/F-nNa7Ac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 390,
+          "like_count": 7380,
+          "listed_count": 0,
+          "tweet_count": 1883
+        },
+        "username": "A6oser",
+        "verified": false
+      }
+    ]
+  }
+}

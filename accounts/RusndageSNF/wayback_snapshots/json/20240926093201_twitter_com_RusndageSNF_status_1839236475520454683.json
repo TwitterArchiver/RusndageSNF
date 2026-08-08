@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1839223821930475972",
+    "created_at": "2024-09-26T09:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T10:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839236475520454683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683441735144439808",
+          "start": 0,
+          "username": "Allenium114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839236475520454683",
+    "in_reply_to_user_id": "1683441735144439808",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839223821930475972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenium114 不是说好不剪头发吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1839223821930475972",
+        "created_at": "2024-09-26T09:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T10:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839236475520454683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683441735144439808",
+              "start": 0,
+              "username": "Allenium114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839236475520454683",
+        "in_reply_to_user_id": "1683441735144439808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839223821930475972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenium114 不是说好不剪头发吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683441735144439808",
+        "conversation_id": "1839223821930475972",
+        "created_at": "2024-09-26T08:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T09:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839223821930475972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839223821930475972",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被拉去剪头发了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️，暂时和 @MuFengkana 住在一起\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 712,
+          "like_count": 17349,
+          "listed_count": 5,
+          "tweet_count": 2948
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥HRT2024.4.20|ADHD:专注达ing | 半出柜半家长党| 小证 2024.8.5|178cm 57kg | Apex🎮纯净手柄♿️线性 41bug3.4 使用者♿️| 麻麻@xue_zhi2008 笨蛋@charge_rif|🇵🇸|逃生舱@kagurazaka_Lynn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 103,
+                "username": "xue_zhi2008"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "charge_rif"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "kagurazaka_Lynn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "重庆 渝北",
+        "name": ".翎🍥（坠楼版）",
+        "pinned_tweet_id": "1832469146862547048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835424345394749440/t5JDVHut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 926,
+          "like_count": 43420,
+          "listed_count": 8,
+          "tweet_count": 9902
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

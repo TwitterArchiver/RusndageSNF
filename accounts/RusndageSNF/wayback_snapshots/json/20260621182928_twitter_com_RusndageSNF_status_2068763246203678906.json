@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1116767629572591616",
+          "name": "Intel Extreme Masters (IEM)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291094662682271744",
+          "name": "Gaming events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2068763246203678906",
+    "created_at": "2026-06-21T18:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068763246203678906"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "IEM"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1329463960194723847",
+          "start": 3,
+          "username": "FalconsEsport"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068763246203678906",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1231
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068757298810396686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FalconsEsport: WE ARE YOUR #IEM COLOGNE MAJOR CHAMPIONS \n\nكـتـبـنا الـتـاريـخ ! 🏆💚 — فالكونز أبـطـال ميجر كولون للعبة كاونتر سترايك 🦅…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2068756408577748993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWy_iwW8AEAMaQ.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1116767629572591616",
+              "name": "Intel Extreme Masters (IEM)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2068763246203678906",
+        "created_at": "2026-06-21T18:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068763246203678906"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "IEM"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1329463960194723847",
+              "start": 3,
+              "username": "FalconsEsport"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068763246203678906",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1231
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068757298810396686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FalconsEsport: WE ARE YOUR #IEM COLOGNE MAJOR CHAMPIONS \n\nكـتـبـنا الـتـاريـخ ! 🏆💚 — فالكونز أبـطـال ميجر كولون للعبة كاونتر سترايك 🦅…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068756408577748993"
+          ]
+        },
+        "author_id": "1329463960194723847",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1116767629572591616",
+              "name": "Intel Extreme Masters (IEM)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2068757298810396686",
+        "created_at": "2026-06-21T18:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068757298810396686"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "IEM"
+            },
+            {
+              "end": 135,
+              "start": 120,
+              "tag": "FalconsAreHere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jRgyO33LFo",
+              "end": 159,
+              "expanded_url": "https://x.com/FalconsEsport/status/2068757298810396686/photo/1",
+              "media_key": "3_2068756408577748993",
+              "start": 136,
+              "url": "https://t.co/jRgyO33LFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068757298810396686",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 171273,
+          "like_count": 5609,
+          "quote_count": 393,
+          "reply_count": 833,
+          "retweet_count": 1231
+        },
+        "reply_settings": "everyone",
+        "text": "WE ARE YOUR #IEM COLOGNE MAJOR CHAMPIONS \n\nكـتـبـنا الـتـاريـخ ! 🏆💚 — فالكونز أبـطـال ميجر كولون للعبة كاونتر سترايك 🦅\n\n#FalconsAreHere https://t.co/jRgyO33LFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 1110,
+          "like_count": 30594,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 6178
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T16:38:19.000Z",
+        "description": "2x Esports World Cup Champions 🏆 | Your No.1 Spot for everything Falcons Esports. @TeamFalconsGG @Riyadh_Falcons Sponsored by @NEO_SA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "TeamFalconsGG"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "Riyadh_Falcons"
+              },
+              {
+                "end": 133,
+                "start": 126,
+                "username": "NEO_SA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TeamFalcons.sa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TeamFalcons.sa",
+                "start": 0,
+                "url": "https://t.co/YOLdnFAgTk"
+              }
+            ]
+          }
+        },
+        "id": "1329463960194723847",
+        "name": "Falcons Esports",
+        "pinned_tweet_id": "2068016233555911037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068757327826624513/ZNPnhs-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271031,
+          "following_count": 299,
+          "like_count": 3531,
+          "listed_count": 139,
+          "media_count": 11434,
+          "tweet_count": 15958
+        },
+        "url": "https://t.co/YOLdnFAgTk",
+        "username": "FalconsEsport",
+        "verified": true
+      }
+    ]
+  }
+}

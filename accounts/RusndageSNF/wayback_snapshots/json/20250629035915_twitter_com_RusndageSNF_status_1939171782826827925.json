@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1939148328891019357",
+    "created_at": "2025-06-29T03:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T04:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939171782826827925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760890372585037824",
+          "start": 0,
+          "username": "puddings00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939171782826827925",
+    "in_reply_to_user_id": "1760890372585037824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939148328891019357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puddings00 他自己本身也没处理好，也是一个原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1939148328891019357",
+        "created_at": "2025-06-29T03:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T04:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939171782826827925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760890372585037824",
+              "start": 0,
+              "username": "puddings00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939171782826827925",
+        "in_reply_to_user_id": "1760890372585037824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939148328891019357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puddings00 他自己本身也没处理好，也是一个原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760890372585037824",
+        "conversation_id": "1939148328891019357",
+        "created_at": "2025-06-29T02:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T03:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939148328891019357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhngkitng5/sta…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/zhngkitng5/status/1939002891064484268",
+              "start": 132,
+              "url": "https://t.co/mTU5Ejce9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939148328891019357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939002891064484268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "差点当上辽宁跨群群主🐢\n我没要（才不是没当上 哼🥺\n不得不说三尺这两年确实累\n好不容易凑了100多个人\n结果时不时群里面大吵小吵的\n跨之间的共同点也就只有跨了\n性格爱好观念什么的都不一样\n硬是聚在一起不可避免的争执\n本来他平时压力就大\n还是以学业和身心状态为重吧 https://t.co/mTU5Ejce9g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 987,
+          "like_count": 25978,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 4857
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "希望你可以喜欢我哦🍬/zh-CN&en-US/Lesbian/可爱的mtf一只~🏳️‍⚧️/she or her🩷/158cm＆40kg/HRT•8.30.23🍥/infp-t/喜欢贴贴🌟/不玩游戏/🚪128/🏳️‍⚧️同类互fo喵/最爱的笨蛋老公:@XXSHHZ8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "XXSHHZ8964"
+              }
+            ]
+          }
+        },
+        "id": "1760890372585037824",
+        "location": "Hong Kong",
+        "name": "布丁喵呜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1912727183027564721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760890511252955136/x0DpoxWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2672,
+          "following_count": 618,
+          "like_count": 7661,
+          "listed_count": 3,
+          "media_count": 568,
+          "tweet_count": 4625
+        },
+        "username": "puddings00",
+        "verified": false
+      }
+    ]
+  }
+}

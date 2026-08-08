@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1942250595769045185",
+    "created_at": "2025-07-08T15:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T16:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942600331382370663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1401733664682102786",
+          "start": 0,
+          "username": "mukdengise"
+        },
+        {
+          "end": 25,
+          "id": "1271278454537744384",
+          "start": 12,
+          "username": "Rabbit_Pussy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942600331382370663",
+    "in_reply_to_user_id": "1401733664682102786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942420042756546820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mukdengise @Rabbit_Pussy 大饼自己学着做呗，熏肉的话网购，花路姐我记得不是挺会做饭的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1942250595769045185",
+        "created_at": "2025-07-08T15:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942600331382370663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401733664682102786",
+              "start": 0,
+              "username": "mukdengise"
+            },
+            {
+              "end": 25,
+              "id": "1271278454537744384",
+              "start": 12,
+              "username": "Rabbit_Pussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942600331382370663",
+        "in_reply_to_user_id": "1401733664682102786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942420042756546820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mukdengise @Rabbit_Pussy 大饼自己学着做呗，熏肉的话网购，花路姐我记得不是挺会做饭的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "1942250595769045185",
+        "created_at": "2025-07-08T03:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T04:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942420042756546820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1271278454537744384",
+              "start": 0,
+              "username": "Rabbit_Pussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942420042756546820",
+        "in_reply_to_user_id": "1271278454537744384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942250595769045185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rabbit_Pussy 我老馋大饼卷肉了，但是买不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 996,
+          "like_count": 26325,
+          "listed_count": 8,
+          "media_count": 455,
+          "tweet_count": 4970
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "东海渥集巫女/IG: ilhajugvn/looking for our Chalice and fighting against the Blade/裏：@fulgiyan/满洲语bot：@manju_gisun/桔：@__Ju___Ju__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "fulgiyan"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "manju_gisun"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "__Ju___Ju__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=P96et4ns",
+                "start": 0,
+                "url": "https://t.co/1G1Jz64Dew"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "location": "自用VPN🪜👉🏻",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906271261095047170/syhgZG8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8469,
+          "following_count": 738,
+          "like_count": 133800,
+          "listed_count": 49,
+          "media_count": 1582,
+          "tweet_count": 20302
+        },
+        "url": "https://t.co/1G1Jz64Dew",
+        "username": "mukdengise",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "超大只兔子/182cm/木桶饭🏳️‍⚧️/逃生舱@ttt235711/我的女仆@I_Xinnnnn /tg群：https://t.co/h5xkaaTV2V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ttt235711"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "I_Xinnnnn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Vs8TpJq44o0wZ…",
+                "end": 78,
+                "expanded_url": "https://t.me/+Vs8TpJq44o0wZmJl",
+                "start": 55,
+                "url": "https://t.co/h5xkaaTV2V"
+              }
+            ]
+          }
+        },
+        "id": "1271278454537744384",
+        "location": "Niger",
+        "name": "兔毛",
+        "pinned_tweet_id": "1942156708715085994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942435233652953088/fEOYSMWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3623,
+          "following_count": 1792,
+          "like_count": 23090,
+          "listed_count": 7,
+          "media_count": 882,
+          "tweet_count": 5820
+        },
+        "username": "Rabbit_Pussy",
+        "verified": false
+      }
+    ]
+  }
+}

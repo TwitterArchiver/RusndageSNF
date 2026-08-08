@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033616139901976576"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2033473731088322635",
+    "created_at": "2026-03-16T18:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T19:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033616143819411693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tCjBAWeEKd",
+          "end": 54,
+          "expanded_url": "https://x.com/RusndageSNF/status/2033616143819411693/photo/1",
+          "media_key": "3_2033616139901976576",
+          "start": 31,
+          "url": "https://t.co/tCjBAWeEKd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033616143819411693",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033473731088322635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 管不了洋人，还管不了你吗？ https://t.co/tCjBAWeEKd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033616139901976576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDjbGsxbwAAcpIp.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2033473722691321856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhZk7UbgAAAqJQ.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033616139901976576"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2033473731088322635",
+        "created_at": "2026-03-16T18:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033616143819411693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCjBAWeEKd",
+              "end": 54,
+              "expanded_url": "https://x.com/RusndageSNF/status/2033616143819411693/photo/1",
+              "media_key": "3_2033616139901976576",
+              "start": 31,
+              "url": "https://t.co/tCjBAWeEKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033616143819411693",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033473731088322635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 管不了洋人，还管不了你吗？ https://t.co/tCjBAWeEKd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033473722691321856"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2033473731088322635",
+        "created_at": "2026-03-16T09:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033473731088322635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOA8zttpmH",
+              "end": 28,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2033473731088322635/photo/1",
+              "media_key": "3_2033473722691321856",
+              "start": 5,
+              "url": "https://t.co/HOA8zttpmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033473731088322635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 60718,
+          "like_count": 276,
+          "quote_count": 9,
+          "reply_count": 27,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "避雷故宫 https://t.co/HOA8zttpmH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 1078,
+          "like_count": 29200,
+          "listed_count": 8,
+          "media_count": 567,
+          "tweet_count": 5807
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3929,
+          "following_count": 2953,
+          "like_count": 1138,
+          "listed_count": 13,
+          "media_count": 208,
+          "tweet_count": 1414
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

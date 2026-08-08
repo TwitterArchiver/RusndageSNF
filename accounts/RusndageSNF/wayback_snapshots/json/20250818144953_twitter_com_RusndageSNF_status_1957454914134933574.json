@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1957301650433224827",
+    "created_at": "2025-08-18T14:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T15:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957454914134933574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558730611556175873",
+          "start": 0,
+          "username": "ChisakaKanako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957454914134933574",
+    "in_reply_to_user_id": "1558730611556175873",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957311947210469794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChisakaKanako uwu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1957301650433224827",
+        "created_at": "2025-08-18T14:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T15:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957454914134933574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558730611556175873",
+              "start": 0,
+              "username": "ChisakaKanako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957454914134933574",
+        "in_reply_to_user_id": "1558730611556175873",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957311947210469794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChisakaKanako uwu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558730611556175873",
+        "conversation_id": "1957301650433224827",
+        "created_at": "2025-08-18T05:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T06:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957311947210469794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957311947210469794",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957310895933239373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 小雪花太pass了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 1024,
+          "like_count": 27079,
+          "listed_count": 7,
+          "media_count": 492,
+          "tweet_count": 5220
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "跨女 平面设计 锁推和默认头像的不要关注我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisakakanako.notion.site/96f67217a4c041…",
+                "end": 23,
+                "expanded_url": "https://chisakakanako.notion.site/96f67217a4c0410eb35c4200f835eafa?pvs=4",
+                "start": 0,
+                "url": "https://t.co/ot7AE8ZHyA"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "1934452141684670766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938162412697620481/84c4M-W4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5724,
+          "following_count": 1552,
+          "like_count": 41881,
+          "listed_count": 7,
+          "media_count": 63,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/ot7AE8ZHyA",
+        "username": "ChisakaKanako",
+        "verified": true
+      }
+    ]
+  }
+}

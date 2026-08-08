@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1791114369834844352",
+    "created_at": "2024-05-16T15:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T16:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791126195511456205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791126195511456205",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791124446075568199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi 啊那个是元bao，我曾经最好的朋友之一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1791114369834844352",
+        "created_at": "2024-05-16T15:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T16:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791126195511456205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791126195511456205",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791124446075568199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi 啊那个是元bao，我曾经最好的朋友之一"
+      },
+      {
+        "attachments": {},
+        "author_id": "1553107630511603712",
+        "conversation_id": "1791114369834844352",
+        "created_at": "2024-05-16T15:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T16:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791124446075568199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791124446075568199",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791120819000889474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 内圈右边的那个哦(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 639,
+          "like_count": 13249,
+          "listed_count": 4,
+          "tweet_count": 2250
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "若非群玉山头见，会向瑶台月下逢。",
+        "id": "1553107630511603712",
+        "name": "纪真由子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782734032410963968/DU7EeKmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 2028,
+          "like_count": 7031,
+          "listed_count": 10,
+          "tweet_count": 6612
+        },
+        "username": "JiZhenYouZi",
+        "verified": false
+      }
+    ]
+  }
+}

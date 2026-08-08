@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1938553642862403848",
+    "created_at": "2025-06-28T17:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T18:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939010800322257169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624705678593134592",
+          "start": 0,
+          "username": "Ripperdoc2034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939010800322257169",
+    "in_reply_to_user_id": "1624705678593134592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 25,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938553642862403848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ripperdoc2034 涩涩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1938553639343419392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucgQ5sa8AAYIIc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1938553642862403848",
+        "created_at": "2025-06-28T17:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T18:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939010800322257169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624705678593134592",
+              "start": 0,
+              "username": "Ripperdoc2034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939010800322257169",
+        "in_reply_to_user_id": "1624705678593134592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938553642862403848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ripperdoc2034 涩涩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938553639343419392"
+          ]
+        },
+        "author_id": "1624705678593134592",
+        "conversation_id": "1938553642862403848",
+        "created_at": "2025-06-27T11:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938553642862403848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d15rOR9pXJ",
+              "end": 40,
+              "expanded_url": "https://x.com/Ripperdoc2034/status/1938553642862403848/photo/1",
+              "media_key": "3_1938553639343419392",
+              "start": 17,
+              "url": "https://t.co/d15rOR9pXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938553642862403848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等待中…\n猜猜咱在等什么呢❤️~ https://t.co/d15rOR9pXJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 987,
+          "like_count": 25984,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 4858
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-12T09:43:55.000Z",
+        "description": "06mtx 断续含糖/轻度性瘾😖/巨丑 所以放弃下海/定居沈阳，假期在江浙沪刷新/可爱大姐姐&恋人&同居中@bibibizizizi/已经退推的妹妹@MXF0721/感谢你的关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "bibibizizizi"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "username": "MXF0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "JohnWilliams2034.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://JohnWilliams2034.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/DBPSj6IdTv"
+              }
+            ]
+          }
+        },
+        "id": "1624705678593134592",
+        "location": "龙脉过峡结穴处，藏风聚气所",
+        "name": "金流☯",
+        "pinned_tweet_id": "1938553642862403848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900766854106542082/zzK8Mu9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 235,
+          "like_count": 17594,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1463
+        },
+        "url": "https://t.co/DBPSj6IdTv",
+        "username": "Ripperdoc2034",
+        "verified": false
+      }
+    ]
+  }
+}

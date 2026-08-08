@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "News Categories like Entertainment or Technology",
+          "id": "69",
+          "name": "News Vertical"
+        },
+        "entity": {
+          "description": "Political News",
+          "id": "840159122012102656",
+          "name": "Political News"
+        }
+      }
+    ],
+    "conversation_id": "2064681261365612753",
+    "created_at": "2026-06-10T12:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064681261365612753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912903621026414592",
+          "start": 3,
+          "username": "Damus6600"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064681261365612753",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1804
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064454073026285873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Damus6600: Biologia reconhece trans\nEconomistas recomendam Marx\nRacismo estrutural\nHistória ensina que Israel tomou território palestino"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          }
+        ],
+        "conversation_id": "2064681261365612753",
+        "created_at": "2026-06-10T12:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064681261365612753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912903621026414592",
+              "start": 3,
+              "username": "Damus6600"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064681261365612753",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1804
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064454073026285873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Damus6600: Biologia reconhece trans\nEconomistas recomendam Marx\nRacismo estrutural\nHistória ensina que Israel tomou território palestino"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912903621026414592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          }
+        ],
+        "conversation_id": "2064454073026285873",
+        "created_at": "2026-06-09T21:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064454073026285873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_gustlik/statu…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/_gustlik/status/2063660565180928214",
+              "start": 126,
+              "url": "https://t.co/vNxVzRlnei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064454073026285873",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 89497,
+          "like_count": 11786,
+          "quote_count": 11,
+          "reply_count": 89,
+          "retweet_count": 1804
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063660565180928214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Biologia reconhece trans\nEconomistas recomendam Marx\nRacismo estrutural\nHistória ensina que Israel tomou território palestino https://t.co/vNxVzRlnei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 1105,
+          "like_count": 30346,
+          "listed_count": 7,
+          "media_count": 585,
+          "tweet_count": 6152
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T16:19:08.000Z",
+        "description": "Artista e escritor 🌸\nDiscord: Apolo982 ⭐",
+        "id": "1912903621026414592",
+        "location": "Maricá, Brasil",
+        "name": "Damus99",
+        "pinned_tweet_id": "2048221671870345463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058349558124490752/pe6gkmhe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 435,
+          "like_count": 12263,
+          "listed_count": 0,
+          "media_count": 1597,
+          "tweet_count": 8587
+        },
+        "username": "Damus6600",
+        "verified": false
+      }
+    ]
+  }
+}

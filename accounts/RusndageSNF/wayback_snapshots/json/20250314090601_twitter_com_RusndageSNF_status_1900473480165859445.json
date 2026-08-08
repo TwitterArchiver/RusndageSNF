@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1899994797781520572",
+    "created_at": "2025-03-14T09:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T10:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900473480165859445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900473480165859445",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899994797781520572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 糖豆人除外"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1899994797781520572",
+        "created_at": "2025-03-14T09:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T10:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900473480165859445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900473480165859445",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899994797781520572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 糖豆人除外"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "1899994797781520572",
+        "created_at": "2025-03-13T01:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T02:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899994797781520572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899994797781520572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8769,
+          "like_count": 220,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "女性在电子游戏领域很容易被奇观化，要么被舔狗捧上天要么被性别歧视只要取了女性化id/选出被认为是女人爱玩的角色就会被用性别攻击。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1893309762294391019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 898,
+          "like_count": 23044,
+          "listed_count": 6,
+          "media_count": 400,
+          "tweet_count": 4171
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "岁静嘎国人🇨🇦｜怪东西制造器｜已有老婆老公豹豹猫猫主人宝宝",
+        "id": "1657055349982244865",
+        "location": "嘎堡",
+        "name": "木木鸟口口",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881958913450582016/I4zjL7PS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1086,
+          "like_count": 55648,
+          "listed_count": 3,
+          "media_count": 1599,
+          "tweet_count": 19184
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

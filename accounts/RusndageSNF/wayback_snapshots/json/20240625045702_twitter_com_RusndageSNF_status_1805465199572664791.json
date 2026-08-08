@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1805425890291335299",
+    "created_at": "2024-06-25T04:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T05:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805465199572664791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1470943033365438470",
+          "start": 0,
+          "username": "CamanoDiana444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805465199572664791",
+    "in_reply_to_user_id": "1470943033365438470",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805425890291335299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CamanoDiana444 就是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1805425890291335299",
+        "created_at": "2024-06-25T04:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T05:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805465199572664791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1470943033365438470",
+              "start": 0,
+              "username": "CamanoDiana444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805465199572664791",
+        "in_reply_to_user_id": "1470943033365438470",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805425890291335299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CamanoDiana444 就是我"
+      },
+      {
+        "attachments": {},
+        "author_id": "1470943033365438470",
+        "conversation_id": "1805425890291335299",
+        "created_at": "2024-06-25T02:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T03:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805425890291335299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805425890291335299",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2259,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉你们抑郁割手手高强度玩推高考还能考六百几十分，感觉很厉害\n高三那一年班里刚好有个女生抑郁了，她是能从高二的年级稳定前100掉到年级倒数50名的那种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 655,
+          "like_count": 14294,
+          "listed_count": 5,
+          "tweet_count": 2510
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T02:25:55.000Z",
+        "description": "MtX🏳️‍⚧️ 生态主义 正在转型生活推",
+        "id": "1470943033365438470",
+        "name": "🏳️‍⚧️❄️草莓然然🍓🌲🍥",
+        "pinned_tweet_id": "1663076707853541376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803467749454389248/PXQ75O8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 875,
+          "like_count": 19143,
+          "listed_count": 17,
+          "tweet_count": 11338
+        },
+        "username": "CamanoDiana444",
+        "verified": false
+      }
+    ]
+  }
+}

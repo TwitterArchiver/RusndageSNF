@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1900447160413364472",
+    "created_at": "2025-03-14T17:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T18:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900602084787187886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1617138994227339265",
+          "start": 0,
+          "username": "cathy213924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900602084787187886",
+    "in_reply_to_user_id": "1617138994227339265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900447160413364472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cathy213924 不太可能，很多学校不注重个人隐私，会把个人信息泄露出来，以便各位填写信息之类的，我就这么露馅的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1900447160413364472",
+        "created_at": "2025-03-14T17:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T18:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900602084787187886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617138994227339265",
+              "start": 0,
+              "username": "cathy213924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900602084787187886",
+        "in_reply_to_user_id": "1617138994227339265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900447160413364472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cathy213924 不太可能，很多学校不注重个人隐私，会把个人信息泄露出来，以便各位填写信息之类的，我就这么露馅的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617138994227339265",
+        "conversation_id": "1900447160413364472",
+        "created_at": "2025-03-14T07:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T08:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900447160413364472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900447160413364472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10133,
+          "like_count": 105,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在国内大学，对同学隐藏指派性别，完全以女性身份生活可能吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 897,
+          "like_count": 23057,
+          "listed_count": 6,
+          "media_count": 401,
+          "tweet_count": 4175
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T12:36:17.000Z",
+        "description": "she/her | trans girl | asexual🖤🩶🤍💜 | social liberalism & transgender nationalism | hate imperialism & communism | HRT 2023.12.11",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/cathy213924",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/cathy213924",
+                "start": 0,
+                "url": "https://t.co/0HrD0nLTu5"
+              }
+            ]
+          }
+        },
+        "id": "1617138994227339265",
+        "location": "Republic of Transland🏳️‍⚧️",
+        "name": "Cathy🍥🏳️‍⚧️🇹🇼🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729445425055248384/2sTIZPo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 869,
+          "like_count": 6883,
+          "listed_count": 6,
+          "media_count": 713,
+          "tweet_count": 3571
+        },
+        "url": "https://t.co/0HrD0nLTu5",
+        "username": "cathy213924",
+        "verified": true
+      }
+    ]
+  }
+}

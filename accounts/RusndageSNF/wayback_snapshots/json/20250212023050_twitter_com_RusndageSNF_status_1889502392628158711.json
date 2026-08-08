@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1889502315838840834"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "1889502392628158711",
+    "created_at": "2025-02-12T02:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T03:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889502392628158711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rshi5v320B",
+          "end": 83,
+          "expanded_url": "https://x.com/RusndageSNF/status/1889502392628158711/video/1",
+          "media_key": "7_1889502315838840834",
+          "start": 60,
+          "url": "https://t.co/Rshi5v320B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889502392628158711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "二番战！！！（Part2/2）4.5mm的大肛塞插来插去pyz都闭不上了呜呜，如果我是电脑的话usb母口要坏了啦xwx https://t.co/Rshi5v320B"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1889502392628158711].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1889502392628158711",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889502392628158711"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 118166,
+        "height": 960,
+        "media_key": "7_1889502315838840834",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1889502315838840834/pu/img/m9DxzWLfdde7olkl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1889502315838840834/pu/vid/avc1/320x426/d7OXBIM5Za0QKH7V.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1889502315838840834/pu/vid/avc1/480x640/wmFjawrl2XO38rre.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1889502315838840834/pu/vid/avc1/720x960/EvJ9K8YcKPb8BHtN.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1889502315838840834/pu/pl/s7rEa3z5zyQFbjO4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 882,
+          "like_count": 22510,
+          "listed_count": 7,
+          "media_count": 382,
+          "tweet_count": 4007
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

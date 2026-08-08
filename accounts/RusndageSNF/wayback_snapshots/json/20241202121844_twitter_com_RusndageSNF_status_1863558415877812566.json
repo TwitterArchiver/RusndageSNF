@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1862548809370542335",
+    "created_at": "2024-12-02T12:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T13:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863558415877812566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "570502027",
+          "start": 0,
+          "username": "XieJackie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863558415877812566",
+    "in_reply_to_user_id": "570502027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862548809370542335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XieJackie 我听≠我改"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1862548809370542335",
+        "created_at": "2024-12-02T12:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T13:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863558415877812566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "570502027",
+              "start": 0,
+              "username": "XieJackie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863558415877812566",
+        "in_reply_to_user_id": "570502027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862548809370542335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XieJackie 我听≠我改"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1862547230428692480"
+          ]
+        },
+        "author_id": "570502027",
+        "conversation_id": "1862548809370542335",
+        "created_at": "2024-11-29T17:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T18:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862548809370542335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6I33LNQShZ",
+              "end": 118,
+              "expanded_url": "https://x.com/XieJackie/status/1862548809370542335/video/1",
+              "media_key": "7_1862547230428692480",
+              "start": 95,
+              "url": "https://t.co/6I33LNQShZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862548809370542335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 30234,
+          "like_count": 347,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克：要主动去听批评。\n\n倾听负面反馈很重要，但大多数人会反感，因为听起来不好受。我总让朋友指出我产品的不足。\n\n即使朋友批评错了，但至少出发点是好的。有时，连敌人也能说出值得听的批评。 https://t.co/6I33LNQShZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 759,
+          "like_count": 19721,
+          "listed_count": 4,
+          "media_count": 310,
+          "tweet_count": 3340
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-04T03:31:08.000Z",
+        "description": "软件工程师，特斯拉新闻与分析 Patreon: https://t.co/qKtMjsaCQT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/jackiexie",
+                "end": 47,
+                "expanded_url": "http://patreon.com/jackiexie",
+                "start": 24,
+                "url": "https://t.co/qKtMjsaCQT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jackiexie913",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@jackiexie913",
+                "start": 0,
+                "url": "https://t.co/8k5oZ71dJz"
+              }
+            ]
+          }
+        },
+        "id": "570502027",
+        "location": "欢迎同时关注我的Youtube",
+        "name": "谢嘉琪",
+        "pinned_tweet_id": "1861251609927524581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785971853485633536/gkhIMqPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11715,
+          "following_count": 344,
+          "like_count": 2664,
+          "listed_count": 98,
+          "media_count": 941,
+          "tweet_count": 1866
+        },
+        "url": "https://t.co/8k5oZ71dJz",
+        "username": "XieJackie",
+        "verified": true
+      }
+    ]
+  }
+}

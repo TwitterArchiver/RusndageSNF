@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1945147109574840505",
+    "created_at": "2025-07-15T16:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T17:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945163046973809145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1673562560153493506",
+          "start": 0,
+          "username": "The_Cyansky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945163046973809145",
+    "in_reply_to_user_id": "1673562560153493506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945147109574840505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@The_Cyansky 什么时候来Snowballs（最好加上前队圆）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_1945147090713079808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv6M-SHWcAA94H1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1589,
+        "media_key": "3_1945147091136774144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv6M-TsXgAAuqhv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1521,
+        "media_key": "3_1945147090981597184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv6M-THXsAAvpyw.jpg",
+        "width": 1669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1945147109574840505",
+        "created_at": "2025-07-15T16:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T17:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945163046973809145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1673562560153493506",
+              "start": 0,
+              "username": "The_Cyansky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945163046973809145",
+        "in_reply_to_user_id": "1673562560153493506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945147109574840505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@The_Cyansky 什么时候来Snowballs（最好加上前队圆）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945147090713079808",
+            "3_1945147091136774144",
+            "3_1945147090981597184"
+          ]
+        },
+        "author_id": "1673562560153493506",
+        "conversation_id": "1945147109574840505",
+        "created_at": "2025-07-15T15:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T16:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945147109574840505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZHpyENPtxy",
+              "end": 69,
+              "expanded_url": "https://x.com/The_Cyansky/status/1945147109574840505/photo/1",
+              "media_key": "3_1945147090713079808",
+              "start": 46,
+              "url": "https://t.co/ZHpyENPtxy"
+            },
+            {
+              "display_url": "pic.x.com/ZHpyENPtxy",
+              "end": 69,
+              "expanded_url": "https://x.com/The_Cyansky/status/1945147109574840505/photo/1",
+              "media_key": "3_1945147091136774144",
+              "start": 46,
+              "url": "https://t.co/ZHpyENPtxy"
+            },
+            {
+              "display_url": "pic.x.com/ZHpyENPtxy",
+              "end": 69,
+              "expanded_url": "https://x.com/The_Cyansky/status/1945147109574840505/photo/1",
+              "media_key": "3_1945147090981597184",
+              "start": 46,
+              "url": "https://t.co/ZHpyENPtxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945147109574840505",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Gliding Glaciers\nSavage Speeders\nIndigo Stars https://t.co/ZHpyENPtxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 1004,
+          "like_count": 26553,
+          "listed_count": 8,
+          "media_count": 459,
+          "tweet_count": 5043
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T05:23:24.000Z",
+        "description": "Chinese//头像是约稿//f1🏎️zhou24 jmr🕰️MNWwospy//English not good//f1@Mango_Cyanblue_//Celeste爱好者(game)//一直见不着人大概是登不上梯子了",
+        "id": "1673562560153493506",
+        "location": "青色天空",
+        "name": "Mango_Cyanblue_",
+        "pinned_tweet_id": "1763176578530582544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942072143186997248/fnK_suDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 108,
+          "like_count": 1235,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 500
+        },
+        "username": "The_Cyansky",
+        "verified": false
+      }
+    ]
+  }
+}

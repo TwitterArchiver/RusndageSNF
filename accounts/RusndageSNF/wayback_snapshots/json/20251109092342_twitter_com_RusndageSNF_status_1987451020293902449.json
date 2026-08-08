@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1987451020293902449",
+    "created_at": "2025-11-09T09:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T10:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987451020293902449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1647979969111261186",
+          "start": 3,
+          "username": "permanent_yin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987451020293902449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987162624073826550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @permanent_yin: 我早就说过，有的人迟早把对lgbt的那一套用在残疾人身上，少数群体在这种文化下就是会被歧视……………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1987451020293902449",
+        "created_at": "2025-11-09T09:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987451020293902449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1647979969111261186",
+              "start": 3,
+              "username": "permanent_yin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987451020293902449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987162624073826550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @permanent_yin: 我早就说过，有的人迟早把对lgbt的那一套用在残疾人身上，少数群体在这种文化下就是会被歧视……………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647979969111261186",
+        "conversation_id": "1987162624073826550",
+        "created_at": "2025-11-08T14:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987162624073826550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhoynqi3/statu…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/zhoynqi3/status/1987005985895162099",
+              "start": 51,
+              "url": "https://t.co/KXbm6OysB7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987162624073826550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987005985895162099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我早就说过，有的人迟早把对lgbt的那一套用在残疾人身上，少数群体在这种文化下就是会被歧视…………… https://t.co/KXbm6OysB7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 1046,
+          "like_count": 27985,
+          "listed_count": 7,
+          "media_count": 527,
+          "tweet_count": 5519
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:07:12.000Z",
+        "description": "悲慘大陸大學生（//lgbt群體友好🏳️‍🌈🏳️‍⚧️",
+        "id": "1647979969111261186",
+        "location": "Japan",
+        "name": "permanent",
+        "pinned_tweet_id": "1733676116370502096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647980187210993664/pcgfLrwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 382,
+          "like_count": 5451,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 2030
+        },
+        "username": "permanent_yin",
+        "verified": false
+      }
+    ]
+  }
+}

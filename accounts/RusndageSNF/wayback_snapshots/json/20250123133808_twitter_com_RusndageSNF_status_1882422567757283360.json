@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1882138443473649888",
+    "created_at": "2025-01-23T13:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T14:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882422567757283360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2155518091",
+          "start": 0,
+          "username": "MetalGemblax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882422567757283360",
+    "in_reply_to_user_id": "2155518091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882268453832364323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MetalGemblax 我没说我要自杀，谢谢你啊，我怕死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1882138443473649888",
+        "created_at": "2025-01-23T13:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T14:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882422567757283360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2155518091",
+              "start": 0,
+              "username": "MetalGemblax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882422567757283360",
+        "in_reply_to_user_id": "2155518091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882268453832364323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MetalGemblax 我没说我要自杀，谢谢你啊，我怕死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2155518091",
+        "conversation_id": "1882138443473649888",
+        "created_at": "2025-01-23T03:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T04:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882268453832364323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882268453832364323",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882138443473649888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 小药娘各种秀亚硝酸钠，各种擦边说我要自杀了快来关注我快来同情我吧。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 855,
+          "like_count": 22063,
+          "listed_count": 7,
+          "media_count": 364,
+          "tweet_count": 3853
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-25T19:38:01.000Z",
+        "description": "https://t.co/PYvqtpMC8S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/peiwoyiqiqusib",
+                "end": 23,
+                "expanded_url": "https://t.me/peiwoyiqiqusib",
+                "start": 0,
+                "url": "https://t.co/PYvqtpMC8S"
+              }
+            ]
+          }
+        },
+        "id": "2155518091",
+        "location": "Jakarta",
+        "name": "亚硝酸钠购买",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/477887908297207809/HoXIzZgf_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 29,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "MetalGemblax",
+        "verified": false
+      }
+    ]
+  }
+}

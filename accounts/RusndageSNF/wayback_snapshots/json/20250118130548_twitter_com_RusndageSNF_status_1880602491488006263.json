@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1880443090592493786",
+    "created_at": "2025-01-18T13:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T14:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880602491488006263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1600050772829519877",
+          "start": 0,
+          "username": "yuanch52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880602491488006263",
+    "in_reply_to_user_id": "1600050772829519877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880443090592493786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanch52 撒盐比撒糖好吃，试试就知道了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1880443090592493786",
+        "created_at": "2025-01-18T13:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T14:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880602491488006263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1600050772829519877",
+              "start": 0,
+              "username": "yuanch52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880602491488006263",
+        "in_reply_to_user_id": "1600050772829519877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880443090592493786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanch52 撒盐比撒糖好吃，试试就知道了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880443081293721607"
+          ]
+        },
+        "author_id": "1600050772829519877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1880443090592493786",
+        "created_at": "2025-01-18T02:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T03:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880443090592493786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkX8z21826",
+              "end": 46,
+              "expanded_url": "https://x.com/yuanch52/status/1880443090592493786/photo/1",
+              "media_key": "3_1880443081293721607",
+              "start": 23,
+              "url": "https://t.co/dkX8z21826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880443090592493786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次吃家里给做的早饭都感觉像服从性测试咋办啊 https://t.co/dkX8z21826"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 846,
+          "like_count": 21918,
+          "listed_count": 7,
+          "media_count": 362,
+          "tweet_count": 3809
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T08:54:02.000Z",
+        "description": "门槛88/188/288 （窝忘记放码了想那个那个的请私聊或口令！我很好说话！想找我聊天也可以=w= 提问箱：https://t.co/HdIrxDtXkt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pome.vip/yuanc52",
+                "end": 78,
+                "expanded_url": "http://pome.vip/yuanc52",
+                "start": 55,
+                "url": "https://t.co/HdIrxDtXkt"
+              }
+            ]
+          }
+        },
+        "id": "1600050772829519877",
+        "name": "原春小千",
+        "pinned_tweet_id": "1876089271557464291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865040141850746880/MN-08fB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 141,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 302
+        },
+        "username": "yuanch52",
+        "verified": false
+      }
+    ]
+  }
+}

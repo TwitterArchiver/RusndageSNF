@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1956711685630112101",
+    "created_at": "2025-08-17T05:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T06:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956949266318201220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1071094209749417984",
+          "start": 0,
+          "username": "BeiyanNa3AlF6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956949266318201220",
+    "in_reply_to_user_id": "1071094209749417984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956948995768738112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeiyanNa3AlF6 顺便要个互fo（等有钱找我男朋友顺便过去玩，他是武汉人！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1956711685630112101",
+        "created_at": "2025-08-17T05:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T06:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956949266318201220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1071094209749417984",
+              "start": 0,
+              "username": "BeiyanNa3AlF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956949266318201220",
+        "in_reply_to_user_id": "1071094209749417984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956948995768738112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeiyanNa3AlF6 顺便要个互fo（等有钱找我男朋友顺便过去玩，他是武汉人！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071094209749417984",
+        "conversation_id": "1956711685630112101",
+        "created_at": "2025-08-17T05:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T06:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956948995768738112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956948995768738112",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956948411862880498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 来玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 1023,
+          "like_count": 27057,
+          "listed_count": 7,
+          "media_count": 491,
+          "tweet_count": 5211
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T17:28:54.000Z",
+        "description": "MtX-MtF振荡器，member of @MtFwiki 。我吃糖手术但我是好友跨顺男，木饭桶/INTP/Ingress/HAM/@NixOS_org memeber/中文 Vocaloid/索尼大法好。爱的人 @yifusuyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "NixOS_org"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "username": "yifusuyi"
+              }
+            ]
+          }
+        },
+        "id": "1071094209749417984",
+        "location": "Rhineland-Palatinate, Germany",
+        "name": "北雁 Na₃AlF₆🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620498439485403137/zPt4c0Rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 1392,
+          "like_count": 112226,
+          "listed_count": 11,
+          "media_count": 276,
+          "tweet_count": 6124
+        },
+        "username": "BeiyanNa3AlF6",
+        "verified": false
+      }
+    ]
+  }
+}

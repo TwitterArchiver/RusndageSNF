@@ -1,0 +1,252 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1794166909962997953",
+    "created_at": "2024-05-25T16:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T17:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794406242099909014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1521308732805849089",
+          "start": 0,
+          "username": "tianzige4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794406242099909014",
+    "in_reply_to_user_id": "1521308732805849089",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794166909962997953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianzige4 不好啊，然后呢？你是不是很喜欢我们这种打不过又很气的感觉啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1794166909962997953",
+        "created_at": "2024-05-25T16:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T17:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794406242099909014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1521308732805849089",
+              "start": 0,
+              "username": "tianzige4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794406242099909014",
+        "in_reply_to_user_id": "1521308732805849089",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794166909962997953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianzige4 不好啊，然后呢？你是不是很喜欢我们这种打不过又很气的感觉啊"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1794166850408120320"
+          ]
+        },
+        "author_id": "1521308732805849089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1794166909962997953",
+        "created_at": "2024-05-25T00:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T01:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794166909962997953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/71nIfQvglD",
+              "end": 103,
+              "expanded_url": "https://twitter.com/tianzige4/status/1794166909962997953/video/1",
+              "media_key": "7_1794166850408120320",
+              "start": 80,
+              "url": "https://t.co/71nIfQvglD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794166909962997953",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2514,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "习近平：干部好不好，老百姓说了算\n\n“金杯银杯不如老百姓的口碑。”2015年5月25日，习近平总书记在浙江舟山考察调研，和当地群众促膝长谈的这一幕，令人难忘。 https://t.co/71nIfQvglD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 648,
+          "like_count": 13539,
+          "listed_count": 5,
+          "tweet_count": 2346
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T02:01:00.000Z",
+        "description": "野生时评人",
+        "id": "1521308732805849089",
+        "location": "山东",
+        "name": "田字格",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760517663045124096/HXQW4WQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64110,
+          "following_count": 7042,
+          "like_count": 73239,
+          "listed_count": 116,
+          "tweet_count": 22566
+        },
+        "username": "tianzige4",
+        "verified": false
+      }
+    ]
+  }
+}

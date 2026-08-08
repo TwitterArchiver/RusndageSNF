@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2041560597792461043",
+    "created_at": "2026-04-08T09:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T10:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041814459426205706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2030962731621466112",
+          "start": 0,
+          "username": "597_914112"
+        },
+        {
+          "end": 24,
+          "id": "2011405521245634560",
+          "start": 12,
+          "username": "Rimea_Chord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041814459426205706",
+    "in_reply_to_user_id": "2030962731621466112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041765865197298162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@597_914112 @Rimea_Chord 你妈死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2041560597792461043",
+        "created_at": "2026-04-08T09:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041814459426205706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2030962731621466112",
+              "start": 0,
+              "username": "597_914112"
+            },
+            {
+              "end": 24,
+              "id": "2011405521245634560",
+              "start": 12,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041814459426205706",
+        "in_reply_to_user_id": "2030962731621466112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041765865197298162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@597_914112 @Rimea_Chord 你妈死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030962731621466112",
+        "conversation_id": "2041560597792461043",
+        "created_at": "2026-04-08T06:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041765865197298162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011405521245634560",
+              "start": 0,
+              "username": "Rimea_Chord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041765865197298162",
+        "in_reply_to_user_id": "2011405521245634560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041560597792461043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rimea_Chord 这才是社会逐步正常的表现 不能让你们这些傻逼到处宣传"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 1089,
+          "like_count": 29738,
+          "listed_count": 8,
+          "media_count": 571,
+          "tweet_count": 5968
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T11:03:53.000Z",
+        "description": "",
+        "id": "2030962731621466112",
+        "location": "马里亚纳海沟",
+        "name": "零敲牛皮糖597.9🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041407529994043392/oJbTijjS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "597_914112",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T11:50:35.000Z",
+        "description": "零碎的hrt开始于2020年12月 ｜ GPT重度依赖 ｜ 药罐子｜ 我的钱很好割 ｜ 娘們X ｜ 是甜妹嗎…？… ｜ ～ ｜ 记录我的恶臭声音 ｜ 声控 ｜喜欢微甜 ｜我的朋友都叫我 “十三” “哈基雪” “柑橘” | 16？cm ？？kg ｜ 2006.7.11 ｜ 生物恐懼 ｜",
+        "id": "2011405521245634560",
+        "location": "17km",
+        "name": "清流",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041579509544292352/UDvfT4hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 83,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 890
+        },
+        "username": "Rimea_Chord",
+        "verified": true
+      }
+    ]
+  }
+}

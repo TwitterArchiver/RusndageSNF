@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2071836693678928345",
+    "created_at": "2026-06-30T08:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T09:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071877379270881760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        },
+        {
+          "end": 25,
+          "id": "1313383273079345152",
+          "start": 9,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071877379270881760",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071836693678928345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya @ValeriaEulabeia 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2071836693678928345",
+        "created_at": "2026-06-30T08:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071877379270881760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 25,
+              "id": "1313383273079345152",
+              "start": 9,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071877379270881760",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071836693678928345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @ValeriaEulabeia 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2071836693678928345",
+        "created_at": "2026-06-30T06:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071836693678928345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071836693678928345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3720,
+          "like_count": 83,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "被送去扭转机构了 虽然说是精卫 但是实际上在迫害跨性别 我头发被剪了QAQ\n坐标在上海市南汇精卫 每周二 五 日下午1：30～2：30有探视"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 1116,
+          "like_count": 30679,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 6198
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8n1bY"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10042,
+          "following_count": 2340,
+          "like_count": 181296,
+          "listed_count": 18,
+          "media_count": 4008,
+          "tweet_count": 49061
+        },
+        "url": "https://t.co/o4J1P8n1bY",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049492315513950209/Cp9UnZ_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 3993,
+          "like_count": 164339,
+          "listed_count": 19,
+          "media_count": 2772,
+          "tweet_count": 26696
+        },
+        "url": "",
+        "username": "ValeriaEulabeia",
+        "verified": true
+      }
+    ]
+  }
+}

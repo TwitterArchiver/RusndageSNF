@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075345401301880832"
+      ],
+      "media_source_tweet_id": [
+        "2075345409883435384"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2075636273772171268",
+    "created_at": "2026-07-10T17:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075636273772171268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1329606486708908035",
+          "start": 3,
+          "username": "comunidademc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6vabQXaZS1",
+          "end": 101,
+          "expanded_url": "https://x.com/comunidademc/status/2075345409883435384/photo/1",
+          "media_key": "3_2075345401301880832",
+          "start": 78,
+          "url": "https://t.co/6vabQXaZS1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075636273772171268",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1579
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075345409883435384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @comunidademc: depois de 17 anos podemos finalmente recriar esse wallpaper https://t.co/6vabQXaZS1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2075345401301880832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM0bpZbW0AAfIYB.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075345401301880832"
+          ],
+          "media_source_tweet_id": [
+            "2075345409883435384"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2075636273772171268",
+        "created_at": "2026-07-10T17:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075636273772171268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1329606486708908035",
+              "start": 3,
+              "username": "comunidademc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6vabQXaZS1",
+              "end": 101,
+              "expanded_url": "https://x.com/comunidademc/status/2075345409883435384/photo/1",
+              "media_key": "3_2075345401301880832",
+              "start": 78,
+              "url": "https://t.co/6vabQXaZS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075636273772171268",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1579
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075345409883435384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @comunidademc: depois de 17 anos podemos finalmente recriar esse wallpaper https://t.co/6vabQXaZS1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075345401301880832"
+          ]
+        },
+        "author_id": "1329606486708908035",
+        "conversation_id": "2075345409883435384",
+        "created_at": "2026-07-09T22:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T23:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075345409883435384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6vabQXaZS1",
+              "end": 83,
+              "expanded_url": "https://x.com/comunidademc/status/2075345409883435384/photo/1",
+              "media_key": "3_2075345401301880832",
+              "start": 60,
+              "url": "https://t.co/6vabQXaZS1"
+            },
+            {
+              "display_url": "x.com/minecraft/stat…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/minecraft/status/2075252852855910482",
+              "start": 84,
+              "url": "https://t.co/dPXTWhqtcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075345409883435384",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1259,
+          "impression_count": 384433,
+          "like_count": 32472,
+          "quote_count": 16,
+          "reply_count": 22,
+          "retweet_count": 1579
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075252852855910482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "depois de 17 anos podemos finalmente recriar esse wallpaper https://t.co/6vabQXaZS1 https://t.co/dPXTWhqtcs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 1120,
+          "like_count": 30753,
+          "listed_count": 7,
+          "media_count": 589,
+          "tweet_count": 6208
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-20T02:04:36.000Z",
+        "description": "Adm: @HenriqueP3015 | Ative as notificações 🔔 Minhas páginas: @cavarminecraft @blocklikes https://t.co/sg5KdvDf9f",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "HenriqueP3015"
+              },
+              {
+                "end": 77,
+                "start": 62,
+                "username": "cavarminecraft"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "blocklikes"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "beacons.ai/comunidademc",
+                "end": 113,
+                "expanded_url": "https://beacons.ai/comunidademc",
+                "start": 90,
+                "url": "https://t.co/sg5KdvDf9f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@henriquepjime…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@henriquepjimenes/",
+                "start": 0,
+                "url": "https://t.co/L5cCKaNkfM"
+              }
+            ]
+          }
+        },
+        "id": "1329606486708908035",
+        "name": "ComunidadeMc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018801677566885888/oncjpIhc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314922,
+          "following_count": 3173,
+          "like_count": 57201,
+          "listed_count": 121,
+          "media_count": 5426,
+          "tweet_count": 25267
+        },
+        "url": "https://t.co/L5cCKaNkfM",
+        "username": "comunidademc",
+        "verified": true
+      }
+    ]
+  }
+}

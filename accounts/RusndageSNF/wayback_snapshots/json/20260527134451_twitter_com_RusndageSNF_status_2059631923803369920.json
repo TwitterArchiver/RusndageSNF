@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2059494706405605737",
+    "created_at": "2026-05-27T13:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059631923803369920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1874809413229527040",
+          "start": 0,
+          "username": "zmx8067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059631923803369920",
+    "in_reply_to_user_id": "1874809413229527040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059494706405605737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zmx8067 傻卵日本也够狂叫就是了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16021,
+        "height": 1284,
+        "media_key": "13_2059494557180706817",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059494557180706817/img/SNd2XAiMnCIXiq5w.jpg",
+        "public_metrics": {
+          "view_count": 169890
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059494557180706817/vid/avc1/884x1284/SI1ugGKGySQzWyFS.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059494557180706817/vid/avc1/320x464/8hlzMPu4N1iyjnNt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059494557180706817/vid/avc1/720x1044/N5uXoLb5cOrng41K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059494557180706817/pl/4nfpSN7VHAk4AYeY.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059494557180706817/vid/avc1/480x696/Izn7yMqxXK1r3E6X.mp4"
+          }
+        ],
+        "width": 884
+      },
+      {
+        "height": 1959,
+        "media_key": "3_2059494569306370048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJTLZixaMAAovrE.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2059494706405605737",
+        "created_at": "2026-05-27T13:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059631923803369920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1874809413229527040",
+              "start": 0,
+              "username": "zmx8067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059631923803369920",
+        "in_reply_to_user_id": "1874809413229527040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059494706405605737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zmx8067 傻卵日本也够狂叫就是了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059494557180706817",
+            "3_2059494569306370048"
+          ]
+        },
+        "author_id": "1874809413229527040",
+        "conversation_id": "2059494706405605737",
+        "created_at": "2026-05-27T04:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059494706405605737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCAKkMgWaQ",
+              "end": 137,
+              "expanded_url": "https://x.com/zmx8067/status/2059494706405605737/video/1",
+              "media_key": "13_2059494557180706817",
+              "start": 114,
+              "url": "https://t.co/oCAKkMgWaQ"
+            },
+            {
+              "display_url": "pic.x.com/oCAKkMgWaQ",
+              "end": 137,
+              "expanded_url": "https://x.com/zmx8067/status/2059494706405605737/video/1",
+              "media_key": "3_2059494569306370048",
+              "start": 114,
+              "url": "https://t.co/oCAKkMgWaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059494706405605737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「社交媒體讓我害怕，害怕到吃不下飯。」\n\n🇯🇵一名日本媽媽和孩子在酒店跳舞，看得出是真的開心。影片發佈後遭到日本網民網暴，認為她沒有給孩子做好榜樣。\n\n當事人不得不站出來道歉，當日本網民仍然不肯放過她，要求同伴也要站出來道歉。\n\n🇨🇳中國網紅夫妻在羅森門口跳舞要道歉，日本媽媽帶孩子跳舞也要道歉，日本社會的道歉是不是太多了一點？🤔"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 338291,
+          "like_count": 869,
+          "quote_count": 31,
+          "reply_count": 218,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "「社交媒體讓我害怕，害怕到吃不下飯。」\n\n🇯🇵一名日本媽媽和孩子在酒店跳舞，看得出是真的開心。影片發佈後遭到日本網民網暴，認為她沒有給孩子做好榜樣。\n\n當事人不得不站出來道歉，當日本網民仍然不肯放過她，要求同伴也要站出來道歉。 https://t.co/oCAKkMgWaQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 1105,
+          "like_count": 30169,
+          "listed_count": 7,
+          "media_count": 581,
+          "tweet_count": 6113
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T13:26:25.000Z",
+        "description": "關注與中國🇨🇳有關的時政新聞和八卦。\n\nFollow political news and gossip related to China.",
+        "id": "1874809413229527040",
+        "name": "油爆琵琶拌着面🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914664813873258498/lx4gOiqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16775,
+          "following_count": 4032,
+          "like_count": 42070,
+          "listed_count": 68,
+          "media_count": 2328,
+          "tweet_count": 18713
+        },
+        "username": "zmx8067",
+        "verified": true
+      }
+    ]
+  }
+}

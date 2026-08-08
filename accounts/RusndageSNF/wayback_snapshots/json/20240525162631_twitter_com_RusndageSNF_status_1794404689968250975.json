@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1793896918449611059",
+    "created_at": "2024-05-25T16:26:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T17:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794404689968250975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1012559735457890305",
+          "start": 0,
+          "username": "libera011010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794404689968250975",
+    "in_reply_to_user_id": "1012559735457890305",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793896918449611059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libera011010 要不咱先把渤海跨海大桥先建好（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1793896918449611059",
+        "created_at": "2024-05-25T16:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T17:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794404689968250975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1012559735457890305",
+              "start": 0,
+              "username": "libera011010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794404689968250975",
+        "in_reply_to_user_id": "1012559735457890305",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793896918449611059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libera011010 要不咱先把渤海跨海大桥先建好（？）"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793896915219992576"
+          ]
+        },
+        "author_id": "1012559735457890305",
+        "conversation_id": "1793896918449611059",
+        "created_at": "2024-05-24T06:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T07:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793896918449611059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8WpAWTRZX1",
+              "end": 32,
+              "expanded_url": "https://twitter.com/libera011010/status/1793896918449611059/photo/1",
+              "media_key": "3_1793896915219992576",
+              "start": 9,
+              "url": "https://t.co/8WpAWTRZX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793896918449611059",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3521,
+          "like_count": 107,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你倒是建设啊🤬🤬 https://t.co/8WpAWTRZX1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 648,
+          "like_count": 13535,
+          "listed_count": 5,
+          "tweet_count": 2340
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-29T04:53:48.000Z",
+        "description": "talk is cheap, shut up and calculate/一个不成熟的理想主义者会为理想悲壮地死去，而一个成熟的理想主义者则愿意为理想苟且地活着/谁都可以为失败找理由，但是人生是自己的，最好还是过得好一点/搞臭学术的",
+        "id": "1012559735457890305",
+        "name": "☭Libera☭",
+        "pinned_tweet_id": "1700366899937472739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460269388649549828/wgT9qUe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4428,
+          "following_count": 686,
+          "like_count": 48490,
+          "listed_count": 59,
+          "tweet_count": 21084
+        },
+        "username": "libera011010",
+        "verified": false
+      }
+    ]
+  }
+}

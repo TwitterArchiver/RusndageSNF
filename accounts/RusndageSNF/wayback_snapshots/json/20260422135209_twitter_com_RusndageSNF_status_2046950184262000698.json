@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2046950184262000698",
+    "created_at": "2026-04-22T13:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046950184262000698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880140645454725120",
+          "start": 3,
+          "username": "DianJ71828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046950184262000698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046512874236092471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DianJ71828: 这么喜欢保守就滚回你的墙内"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2046950184262000698",
+        "created_at": "2026-04-22T13:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046950184262000698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1880140645454725120",
+              "start": 3,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046950184262000698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046512874236092471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DianJ71828: 这么喜欢保守就滚回你的墙内"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2046512874236092471",
+        "created_at": "2026-04-21T08:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046512874236092471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046512874236092471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2529,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "这么喜欢保守就滚回你的墙内"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 1092,
+          "like_count": 29732,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 6009
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 536,
+          "like_count": 12870,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 2489
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

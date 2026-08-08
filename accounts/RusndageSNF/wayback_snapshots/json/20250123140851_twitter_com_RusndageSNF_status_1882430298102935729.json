@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1882422903729438873",
+    "created_at": "2025-01-23T14:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T15:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882430298102935729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1834189582017134592",
+          "start": 0,
+          "username": "wb5ZXd4DvY39652"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882430298102935729",
+    "in_reply_to_user_id": "1834189582017134592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882429262072070626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wb5ZXd4DvY39652 啊对对对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1882422903729438873",
+        "created_at": "2025-01-23T14:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T15:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882430298102935729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1834189582017134592",
+              "start": 0,
+              "username": "wb5ZXd4DvY39652"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882430298102935729",
+        "in_reply_to_user_id": "1834189582017134592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882429262072070626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wb5ZXd4DvY39652 啊对对对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834189582017134592",
+        "conversation_id": "1882422903729438873",
+        "created_at": "2025-01-23T14:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T15:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882429262072070626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882429262072070626",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882422903729438873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 你真的是男娘吗？感觉你的声音好像女生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 857,
+          "like_count": 22066,
+          "listed_count": 7,
+          "media_count": 364,
+          "tweet_count": 3858
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T11:17:36.000Z",
+        "description": "",
+        "id": "1834189582017134592",
+        "name": "胡焱彪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867318547913093123/1KD918xb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 49,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 123
+        },
+        "username": "wb5ZXd4DvY39652",
+        "verified": false
+      }
+    ]
+  }
+}

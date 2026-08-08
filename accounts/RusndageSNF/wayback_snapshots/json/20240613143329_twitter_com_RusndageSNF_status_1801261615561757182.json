@@ -1,0 +1,223 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      }
+    ],
+    "conversation_id": "1801227890044072075",
+    "created_at": "2024-06-13T14:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T15:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801261615561757182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1564251283984650241",
+          "start": 0,
+          "username": "Citricat_miaow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801261615561757182",
+    "in_reply_to_user_id": "1564251283984650241",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801227890044072075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citricat_miaow 这天空调坏了，不得感染？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1801227890044072075",
+        "created_at": "2024-06-13T14:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T15:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801261615561757182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1564251283984650241",
+              "start": 0,
+              "username": "Citricat_miaow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801261615561757182",
+        "in_reply_to_user_id": "1564251283984650241",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801227890044072075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citricat_miaow 这天空调坏了，不得感染？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1564251283984650241",
+        "conversation_id": "1801227890044072075",
+        "created_at": "2024-06-13T12:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T13:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801227890044072075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801227890044072075",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 706,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "快逃，别来411，整个整外21层空调制冷都坏了，不是你们热水器也坏了，空调也坏了，你们这不符合日内瓦公约！！！啊啊啊啊我要死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 652,
+          "like_count": 13969,
+          "listed_count": 5,
+          "tweet_count": 2448
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T13:59:12.000Z",
+        "description": "mutual following≠agree with\n互关不代表本人立场",
+        "id": "1564251283984650241",
+        "location": "mitochondria matrix",
+        "name": "Citric acid🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663411578467938305/ypoACmu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 303,
+          "like_count": 8208,
+          "listed_count": 0,
+          "tweet_count": 3456
+        },
+        "username": "Citricat_miaow",
+        "verified": false
+      }
+    ]
+  }
+}

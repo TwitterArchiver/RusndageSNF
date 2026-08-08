@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1892521892235321817",
+    "created_at": "2025-02-20T11:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T12:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892535343246688554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1661038832941252610",
+          "start": 0,
+          "username": "deuxexmachina11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892535343246688554",
+    "in_reply_to_user_id": "1661038832941252610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892535205077873095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deuxexmachina11 柔造"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1892521892235321817",
+        "created_at": "2025-02-20T11:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T12:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892535343246688554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661038832941252610",
+              "start": 0,
+              "username": "deuxexmachina11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892535343246688554",
+        "in_reply_to_user_id": "1661038832941252610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892535205077873095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deuxexmachina11 柔造"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661038832941252610",
+        "conversation_id": "1892521892235321817",
+        "created_at": "2025-02-20T11:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T12:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892535205077873095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892535205077873095",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892521892235321817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 哪家做的镭射"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 888,
+          "like_count": 22599,
+          "listed_count": 7,
+          "media_count": 389,
+          "tweet_count": 4047
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T15:58:28.000Z",
+        "description": "",
+        "id": "1661038832941252610",
+        "location": "银河联邦自由地区",
+        "name": "403💙💛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661038898682765312/b6QmPbIR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 270,
+          "like_count": 1318,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 57
+        },
+        "username": "deuxexmachina11",
+        "verified": false
+      }
+    ]
+  }
+}

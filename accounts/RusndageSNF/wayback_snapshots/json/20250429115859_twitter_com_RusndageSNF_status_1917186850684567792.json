@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1917174160289395025",
+    "created_at": "2025-04-29T11:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T12:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917186850684567792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905967025509539840",
+          "start": 0,
+          "username": "Apatite_Cinis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917186850684567792",
+    "in_reply_to_user_id": "1905967025509539840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917177478009012437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apatite_Cinis 是这样的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1917174160289395025",
+        "created_at": "2025-04-29T11:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T12:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917186850684567792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905967025509539840",
+              "start": 0,
+              "username": "Apatite_Cinis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917186850684567792",
+        "in_reply_to_user_id": "1905967025509539840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917177478009012437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apatite_Cinis 是这样的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905967025509539840",
+        "conversation_id": "1917174160289395025",
+        "created_at": "2025-04-29T11:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T12:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917177478009012437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917177478009012437",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917174160289395025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 衣服上画的是戊酸雌二酯罢(确信)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 950,
+          "like_count": 24655,
+          "listed_count": 7,
+          "media_count": 419,
+          "tweet_count": 4470
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T12:55:36.000Z",
+        "description": "踩著半車金礦狂奔向公墓而去。",
+        "id": "1905967025509539840",
+        "name": "湛陨的磷灰石骨灰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905967187984359424/OooR3E6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 26,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 117
+        },
+        "username": "Apatite_Cinis",
+        "verified": false
+      }
+    ]
+  }
+}

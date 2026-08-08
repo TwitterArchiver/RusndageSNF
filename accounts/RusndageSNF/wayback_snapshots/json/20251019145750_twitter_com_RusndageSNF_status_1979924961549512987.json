@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1979843707466866897",
+    "created_at": "2025-10-19T14:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T15:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979924961549512987"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "magixx",
+          "probability": 0.7192,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1442843657770504202",
+          "start": 0,
+          "username": "Poloolpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979924961549512987",
+    "in_reply_to_user_id": "1442843657770504202",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979843707466866897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Poloolpp wait magixx?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979843702966145024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nRW7IXUAAJX9c.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1979843707466866897",
+        "created_at": "2025-10-19T14:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T15:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979924961549512987"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "magixx",
+              "probability": 0.7192,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1442843657770504202",
+              "start": 0,
+              "username": "Poloolpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979924961549512987",
+        "in_reply_to_user_id": "1442843657770504202",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979843707466866897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poloolpp wait magixx?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979843702966145024"
+          ]
+        },
+        "author_id": "1442843657770504202",
+        "conversation_id": "1979843707466866897",
+        "created_at": "2025-10-19T09:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979843707466866897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UkzesWLqxw",
+              "end": 39,
+              "expanded_url": "https://x.com/Poloolpp/status/1979843707466866897/photo/1",
+              "media_key": "3_1979843702966145024",
+              "start": 16,
+              "url": "https://t.co/UkzesWLqxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979843707466866897",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 23571,
+          "like_count": 1182,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Good morning ❤️ https://t.co/UkzesWLqxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 1049,
+          "like_count": 27824,
+          "listed_count": 7,
+          "media_count": 524,
+          "tweet_count": 5461
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T13:28:39.000Z",
+        "description": "✝️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "poloolpp.com",
+                "end": 23,
+                "expanded_url": "http://poloolpp.com",
+                "start": 0,
+                "url": "https://t.co/2TM7Vaecus"
+              }
+            ]
+          }
+        },
+        "id": "1442843657770504202",
+        "name": "ً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923313818932772864/IFp_KSVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12092,
+          "following_count": 480,
+          "like_count": 139658,
+          "listed_count": 20,
+          "media_count": 7777,
+          "tweet_count": 38732
+        },
+        "url": "https://t.co/2TM7Vaecus",
+        "username": "Poloolpp",
+        "verified": true
+      }
+    ]
+  }
+}

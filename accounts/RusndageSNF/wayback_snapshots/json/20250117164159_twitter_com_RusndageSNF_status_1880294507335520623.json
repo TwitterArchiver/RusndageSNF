@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1880216172123287814",
+    "created_at": "2025-01-17T16:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T17:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880294507335520623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1293926136645394435",
+          "start": 0,
+          "username": "ctct1927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880294507335520623",
+    "in_reply_to_user_id": "1293926136645394435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880216172123287814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctct1927 什么绝命毒师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1880216172123287814",
+        "created_at": "2025-01-17T16:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T17:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880294507335520623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1293926136645394435",
+              "start": 0,
+              "username": "ctct1927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880294507335520623",
+        "in_reply_to_user_id": "1293926136645394435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880216172123287814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctct1927 什么绝命毒师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880216169874952192"
+          ]
+        },
+        "author_id": "1293926136645394435",
+        "conversation_id": "1880216172123287814",
+        "created_at": "2025-01-17T11:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T12:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880216172123287814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUvNWXHMaF",
+              "end": 29,
+              "expanded_url": "https://x.com/ctct1927/status/1880216172123287814/photo/1",
+              "media_key": "3_1880216169874952192",
+              "start": 6,
+              "url": "https://t.co/JUvNWXHMaF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880216172123287814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 28672,
+          "like_count": 285,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "芬太尼吗？ https://t.co/JUvNWXHMaF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 843,
+          "like_count": 21905,
+          "listed_count": 7,
+          "media_count": 361,
+          "tweet_count": 3801
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-13T15:03:35.000Z",
+        "description": "in exile\nDeutsch English Nederlands\n\nRome catholic",
+        "id": "1293926136645394435",
+        "location": "Cantonia",
+        "name": "Athanas urbis aquensis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821904883886194688/YAAuw0EE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 1117,
+          "like_count": 14778,
+          "listed_count": 0,
+          "media_count": 3377,
+          "tweet_count": 13240
+        },
+        "username": "ctct1927",
+        "verified": false
+      }
+    ]
+  }
+}

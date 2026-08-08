@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1754045443179532326",
+    "created_at": "2024-11-09T20:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T21:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855353305855324339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1712574304293146624",
+          "start": 0,
+          "username": "ciang520"
+        },
+        {
+          "end": 17,
+          "id": "1565601311252684801",
+          "start": 10,
+          "username": "rg94cz"
+        },
+        {
+          "end": 29,
+          "id": "1466106608140890112",
+          "start": 18,
+          "username": "Kateamine5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855353305855324339",
+    "in_reply_to_user_id": "1712574304293146624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1763311942364729446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciang520 @rg94cz @Kateamine5 哪里"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Kateamine5].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Kateamine5",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Kateamine5"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1754045443179532326",
+        "created_at": "2024-11-09T20:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T21:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855353305855324339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1712574304293146624",
+              "start": 0,
+              "username": "ciang520"
+            },
+            {
+              "end": 17,
+              "id": "1565601311252684801",
+              "start": 10,
+              "username": "rg94cz"
+            },
+            {
+              "end": 29,
+              "id": "1466106608140890112",
+              "start": 18,
+              "username": "Kateamine5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855353305855324339",
+        "in_reply_to_user_id": "1712574304293146624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1763311942364729446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciang520 @rg94cz @Kateamine5 哪里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712574304293146624",
+        "conversation_id": "1754045443179532326",
+        "created_at": "2024-02-29T21:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-29T22:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1763311942364729446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1565601311252684801",
+              "start": 0,
+              "username": "rg94cz"
+            },
+            {
+              "end": 19,
+              "id": "1466106608140890112",
+              "start": 8,
+              "username": "Kateamine5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1763311942364729446",
+        "in_reply_to_user_id": "1565601311252684801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1758733389413404967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rg94cz @Kateamine5 有耶他有開新的啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 742,
+          "like_count": 18760,
+          "listed_count": 4,
+          "tweet_count": 3230
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T21:02:24.000Z",
+        "description": "30Y(算大叔了嗎?)/人類觀察家(我觀察你觀察我) 性取向為雙性的異性戀者(女樣外表會心動，男樣外表可打炮)，遇女則男，遇一則零，遇三性則都可以XD 8年執著，從呼到打，各類糖果皆有輕微涉略，分享心得心情看看黃推，尋找快樂最大化，歡迎同好各種交流討論~",
+        "id": "1712574304293146624",
+        "location": "新北",
+        "name": "五短必有一長!?",
+        "pinned_tweet_id": "1713617379945742617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712575581282562048/BbeTazi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 135,
+          "like_count": 103,
+          "listed_count": 0,
+          "tweet_count": 99
+        },
+        "username": "ciang520",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T07:23:42.000Z",
+        "description": "",
+        "id": "1565601311252684801",
+        "name": "嘿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659603631640043520/3dRkzFc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 377,
+          "like_count": 65,
+          "listed_count": 1,
+          "tweet_count": 12
+        },
+        "username": "rg94cz",
+        "verified": false
+      }
+    ]
+  }
+}

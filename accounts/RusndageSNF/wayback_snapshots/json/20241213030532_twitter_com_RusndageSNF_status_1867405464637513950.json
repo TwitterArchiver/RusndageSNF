@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1867405464637513950",
+    "created_at": "2024-12-13T03:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T04:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867405464637513950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1597427191272603648",
+          "start": 3,
+          "username": "gherojamslava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867405464637513950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867093748787888616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @gherojamslava: 中国法律承认变更性别，有意见的去找人大代表反应嘛，这里可是 人 民 民 主 专 政 国 家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1867405464637513950",
+        "created_at": "2024-12-13T03:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T04:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867405464637513950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1597427191272603648",
+              "start": 3,
+              "username": "gherojamslava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867405464637513950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867093748787888616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @gherojamslava: 中国法律承认变更性别，有意见的去找人大代表反应嘛，这里可是 人 民 民 主 专 政 国 家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597427191272603648",
+        "conversation_id": "1867093748787888616",
+        "created_at": "2024-12-12T06:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T07:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867093748787888616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867093748787888616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2525,
+          "like_count": 94,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "following",
+        "text": "中国法律承认变更性别，有意见的去找人大代表反应嘛，这里可是 人 民 民 主 专 政 国 家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 762,
+          "like_count": 20450,
+          "listed_count": 4,
+          "media_count": 322,
+          "tweet_count": 3445
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T03:08:35.000Z",
+        "description": "语言学爱好者|温和的极左分子|语言权利|革命则自由，有自由则有多样性",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sgnikukukyrysk…",
+                "end": 23,
+                "expanded_url": "https://t.me/sgnikukukyrysket",
+                "start": 0,
+                "url": "https://t.co/s7NyjdQM0o"
+              }
+            ]
+          }
+        },
+        "id": "1597427191272603648",
+        "location": "Ceō-iú-náng ē léng-ha̍h-tê",
+        "name": "☭↙️🌐ΣωΑΠλα |そあぷら゚|SoAPla|ܣܘܐܦܠ|소압라|सोअप्ल",
+        "pinned_tweet_id": "1852634948232220674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855112448778682368/uKGJ3wMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 676,
+          "like_count": 127991,
+          "listed_count": 12,
+          "media_count": 671,
+          "tweet_count": 25338
+        },
+        "url": "https://t.co/s7NyjdQM0o",
+        "username": "gherojamslava",
+        "verified": false
+      }
+    ]
+  }
+}

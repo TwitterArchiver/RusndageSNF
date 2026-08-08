@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1924624550484181016",
+    "created_at": "2025-05-21T17:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T18:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925243991655862715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1818214513059201024",
+          "start": 0,
+          "username": "1234568hhhhh"
+        },
+        {
+          "end": 22,
+          "id": "1433678976564662273",
+          "start": 14,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925243991655862715",
+    "in_reply_to_user_id": "1818214513059201024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925157848180281421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1234568hhhhh @hsn8086 RAR ISO等等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1924624550484181016",
+        "created_at": "2025-05-21T17:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T18:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925243991655862715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1818214513059201024",
+              "start": 0,
+              "username": "1234568hhhhh"
+            },
+            {
+              "end": 22,
+              "id": "1433678976564662273",
+              "start": 14,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925243991655862715",
+        "in_reply_to_user_id": "1818214513059201024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925157848180281421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1234568hhhhh @hsn8086 RAR ISO等等"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818214513059201024",
+        "conversation_id": "1924624550484181016",
+        "created_at": "2025-05-21T11:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T12:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925157848180281421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925157848180281421",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924624550484181016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 zip 7z 还有啥吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 954,
+          "like_count": 25236,
+          "listed_count": 8,
+          "media_count": 433,
+          "tweet_count": 4627
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T09:18:22.000Z",
+        "description": "所谓过往，皆为序章",
+        "id": "1818214513059201024",
+        "location": "鸡窝托斯",
+        "name": "星野日向（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823799508263669761/CFFimO0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 613,
+          "like_count": 7841,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1522
+        },
+        "username": "1234568hhhhh",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70390,
+          "following_count": 965,
+          "like_count": 40155,
+          "listed_count": 156,
+          "media_count": 11399,
+          "tweet_count": 17701
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

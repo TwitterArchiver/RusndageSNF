@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2037319408301817920",
+    "created_at": "2026-03-27T08:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037445186427801756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1811066395234553858",
+          "start": 0,
+          "username": "sleepymei3"
+        },
+        {
+          "end": 20,
+          "id": "1138458175663988738",
+          "start": 12,
+          "username": "PopBase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037445186427801756",
+    "in_reply_to_user_id": "1811066395234553858",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037329810188341276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleepymei3 @PopBase true"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2037319408301817920",
+        "created_at": "2026-03-27T08:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037445186427801756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1811066395234553858",
+              "start": 0,
+              "username": "sleepymei3"
+            },
+            {
+              "end": 20,
+              "id": "1138458175663988738",
+              "start": 12,
+              "username": "PopBase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037445186427801756",
+        "in_reply_to_user_id": "1811066395234553858",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037329810188341276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleepymei3 @PopBase true"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811066395234553858",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "description": "A league for all teams for all sports for the country: Russian Federation",
+              "id": "1483105975439486976",
+              "name": "ROC Team (Russian Olympic Committee)"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "A league for all teams for all sports for the country: Russian Federation",
+              "id": "1483105975439486976",
+              "name": "ROC Team (Russian Olympic Committee)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "A league for all teams for all sports for the country: Russian Federation",
+              "id": "1483105975439486976",
+              "name": "ROC Team (Russian Olympic Committee)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "2037319408301817920",
+        "created_at": "2026-03-27T00:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037329810188341276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1138458175663988738",
+              "start": 0,
+              "username": "PopBase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037329810188341276",
+        "in_reply_to_user_id": "1138458175663988738",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 64891,
+          "like_count": 2518,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037319408301817920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PopBase I would just like to specify that this ban was only put in place to appease the worst of people. \n\nKeep in mind the Olympics keeps allowing Israel to play but they banned Russia, and they allowed a child rapist to play multiple times. Of course MAGA loves this."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 1084,
+          "like_count": 29389,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5868
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T15:55:18.000Z",
+        "description": "16\nshe/her\n⚢",
+        "id": "1811066395234553858",
+        "name": "mei 爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034392137920385024/BT6HdDEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 93,
+          "like_count": 14681,
+          "listed_count": 44,
+          "media_count": 752,
+          "tweet_count": 9864
+        },
+        "username": "sleepymei3",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-11T14:49:15.000Z",
+        "description": "Pop Base is your best source for all pop culture related entertainment, news, award show coverage, chart updates, statistics and more. | email@popbase.tv",
+        "id": "1138458175663988738",
+        "name": "Pop Base",
+        "pinned_tweet_id": "2035208528911061320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268086791443230737/BRGz4AiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847973,
+          "following_count": 2655,
+          "like_count": 3756,
+          "listed_count": 4874,
+          "media_count": 69895,
+          "tweet_count": 86346
+        },
+        "username": "PopBase",
+        "verified": true
+      }
+    ]
+  }
+}

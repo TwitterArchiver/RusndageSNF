@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2022150208000602447",
+    "created_at": "2026-02-13T03:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022150208000602447"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "Kylie Smith",
+          "probability": 0.9463,
+          "start": 34,
+          "type": "Person"
+        },
+        {
+          "end": 85,
+          "normalized_text": "Tumbler Ridge",
+          "probability": 0.8653,
+          "start": 73,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1495027263531749378",
+          "start": 3,
+          "username": "BrendaB63153826"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022150208000602447",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3046
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021874393576563018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BrendaB63153826: 12 years old Kylie Smith lost her life yesterday in Tumbler Ridge. Her father has requested that we share her picture…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 630,
+        "media_key": "3_2021874238257565696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8j6EfbEAAs0Hc.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2022150208000602447",
+        "created_at": "2026-02-13T03:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022150208000602447"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "Kylie Smith",
+              "probability": 0.9463,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 85,
+              "normalized_text": "Tumbler Ridge",
+              "probability": 0.8653,
+              "start": 73,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1495027263531749378",
+              "start": 3,
+              "username": "BrendaB63153826"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022150208000602447",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3046
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021874393576563018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BrendaB63153826: 12 years old Kylie Smith lost her life yesterday in Tumbler Ridge. Her father has requested that we share her picture…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021874238257565696"
+          ]
+        },
+        "author_id": "1495027263531749378",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Needlework",
+              "id": "847869593674698752",
+              "name": "Needlework"
+            }
+          }
+        ],
+        "conversation_id": "2021874393576563018",
+        "created_at": "2026-02-12T09:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021874393576563018"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Kylie Smith",
+              "probability": 0.9568,
+              "start": 13,
+              "type": "Person"
+            },
+            {
+              "end": 64,
+              "normalized_text": "Tumbler Ridge",
+              "probability": 0.903,
+              "start": 52,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ewdvX5Lwxz",
+              "end": 266,
+              "expanded_url": "https://x.com/BrendaB63153826/status/2021874393576563018/photo/1",
+              "media_key": "3_2021874238257565696",
+              "start": 243,
+              "url": "https://t.co/ewdvX5Lwxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021874393576563018",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 149067,
+          "like_count": 16768,
+          "quote_count": 86,
+          "reply_count": 310,
+          "retweet_count": 3046
+        },
+        "reply_settings": "everyone",
+        "text": "12 years old Kylie Smith lost her life yesterday in Tumbler Ridge. Her father has requested that we share her picture to remind everyone that the unbelievable pain that is being experienced by a tight knit community will resonate for decades. https://t.co/ewdvX5Lwxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 1068,
+          "like_count": 28733,
+          "listed_count": 9,
+          "media_count": 552,
+          "tweet_count": 5707
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-19T13:27:57.000Z",
+        "description": "Really Pissed off Canadian. My Tweets contain, spelling errors, grammatical errors, missing letters and sometimes whole words but you will figure it out NO DM",
+        "id": "1495027263531749378",
+        "name": "\"Princess\" Brenda Brown- Now at the \"Garden House\"",
+        "pinned_tweet_id": "1710377182621741118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018484590080675840/xxRH0MeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9922,
+          "following_count": 5070,
+          "like_count": 345171,
+          "listed_count": 4,
+          "media_count": 11433,
+          "tweet_count": 96078
+        },
+        "username": "BrendaB63153826",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1815937315984007674",
+    "created_at": "2024-07-25T07:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T08:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816373028147913158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1666425403890868224",
+          "start": 0,
+          "username": "TKipcezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816373028147913158",
+    "in_reply_to_user_id": "1666425403890868224",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816337488694157606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TKipcezhi ✓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1815937315984007674",
+        "created_at": "2024-07-25T07:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T08:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816373028147913158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1666425403890868224",
+              "start": 0,
+              "username": "TKipcezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816373028147913158",
+        "in_reply_to_user_id": "1666425403890868224",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816337488694157606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKipcezhi ✓"
+      },
+      {
+        "attachments": {},
+        "author_id": "1666425403890868224",
+        "conversation_id": "1815937315984007674",
+        "created_at": "2024-07-25T04:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T05:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816337488694157606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816337488694157606",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815937315984007674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 这是在。。灌肠？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 676,
+          "like_count": 15091,
+          "listed_count": 5,
+          "tweet_count": 2631
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T12:43:12.000Z",
+        "description": "The freedom is what i'm seeking.",
+        "id": "1666425403890868224",
+        "location": "拉特兰",
+        "name": "向往黎博利的黎博利",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734581163891847169/cMLcQdPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 93,
+          "like_count": 5880,
+          "listed_count": 0,
+          "tweet_count": 682
+        },
+        "username": "TKipcezhi",
+        "verified": false
+      }
+    ]
+  }
+}

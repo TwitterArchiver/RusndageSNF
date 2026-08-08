@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1925197557044576682",
+    "created_at": "2025-05-22T05:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T06:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925429732981805329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865882217404317696",
+          "start": 0,
+          "username": "8964zyn0622"
+        },
+        {
+          "end": 22,
+          "id": "1574491477543206912",
+          "start": 13,
+          "username": "AomameYe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925429732981805329",
+    "in_reply_to_user_id": "1865882217404317696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925269814865441161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964zyn0622 @AomameYe 你永远都是支那人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1925197557044576682",
+        "created_at": "2025-05-22T05:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T06:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925429732981805329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865882217404317696",
+              "start": 0,
+              "username": "8964zyn0622"
+            },
+            {
+              "end": 22,
+              "id": "1574491477543206912",
+              "start": 13,
+              "username": "AomameYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925429732981805329",
+        "in_reply_to_user_id": "1865882217404317696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925269814865441161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964zyn0622 @AomameYe 你永远都是支那人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865882217404317696",
+        "conversation_id": "1925197557044576682",
+        "created_at": "2025-05-21T19:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T20:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925269814865441161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1574491477543206912",
+              "start": 0,
+              "username": "AomameYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925269814865441161",
+        "in_reply_to_user_id": "1574491477543206912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925197557044576682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AomameYe 跨➗差不多得了😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 955,
+          "like_count": 25242,
+          "listed_count": 8,
+          "media_count": 433,
+          "tweet_count": 4632
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T22:13:08.000Z",
+        "description": "大家好，我叫张钰宁，家住山西省太原市小店区体育路351号，身份证号是140105200806220091，职业是学生。 我代表我全家在X平台实名反共反支，斩首独裁国贼习近平！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zyn-publiic.vercel.app",
+                "end": 23,
+                "expanded_url": "https://zyn-publiic.vercel.app",
+                "start": 0,
+                "url": "https://t.co/8gkjwbMMqS"
+              }
+            ]
+          }
+        },
+        "id": "1865882217404317696",
+        "location": "山西省太原市小店区体育路351号",
+        "name": "山西太原张钰宁实名反共反支",
+        "pinned_tweet_id": "1900685152335831256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895324240468934656/J4OdUfno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 131,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/8gkjwbMMqS",
+        "username": "8964zyn0622",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T20:10:07.000Z",
+        "description": "🧘‍♀️🪷📿🦭🏳️‍🌈🏳️‍⚧️",
+        "id": "1574491477543206912",
+        "location": "Montreal, Quebec",
+        "name": "☁︎青豆☁︎（non-op trans girl🏳️‍⚧️）",
+        "pinned_tweet_id": "1879977041464029250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887486740765585408/4g6Y1NGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 257,
+          "like_count": 32499,
+          "listed_count": 4,
+          "media_count": 289,
+          "tweet_count": 3394
+        },
+        "username": "AomameYe",
+        "verified": false
+      }
+    ]
+  }
+}

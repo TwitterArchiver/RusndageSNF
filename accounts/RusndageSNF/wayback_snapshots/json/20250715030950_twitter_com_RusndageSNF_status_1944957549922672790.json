@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1944833199638765869",
+    "created_at": "2025-07-15T03:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T04:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944957549922672790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1454803007682453513",
+          "start": 0,
+          "username": "I_Xinnnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944957549922672790",
+    "in_reply_to_user_id": "1454803007682453513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944833199638765869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@I_Xinnnnn 我把这人从我群踹了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1872,
+        "media_key": "3_1944833195134083074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv1vfJ9a4AIo62g.jpg",
+        "width": 1264
+      },
+      {
+        "height": 2100,
+        "media_key": "3_1944833196798943232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv1vfQKWoAAfLaC.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1944833199638765869",
+        "created_at": "2025-07-15T03:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T04:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944957549922672790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1454803007682453513",
+              "start": 0,
+              "username": "I_Xinnnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944957549922672790",
+        "in_reply_to_user_id": "1454803007682453513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944833199638765869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@I_Xinnnnn 我把这人从我群踹了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944833195134083074",
+            "3_1944833196798943232"
+          ]
+        },
+        "author_id": "1454803007682453513",
+        "conversation_id": "1944833199638765869",
+        "created_at": "2025-07-14T18:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T19:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944833199638765869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Syz8FpXu5d",
+              "end": 158,
+              "expanded_url": "https://x.com/I_Xinnnnn/status/1944833199638765869/photo/1",
+              "media_key": "3_1944833195134083074",
+              "start": 135,
+              "url": "https://t.co/Syz8FpXu5d"
+            },
+            {
+              "display_url": "pic.x.com/Syz8FpXu5d",
+              "end": 158,
+              "expanded_url": "https://x.com/I_Xinnnnn/status/1944833199638765869/photo/1",
+              "media_key": "3_1944833196798943232",
+              "start": 135,
+              "url": "https://t.co/Syz8FpXu5d"
+            },
+            {
+              "display_url": "x.com/I_Xinnnnn/stat…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/I_Xinnnnn/status/1944828762924966053",
+              "start": 159,
+              "url": "https://t.co/Et4i7EgQF0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944833199638765869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1037,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944828762924966053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个畜生，用自己癌症晚期骗取我对象兔毛的同情，说自己过完年差不多就死了。然后快过年了他来找兔毛玩，我本就很讨厌他但是兔毛可怜他。还是把他接到家里了，结果到了我觉感觉他一直在创造那种做爱的氛围。我一直拒绝，呆了两三天我实在受不了了，我发疯把他赶走了，然后我俩全部拉黑他。 https://t.co/Syz8FpXu5d https://t.co/Et4i7EgQF0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 1004,
+          "like_count": 26541,
+          "listed_count": 8,
+          "media_count": 459,
+          "tweet_count": 5041
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-31T13:31:05.000Z",
+        "description": "非二元/性别解放主义/hrt2023.6.25/对象@Rabbit_Pussy/愿化作一朵水仙花。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Rabbit_Pussy"
+              }
+            ]
+          }
+        },
+        "id": "1454803007682453513",
+        "location": "Chiba-ken, Japan",
+        "name": "依欣",
+        "pinned_tweet_id": "1872187369094603160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866142697205235712/V8vykQOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 940,
+          "like_count": 7679,
+          "listed_count": 5,
+          "media_count": 113,
+          "tweet_count": 1501
+        },
+        "username": "I_Xinnnnn",
+        "verified": false
+      }
+    ]
+  }
+}

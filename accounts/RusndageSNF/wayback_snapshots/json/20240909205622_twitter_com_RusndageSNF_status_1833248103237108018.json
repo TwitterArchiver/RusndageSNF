@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1832784639175344432",
+    "created_at": "2024-09-09T20:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T21:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833248103237108018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1554697573004636164",
+          "start": 0,
+          "username": "afreebeagle"
+        },
+        {
+          "end": 23,
+          "id": "736207142709923840",
+          "start": 13,
+          "username": "AapkaPapu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833248103237108018",
+    "in_reply_to_user_id": "1554697573004636164",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832952403118960903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afreebeagle @AapkaPapu 亲测支那对各类少数人群（包括性少数，谱系人群等）的包容度远低于西欧及北美地区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1832784639175344432",
+        "created_at": "2024-09-09T20:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T21:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833248103237108018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554697573004636164",
+              "start": 0,
+              "username": "afreebeagle"
+            },
+            {
+              "end": 23,
+              "id": "736207142709923840",
+              "start": 13,
+              "username": "AapkaPapu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833248103237108018",
+        "in_reply_to_user_id": "1554697573004636164",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832952403118960903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afreebeagle @AapkaPapu 亲测支那对各类少数人群（包括性少数，谱系人群等）的包容度远低于西欧及北美地区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554697573004636164",
+        "conversation_id": "1832784639175344432",
+        "created_at": "2024-09-09T01:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T02:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832952403118960903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "736207142709923840",
+              "start": 0,
+              "username": "AapkaPapu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832952403118960903",
+        "in_reply_to_user_id": "736207142709923840",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3253,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832784639175344432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AapkaPapu 无非是阿斯伯格和ADHD宝宝，算什么基因缺陷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 692,
+          "like_count": 16646,
+          "listed_count": 5,
+          "tweet_count": 2801
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T05:16:23.000Z",
+        "description": "",
+        "id": "1554697573004636164",
+        "name": "Cel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586391340413116416/jBwYZxk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 53,
+          "like_count": 33043,
+          "listed_count": 0,
+          "tweet_count": 2343
+        },
+        "username": "afreebeagle",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-27T14:47:15.000Z",
+        "description": "头像是本人",
+        "id": "736207142709923840",
+        "name": "这个社会是有罪的",
+        "pinned_tweet_id": "1477890273694920704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830287323772145664/B3cZNqxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38556,
+          "following_count": 340,
+          "like_count": 9532,
+          "listed_count": 168,
+          "tweet_count": 6452
+        },
+        "username": "AapkaPapu",
+        "verified": false
+      }
+    ]
+  }
+}

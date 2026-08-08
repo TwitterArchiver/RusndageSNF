@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1828356125080854578",
+    "created_at": "2024-08-28T18:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T19:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828857890272358879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1423227442261479425",
+          "start": 0,
+          "username": "WhiteCl117"
+        },
+        {
+          "end": 28,
+          "id": "1565988119941627905",
+          "start": 12,
+          "username": "badgalkohakurin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828857890272358879",
+    "in_reply_to_user_id": "1423227442261479425",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828484864133455874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WhiteCl117 @badgalkohakurin 15，16年最爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1828356125080854578",
+        "created_at": "2024-08-28T18:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T19:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828857890272358879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1423227442261479425",
+              "start": 0,
+              "username": "WhiteCl117"
+            },
+            {
+              "end": 28,
+              "id": "1565988119941627905",
+              "start": 12,
+              "username": "badgalkohakurin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828857890272358879",
+        "in_reply_to_user_id": "1423227442261479425",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828484864133455874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhiteCl117 @badgalkohakurin 15，16年最爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423227442261479425",
+        "conversation_id": "1828356125080854578",
+        "created_at": "2024-08-27T17:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T18:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828484864133455874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565988119941627905",
+              "start": 0,
+              "username": "badgalkohakurin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828484864133455874",
+        "in_reply_to_user_id": "1565988119941627905",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 911,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828356125080854578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badgalkohakurin 应该是2014年，17年已经有农和吃鸡了hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 680,
+          "like_count": 16125,
+          "listed_count": 5,
+          "tweet_count": 2742
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T10:21:08.000Z",
+        "description": "我是白律，furry圈内一只不知名的美洲豹。是台湾的，但是从小住大陆，已经习惯用简体字了。取向（一般是）直的，但这个推不发色色（？）",
+        "id": "1423227442261479425",
+        "location": "台湾/福建/广东",
+        "name": "WhiteCl117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423227993275584514/q0c6RWgS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 572,
+          "like_count": 250,
+          "listed_count": 1,
+          "tweet_count": 908
+        },
+        "username": "WhiteCl117",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T09:00:46.000Z",
+        "description": "视奸我好玩吗",
+        "id": "1565988119941627905",
+        "name": "卡璞·鳍鳍_奥菲手☁️🇸🇬🏳️‍🌈（接推广",
+        "pinned_tweet_id": "1825117512780099855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824313997430231042/EfAUYEad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15977,
+          "following_count": 1721,
+          "like_count": 46214,
+          "listed_count": 31,
+          "tweet_count": 14507
+        },
+        "username": "badgalkohakurin",
+        "verified": false
+      }
+    ]
+  }
+}

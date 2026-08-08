@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1949447670076227823",
+    "created_at": "2025-07-27T12:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T13:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949447670076227823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RusndageSNF/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/RusndageSNF/status/1949434345279598605",
+          "start": 12,
+          "url": "https://t.co/7hVHT6LTib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949447670076227823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949434345279598605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以一个点了，警察呢？ https://t.co/7hVHT6LTib"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 158,
+        "media_key": "3_1949434194616336384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3IEksbQAAkqa8.png",
+        "width": 511
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1949447670076227823",
+        "created_at": "2025-07-27T12:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949447670076227823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RusndageSNF/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/RusndageSNF/status/1949434345279598605",
+              "start": 12,
+              "url": "https://t.co/7hVHT6LTib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949447670076227823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949434345279598605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以一个点了，警察呢？ https://t.co/7hVHT6LTib"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949434194616336384"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "1949434345279598605",
+        "created_at": "2025-07-27T11:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949434345279598605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Bipe8jNvk",
+              "end": 51,
+              "expanded_url": "https://x.com/RusndageSNF/status/1949434345279598605/photo/1",
+              "media_key": "3_1949434194616336384",
+              "start": 28,
+              "url": "https://t.co/9Bipe8jNvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949434345279598605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么到现在我连晶哥的影子都没看见？啊也对报假警是不管的 https://t.co/9Bipe8jNvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 1012,
+          "like_count": 26816,
+          "listed_count": 7,
+          "media_count": 481,
+          "tweet_count": 5142
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

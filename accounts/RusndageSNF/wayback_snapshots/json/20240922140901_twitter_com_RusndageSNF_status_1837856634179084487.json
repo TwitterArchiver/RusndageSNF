@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1837673172025655531",
+    "created_at": "2024-09-22T14:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T15:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837856634179084487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837856634179084487",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837673172025655531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina 还行，离北京不远"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1837673172025655531",
+        "created_at": "2024-09-22T14:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T15:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837856634179084487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837856634179084487",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837673172025655531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina 还行，离北京不远"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "1837673172025655531",
+        "created_at": "2024-09-22T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837673172025655531"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 62,
+              "tag": "奈酱的文字铺"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837673172025655531",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5115,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某xyn： “我的人生就像骆驼祥子一样失败。” 另一个xyn：“醒醒吧，你可没有北京户口，去见邸晓兰还得买一千块的机票。”\n#奈酱的文字铺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️，暂时和 @MuFengkana 住在一起\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 709,
+          "like_count": 17226,
+          "listed_count": 5,
+          "tweet_count": 2914
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "19INFP｜⚠️是一只学不会说话和社交的小阿斯｜🐈/🏹/🚴/💻｜CS&EE&AM｜创业公司高管（逃）｜Trans F｜GPG pubKey：04A9 B785 4A4C 18EE 14E3 77FE C1D9 84F0 BBA1 B3B9｜🏫Monash｜🚪50,啥也没有｜嗓音训练100CNY｜AI段子手",
+        "id": "1600208165269741570",
+        "name": "凯瑟琳奈",
+        "pinned_tweet_id": "1828895115416613251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831727882059837441/K4hFb47b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4024,
+          "following_count": 946,
+          "like_count": 30721,
+          "listed_count": 16,
+          "tweet_count": 11630
+        },
+        "username": "MeowCatherina",
+        "verified": false
+      }
+    ]
+  }
+}

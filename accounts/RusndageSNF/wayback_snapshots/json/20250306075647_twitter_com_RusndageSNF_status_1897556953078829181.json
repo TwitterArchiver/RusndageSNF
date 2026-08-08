@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1897545636045541501",
+    "created_at": "2025-03-06T07:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T08:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897556953078829181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751084762016681984",
+          "start": 0,
+          "username": "MTFxyn198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897556953078829181",
+    "in_reply_to_user_id": "1751084762016681984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897545636045541501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTFxyn198964 笑得像个大傻子"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50406,
+        "height": 1280,
+        "media_key": "13_1897545487177175040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1897545487177175040/img/thEVKFO6MH60fBsN.jpg",
+        "public_metrics": {
+          "view_count": 111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897545487177175040/vid/avc1/320x568/P5zuB-nS4-NiDhiI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897545487177175040/vid/avc1/480x852/ZP59U-zeuyZSQamb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1897545487177175040/vid/avc1/720x1280/SKk-3748eIvedTQA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1897545487177175040/pl/cNMusJHBh3MG4iIw.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1897545636045541501",
+        "created_at": "2025-03-06T07:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T08:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897556953078829181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751084762016681984",
+              "start": 0,
+              "username": "MTFxyn198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897556953078829181",
+        "in_reply_to_user_id": "1751084762016681984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897545636045541501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTFxyn198964 笑得像个大傻子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1897545487177175040"
+          ]
+        },
+        "author_id": "1751084762016681984",
+        "conversation_id": "1897545636045541501",
+        "created_at": "2025-03-06T07:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T08:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897545636045541501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AHD5gC7Owr",
+              "end": 63,
+              "expanded_url": "https://x.com/MTFxyn198964/status/1897545636045541501/video/1",
+              "media_key": "13_1897545487177175040",
+              "start": 40,
+              "url": "https://t.co/AHD5gC7Owr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897545636045541501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 259,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胜利结算MVP\n等我瘦下来，我要重新拍一遍\n（刘明是我生物爹，之前拿刀砍过我） https://t.co/AHD5gC7Owr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1893309762294391019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 892,
+          "like_count": 22878,
+          "listed_count": 6,
+          "media_count": 394,
+          "tweet_count": 4130
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:29:28.000Z",
+        "description": "就是那个未成年术后娘🥺支持免术改证Ⅰ废除死刑｜全盘西化｜反terf丨安徽裔满洲人｜🏳️‍⚧️🏳️‍🌈🇮🇱丨飞友丨 mtxyn丨🏳️‍⚧️❤️🇮🇱｜原帐号:@zhoxzhn8964｜ 「做一個自由的人，再回到錫安山和耶路撒冷」｜梦想是建立药娘共和国｜永远的小药娘丨逃生舱@zhoxzhn8963",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "zhoxzhn8964"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "zhoxzhn8963"
+              }
+            ]
+          }
+        },
+        "id": "1751084762016681984",
+        "location": "药娘共和国",
+        "name": "小药娘紫喵🍥🏳️‍⚧️🇮🇱",
+        "pinned_tweet_id": "1780270621706129775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806207869802708992/sB3Dkpjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4117,
+          "following_count": 1580,
+          "like_count": 10008,
+          "listed_count": 8,
+          "media_count": 402,
+          "tweet_count": 1499
+        },
+        "username": "MTFxyn198964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2059980047377727643",
+    "created_at": "2026-05-29T08:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060273086545715514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1475720749990264832",
+          "start": 0,
+          "username": "The0_Neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060273086545715514",
+    "in_reply_to_user_id": "1475720749990264832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059980047377727643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@The0_Neko cool"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059980044559110152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJaE77BW0AgHeCC.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2059980047377727643",
+        "created_at": "2026-05-29T08:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060273086545715514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1475720749990264832",
+              "start": 0,
+              "username": "The0_Neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060273086545715514",
+        "in_reply_to_user_id": "1475720749990264832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059980047377727643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@The0_Neko cool"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059980044559110152"
+          ]
+        },
+        "author_id": "1475720749990264832",
+        "conversation_id": "2059980047377727643",
+        "created_at": "2026-05-28T12:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059980047377727643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcppxXEDQO",
+              "end": 204,
+              "expanded_url": "https://x.com/The0_Neko/status/2059980047377727643/photo/1",
+              "media_key": "3_2059980044559110152",
+              "start": 181,
+              "url": "https://t.co/tcppxXEDQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059980047377727643",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 177490,
+          "like_count": 2117,
+          "quote_count": 110,
+          "reply_count": 136,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "As pessoas n entendem q quando eu, enquanto homem trans, me visto feminino n é pq eu \"\"quero ser mulher\"\", mas sim pq pra mim é tipo crossdressing ou drag\nÉ divertido e acho bonito https://t.co/tcppxXEDQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 1105,
+          "like_count": 30208,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 6125
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-28T06:50:32.000Z",
+        "description": "🐈💨 femboy xexelento | ele/dele |\nheader: @loopsieart",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "loopsieart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "theoneko.carrd.co",
+                "end": 23,
+                "expanded_url": "https://theoneko.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/F7ocxAydrc"
+              }
+            ]
+          }
+        },
+        "id": "1475720749990264832",
+        "location": "🏳️‍⚧️",
+        "name": "Théo 🏳️‍⚧️",
+        "pinned_tweet_id": "1995947370815914243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012998313377677315/lgDHE270_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116779,
+          "following_count": 215,
+          "like_count": 51924,
+          "listed_count": 55,
+          "media_count": 948,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/F7ocxAydrc",
+        "username": "The0_Neko",
+        "verified": false
+      }
+    ]
+  }
+}

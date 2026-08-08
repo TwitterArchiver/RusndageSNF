@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1947997713657897052",
+    "created_at": "2025-07-23T12:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T13:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947997713657897052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1540050789208829953",
+          "start": 3,
+          "username": "Arksonthewolf"
+        },
+        {
+          "end": 32,
+          "id": "1509837719765397505",
+          "start": 19,
+          "username": "loveagrogirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947997713657897052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947874094109888712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Arksonthewolf: @loveagrogirl 有句經典話：\nAnime is no fucking 政治，結果後來說這句的人被自己說的話打嘴巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1947997713657897052",
+        "created_at": "2025-07-23T12:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T13:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947997713657897052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1540050789208829953",
+              "start": 3,
+              "username": "Arksonthewolf"
+            },
+            {
+              "end": 32,
+              "id": "1509837719765397505",
+              "start": 19,
+              "username": "loveagrogirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947997713657897052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947874094109888712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Arksonthewolf: @loveagrogirl 有句經典話：\nAnime is no fucking 政治，結果後來說這句的人被自己說的話打嘴巴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540050789208829953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1947572005248897370",
+        "created_at": "2025-07-23T04:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T05:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947874094109888712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1509837719765397505",
+              "start": 0,
+              "username": "loveagrogirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947874094109888712",
+        "in_reply_to_user_id": "1509837719765397505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4614,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947572005248897370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveagrogirl 有句經典話：\nAnime is no fucking 政治，結果後來說這句的人被自己說的話打嘴巴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 1013,
+          "like_count": 26716,
+          "listed_count": 8,
+          "media_count": 463,
+          "tweet_count": 5080
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T19:15:18.000Z",
+        "description": "阿爾克森狼之子🐺\n傳教士狼狼\n喜歡打卡牌的一隻狼\n 🖌️新手畫畫 ：#布布高升\n\n如果有要委託畫創世神的皮膚 請私訊我\nArkson the son of wolf\nlike to playing tcg",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "布布高升"
+              }
+            ]
+          }
+        },
+        "id": "1540050789208829953",
+        "location": "台灣",
+        "name": "沃布姬稻🐺（布姬月月 Buzhiwolf",
+        "pinned_tweet_id": "1800464312659820943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632079534945353728/o1xO0YGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 785,
+          "like_count": 24351,
+          "listed_count": 2,
+          "media_count": 554,
+          "tweet_count": 6355
+        },
+        "username": "Arksonthewolf",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T10:19:23.000Z",
+        "description": "「農藝女孩看世界」搬家來推特了",
+        "id": "1509837719765397505",
+        "name": "農藝女孩搬家了",
+        "pinned_tweet_id": "1874505743518581164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509837824744640520/aYQ_eui8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32624,
+          "following_count": 61,
+          "like_count": 1539,
+          "listed_count": 92,
+          "media_count": 1736,
+          "tweet_count": 3093
+        },
+        "username": "loveagrogirl",
+        "verified": false
+      }
+    ]
+  }
+}

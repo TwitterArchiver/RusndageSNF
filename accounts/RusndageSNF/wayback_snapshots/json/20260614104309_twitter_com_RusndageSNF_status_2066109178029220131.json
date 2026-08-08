@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2065993165090554222",
+    "created_at": "2026-06-14T10:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066109178029220131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1482971074883366912",
+          "start": 0,
+          "username": "ChrysalisQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066109178029220131",
+    "in_reply_to_user_id": "1482971074883366912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065993165090554222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChrysalisQWQ 恭喜恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065993106571587584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvhyMma8AAK_kp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2065993165090554222",
+        "created_at": "2026-06-14T10:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066109178029220131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1482971074883366912",
+              "start": 0,
+              "username": "ChrysalisQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066109178029220131",
+        "in_reply_to_user_id": "1482971074883366912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065993165090554222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChrysalisQWQ 恭喜恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065993106571587584"
+          ]
+        },
+        "author_id": "1482971074883366912",
+        "conversation_id": "2065993165090554222",
+        "created_at": "2026-06-14T03:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065993165090554222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lTNk4LgEc",
+              "end": 32,
+              "expanded_url": "https://x.com/ChrysalisQWQ/status/2065993165090554222/photo/1",
+              "media_key": "3_2065993106571587584",
+              "start": 9,
+              "url": "https://t.co/0lTNk4LgEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065993165090554222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5958,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天要做了qwq https://t.co/0lTNk4LgEc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 1108,
+          "like_count": 30425,
+          "listed_count": 7,
+          "media_count": 586,
+          "tweet_count": 6161
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T07:00:43.000Z",
+        "description": "是个不可爱的孩子",
+        "id": "1482971074883366912",
+        "location": "China",
+        "name": "komi",
+        "pinned_tweet_id": "1814563906570051652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935808293512818688/yjfyVlvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5218,
+          "following_count": 622,
+          "like_count": 4365,
+          "listed_count": 13,
+          "media_count": 428,
+          "tweet_count": 3116
+        },
+        "username": "ChrysalisQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

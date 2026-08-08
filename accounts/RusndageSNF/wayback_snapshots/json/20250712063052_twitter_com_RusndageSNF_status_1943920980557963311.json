@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1943920060919427527",
+    "created_at": "2025-07-12T06:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T07:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943920980557963311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1661038832941252610",
+          "start": 0,
+          "username": "deuxexmachina11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943920980557963311",
+    "in_reply_to_user_id": "1236317911431536640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943920060919427527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deuxexmachina11 不放原图是因为推特会拿去做AI训练（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1943920060919427527",
+        "created_at": "2025-07-12T06:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T07:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943920980557963311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661038832941252610",
+              "start": 0,
+              "username": "deuxexmachina11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943920980557963311",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943920060919427527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deuxexmachina11 不放原图是因为推特会拿去做AI训练（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1943920060919427527",
+        "created_at": "2025-07-12T06:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T07:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943920060919427527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1661038832941252610",
+              "start": 12,
+              "username": "deuxexmachina11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943920060919427527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "换新头像了！！！\n感谢 @deuxexmachina11 为我画头像！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943919764566683648/0VKtwa2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 999,
+          "like_count": 26468,
+          "listed_count": 8,
+          "media_count": 458,
+          "tweet_count": 5010
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T15:58:28.000Z",
+        "description": "",
+        "id": "1661038832941252610",
+        "location": "银河联邦自由地区",
+        "name": "🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661038898682765312/b6QmPbIR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 483,
+          "like_count": 2263,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 112
+        },
+        "username": "deuxexmachina11",
+        "verified": false
+      }
+    ]
+  }
+}

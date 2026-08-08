@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1794341628184031498",
+    "created_at": "2024-05-25T16:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T17:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794409771065585988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1387253355764862976",
+          "start": 0,
+          "username": "Hnbhger17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794409771065585988",
+    "in_reply_to_user_id": "1387253355764862976",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794341628184031498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hnbhger17 要不比一下人均工资和最低法定工资以及工作时长？\nGDP高关你P事啊，GDP高又不代表你个人有钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1794341628184031498",
+        "created_at": "2024-05-25T16:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T17:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794409771065585988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1387253355764862976",
+              "start": 0,
+              "username": "Hnbhger17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794409771065585988",
+        "in_reply_to_user_id": "1387253355764862976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794341628184031498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hnbhger17 要不比一下人均工资和最低法定工资以及工作时长？\nGDP高关你P事啊，GDP高又不代表你个人有钱"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1794341595996897281"
+          ]
+        },
+        "author_id": "1387253355764862976",
+        "conversation_id": "1794341628184031498",
+        "created_at": "2024-05-25T12:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T13:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794341628184031498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FzRu5MD4Zj",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Hnbhger17/status/1794341628184031498/video/1",
+              "media_key": "7_1794341595996897281",
+              "start": 14,
+              "url": "https://t.co/FzRu5MD4Zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794341628184031498",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6470,
+          "like_count": 71,
+          "quote_count": 4,
+          "reply_count": 56,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "台北重建后，会比厦门更好！ https://t.co/FzRu5MD4Zj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 648,
+          "like_count": 13544,
+          "listed_count": 5,
+          "tweet_count": 2352
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-28T03:52:41.000Z",
+        "description": "世事兜兜转转，复兴曲曲折折，笑看X圈纷扰，但愿海内升平",
+        "id": "1387253355764862976",
+        "name": "汉尼拔火罐",
+        "pinned_tweet_id": "1710529978264396056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782433419751985152/Y-NOvqFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24706,
+          "following_count": 1697,
+          "like_count": 39182,
+          "listed_count": 138,
+          "tweet_count": 21483
+        },
+        "username": "Hnbhger17",
+        "verified": true
+      }
+    ]
+  }
+}

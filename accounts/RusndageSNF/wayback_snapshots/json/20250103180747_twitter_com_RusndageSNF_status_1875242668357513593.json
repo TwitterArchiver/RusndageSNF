@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1875228010372280693",
+    "created_at": "2025-01-03T18:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T19:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875242668357513593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1600649573436780544",
+          "start": 0,
+          "username": "zhngkitng5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875242668357513593",
+    "in_reply_to_user_id": "1600649573436780544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875228010372280693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngkitng5 喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1875228010372280693",
+        "created_at": "2025-01-03T18:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T19:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875242668357513593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1600649573436780544",
+              "start": 0,
+              "username": "zhngkitng5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875242668357513593",
+        "in_reply_to_user_id": "1600649573436780544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875228010372280693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngkitng5 喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600649573436780544",
+        "conversation_id": "1875228010372280693",
+        "created_at": "2025-01-03T17:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T18:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875228010372280693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1875228010372280693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我要全裸只穿丝袜睡觉…果然是个变态呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 812,
+          "like_count": 21473,
+          "listed_count": 4,
+          "media_count": 339,
+          "tweet_count": 3650
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T00:34:26.000Z",
+        "description": "英语药学在读|无性别主义|奉天驿驿主\n愿你我一同书写我们的童话与梦|May you and I write our fairy tales and dreams together",
+        "id": "1600649573436780544",
+        "location": "虚拟主板",
+        "name": "三尺微命(Eng版",
+        "pinned_tweet_id": "1621180535543595013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636949537356152833/mXhMreC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 725,
+          "like_count": 5028,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 2753
+        },
+        "username": "zhngkitng5",
+        "verified": false
+      }
+    ]
+  }
+}

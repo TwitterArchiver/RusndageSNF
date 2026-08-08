@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2083945659850461306",
+    "created_at": "2026-08-03T07:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084175785209012612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1218028959109210113",
+          "start": 0,
+          "username": "RizumuA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084175785209012612",
+    "in_reply_to_user_id": "1218028959109210113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083945659850461306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RizumuA3 在哪买，建议加个NFC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083945631568236544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOupgrzaEAA4e2W.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083945631572463616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOupgr0akAAzbc7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083945631589253120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOupgr4awAAC6YY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2083945659850461306",
+        "created_at": "2026-08-03T07:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084175785209012612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1218028959109210113",
+              "start": 0,
+              "username": "RizumuA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084175785209012612",
+        "in_reply_to_user_id": "1218028959109210113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083945659850461306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RizumuA3 在哪买，建议加个NFC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083945631568236544",
+            "3_2083945631572463616",
+            "3_2083945631589253120"
+          ]
+        },
+        "author_id": "1218028959109210113",
+        "conversation_id": "2083945659850461306",
+        "created_at": "2026-08-02T15:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083945659850461306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmQCL1SM20",
+              "end": 129,
+              "expanded_url": "https://x.com/RizumuA3/status/2083945659850461306/photo/1",
+              "media_key": "3_2083945631568236544",
+              "start": 106,
+              "url": "https://t.co/CmQCL1SM20"
+            },
+            {
+              "display_url": "pic.x.com/CmQCL1SM20",
+              "end": 129,
+              "expanded_url": "https://x.com/RizumuA3/status/2083945659850461306/photo/1",
+              "media_key": "3_2083945631572463616",
+              "start": 106,
+              "url": "https://t.co/CmQCL1SM20"
+            },
+            {
+              "display_url": "pic.x.com/CmQCL1SM20",
+              "end": 129,
+              "expanded_url": "https://x.com/RizumuA3/status/2083945659850461306/photo/1",
+              "media_key": "3_2083945631589253120",
+              "start": 106,
+              "url": "https://t.co/CmQCL1SM20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083945659850461306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2555,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "设计了可爱的小旗子挂饰。可以作为雷达使用！大家挂着跨性别元素的装饰的时候，其实是有着用它和其它同类打招呼这样的意思吧？所以我把打招呼的元素也加到了上面www\n侧面做了多层的设计。很好看。像是棉花糖或者夹心饼干w https://t.co/CmQCL1SM20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2079556927311478823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 1122,
+          "like_count": 30886,
+          "listed_count": 7,
+          "media_count": 593,
+          "tweet_count": 6250
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 LittleSound｜💚 Member of Vue，参与开发 Vapor 模式中｜🪀 玩 3D 打印并制作了大量程序员周边｜ 🔥热爱开源｜Pride → 🧠 AuDHD、🏳️‍⚧️ she/her｜🎮 喜欢玩 魂系、任天堂游戏｜🐙: LittleSound",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rizumu.me",
+                "end": 23,
+                "expanded_url": "https://rizumu.me",
+                "start": 0,
+                "url": "https://t.co/n9mkxZ2oxy"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12359,
+          "following_count": 1602,
+          "like_count": 45887,
+          "listed_count": 59,
+          "media_count": 2018,
+          "tweet_count": 15249
+        },
+        "url": "https://t.co/n9mkxZ2oxy",
+        "username": "RizumuA3",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1880316478735659331",
+    "created_at": "2025-01-17T18:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T19:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880316478735659331"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1880316478735659331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉我最近发的一些黄推有点...不太好对我的人设，毕竟我想让大家喜欢我而不是我色色，但总归都是我嘛...我推可能更现实一些就是了（），我现实发生了啥我就会在推上发什么就是了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1880316478735659331",
+        "created_at": "2025-01-17T18:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T19:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880316478735659331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880316478735659331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我最近发的一些黄推有点...不太好对我的人设，毕竟我想让大家喜欢我而不是我色色，但总归都是我嘛...我推可能更现实一些就是了（），我现实发生了啥我就会在推上发什么就是了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 846,
+          "like_count": 21910,
+          "listed_count": 7,
+          "media_count": 361,
+          "tweet_count": 3803
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

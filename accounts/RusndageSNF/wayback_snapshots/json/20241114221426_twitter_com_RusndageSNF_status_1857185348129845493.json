@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1857090319558336630",
+    "created_at": "2024-11-14T22:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T23:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857185348129845493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857185348129845493",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857090319558336630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo 幸存者偏差。像我我不好的，我根本不会发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1857090319558336630",
+        "created_at": "2024-11-14T22:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T23:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857185348129845493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857185348129845493",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857090319558336630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo 幸存者偏差。像我我不好的，我根本不会发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857090303565451264"
+          ]
+        },
+        "author_id": "1755765450707709952",
+        "conversation_id": "1857090319558336630",
+        "created_at": "2024-11-14T15:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T16:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857090319558336630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGZnIFlVuj",
+              "end": 38,
+              "expanded_url": "https://x.com/huajuanshiwo/status/1857090319558336630/photo/1",
+              "media_key": "3_1857090303565451264",
+              "start": 15,
+              "url": "https://t.co/GGZnIFlVuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857090319558336630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 930,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推上的大家家庭条件都好好哇… https://t.co/GGZnIFlVuj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 745,
+          "like_count": 18960,
+          "listed_count": 4,
+          "tweet_count": 3264
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "相守相依情愈甜，相伴此生爱无眠 @yun1995988 早就不想当两脚兽了…｜10年｜infj｜男｜轻抑中焦｜有男友 ｜🏳️‍🌈｜术术人｜furry控｜晚上会发癫！｜有时说话不过脑子｜大陆人…｜超级社恐｜🚫政治打咩🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "yun1995988"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huajuanshiwo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huajuanshiwo1",
+                "start": 0,
+                "url": "https://t.co/fxCEVn0PFC"
+              }
+            ]
+          }
+        },
+        "id": "1755765450707709952",
+        "location": "蓝色空间号（欢迎qq扩列！！）",
+        "name": "树海",
+        "pinned_tweet_id": "1850603607013626207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854157928711778305/eHfAHUPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 1508,
+          "like_count": 20005,
+          "listed_count": 2,
+          "tweet_count": 4529
+        },
+        "url": "https://t.co/fxCEVn0PFC",
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

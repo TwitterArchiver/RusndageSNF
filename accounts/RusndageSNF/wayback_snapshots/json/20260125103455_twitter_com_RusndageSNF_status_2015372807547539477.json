@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2015026910418682096",
+    "created_at": "2026-01-25T10:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015372807547539477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1961430478701182976",
+          "start": 0,
+          "username": "limo_0829"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015372807547539477",
+    "in_reply_to_user_id": "1961430478701182976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015026910418682096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@limo_0829 主要是雪岭雄风是那种梦幻，那种风格太少见了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2015026910418682096",
+        "created_at": "2026-01-25T10:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015372807547539477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1961430478701182976",
+              "start": 0,
+              "username": "limo_0829"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015372807547539477",
+        "in_reply_to_user_id": "1961430478701182976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015026910418682096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limo_0829 主要是雪岭雄风是那种梦幻，那种风格太少见了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961430478701182976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2015026910418682096",
+        "created_at": "2026-01-24T11:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T12:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015026910418682096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015026910418682096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 40101,
+          "like_count": 432,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我到现在还是觉得十年前方特能搞出雪岭熊风这样的动画电影是非常不可思议的事情，制作组全是奇才，它的风格太独特了我根本找不到代餐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2298,
+          "following_count": 1051,
+          "like_count": 28422,
+          "listed_count": 7,
+          "media_count": 547,
+          "tweet_count": 5661
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T14:07:33.000Z",
+        "description": "生活号，成分：世界计划，bang dream，魔裁，女声优痴。选择性互fo丨旧账：@lizi5202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "lizi5202"
+              }
+            ]
+          }
+        },
+        "id": "1961430478701182976",
+        "name": "雪莉不是雪梨",
+        "pinned_tweet_id": "1961433650559685107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997730762389639168/UJFM2XXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 617,
+          "like_count": 5083,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 2344
+        },
+        "username": "limo_0829",
+        "verified": false
+      }
+    ]
+  }
+}

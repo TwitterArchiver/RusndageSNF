@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1931955006959493234",
+    "created_at": "2025-06-09T11:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T12:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932034059787460875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893623858911150080",
+          "start": 0,
+          "username": "Apatite98568"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932034059787460875",
+    "in_reply_to_user_id": "1893623858911150080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931955006959493234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apatite98568 看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1931955006959493234",
+        "created_at": "2025-06-09T11:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T12:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932034059787460875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893623858911150080",
+              "start": 0,
+              "username": "Apatite98568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932034059787460875",
+        "in_reply_to_user_id": "1893623858911150080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931955006959493234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apatite98568 看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893623858911150080",
+        "conversation_id": "1931955006959493234",
+        "created_at": "2025-06-09T06:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T07:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931955006959493234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931955006959493234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "友跨顺男，这是一条崎岖的险路呵！(推友HRT有感而发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 970,
+          "like_count": 25749,
+          "listed_count": 8,
+          "media_count": 440,
+          "tweet_count": 4750
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T11:28:16.000Z",
+        "description": "高二|福瑞|航天|粥批|二次元|友🏳️‍⚧️🏳️‍🌈姐姐@RusndageSNF |中抑ADHD|社民社自|大连|071209|小号@Apatite_Cinis 朋友 @iranon_lcf @Topia_Urbica @TravelerNMRI  @DraTohru_XLN @Inyuki_1014",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "Apatite_Cinis"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "Topia_Urbica"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "TravelerNMRI"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "DraTohru_XLN"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Inyuki_1014"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "biupiukiu.net",
+                "end": 23,
+                "expanded_url": "http://biupiukiu.net",
+                "start": 0,
+                "url": "https://t.co/a2fKnAmdyS"
+              }
+            ]
+          }
+        },
+        "id": "1893623858911150080",
+        "location": "在高潮的青年路",
+        "name": "湛隕",
+        "pinned_tweet_id": "1905965938383466626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905398465905262592/9K52Dy0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 814,
+          "like_count": 13481,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 3294
+        },
+        "url": "https://t.co/a2fKnAmdyS",
+        "username": "Apatite98568",
+        "verified": false
+      }
+    ]
+  }
+}

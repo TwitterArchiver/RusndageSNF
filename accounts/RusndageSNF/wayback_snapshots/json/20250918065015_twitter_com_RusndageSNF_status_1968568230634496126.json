@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1968242260388323464",
+    "created_at": "2025-09-18T06:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T07:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968568230634496126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1386710620163035138",
+          "start": 0,
+          "username": "adib_fallguys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968568230634496126",
+    "in_reply_to_user_id": "1386710620163035138",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968566711227122147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adib_fallguys thank you, really"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1968242260388323464",
+        "created_at": "2025-09-18T06:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T07:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968568230634496126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1386710620163035138",
+              "start": 0,
+              "username": "adib_fallguys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968568230634496126",
+        "in_reply_to_user_id": "1386710620163035138",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968566711227122147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adib_fallguys thank you, really"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386710620163035138",
+        "conversation_id": "1968242260388323464",
+        "created_at": "2025-09-18T06:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T07:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968566711227122147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968566711227122147",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968556755568283654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF Happy birthday to you!! 🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 1037,
+          "like_count": 27616,
+          "listed_count": 7,
+          "media_count": 518,
+          "tweet_count": 5384
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T15:56:05.000Z",
+        "description": "Marin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/adib301204",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/adib301204",
+                "start": 0,
+                "url": "https://t.co/wzaeEp0vdy"
+              }
+            ]
+          }
+        },
+        "id": "1386710620163035138",
+        "location": "🇲🇾 ",
+        "name": "アディブ REIN",
+        "pinned_tweet_id": "1898342728620208261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968219626791374854/bPf9S8xa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 823,
+          "like_count": 8978,
+          "listed_count": 5,
+          "media_count": 3382,
+          "tweet_count": 10924
+        },
+        "url": "https://t.co/wzaeEp0vdy",
+        "username": "adib_fallguys",
+        "verified": false
+      }
+    ]
+  }
+}

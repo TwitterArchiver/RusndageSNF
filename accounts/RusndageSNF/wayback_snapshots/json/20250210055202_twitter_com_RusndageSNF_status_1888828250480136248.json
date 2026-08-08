@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1888126127300124764",
+    "created_at": "2025-02-10T05:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T06:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888828250480136248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "Allenium114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888828250480136248",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888126127300124764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenium114 因为只有思考这些问题，才会意识到自己是跨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1888126127300124764",
+        "created_at": "2025-02-10T05:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T06:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888828250480136248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "Allenium114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888828250480136248",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888126127300124764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenium114 因为只有思考这些问题，才会意识到自己是跨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1888126127300124764",
+        "created_at": "2025-02-08T07:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T08:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888126127300124764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888126127300124764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 22225,
+          "like_count": 279,
+          "quote_count": 12,
+          "reply_count": 37,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "学校越好，跨性别越多\n\n基于对重庆跨性别者高中分布的调查"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 884,
+          "like_count": 22495,
+          "listed_count": 7,
+          "media_count": 379,
+          "tweet_count": 4002
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "🏳️‍⚧️🍥hrt2024.4.20/持“證”ADHD&ASD/常驻川渝/小证持有butHrt 深柜⁉️/178cm56kg/A-Level🇭🇰/🔞08 年 16 岁♿️/前osw编辑/需要促智/美白/减肥/HRT等药物找@Minokakay喵 /舞萌w3神人/Sis:@beijieyoufengle💤💤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 111,
+                "username": "Minokakay"
+              },
+              {
+                "end": 151,
+                "start": 135,
+                "username": "beijieyoufengle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": "封号斗罗牢翎🍥(前世 5kfo 大号被封)",
+        "pinned_tweet_id": "1842819783219376461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886660585905119234/rTIIEgUt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 321,
+          "like_count": 4847,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 1014
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "Allenium114",
+        "verified": false
+      }
+    ]
+  }
+}

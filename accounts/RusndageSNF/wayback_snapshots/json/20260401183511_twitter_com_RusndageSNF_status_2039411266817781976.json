@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2039357839823831529",
+    "created_at": "2026-04-01T18:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T19:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039411266817781976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shio3853620480"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039411266817781976",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039357839823831529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shio3853620480 傻逼腾讯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039357800233746432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1BHUTawAAvZ6j.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2039357839823831529",
+        "created_at": "2026-04-01T18:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T19:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039411266817781976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shio3853620480"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039411266817781976",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039357839823831529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shio3853620480 傻逼腾讯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039357800233746432"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039357839823831529",
+        "created_at": "2026-04-01T15:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039357839823831529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HL6Om7bZh1",
+              "end": 84,
+              "expanded_url": "https://x.com/Shio3853620480/status/2039357839823831529/photo/1",
+              "media_key": "3_2039357800233746432",
+              "start": 61,
+              "url": "https://t.co/HL6Om7bZh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039357839823831529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这次是真红了。连和中推圈搭不上边的群都封。大家发的都是日常和闲聊，但凡聊药都会提醒和撤回的，都这样了也能封。腾讯nmsl https://t.co/HL6Om7bZh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 1086,
+          "like_count": 29519,
+          "listed_count": 8,
+          "media_count": 570,
+          "tweet_count": 5924
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "会有人救赎我吗?或许我童年时就已万劫不复了吧。不。或许自我出生便注定万劫不复了吧。\n小证含糖半家长党｜hrt2025.7.20🍥",
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 200,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 123
+        },
+        "username": "Shio3853620480",
+        "verified": false
+      }
+    ]
+  }
+}

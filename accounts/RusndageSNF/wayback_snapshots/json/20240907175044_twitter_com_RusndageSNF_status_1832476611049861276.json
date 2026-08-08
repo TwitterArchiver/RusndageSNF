@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1832176743307690097",
+    "created_at": "2024-09-07T17:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T18:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832476611049861276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "921323304983584768",
+          "start": 0,
+          "username": "ph_water1"
+        },
+        {
+          "end": 26,
+          "id": "1540640706674315264",
+          "start": 11,
+          "username": "Michelle_Z2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832476611049861276",
+    "in_reply_to_user_id": "921323304983584768",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832453494395023512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ph_water1 @Michelle_Z2023 我是精神病和你妈死了没有任何关系，因为你妈死了是个客观事实，你的孩子也会为你感到自卑，这也是个客观事实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1832176743307690097",
+        "created_at": "2024-09-07T17:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T18:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832476611049861276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "921323304983584768",
+              "start": 0,
+              "username": "ph_water1"
+            },
+            {
+              "end": 26,
+              "id": "1540640706674315264",
+              "start": 11,
+              "username": "Michelle_Z2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832476611049861276",
+        "in_reply_to_user_id": "921323304983584768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832453494395023512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ph_water1 @Michelle_Z2023 我是精神病和你妈死了没有任何关系，因为你妈死了是个客观事实，你的孩子也会为你感到自卑，这也是个客观事实"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832453490196508672"
+          ]
+        },
+        "author_id": "921323304983584768",
+        "conversation_id": "1832176743307690097",
+        "created_at": "2024-09-07T16:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T17:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832453494395023512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 28,
+              "id": "1540640706674315264",
+              "start": 13,
+              "username": "Michelle_Z2023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fbjgchylhb",
+              "end": 68,
+              "expanded_url": "https://twitter.com/ph_water1/status/1832453494395023512/photo/1",
+              "media_key": "3_1832453490196508672",
+              "start": 45,
+              "url": "https://t.co/fBjGchYLHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832453494395023512",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832447987152515509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @Michelle_Z2023 精神病看正常人感觉别人是有问题 https://t.co/fBjGchYLHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 686,
+          "like_count": 16536,
+          "listed_count": 5,
+          "tweet_count": 2778
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-20T10:32:48.000Z",
+        "description": "Biomedical Informatic student, RPN, EMT, Scuba Diving Instructor, and History/Biology Tutor.  Freedom has never been, nor it will be free",
+        "id": "921323304983584768",
+        "location": "Bali, Indonesia",
+        "name": "Peter Hwang",
+        "pinned_tweet_id": "1821690837899559160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1324225731518361603/OEV5KqZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4610,
+          "following_count": 1062,
+          "like_count": 17718,
+          "listed_count": 25,
+          "tweet_count": 12115
+        },
+        "username": "ph_water1",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-25T10:19:19.000Z",
+        "description": "die wiedergeborene | 铁infp-t | 女的/pan | Marxism-feminism-transgenderism, 女夭主义 | queering ethnicity | 社群主义, anti-state | 拒键政，永不沾 | 什么惊天变革力量，全都孕育在日常中",
+        "id": "1540640706674315264",
+        "location": "莱茵河畔自由城市联合体",
+        "name": "Michelle♀️🌹🌈⚧️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1814464267422228906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814439074016473090/HhXxAeBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 605,
+          "like_count": 23933,
+          "listed_count": 3,
+          "tweet_count": 6279
+        },
+        "username": "Michelle_Z2023",
+        "verified": false
+      }
+    ]
+  }
+}

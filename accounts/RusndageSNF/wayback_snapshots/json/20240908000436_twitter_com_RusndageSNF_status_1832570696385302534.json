@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1832176743307690097",
+    "created_at": "2024-09-08T00:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T01:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832570696385302534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "921323304983584768",
+          "start": 0,
+          "username": "ph_water1"
+        },
+        {
+          "end": 26,
+          "id": "1540640706674315264",
+          "start": 11,
+          "username": "Michelle_Z2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832570696385302534",
+    "in_reply_to_user_id": "921323304983584768",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832541999028683117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ph_water1 @Michelle_Z2023 都他妈的2024年了你又不是在非洲，或者那些极度贫困的国家，你他妈的负责喂饱了就行？那就别怪你，孩子以后只给你提供法律义务上最少的钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1832176743307690097",
+        "created_at": "2024-09-08T00:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T01:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832570696385302534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "921323304983584768",
+              "start": 0,
+              "username": "ph_water1"
+            },
+            {
+              "end": 26,
+              "id": "1540640706674315264",
+              "start": 11,
+              "username": "Michelle_Z2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832570696385302534",
+        "in_reply_to_user_id": "921323304983584768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832541999028683117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ph_water1 @Michelle_Z2023 都他妈的2024年了你又不是在非洲，或者那些极度贫困的国家，你他妈的负责喂饱了就行？那就别怪你，孩子以后只给你提供法律义务上最少的钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "921323304983584768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1832176743307690097",
+        "created_at": "2024-09-07T22:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T23:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832541999028683117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 28,
+              "id": "1540640706674315264",
+              "start": 13,
+              "username": "Michelle_Z2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832541999028683117",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832540890415440181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @Michelle_Z2023 正常人觉得养育小孩，提供吃的提供穿的，提供陪伴，提供安全健康的环境就很好了。进步人觉得这些都不重要，需要优先教Critical Queer/Gender Theory"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 687,
+          "like_count": 16543,
+          "listed_count": 5,
+          "tweet_count": 2780
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-20T10:32:48.000Z",
+        "description": "Biomedical Informatic student, RPN, EMT, Scuba Diving Instructor, and History/Biology Tutor.  Freedom has never been, nor it will be free",
+        "id": "921323304983584768",
+        "location": "Bali, Indonesia",
+        "name": "Peter Hwang",
+        "pinned_tweet_id": "1821690837899559160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1324225731518361603/OEV5KqZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4608,
+          "following_count": 1061,
+          "like_count": 17721,
+          "listed_count": 25,
+          "tweet_count": 12123
+        },
+        "username": "ph_water1",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-25T10:19:19.000Z",
+        "description": "die wiedergeborene | 铁infp-t | 女的/pan | Marxism-feminism-transgenderism, 女夭主义 | queering ethnicity | 社群主义, anti-state | 拒键政，永不沾 | 什么惊天变革力量，全都孕育在日常中",
+        "id": "1540640706674315264",
+        "location": "莱茵河畔自由城市联合体",
+        "name": "Michelle♀️🌹🌈⚧️🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1814464267422228906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814439074016473090/HhXxAeBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 604,
+          "like_count": 23936,
+          "listed_count": 3,
+          "tweet_count": 6281
+        },
+        "username": "Michelle_Z2023",
+        "verified": false
+      }
+    ]
+  }
+}

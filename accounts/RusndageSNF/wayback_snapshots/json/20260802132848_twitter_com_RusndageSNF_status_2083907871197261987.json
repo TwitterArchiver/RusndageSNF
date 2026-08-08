@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2083907871197261987",
+    "created_at": "2026-08-02T13:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083907871197261987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1459453832",
+          "start": 3,
+          "username": "sauricat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083907871197261987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083902235692630033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sauricat: 感谢 amber 这段时间以来在我们之间做的居间调和工作。也感谢为我仗义执言，甚至因此受到威胁的各位朋友。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2083907871197261987",
+        "created_at": "2026-08-02T13:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083907871197261987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1459453832",
+              "start": 3,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083907871197261987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083902235692630033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sauricat: 感谢 amber 这段时间以来在我们之间做的居间调和工作。也感谢为我仗义执言，甚至因此受到威胁的各位朋友。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459453832",
+        "conversation_id": "2083902235692630033",
+        "created_at": "2026-08-02T13:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083902235692630033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2083428198923001993",
+              "start": 54,
+              "url": "https://t.co/m86rS6A8S4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083902235692630033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083428198923001993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢 amber 这段时间以来在我们之间做的居间调和工作。也感谢为我仗义执言，甚至因此受到威胁的各位朋友。 https://t.co/m86rS6A8S4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2079556927311478823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 1121,
+          "like_count": 30877,
+          "listed_count": 7,
+          "media_count": 593,
+          "tweet_count": 6245
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) a.k.a. 北雁书, 林书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kazv.moe/users/rhyme417",
+                "end": 23,
+                "expanded_url": "https://kazv.moe/users/rhyme417",
+                "start": 0,
+                "url": "https://t.co/ug9yRYBV7t"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "東雨山 書 (Shu/Fumi)",
+        "pinned_tweet_id": "2066818208653361431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11205,
+          "following_count": 1029,
+          "like_count": 34272,
+          "listed_count": 35,
+          "media_count": 624,
+          "tweet_count": 12276
+        },
+        "url": "https://t.co/ug9yRYBV7t",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

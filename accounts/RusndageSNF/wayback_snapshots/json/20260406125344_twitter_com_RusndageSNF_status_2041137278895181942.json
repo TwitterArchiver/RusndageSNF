@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2041137278895181942",
+    "created_at": "2026-04-06T12:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041137278895181942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1897085677688532992",
+          "start": 3,
+          "username": "clyy32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041137278895181942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041098407302066183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clyy32: 根本做不到像女生一样的思维逻辑\n看老婆和我闺蜜还有他们的女性朋友聊天时候谈笑风生，感觉好痛苦，根本不太可能融入进去吧\n明明易性症诊断都下来了但是，就算雌激素是她们之中最高的，可能也做不到融入她们吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2041137278895181942",
+        "created_at": "2026-04-06T12:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041137278895181942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897085677688532992",
+              "start": 3,
+              "username": "clyy32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041137278895181942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041098407302066183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clyy32: 根本做不到像女生一样的思维逻辑\n看老婆和我闺蜜还有他们的女性朋友聊天时候谈笑风生，感觉好痛苦，根本不太可能融入进去吧\n明明易性症诊断都下来了但是，就算雌激素是她们之中最高的，可能也做不到融入她们吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897085677688532992",
+        "conversation_id": "2041098407302066183",
+        "created_at": "2026-04-06T10:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041098407302066183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041098407302066183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "根本做不到像女生一样的思维逻辑\n看老婆和我闺蜜还有他们的女性朋友聊天时候谈笑风生，感觉好痛苦，根本不太可能融入进去吧\n明明易性症诊断都下来了但是，就算雌激素是她们之中最高的，可能也做不到融入她们吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 1090,
+          "like_count": 29683,
+          "listed_count": 8,
+          "media_count": 570,
+          "tweet_count": 5950
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T00:44:30.000Z",
+        "description": "07年生/大只/infp/🏳️‍⚧️MtF/无证含糖/火批/想和大家做朋友👉👈/扶她控/接线下/厨娘/幽幽子/东方project/galgame/不站队正常人/喜欢探讨哲学话题（才不是那个哲学呢）/",
+        "id": "1897085677688532992",
+        "location": "北京",
+        "name": "幽幽月🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026917161760169985/Jg2-rhaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 126,
+          "like_count": 1344,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 124
+        },
+        "username": "clyy32",
+        "verified": false
+      }
+    ]
+  }
+}

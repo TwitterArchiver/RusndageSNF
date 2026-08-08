@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1927199765873250720",
+    "created_at": "2025-05-27T14:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T15:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927370096135098786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596473224711151618",
+          "start": 0,
+          "username": "a823149315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927370096135098786",
+    "in_reply_to_user_id": "1596473224711151618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927199765873250720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a823149315 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1927199765873250720",
+        "created_at": "2025-05-27T14:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T15:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927370096135098786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596473224711151618",
+              "start": 0,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927370096135098786",
+        "in_reply_to_user_id": "1596473224711151618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927199765873250720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a823149315 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596473224711151618",
+        "conversation_id": "1927199765873250720",
+        "created_at": "2025-05-27T03:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T04:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927199765873250720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927199765873250720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5956,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等等，那个二椅子是在沈阳嘛，想去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 961,
+          "like_count": 25352,
+          "listed_count": 8,
+          "media_count": 434,
+          "tweet_count": 4662
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后三度返厂mtf/12年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/4年机构社工经验/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "name": "王安黛（跨性别危机干预主题小说《社会垃圾收容所历险记》pixiv已完本欢迎点击置顶阅读）",
+        "pinned_tweet_id": "1901570044670132564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900070459242094592/LQCckHRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35490,
+          "following_count": 169,
+          "like_count": 2492,
+          "listed_count": 95,
+          "media_count": 1611,
+          "tweet_count": 9203
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

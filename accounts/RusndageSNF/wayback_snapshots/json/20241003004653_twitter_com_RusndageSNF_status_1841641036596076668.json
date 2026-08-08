@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1841570230692413816",
+    "created_at": "2024-10-03T00:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T01:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841641036596076668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1597468568290873344",
+          "start": 0,
+          "username": "jingzhny11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841641036596076668",
+    "in_reply_to_user_id": "1597468568290873344",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841570230692413816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzhny11 咔嚓咔嚓咔嚓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1841570230692413816",
+        "created_at": "2024-10-03T00:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T01:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841641036596076668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1597468568290873344",
+              "start": 0,
+              "username": "jingzhny11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841641036596076668",
+        "in_reply_to_user_id": "1597468568290873344",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841570230692413816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzhny11 咔嚓咔嚓咔嚓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841570222924562432"
+          ]
+        },
+        "author_id": "1597468568290873344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1841570230692413816",
+        "created_at": "2024-10-02T20:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T21:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841570230692413816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/00XniTHj9C",
+              "end": 48,
+              "expanded_url": "https://x.com/jingzhny11/status/1841570230692413816/photo/1",
+              "media_key": "3_1841570222924562432",
+              "start": 25,
+              "url": "https://t.co/00XniTHj9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841570230692413816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五斤散装仙贝往往能让我很多天能稍微开心一点点（） https://t.co/00XniTHj9C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️，暂时和 @MuFengkana 住在一起\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 720,
+          "like_count": 17521,
+          "listed_count": 5,
+          "tweet_count": 2990
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 毕业之前算是药化壬\n🍥​2023/05/07 一米九超大只\n山东人t东北人\n左下的，混乱善良的，激跨的\n友左上，右下酌情，右上去似（粉红算右上）\n感性条拉满的理想主义者ENFP\n性征焦虑爆炸中\n不手术就会死所以大概什么时候就死了吧",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762825261480022016/UcauebSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 1298,
+          "like_count": 61831,
+          "listed_count": 8,
+          "tweet_count": 6804
+        },
+        "username": "jingzhny11",
+        "verified": false
+      }
+    ]
+  }
+}

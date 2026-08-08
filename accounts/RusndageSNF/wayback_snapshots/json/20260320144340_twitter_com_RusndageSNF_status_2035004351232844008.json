@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2034782988467384731",
+    "created_at": "2026-03-20T14:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035004351232844008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1418046131192307726",
+          "start": 0,
+          "username": "CPF777XYZbook"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035004351232844008",
+    "in_reply_to_user_id": "1418046131192307726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034782988467384731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPF777XYZbook 你不知道的是日本应该Female to Male的手术也能享受到医保政策"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2034782988467384731",
+        "created_at": "2026-03-20T14:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035004351232844008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1418046131192307726",
+              "start": 0,
+              "username": "CPF777XYZbook"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035004351232844008",
+        "in_reply_to_user_id": "1418046131192307726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034782988467384731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPF777XYZbook 你不知道的是日本应该Female to Male的手术也能享受到医保政策"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418046131192307726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Insurance",
+              "id": "1037076317722763265",
+              "name": "Insurance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272636957504356352",
+              "name": "Business professions"
+            }
+          }
+        ],
+        "conversation_id": "2034782988467384731",
+        "created_at": "2026-03-20T00:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T01:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034782988467384731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kariconichan/s…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/kariconichan/status/2034441924376150021",
+              "start": 62,
+              "url": "https://t.co/OcrlGnJDl5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034782988467384731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 385,
+          "impression_count": 817187,
+          "like_count": 20251,
+          "quote_count": 115,
+          "reply_count": 27,
+          "retweet_count": 1613
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034441924376150021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "うそ…これが保険適用なの？！\n\n出産はあれだけお金かかるのに\n\nそら少子化になるわ\n\n男の美容整形だけ優遇されてるんだもん https://t.co/OcrlGnJDl5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 1081,
+          "like_count": 29302,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5846
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T03:12:10.000Z",
+        "description": "ᥫᩣ ̖́-𓂃❁⃘𓈒𓏸🧚‍♀️ All children should be loved. Adults have an obligation to make efforts to help their children grow up in a good environment.弁護士保険加入済🕵️‍♀️",
+        "id": "1418046131192307726",
+        "location": "フォロー外ミュート🙏",
+        "name": "飴🍬 For Every Child",
+        "pinned_tweet_id": "2034805431550582833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015765065329426432/Rvp18u6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 97,
+          "like_count": 250837,
+          "listed_count": 127,
+          "media_count": 5080,
+          "tweet_count": 51176
+        },
+        "username": "CPF777XYZbook",
+        "verified": true
+      }
+    ]
+  }
+}

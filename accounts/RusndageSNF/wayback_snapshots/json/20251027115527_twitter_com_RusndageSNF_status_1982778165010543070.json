@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1982778165010543070",
+    "created_at": "2025-10-27T11:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T12:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982778165010543070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Beiyan_Yunyi/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Beiyan_Yunyi/status/1982716179128226089",
+          "start": 36,
+          "url": "https://t.co/uenmquBfFe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982778165010543070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982716179128226089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "典中典，觉得自己牛逼之后意见也不听了，和xjp其实没本质区别都是老钟人 https://t.co/uenmquBfFe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_1982715923871027200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QFoLzX0AADYRa.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1982778165010543070",
+        "created_at": "2025-10-27T11:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982778165010543070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Beiyan_Yunyi/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Beiyan_Yunyi/status/1982716179128226089",
+              "start": 36,
+              "url": "https://t.co/uenmquBfFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982778165010543070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982716179128226089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "典中典，觉得自己牛逼之后意见也不听了，和xjp其实没本质区别都是老钟人 https://t.co/uenmquBfFe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982715923871027200"
+          ]
+        },
+        "author_id": "535028358",
+        "conversation_id": "1982714466128347549",
+        "created_at": "2025-10-27T07:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982716179128226089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1071094209749417984",
+              "start": 0,
+              "username": "BeiyanNa3AlF6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXrjRKTgP0",
+              "end": 117,
+              "expanded_url": "https://x.com/Beiyan_Yunyi/status/1982716179128226089/photo/1",
+              "media_key": "3_1982715923871027200",
+              "start": 94,
+              "url": "https://t.co/sXrjRKTgP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982716179128226089",
+        "in_reply_to_user_id": "1071094209749417984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 490,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982715081155854635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeiyanNa3AlF6 那就请你看着这个 diff 再说一遍。“全面整改”的是格式问题吗？“集体反思”是除了让我和半糖靠边站以外什么都不干、邮件 PR 意见箱积压一两个月不处理吗？ https://t.co/sXrjRKTgP0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 1046,
+          "like_count": 27887,
+          "listed_count": 7,
+          "media_count": 527,
+          "tweet_count": 5490
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-24T03:02:07.000Z",
+        "description": "MtRF，吃雌二醇的网左，杯水主义仙人\nMothers: @artefaritaUsagi & @sauricat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "sauricat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yunyi.beiyan.us",
+                "end": 23,
+                "expanded_url": "https://blog.yunyi.beiyan.us",
+                "start": 0,
+                "url": "https://t.co/0dCxoXrP6h"
+              }
+            ]
+          }
+        },
+        "id": "535028358",
+        "name": "北雁云依 - 21018365486@o3o.ca",
+        "pinned_tweet_id": "1848540476166885623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668117844700332033/Um3u3YZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3701,
+          "following_count": 217,
+          "like_count": 7064,
+          "listed_count": 19,
+          "media_count": 197,
+          "tweet_count": 1913
+        },
+        "url": "https://t.co/0dCxoXrP6h",
+        "username": "Beiyan_Yunyi",
+        "verified": false
+      }
+    ]
+  }
+}

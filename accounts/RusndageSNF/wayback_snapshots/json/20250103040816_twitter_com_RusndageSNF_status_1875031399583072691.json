@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1873957637857124709",
+    "created_at": "2025-01-03T04:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T05:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875031399583072691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1279753063478124546",
+          "start": 0,
+          "username": "kuozhang_cheng"
+        },
+        {
+          "end": 26,
+          "id": "1605406040786235392",
+          "start": 16,
+          "username": "windmaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875031399583072691",
+    "in_reply_to_user_id": "1279753063478124546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873957637857124709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuozhang_cheng @windmaomi 我也想要qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1873957637857124709",
+        "created_at": "2025-01-03T04:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T05:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875031399583072691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1279753063478124546",
+              "start": 0,
+              "username": "kuozhang_cheng"
+            },
+            {
+              "end": 26,
+              "id": "1605406040786235392",
+              "start": 16,
+              "username": "windmaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875031399583072691",
+        "in_reply_to_user_id": "1279753063478124546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873957637857124709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuozhang_cheng @windmaomi 我也想要qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1873957325859590144"
+          ]
+        },
+        "author_id": "1279753063478124546",
+        "conversation_id": "1873957637857124709",
+        "created_at": "2024-12-31T05:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T06:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873957637857124709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1605406040786235392",
+              "start": 39,
+              "username": "windmaomi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KUEr6g2Dl",
+              "end": 80,
+              "expanded_url": "https://x.com/kuozhang_cheng/status/1873957637857124709/video/1",
+              "media_key": "7_1873957325859590144",
+              "start": 57,
+              "url": "https://t.co/6KUEr6g2Dl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873957637857124709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1283,
+          "impression_count": 159285,
+          "like_count": 4056,
+          "quote_count": 6,
+          "reply_count": 109,
+          "retweet_count": 440
+        },
+        "reply_settings": "everyone",
+        "text": "🍈【元旦特辑】🍈\n原来铁道双子的私下日常是这样的嘛\n感觉…要被捅穿了！\n👊🏻：@windmaomi \n微重口⚠️ https://t.co/6KUEr6g2Dl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1870405329076338744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 798,
+          "like_count": 21438,
+          "listed_count": 4,
+          "media_count": 338,
+          "tweet_count": 3636
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T12:24:48.000Z",
+        "description": "這裡是🍊（橙子｜05｜🔞｜見つめあう度 増す熱に 堕ちていく もう抗えない｜毎日楽しい｜",
+        "id": "1279753063478124546",
+        "location": "🩷-18cm",
+        "name": "拡張の🍊",
+        "pinned_tweet_id": "1873957637857124709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787030545114992640/PQHZuuHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155852,
+          "following_count": 2638,
+          "like_count": 21254,
+          "listed_count": 797,
+          "media_count": 141,
+          "tweet_count": 6233
+        },
+        "username": "kuozhang_cheng",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T03:33:33.000Z",
+        "description": "喵穷志短的精盆猫\n全国可飞捏🛩️🚪100/200私信过门槛加v/福利群\n\n发牢骚神经病小号 @byduwu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 46,
+                "username": "byduwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sbjubaogou",
+                "end": 23,
+                "expanded_url": "http://t.me/sbjubaogou",
+                "start": 0,
+                "url": "https://t.co/CiIhUPVzgJ"
+              }
+            ]
+          }
+        },
+        "id": "1605406040786235392",
+        "location": "一个小鱼不要钱的城市",
+        "name": "五彩斑斓的黑猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708993115468759040/ufsT4Ml-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41947,
+          "following_count": 521,
+          "like_count": 47298,
+          "listed_count": 255,
+          "media_count": 302,
+          "tweet_count": 2117
+        },
+        "url": "https://t.co/CiIhUPVzgJ",
+        "username": "windmaomi",
+        "verified": false
+      }
+    ]
+  }
+}

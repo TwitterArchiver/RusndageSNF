@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1834418210893906152",
+    "created_at": "2024-09-13T12:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T13:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834567573821616212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1599296566224834560",
+          "start": 0,
+          "username": "Bolank861"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834567573821616212",
+    "in_reply_to_user_id": "1599296566224834560",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834536548953465134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bolank861 八人寝（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1834418210893906152",
+        "created_at": "2024-09-13T12:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T13:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834567573821616212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1599296566224834560",
+              "start": 0,
+              "username": "Bolank861"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834567573821616212",
+        "in_reply_to_user_id": "1599296566224834560",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834536548953465134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bolank861 八人寝（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599296566224834560",
+        "conversation_id": "1834418210893906152",
+        "created_at": "2024-09-13T10:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T11:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834536548953465134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834536548953465134",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834418251826159950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 你学校这么好，让我这个住陋室的\n羡慕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 697,
+          "like_count": 16834,
+          "listed_count": 5,
+          "tweet_count": 2822
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T06:56:46.000Z",
+        "description": "艰难找药中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/Bolank861",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/Bolank861",
+                "start": 0,
+                "url": "https://t.co/fTEXQWnR4C"
+              }
+            ]
+          }
+        },
+        "id": "1599296566224834560",
+        "location": "中国，青海",
+        "name": "月野地星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676331656607825920/gHiA4HfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 338,
+          "like_count": 98,
+          "listed_count": 0,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/fTEXQWnR4C",
+        "username": "Bolank861",
+        "verified": false
+      }
+    ]
+  }
+}

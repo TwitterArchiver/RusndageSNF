@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2044038588690772030",
+    "created_at": "2026-04-14T15:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044071337149485400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044071337149485400",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044038588690772030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 可惜我在读大专"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2044038588690772030",
+        "created_at": "2026-04-14T15:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044071337149485400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044071337149485400",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044038588690772030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 可惜我在读大专"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2044038588690772030",
+        "created_at": "2026-04-14T13:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044038588690772030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044038588690772030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "武汉一家性别友善的计算机相关公司，该公司是一家国家级高新技术企业\n\n（联系方式：先私信涟漪危机干预小组的推特账号或者telegram账号，然后可以获知公司名称以及简历投递的邮箱）\n\n招聘岗位：开源社区实习生\n\n岗位职责\n参与公司开源项目开发与维护\n协助调研技术方案，为相关决策提供参考\n协助完成开源社区宣传、宣讲和活动支持\n\n任职要求\n本科及以上在读，专业不限\n对开源、技术社区和项目实践有兴趣\n有开源项目参与经验\n至少掌握 C / C++ / Rust / Kotlin / Lisp / C# 中的一门语言\n了解 Linux 基础使用和常见开发环境\n了解计算机组成、计算机网络、操作系统等基础知识\n有基本的学习能力、沟通能力和执行力\n特别优秀者，学籍学历不限\n\n加分项\n日常使用 Linux 操作系统\n爱好音乐节奏游戏\n有 DN42 等大型去中心化网络维护经验\n有业余无线电相关经验\n有可公开检索到录像的会议或活动演讲经历\n\n提交简历时请附 GitHub 账号，或知名邮件列表贡献邮箱\n\n补充说明\n你将真实参与开源项目开发、维护与社区协作\n实习期间表现优秀者，可获得转正机会"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 4111,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "武汉一家性别友善的计算机相关公司，该公司是一家国家级高新技术企业\n\n（联系方式：先私信涟漪危机干预小组的推特账号或者telegram账号，然后可以获知公司名称以及简历投递的邮箱）\n\n招聘岗位：开源社区实习生\n\n岗位职责\n参与公司开源项目开发与维护\n协助调研技术方案，为相关决策提供参考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 1092,
+          "like_count": 29767,
+          "listed_count": 7,
+          "media_count": 573,
+          "tweet_count": 5979
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40600,
+          "following_count": 3672,
+          "like_count": 1574,
+          "listed_count": 71,
+          "media_count": 390,
+          "tweet_count": 2816
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

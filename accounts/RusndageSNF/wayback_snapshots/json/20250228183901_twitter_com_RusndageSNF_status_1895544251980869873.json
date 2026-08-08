@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895293136382869504"
+      ],
+      "media_source_tweet_id": [
+        "1895353488978386984"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1895544251980869873",
+    "created_at": "2025-02-28T18:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T19:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895544251980869873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1280471925987262464",
+          "start": 3,
+          "username": "K87559009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1pNm37I5Kv",
+          "end": 51,
+          "expanded_url": "https://x.com/K87559009/status/1895353488978386984/photo/1",
+          "media_key": "3_1895293136382869504",
+          "start": 28,
+          "url": "https://t.co/1pNm37I5Kv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895544251980869873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4540
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895353488978386984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K87559009: 平等・公平・次世代トイレ https://t.co/1pNm37I5Kv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1410,
+        "media_key": "3_1895293136382869504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1vENtWQAAYlbC.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895293136382869504"
+          ],
+          "media_source_tweet_id": [
+            "1895353488978386984"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1895544251980869873",
+        "created_at": "2025-02-28T18:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T19:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895544251980869873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1280471925987262464",
+              "start": 3,
+              "username": "K87559009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1pNm37I5Kv",
+              "end": 51,
+              "expanded_url": "https://x.com/K87559009/status/1895353488978386984/photo/1",
+              "media_key": "3_1895293136382869504",
+              "start": 28,
+              "url": "https://t.co/1pNm37I5Kv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895544251980869873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4540
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895353488978386984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K87559009: 平等・公平・次世代トイレ https://t.co/1pNm37I5Kv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895293136382869504"
+          ]
+        },
+        "author_id": "1280471925987262464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1895353488978386984",
+        "created_at": "2025-02-28T06:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T07:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895353488978386984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1pNm37I5Kv",
+              "end": 36,
+              "expanded_url": "https://x.com/K87559009/status/1895353488978386984/photo/1",
+              "media_key": "3_1895293136382869504",
+              "start": 13,
+              "url": "https://t.co/1pNm37I5Kv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895353488978386984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13973,
+          "impression_count": 13703269,
+          "like_count": 89148,
+          "quote_count": 2030,
+          "reply_count": 945,
+          "retweet_count": 4540
+        },
+        "reply_settings": "everyone",
+        "text": "平等・公平・次世代トイレ https://t.co/1pNm37I5Kv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1893309762294391019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 893,
+          "like_count": 22714,
+          "listed_count": 6,
+          "media_count": 391,
+          "tweet_count": 4092
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-07T12:01:23.000Z",
+        "description": "KIYOです。\n思春期男子の妄想をイラストにしてます。\n本買ってください\n\n【pixiv】  https://t.co/wv0P078FPO\n【FANBOX】  https://t.co/FM4tHepXyg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/16208698",
+                "end": 70,
+                "expanded_url": "https://www.pixiv.net/users/16208698",
+                "start": 47,
+                "url": "https://t.co/wv0P078FPO"
+              },
+              {
+                "display_url": "kiyo.fanbox.cc",
+                "end": 104,
+                "expanded_url": "https://kiyo.fanbox.cc/",
+                "start": 81,
+                "url": "https://t.co/FM4tHepXyg"
+              }
+            ]
+          }
+        },
+        "id": "1280471925987262464",
+        "location": "埼玉県",
+        "name": "K影千代",
+        "pinned_tweet_id": "1837844783790018756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890003645514883072/NlLrmSlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39607,
+          "following_count": 721,
+          "like_count": 364,
+          "listed_count": 202,
+          "media_count": 57,
+          "tweet_count": 85
+        },
+        "username": "K87559009",
+        "verified": false
+      }
+    ]
+  }
+}

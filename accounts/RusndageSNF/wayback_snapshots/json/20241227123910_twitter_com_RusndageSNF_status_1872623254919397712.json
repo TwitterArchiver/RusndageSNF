@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1872606500017017197",
+    "created_at": "2024-12-27T12:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T13:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872623254919397712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733549812975611904",
+          "start": 0,
+          "username": "xzcraftpaint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872623254919397712",
+    "in_reply_to_user_id": "1733549812975611904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872606500017017197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzcraftpaint 好哦喜欢喜欢！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1872606500017017197",
+        "created_at": "2024-12-27T12:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T13:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872623254919397712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733549812975611904",
+              "start": 0,
+              "username": "xzcraftpaint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872623254919397712",
+        "in_reply_to_user_id": "1733549812975611904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872606500017017197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzcraftpaint 好哦喜欢喜欢！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872605562707566592"
+          ]
+        },
+        "author_id": "1733549812975611904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292818086488203264",
+              "name": "Fall Guys"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292818086488203264",
+              "name": "Fall Guys"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899973419499548",
+              "name": "Battle royale games"
+            }
+          }
+        ],
+        "conversation_id": "1872606500017017197",
+        "created_at": "2024-12-27T11:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T12:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872606500017017197"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 63,
+              "tag": "2024年を振り返る"
+            },
+            {
+              "end": 90,
+              "start": 75,
+              "tag": "Artsummary2024"
+            },
+            {
+              "end": 103,
+              "start": 91,
+              "tag": "fallguysart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/33yY5oIeRh",
+              "end": 127,
+              "expanded_url": "https://x.com/xzcraftpaint/status/1872606500017017197/photo/1",
+              "media_key": "3_1872605562707566592",
+              "start": 104,
+              "url": "https://t.co/33yY5oIeRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872606500017017197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真沒想到自己持續繪畫超過了一年，雖然年中過後我就非常忙碌，但心裡還是有熱忱，希望還能夠畫出更多人來，心裡還是有大計劃的！\n\n#2024年を振り返る #Artsummary2024 #fallguysart https://t.co/33yY5oIeRh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1870405329076338744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 781,
+          "like_count": 21169,
+          "listed_count": 5,
+          "media_count": 334,
+          "tweet_count": 3590
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T18:11:02.000Z",
+        "description": "中文 / English @xzcraftp 卡屁管理的繪帳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "xzcraftp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiny.cc/xzcraftpsd",
+                "end": 23,
+                "expanded_url": "http://tiny.cc/xzcraftpsd",
+                "start": 0,
+                "url": "https://t.co/fsR9l1jWPa"
+              }
+            ]
+          }
+        },
+        "id": "1733549812975611904",
+        "location": "Taiwan",
+        "name": "Craft",
+        "pinned_tweet_id": "1872606500017017197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772292354558533632/HHcveHen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/fsR9l1jWPa",
+        "username": "xzcraftpaint",
+        "verified": false
+      }
+    ]
+  }
+}

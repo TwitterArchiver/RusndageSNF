@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1885960565962789023",
+    "created_at": "2025-02-02T14:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T15:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886061412520456325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "44186175",
+          "start": 0,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886061412520456325",
+    "in_reply_to_user_id": "44186175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885960565962789023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojingcanxue 先射箭后画靶子是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1885960565962789023",
+        "created_at": "2025-02-02T14:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T15:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886061412520456325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886061412520456325",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885960565962789023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 先射箭后画靶子是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885951600365326336",
+            "3_1885951627691229184",
+            "3_1885951650504093696"
+          ]
+        },
+        "author_id": "44186175",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1885960565962789023",
+        "created_at": "2025-02-02T07:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T08:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885960565962789023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fE45ZXUOIB",
+              "end": 166,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1885960565962789023/photo/1",
+              "media_key": "3_1885951600365326336",
+              "start": 143,
+              "url": "https://t.co/fE45ZXUOIB"
+            },
+            {
+              "display_url": "pic.x.com/fE45ZXUOIB",
+              "end": 166,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1885960565962789023/photo/1",
+              "media_key": "3_1885951627691229184",
+              "start": 143,
+              "url": "https://t.co/fE45ZXUOIB"
+            },
+            {
+              "display_url": "pic.x.com/fE45ZXUOIB",
+              "end": 166,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1885960565962789023/photo/1",
+              "media_key": "3_1885951650504093696",
+              "start": 143,
+              "url": "https://t.co/fE45ZXUOIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885960565962789023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天老伴问，花滑队飞机掉下来是咋回事。我们一个女儿也搞体育所以她这个不问政治的人关心上了。\n\n我说：军机开得野蛮，没看见，撞了。\n她问：总统说原因了吗？\n我说：总统推给DEI。\n她问：什么是DEI？\n我说：就是少数族裔同性恋女人残疾人就业被歧视，但如果鼓励雇她们，又会被视为不胜任。\n她问：驾驶军机的是女人？\n我说：驾驶员是白男。两个副驾之一是女的。\n她问：驾驶民航的是女人？\n我说：似乎是白男，反正是男的。\n她问：塔台是女人？\n我说：还是白男。\n她问：那为什么说是DEI搞的？\n我沉默了，盘算着对一个政治冷感的听众的普及成本。\n最终，千言万语汇成一句话。我说：因为美国政治的玩法变了。\n\n因为舆论行业过于发达又无监管。再大的悲剧，最终会沦为舆论游戏。瞎指挥、拍脑袋出政策、裁员裁到大动脉，玩砸了。舆论上一样可以赢了又赢。\n\n先指控很重要，先声夺人。你扔一坨屎出去，就有回响：\n\n1.也许你的指控荒诞，但传播量上去了，虽然信者比例低，但信它的绝对人数就会变多。\n\n2.别人再指责你，那就叫“相互指责”。不关心政治的人很多，他们没空梳理具体事实，看一眼就会以“狗咬狗”作结。\n\n3.所谓指控的论据，是可以制造的。真理部指挥棒既然指向了DEI，社交网络cult的意见领袖和信众会自动的编出论据来。\n\n比如今天驾驶员是变性人，明天是拜登的女助理。一个不信编10个喂给你，你迟早信一个。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 22861,
+          "like_count": 254,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "今天老伴问，花滑队飞机掉下来是咋回事。我们一个女儿也搞体育所以她这个不问政治的人关心上了。\n\n我说：军机开得野蛮，没看见，撞了。\n她问：总统说原因了吗？\n我说：总统推给DEI。\n她问：什么是DEI？\n我说：就是少数族裔同性恋女人残疾人就业被歧视，但如果鼓励雇她们，又会被视为不胜任。… https://t.co/fE45ZXUOIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 882,
+          "like_count": 22393,
+          "listed_count": 7,
+          "media_count": 373,
+          "tweet_count": 3968
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231885,
+          "following_count": 1842,
+          "like_count": 188,
+          "listed_count": 1210,
+          "media_count": 24789,
+          "tweet_count": 31849
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

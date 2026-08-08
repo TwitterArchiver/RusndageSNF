@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1833005124240961794",
+    "created_at": "2024-09-09T14:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T15:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833147105071747159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1391053794432086020",
+          "start": 0,
+          "username": "ChishioMoe"
+        },
+        {
+          "end": 24,
+          "id": "1721033524155916288",
+          "start": 12,
+          "username": "wushoei_Lcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833147105071747159",
+    "in_reply_to_user_id": "1391053794432086020",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833099640603861234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChishioMoe @wushoei_Lcy 你不在群里吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1833005124240961794",
+        "created_at": "2024-09-09T14:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T15:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833147105071747159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1391053794432086020",
+              "start": 0,
+              "username": "ChishioMoe"
+            },
+            {
+              "end": 24,
+              "id": "1721033524155916288",
+              "start": 12,
+              "username": "wushoei_Lcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833147105071747159",
+        "in_reply_to_user_id": "1391053794432086020",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833099640603861234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChishioMoe @wushoei_Lcy 你不在群里吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391053794432086020",
+        "conversation_id": "1833005124240961794",
+        "created_at": "2024-09-09T11:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T12:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833099640603861234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721033524155916288",
+              "start": 0,
+              "username": "wushoei_Lcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833099640603861234",
+        "in_reply_to_user_id": "1721033524155916288",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833005124240961794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wushoei_Lcy 带我我菜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 689,
+          "like_count": 16577,
+          "listed_count": 5,
+          "tweet_count": 2787
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-08T15:34:14.000Z",
+        "description": "xyn/infp/只是想做一个简单的女孩子而已/hrt500d+/活着就是错误❌/第一个姐姐@chengyiga",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 46,
+                "username": "chengyiga"
+              }
+            ]
+          }
+        },
+        "id": "1391053794432086020",
+        "location": "♡",
+        "name": "✞稚羽汐颜✞🏳️‍⚧️",
+        "pinned_tweet_id": "1821349138081955909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815347493917655040/2H5ADLuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523,
+          "following_count": 1968,
+          "like_count": 2071,
+          "listed_count": 10,
+          "tweet_count": 1623
+        },
+        "username": "ChishioMoe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T05:15:57.000Z",
+        "description": "自己给自己打标签总是一件很愚蠢的事情🙃 It’s always silly to tag yourself ^_^  @MephiSprt 的🐶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "MephiSprt"
+              }
+            ]
+          }
+        },
+        "id": "1721033524155916288",
+        "name": "无水柠檬不加糖🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819057901186715648/6808SdQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 261,
+          "like_count": 31445,
+          "listed_count": 0,
+          "tweet_count": 1590
+        },
+        "username": "wushoei_Lcy",
+        "verified": false
+      }
+    ]
+  }
+}

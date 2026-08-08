@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1937852859972006286",
+    "created_at": "2025-06-25T17:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T18:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937921001205207524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaAzure"
+        },
+        {
+          "end": 28,
+          "id": "1624451741382221824",
+          "start": 17,
+          "username": "nya_QianZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937921001205207524",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937862877798621211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaAzure @nya_QianZi byd洗发水打到自己名字上来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1937852859972006286",
+        "created_at": "2025-06-25T17:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T18:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937921001205207524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            },
+            {
+              "end": 28,
+              "id": "1624451741382221824",
+              "start": 17,
+              "username": "nya_QianZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937921001205207524",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937862877798621211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure @nya_QianZi byd洗发水打到自己名字上来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1937852859972006286",
+        "created_at": "2025-06-25T13:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T14:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937862877798621211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624451741382221824",
+              "start": 0,
+              "username": "nya_QianZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937862877798621211",
+        "in_reply_to_user_id": "1624451741382221824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 329,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937852859972006286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nya_QianZi 当然是我们的出生于2000年11月16日 于河北省唐山市开平区的刘清杨先生呐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 983,
+          "like_count": 25887,
+          "listed_count": 8,
+          "media_count": 445,
+          "tweet_count": 4816
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🧊🌊⁉️｜叫líng就好啦 ｜MtX｜🍥hrt24.4.20｜179cm55kg骨头架子｜🇬🇧预备役英区留子乐子人｜08｜重庆｜入坑半年音游人 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "minokakay"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λzure色號の水彩翎.🧊",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921288349119373312/6m5iNDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7162,
+          "following_count": 976,
+          "like_count": 31430,
+          "listed_count": 9,
+          "media_count": 2205,
+          "tweet_count": 17406
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-11T16:54:29.000Z",
+        "description": "舞萌吃/INFP-T/会回fo没回可能是忘了戳戳我/167cm60kg减肥中/大概聊天会回不然搞不好又被送扭了/2023.2.6/2023.10.16/2024.5.6",
+        "id": "1624451741382221824",
+        "location": "雨城区",
+        "name": "见雨neko🍥",
+        "pinned_tweet_id": "1930889237660082226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704492155966754816/2wAtZ-xa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 701,
+          "like_count": 2161,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1509
+        },
+        "username": "nya_QianZi",
+        "verified": false
+      }
+    ]
+  }
+}

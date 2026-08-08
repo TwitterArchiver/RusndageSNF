@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1917438764248420386",
+    "created_at": "2025-04-30T12:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T13:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917555357012091158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "57618417",
+          "start": 0,
+          "username": "90kPa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917555357012091158",
+    "in_reply_to_user_id": "57618417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917438764248420386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@90kPa 以前行，现在不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1917438764248420386",
+        "created_at": "2025-04-30T12:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T13:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917555357012091158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "57618417",
+              "start": 0,
+              "username": "90kPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917555357012091158",
+        "in_reply_to_user_id": "57618417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917438764248420386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@90kPa 以前行，现在不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "57618417",
+        "conversation_id": "1917438764248420386",
+        "created_at": "2025-04-30T04:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T05:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917438764248420386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917438764248420386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 165435,
+          "like_count": 822,
+          "quote_count": 6,
+          "reply_count": 45,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：\n退火车票的时候，如果需要手续费，就先改签到十天之后再退。\n\n省到钱了，感谢下我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 951,
+          "like_count": 24692,
+          "listed_count": 7,
+          "media_count": 420,
+          "tweet_count": 4490
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-17T11:25:42.000Z",
+        "description": "Non omnis moriar. \n\n#Philharmonic #camping #bikepacking #prepper",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 20,
+                "tag": "Philharmonic"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "camping"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "tag": "bikepacking"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "prepper"
+              }
+            ]
+          }
+        },
+        "id": "57618417",
+        "location": "Changsha",
+        "name": "90千帕",
+        "pinned_tweet_id": "1863398031950778766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234865639845552134/KNL5SRqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38672,
+          "following_count": 166,
+          "like_count": 6244,
+          "listed_count": 294,
+          "media_count": 1484,
+          "tweet_count": 38129
+        },
+        "username": "90kPa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1799596269243154712",
+    "created_at": "2024-06-09T14:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T15:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799806164676591828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "861461591283220480",
+          "start": 0,
+          "username": "EmilyAYoung1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799806164676591828",
+    "in_reply_to_user_id": "861461591283220480",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799596269243154712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmilyAYoung1 we need it"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1799596269243154712",
+        "created_at": "2024-06-09T14:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T15:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799806164676591828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "861461591283220480",
+              "start": 0,
+              "username": "EmilyAYoung1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799806164676591828",
+        "in_reply_to_user_id": "861461591283220480",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799596269243154712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmilyAYoung1 we need it"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799595837451800576"
+          ]
+        },
+        "author_id": "861461591283220480",
+        "conversation_id": "1799596269243154712",
+        "created_at": "2024-06-09T00:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T01:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799596269243154712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Keyboard Pins are back! New RGB color now available.  You can purchase the pins from the set here, or grab 1 pin for FREE at checkout in place of our other \"bonus bin\" items. (If you opt for a free one, make sure you grab it from the bonus bin in your cart. If you pick one from this product page, you will be charged at",
+              "display_url": "lttstore.com/products/keybo…",
+              "end": 86,
+              "expanded_url": "https://www.lttstore.com/products/keyboard-pin",
+              "images": [
+                {
+                  "height": 2000,
+                  "url": "https://pbs.twimg.com/news_img/1799596291435200512/zLvjZYxQ?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1799596291435200512/zLvjZYxQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "Keyboard Pin",
+              "unwound_url": "https://www.lttstore.com/products/keyboard-pin",
+              "url": "https://t.co/zV3BFgxYH1"
+            },
+            {
+              "display_url": "pic.twitter.com/9DphUo2kAa",
+              "end": 110,
+              "expanded_url": "https://twitter.com/EmilyAYoung1/status/1799596269243154712/photo/1",
+              "media_key": "3_1799595837451800576",
+              "start": 87,
+              "url": "https://t.co/9DphUo2kAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799596269243154712",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 40397,
+          "like_count": 1875,
+          "quote_count": 4,
+          "reply_count": 32,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "So happy these are back in stock! I need to get more of them…\n\nhttps://t.co/zV3BFgxYH1 https://t.co/9DphUo2kAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 648,
+          "like_count": 14019,
+          "listed_count": 5,
+          "tweet_count": 2430
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-08T06:03:43.000Z",
+        "description": "Writer & Benchmarker at @LinusTech. My name is Emily, I come from Newfoundland, and I write about things. Arch Linux user. Opinions my own. She/Her 🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "LinusTech"
+              }
+            ]
+          }
+        },
+        "id": "861461591283220480",
+        "location": "Surrey, British Columbia",
+        "name": "Emily Young",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640505260237279232/S0UZTr9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156051,
+          "following_count": 121,
+          "like_count": 1319,
+          "listed_count": 376,
+          "tweet_count": 2845
+        },
+        "username": "EmilyAYoung1",
+        "verified": false
+      }
+    ]
+  }
+}

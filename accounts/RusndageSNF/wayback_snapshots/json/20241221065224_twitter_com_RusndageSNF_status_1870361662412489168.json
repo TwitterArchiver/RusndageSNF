@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1869961567397363714",
+    "created_at": "2024-12-21T06:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-21T07:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870361662412489168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1216695577297088512",
+          "start": 0,
+          "username": "Buxiangxuemath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870361662412489168",
+    "in_reply_to_user_id": "1216695577297088512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869961567397363714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Buxiangxuemath 一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1869961567397363714",
+        "created_at": "2024-12-21T06:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T07:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870361662412489168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1216695577297088512",
+              "start": 0,
+              "username": "Buxiangxuemath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870361662412489168",
+        "in_reply_to_user_id": "1216695577297088512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869961567397363714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Buxiangxuemath 一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1216695577297088512",
+        "conversation_id": "1869961567397363714",
+        "created_at": "2024-12-20T04:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T05:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869961567397363714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869961567397363714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 21555,
+          "like_count": 132,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "受不了了好想手术好想手术好想手术。在校内gd快炸了。校外反倒还好，我去男厕和无障碍都会被赶去女厕。而校内，我只能当个三好，哪怕辅导员和同学都知道我的情况，我还是得往男厕走，还是得一遍遍挂着笑脸向不认识我的同学说你没走错，还是得忍受时不时的“这不还没手术吗”。我知道啊，我什么都知道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 770,
+          "like_count": 20853,
+          "listed_count": 5,
+          "media_count": 329,
+          "tweet_count": 3533
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-13T12:16:54.000Z",
+        "description": "我是我",
+        "id": "1216695577297088512",
+        "location": "克拉玛依 新疆 中国",
+        "name": "优酱🍥",
+        "pinned_tweet_id": "1664997760737714176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729190745389850624/8tpqQ8EL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2740,
+          "following_count": 898,
+          "like_count": 55241,
+          "listed_count": 9,
+          "media_count": 558,
+          "tweet_count": 9705
+        },
+        "username": "Buxiangxuemath",
+        "verified": false
+      }
+    ]
+  }
+}

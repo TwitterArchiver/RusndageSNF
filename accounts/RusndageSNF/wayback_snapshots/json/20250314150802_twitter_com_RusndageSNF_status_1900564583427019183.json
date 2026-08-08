@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1900564583427019183",
+    "created_at": "2025-03-14T15:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T16:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900564583427019183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1664948430920359936",
+          "start": 8,
+          "username": "Snowcomics9452"
+        },
+        {
+          "end": 37,
+          "id": "1581134413512859648",
+          "start": 26,
+          "username": "xiaoxueljx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900564583427019183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "另外的雪花还有 @Snowcomics9452 和 @xiaoxueljx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1900564583427019183",
+        "created_at": "2025-03-14T15:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T16:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900564583427019183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1664948430920359936",
+              "start": 8,
+              "username": "Snowcomics9452"
+            },
+            {
+              "end": 37,
+              "id": "1581134413512859648",
+              "start": 26,
+              "username": "xiaoxueljx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900564583427019183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "另外的雪花还有 @Snowcomics9452 和 @xiaoxueljx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 897,
+          "like_count": 23051,
+          "listed_count": 6,
+          "media_count": 400,
+          "tweet_count": 4172
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️斷續含糖MtX🍥/\n歡迎來到雪花新聞中心，這裡是您追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Snowcomics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zyn-publiic.vercel.app",
+                "end": 23,
+                "expanded_url": "https://zyn-publiic.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/j7lBh9ksyI"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1886825412237607119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874491914344673280/JLEFcqLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 2602,
+          "like_count": 29709,
+          "listed_count": 3,
+          "media_count": 700,
+          "tweet_count": 4770
+        },
+        "url": "https://t.co/j7lBh9ksyI",
+        "username": "Snowcomics9452",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T04:06:46.000Z",
+        "description": "千山鸟飞绝，万径人踪灭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhblog.top",
+                "end": 23,
+                "expanded_url": "http://xhblog.top",
+                "start": 0,
+                "url": "https://t.co/0DH1NwBqI4"
+              }
+            ]
+          }
+        },
+        "id": "1581134413512859648",
+        "location": "Hong Kong",
+        "name": "小雪花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683086711931432962/nyzHUNKS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 224,
+          "like_count": 856,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/0DH1NwBqI4",
+        "username": "xiaoxueljx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1839232125796749320",
+    "created_at": "2024-09-26T17:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T18:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839359117259125020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        },
+        {
+          "end": 28,
+          "id": "1532012863480811520",
+          "start": 13,
+          "username": "Kanpaku_Yakumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839359117259125020",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839258177185132555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi @Kanpaku_Yakumo 中国的权威媒体都那个逼味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1839232125796749320",
+        "created_at": "2024-09-26T17:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T18:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839359117259125020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            },
+            {
+              "end": 28,
+              "id": "1532012863480811520",
+              "start": 13,
+              "username": "Kanpaku_Yakumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839359117259125020",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839258177185132555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi @Kanpaku_Yakumo 中国的权威媒体都那个逼味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553107630511603712",
+        "conversation_id": "1839232125796749320",
+        "created_at": "2024-09-26T10:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T11:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839258177185132555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1532012863480811520",
+              "start": 0,
+              "username": "Kanpaku_Yakumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839258177185132555",
+        "in_reply_to_user_id": "1532012863480811520",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1533,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839232125796749320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanpaku_Yakumo 都没错，第一个是权威媒体，第二个是自媒体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️，暂时和 @MuFengkana 住在一起\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 715,
+          "like_count": 17395,
+          "listed_count": 5,
+          "tweet_count": 2967
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "妾有绣腰襦，葳蕤自生光。",
+        "id": "1553107630511603712",
+        "location": "东亚",
+        "name": "纪真由子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821428357503873024/yksf06KG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8273,
+          "following_count": 2295,
+          "like_count": 12060,
+          "listed_count": 30,
+          "tweet_count": 11943
+        },
+        "username": "JiZhenYouZi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-01T14:55:18.000Z",
+        "description": "私には声なき声が聞こえる（\n🟨🔴🟨漢本位/🏛️保守右派/⛩💜東方眾/🛩️鋼4戰犯/🎌🎶昭和ポップス愛好家/📚架空歷史愛好者\n希望和推上的各位朋友進行友好交流🥰（某些魔怔壬除外）\n不定期分享一些優質的HOI4同人作品，以及一部分魔怔壬的驚世言論。",
+        "id": "1532012863480811520",
+        "location": "Γκενσόκιο",
+        "name": "歴史の転換期における隙間妖怪👁️",
+        "pinned_tweet_id": "1709957440660463705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792571986008473600/rVgocMe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 1506,
+          "like_count": 176310,
+          "listed_count": 11,
+          "tweet_count": 26721
+        },
+        "username": "Kanpaku_Yakumo",
+        "verified": false
+      }
+    ]
+  }
+}

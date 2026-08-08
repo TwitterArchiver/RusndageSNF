@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2038958932736217127",
+    "created_at": "2026-03-31T14:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038994034388283639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038994034388283639",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038958932736217127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan 辽宁群炸了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2038958932736217127",
+        "created_at": "2026-03-31T14:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038994034388283639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038994034388283639",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038958932736217127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 辽宁群炸了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "2038958932736217127",
+        "created_at": "2026-03-31T12:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038958932736217127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038958932736217127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1834,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "距刚才统计，腾讯一瞬间炸掉数个跨群，无论是mtf还是ftm都有波及，各位可以现在上线看看自己的群是否健在，并且没有通知群主就炸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 1086,
+          "like_count": 29481,
+          "listed_count": 8,
+          "media_count": 570,
+          "tweet_count": 5904
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2037890057319989741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16636,
+          "following_count": 483,
+          "like_count": 34803,
+          "listed_count": 32,
+          "media_count": 3610,
+          "tweet_count": 11260
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1883852432045957536",
+    "created_at": "2025-01-27T18:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T19:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883939078036677102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1858041569942843393",
+          "start": 0,
+          "username": "T2nXwEgSfK28273"
+        },
+        {
+          "end": 29,
+          "id": "1552439937198587904",
+          "start": 17,
+          "username": "shuqing8964"
+        },
+        {
+          "end": 44,
+          "id": "1072109417200414720",
+          "start": 30,
+          "username": "wangzhian8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883939078036677102",
+    "in_reply_to_user_id": "1858041569942843393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883865568677347584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T2nXwEgSfK28273 @shuqing8964 @wangzhian8848 你开深度思考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1883852432045957536",
+        "created_at": "2025-01-27T18:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T19:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883939078036677102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1858041569942843393",
+              "start": 0,
+              "username": "T2nXwEgSfK28273"
+            },
+            {
+              "end": 29,
+              "id": "1552439937198587904",
+              "start": 17,
+              "username": "shuqing8964"
+            },
+            {
+              "end": 44,
+              "id": "1072109417200414720",
+              "start": 30,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883939078036677102",
+        "in_reply_to_user_id": "1858041569942843393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883865568677347584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T2nXwEgSfK28273 @shuqing8964 @wangzhian8848 你开深度思考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858041569942843393",
+        "conversation_id": "1883852432045957536",
+        "created_at": "2025-01-27T13:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T14:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883865568677347584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552439937198587904",
+              "start": 0,
+              "username": "shuqing8964"
+            },
+            {
+              "end": 27,
+              "id": "1072109417200414720",
+              "start": 13,
+              "username": "wangzhian8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883865568677347584",
+        "in_reply_to_user_id": "1552439937198587904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8551,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883853920629633293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuqing8964 @wangzhian8848 10.19 比 10.3 大。\n\n比较这两个数时，我们可以逐位来看：\n\n- 整数部分都是10，相等。\n- 小数部分：10.19 的小数部分是0.19，而10.3的小数部分是0.30（通常写作0.3）。\n- 0.19 小于 0.30。\n\n因此，10.3 大于 10.19。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 870,
+          "like_count": 22248,
+          "listed_count": 7,
+          "media_count": 369,
+          "tweet_count": 3927
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T06:57:00.000Z",
+        "description": "",
+        "id": "1858041569942843393",
+        "name": "春季里开花十四五六",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858041889737658368/brYUtZXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 91,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "T2nXwEgSfK28273",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T23:45:26.000Z",
+        "description": "个人博客：https://t.co/fGVztYtBQS。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kikiyoshi.blogspot.com",
+                "end": 28,
+                "expanded_url": "https://kikiyoshi.blogspot.com/",
+                "start": 5,
+                "url": "https://t.co/fGVztYtBQS"
+              }
+            ]
+          }
+        },
+        "id": "1552439937198587904",
+        "name": "ききよし",
+        "pinned_tweet_id": "1601216467860873216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773164373248479232/xSR3ZxIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2919,
+          "following_count": 2226,
+          "like_count": 227484,
+          "listed_count": 17,
+          "media_count": 1443,
+          "tweet_count": 28962
+        },
+        "username": "shuqing8964",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-10T12:42:58.000Z",
+        "description": "调查记者，主持人。油管频道地址：https://t.co/WfO3vZ0ygY?amp=1，Facebook地址：https://t.co/QO4mprdzUL，TikTok地址：https://t.co/chl5sh7Cfa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/DrbI80kqkz"
+              }
+            ]
+          }
+        },
+        "id": "1072109417200414720",
+        "name": "王局志安",
+        "pinned_tweet_id": "1876486307205251482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527433965824802816/PgXCsVL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338795,
+          "following_count": 641,
+          "like_count": 239,
+          "listed_count": 3589,
+          "media_count": 3530,
+          "tweet_count": 14525
+        },
+        "url": "https://t.co/DrbI80kqkz",
+        "username": "wangzhian8848",
+        "verified": true
+      }
+    ]
+  }
+}

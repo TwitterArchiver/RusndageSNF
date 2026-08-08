@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1878502374706192737",
+    "created_at": "2025-01-13T08:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T09:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878724158126965103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641812125789069313",
+          "start": 0,
+          "username": "_chitong_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878724158126965103",
+    "in_reply_to_user_id": "1641812125789069313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878715788854706619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_chitong_ 我不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1878502374706192737",
+        "created_at": "2025-01-13T08:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T09:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878724158126965103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641812125789069313",
+              "start": 0,
+              "username": "_chitong_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878724158126965103",
+        "in_reply_to_user_id": "1641812125789069313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878715788854706619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_chitong_ 我不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641812125789069313",
+        "conversation_id": "1878502374706192737",
+        "created_at": "2025-01-13T08:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T09:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878715788854706619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878715788854706619",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878504124565565464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 不会肚子疼吗？！！😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 835,
+          "like_count": 21780,
+          "listed_count": 4,
+          "media_count": 351,
+          "tweet_count": 3731
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T14:38:18.000Z",
+        "description": "善用block与mute😇",
+        "id": "1641812125789069313",
+        "name": "🍦tong🍦",
+        "pinned_tweet_id": "1810338576888172648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680886682575568896/Zkl9mDOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 662,
+          "like_count": 16502,
+          "listed_count": 1,
+          "media_count": 372,
+          "tweet_count": 5742
+        },
+        "username": "_chitong_",
+        "verified": false
+      }
+    ]
+  }
+}

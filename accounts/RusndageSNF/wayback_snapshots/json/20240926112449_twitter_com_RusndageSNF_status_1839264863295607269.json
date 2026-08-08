@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1839238607929807201",
+    "created_at": "2024-09-26T11:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T12:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839264863295607269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778985848618602496",
+          "start": 0,
+          "username": "Tonyliu395995"
+        },
+        {
+          "end": 30,
+          "id": "1260553941714186241",
+          "start": 15,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839264863295607269",
+    "in_reply_to_user_id": "1778985848618602496",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839238826298134792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tonyliu395995 @whyyoutouzhele 这不是被收买，这是被威胁了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1839238607929807201",
+        "created_at": "2024-09-26T11:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T12:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839264863295607269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778985848618602496",
+              "start": 0,
+              "username": "Tonyliu395995"
+            },
+            {
+              "end": 30,
+              "id": "1260553941714186241",
+              "start": 15,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839264863295607269",
+        "in_reply_to_user_id": "1778985848618602496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839238826298134792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tonyliu395995 @whyyoutouzhele 这不是被收买，这是被威胁了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778985848618602496",
+        "conversation_id": "1839238607929807201",
+        "created_at": "2024-09-26T09:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T10:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839238826298134792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839238826298134792",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7920,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839238607929807201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 这是被收买了！没有骨气的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️，暂时和 @MuFengkana 住在一起\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 712,
+          "like_count": 17351,
+          "listed_count": 5,
+          "tweet_count": 2952
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T03:17:57.000Z",
+        "description": "不同的认知会有不同的行为，导致天差地别的结果。人无远虑必有近忧，当今世界无疑正在步入逆全球化过程，与我们此前30年的认知及经验相去甚远，如何在过程中趋利避害，不仅关乎我们自己的前景，更关系到子孙后代之福祉。必须认真思考，容不得丝毫懈怠。",
+        "id": "1778985848618602496",
+        "location": "brisbane",
+        "name": "洼地老刘",
+        "pinned_tweet_id": "1816381055311683814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778986080643190784/MIKY_jEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13001,
+          "following_count": 2049,
+          "like_count": 31616,
+          "listed_count": 70,
+          "tweet_count": 25529
+        },
+        "username": "Tonyliu395995",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727082,
+          "following_count": 921,
+          "like_count": 5328,
+          "listed_count": 7758,
+          "tweet_count": 23155
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

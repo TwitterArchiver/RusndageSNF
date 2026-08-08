@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1943829468172198169",
+    "created_at": "2025-07-12T16:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T17:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944076582504861832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1668535321753944065",
+          "start": 0,
+          "username": "AllEvansichuan"
+        },
+        {
+          "end": 29,
+          "id": "1811888010088316932",
+          "start": 16,
+          "username": "cuichenghao7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944076582504861832",
+    "in_reply_to_user_id": "1668535321753944065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943873586843771141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AllEvansichuan @cuichenghao7 白色恐怖别忘了，蒋和毛在图人这方面各有千秋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1943829468172198169",
+        "created_at": "2025-07-12T16:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T17:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944076582504861832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1668535321753944065",
+              "start": 0,
+              "username": "AllEvansichuan"
+            },
+            {
+              "end": 29,
+              "id": "1811888010088316932",
+              "start": 16,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944076582504861832",
+        "in_reply_to_user_id": "1668535321753944065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943873586843771141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AllEvansichuan @cuichenghao7 白色恐怖别忘了，蒋和毛在图人这方面各有千秋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668535321753944065",
+        "conversation_id": "1943829468172198169",
+        "created_at": "2025-07-12T03:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T04:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943873586843771141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943873586843771141",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 30408,
+          "like_count": 512,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943829468172198169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao7 那么至少南方就避免了大饥荒和大屠杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943919764566683648/0VKtwa2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 1000,
+          "like_count": 26487,
+          "listed_count": 8,
+          "media_count": 458,
+          "tweet_count": 5013
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T08:26:45.000Z",
+        "description": "Happiness lies not in how much you have gained, but in how much you have satisfied.",
+        "id": "1668535321753944065",
+        "name": "all over again",
+        "pinned_tweet_id": "1679043164743581696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899083389816209408/GRmgCzWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9410,
+          "following_count": 6327,
+          "like_count": 12161,
+          "listed_count": 48,
+          "media_count": 1226,
+          "tweet_count": 8910
+        },
+        "username": "AllEvansichuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心在平壤，身在彼方。Irony is a language. I speak three.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30148,
+          "following_count": 320,
+          "like_count": 450,
+          "listed_count": 82,
+          "media_count": 290,
+          "tweet_count": 340
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

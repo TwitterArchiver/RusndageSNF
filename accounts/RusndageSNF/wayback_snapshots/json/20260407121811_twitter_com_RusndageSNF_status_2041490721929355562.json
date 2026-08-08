@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2041490721929355562",
+    "created_at": "2026-04-07T12:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041490721929355562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suanrongyouyux…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/suanrongyouyuxu/status/2041469206412116148",
+          "start": 27,
+          "url": "https://t.co/jMIguoqr0b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041490721929355562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041469206412116148",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "霸凌我认为本质上就是最经典的把快乐建立在你的痛苦之上 https://t.co/jMIguoqr0b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2041490721929355562",
+        "created_at": "2026-04-07T12:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041490721929355562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suanrongyouyux…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/suanrongyouyuxu/status/2041469206412116148",
+              "start": 27,
+              "url": "https://t.co/jMIguoqr0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041490721929355562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041469206412116148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "霸凌我认为本质上就是最经典的把快乐建立在你的痛苦之上 https://t.co/jMIguoqr0b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807910824918634496",
+        "conversation_id": "2041469206412116148",
+        "created_at": "2026-04-07T10:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041469206412116148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041469206412116148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得全红婵被霸凌这件事至少说明一点，就是你是否被霸凌跟你是否优秀没有半毛钱关系，无论做得多好都没用的。\n讨厌你的人永远能找到理由。你的优秀是你的罪证，你的缺点更是他们合理化自己行为的借口。\n\n霸凌本质是一个逻辑封闭的系统，无论输入什么最后得出来的结论都是“你有问题”。寄希望于自己变得更好来摆脱霸凌，这种策略从根本上就是无效的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1639,
+          "like_count": 66,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得全红婵被霸凌这件事至少说明一点，就是你是否被霸凌跟你是否优秀没有半毛钱关系，无论做得多好都没用的。\n讨厌你的人永远能找到理由。你的优秀是你的罪证，你的缺点更是他们合理化自己行为的借口。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 1089,
+          "like_count": 29710,
+          "listed_count": 4,
+          "media_count": 571,
+          "tweet_count": 5961
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "人在海外/有政治推，有生活推，也有碎碎念/是坚定的LGBTQ支持者/犬儒主义一生之敌/有表达欲/政治光谱是温和左派/坚持DEI原则/当代网络观察员/接受私信/想要认识有趣的人",
+        "id": "1807910824918634496",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "1858686395151524238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4648,
+          "following_count": 279,
+          "like_count": 6779,
+          "listed_count": 32,
+          "media_count": 301,
+          "tweet_count": 3804
+        },
+        "username": "suanrongyouyuxu",
+        "verified": true
+      }
+    ]
+  }
+}

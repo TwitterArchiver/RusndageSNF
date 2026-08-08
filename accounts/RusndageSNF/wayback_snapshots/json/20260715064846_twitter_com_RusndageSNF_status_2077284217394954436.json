@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2052130473074188294"
+      ],
+      "media_source_tweet_id": [
+        "2052130535745503394"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077284217394954436",
+    "created_at": "2026-07-15T06:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077284217394954436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1418942200457662477",
+          "start": 3,
+          "username": "Rikka_Ela"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HXFFUxFWEm",
+          "end": 58,
+          "expanded_url": "https://x.com/gimmickmoder/status/2052130535745503394/video/1",
+          "media_key": "13_2052130473074188294",
+          "start": 35,
+          "url": "https://t.co/HXFFUxFWEm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077284217394954436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077277270016921788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rikka_Ela: 补药…..补药啊….😭😭😭😭😭😭😭😭😭 https://t.co/HXFFUxFWEm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7198,
+        "height": 632,
+        "media_key": "13_2052130473074188294",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052130473074188294/img/VmkXRAgJ0Vii5c4B.jpg",
+        "public_metrics": {
+          "view_count": 525606
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052130473074188294/vid/avc1/272x270/d6DIVlJPYpy8jbYL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052130473074188294/vid/avc1/364x360/11sLqYUlbSdSBTA3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052130473074188294/vid/avc1/640x632/AI4kgWW0e_s_VeWt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052130473074188294/pl/W1z2q5RGvirA8NUs.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052130473074188294"
+          ],
+          "media_source_tweet_id": [
+            "2052130535745503394"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077284217394954436",
+        "created_at": "2026-07-15T06:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077284217394954436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1418942200457662477",
+              "start": 3,
+              "username": "Rikka_Ela"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXFFUxFWEm",
+              "end": 58,
+              "expanded_url": "https://x.com/gimmickmoder/status/2052130535745503394/video/1",
+              "media_key": "13_2052130473074188294",
+              "start": 35,
+              "url": "https://t.co/HXFFUxFWEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077284217394954436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077277270016921788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rikka_Ela: 补药…..补药啊….😭😭😭😭😭😭😭😭😭 https://t.co/HXFFUxFWEm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052130473074188294"
+          ],
+          "media_source_tweet_id": [
+            "2052130535745503394"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077277270016921788",
+        "created_at": "2026-07-15T06:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077277270016921788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXFFUxFWEm",
+              "end": 43,
+              "expanded_url": "https://x.com/gimmickmoder/status/2052130535745503394/video/1",
+              "media_key": "13_2052130473074188294",
+              "start": 20,
+              "url": "https://t.co/HXFFUxFWEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077277270016921788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "补药…..补药啊….😭😭😭😭😭😭😭😭😭 https://t.co/HXFFUxFWEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 1118,
+          "like_count": 30794,
+          "listed_count": 7,
+          "media_count": 591,
+          "tweet_count": 6216
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6256,
+          "following_count": 3769,
+          "like_count": 86176,
+          "listed_count": 7,
+          "media_count": 447,
+          "tweet_count": 9960
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

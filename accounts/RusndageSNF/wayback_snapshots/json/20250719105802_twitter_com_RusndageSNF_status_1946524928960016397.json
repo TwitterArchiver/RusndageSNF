@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1946499172003455149",
+    "created_at": "2025-07-19T10:58:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T11:58:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946524928960016397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859219215062028288",
+          "start": 0,
+          "username": "jiang_chua28655"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946524928960016397",
+    "in_reply_to_user_id": "1859219215062028288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946499172003455149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiang_chua28655 下面平平的，亲妹妹？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1946499154748035072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwNaqxJa0AAE71z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1946499172003455149",
+        "created_at": "2025-07-19T10:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T11:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946524928960016397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859219215062028288",
+              "start": 0,
+              "username": "jiang_chua28655"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946524928960016397",
+        "in_reply_to_user_id": "1859219215062028288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946499172003455149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiang_chua28655 下面平平的，亲妹妹？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946499154748035072"
+          ]
+        },
+        "author_id": "1859219215062028288",
+        "conversation_id": "1946499172003455149",
+        "created_at": "2025-07-19T09:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T10:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946499172003455149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gi1GSR276D",
+              "end": 29,
+              "expanded_url": "https://x.com/jiang_chua28655/status/1946499172003455149/photo/1",
+              "media_key": "3_1946499154748035072",
+              "start": 6,
+              "url": "https://t.co/gi1GSR276D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946499172003455149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1324,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妹妹的肚肚 https://t.co/gi1GSR276D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 1006,
+          "like_count": 26601,
+          "listed_count": 8,
+          "media_count": 461,
+          "tweet_count": 5063
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T12:56:33.000Z",
+        "description": "回济宁了喵~过几天妹妹也来济宁\n可爱的狗狗@hry_xsu  \n天天导管的杂鱼@WinkCat1234\n涩涩方面的同类@kukudejiaxibei\n喵呜~老婆老婆@NorthLingkongRd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "hry_xsu"
+              },
+              {
+                "end": 51,
+                "start": 39,
+                "username": "WinkCat1234"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "NorthLingkongRd"
+              }
+            ]
+          }
+        },
+        "id": "1859219215062028288",
+        "location": "山东济宁",
+        "name": "涩涩の喵🍥",
+        "pinned_tweet_id": "1911406933405204650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879070661320073216/nSTgIxRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 56,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 913
+        },
+        "username": "jiang_chua28655",
+        "verified": false
+      }
+    ]
+  }
+}

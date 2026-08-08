@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885586384574169088",
+        "3_1885586384171544576"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "1885586387451470323",
+    "created_at": "2025-02-01T07:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T08:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885586387451470323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PnrGBxdxQW",
+          "end": 42,
+          "expanded_url": "https://x.com/RusndageSNF/status/1885586387451470323/photo/1",
+          "media_key": "3_1885586384574169088",
+          "start": 19,
+          "url": "https://t.co/PnrGBxdxQW"
+        },
+        {
+          "display_url": "pic.x.com/PnrGBxdxQW",
+          "end": 42,
+          "expanded_url": "https://x.com/RusndageSNF/status/1885586387451470323/photo/1",
+          "media_key": "3_1885586384171544576",
+          "start": 19,
+          "url": "https://t.co/PnrGBxdxQW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885586387451470323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草现在小视频簧片哥消失了建政哥发力了 https://t.co/PnrGBxdxQW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1885586387451470323].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1885586387451470323",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1885586387451470323"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1885586384574169088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Giry05XbQAAv3og.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1885586384171544576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Giry033bsAAY3Fj.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 881,
+          "like_count": 22339,
+          "listed_count": 7,
+          "media_count": 373,
+          "tweet_count": 3954
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

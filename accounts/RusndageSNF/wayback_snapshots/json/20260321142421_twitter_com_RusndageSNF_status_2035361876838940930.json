@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2035278383471550779",
+    "created_at": "2026-03-21T14:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T15:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035361876838940930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998791279350874112",
+          "start": 0,
+          "username": "Yamawuchimisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035361876838940930",
+    "in_reply_to_user_id": "1998791279350874112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035278383471550779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamawuchimisaki 你自己不也是支那人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2035278383471550779",
+        "created_at": "2026-03-21T14:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T15:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035361876838940930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998791279350874112",
+              "start": 0,
+              "username": "Yamawuchimisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035361876838940930",
+        "in_reply_to_user_id": "1998791279350874112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035278383471550779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamawuchimisaki 你自己不也是支那人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998791279350874112",
+        "conversation_id": "2035278383471550779",
+        "created_at": "2026-03-21T08:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035278383471550779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035278383471550779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6461,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前小红书上一个在澳女发文，说她骑马摔断了腿，打了石膏，在UNSW想用电梯被工作人员拒绝了\n她觉得自己被歧视了，就出言辱骂了工作人员\n结果UNSW官方要求她公开向被她骂的工作人员道歉\n那个女的就说UNSW搞种族歧视，自己没有错为什么要她道歉\n\n支那人的素质确实是出了名的低，中国人很不尊重他人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2298,
+          "following_count": 1083,
+          "like_count": 29332,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5856
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T16:26:03.000Z",
+        "description": "🇫🇮🇯🇵🇺🇦🇮🇱。请叫我唯酱或者我的全名：山内美咲。我有严重抑郁症双相情感障碍病例，常驻宛平南路600号，不许骂我欺负我，骂我的人必定全家死光🖕 你骂我我就哭哭很难哄的😿兴趣：YOASOBI,Taylor Swift,ボカロ,アニメ,アークナイツ,ブルアカ",
+        "id": "1998791279350874112",
+        "location": "Shanghai",
+        "name": "唯ちゃんがうっとうしい 🇫🇮🇯🇵🇺🇦🇮🇱",
+        "pinned_tweet_id": "2019022518116565328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030593487264182272/oWENhdPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 530,
+          "like_count": 3823,
+          "listed_count": 6,
+          "media_count": 430,
+          "tweet_count": 3227
+        },
+        "username": "Yamawuchimisaki",
+        "verified": false
+      }
+    ]
+  }
+}

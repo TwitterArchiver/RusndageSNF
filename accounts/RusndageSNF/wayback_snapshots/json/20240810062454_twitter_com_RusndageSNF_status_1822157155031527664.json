@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1822090750102057099",
+    "created_at": "2024-08-10T06:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T07:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822157155031527664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1554472312568954883",
+          "start": 0,
+          "username": "ccblackrice"
+        },
+        {
+          "end": 28,
+          "id": "1647815138450505730",
+          "start": 13,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822157155031527664",
+    "in_reply_to_user_id": "1554472312568954883",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822125798259864012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccblackrice @yaming00742313 因为这是中国人没人权的问题，这种地方不仅关的是跨儿，还有父母眼中的网瘾少年，抑郁症等等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1822090750102057099",
+        "created_at": "2024-08-10T06:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T07:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822157155031527664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554472312568954883",
+              "start": 0,
+              "username": "ccblackrice"
+            },
+            {
+              "end": 28,
+              "id": "1647815138450505730",
+              "start": 13,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822157155031527664",
+        "in_reply_to_user_id": "1554472312568954883",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822125798259864012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccblackrice @yaming00742313 因为这是中国人没人权的问题，这种地方不仅关的是跨儿，还有父母眼中的网瘾少年，抑郁症等等"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554472312568954883",
+        "conversation_id": "1822090750102057099",
+        "created_at": "2024-08-10T04:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T05:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822125798259864012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647815138450505730",
+              "start": 0,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822125798259864012",
+        "in_reply_to_user_id": "1647815138450505730",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822090750102057099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaming00742313 为什么这样的机构一直都存在，完全就是杀人机构"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 673,
+          "like_count": 15506,
+          "listed_count": 5,
+          "tweet_count": 2681
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T14:21:04.000Z",
+        "description": "INFP-T |  已经是老年人了😭 ｜才刚刚开始吃糖",
+        "id": "1554472312568954883",
+        "name": "是米饭欸🍥",
+        "pinned_tweet_id": "1742202737587273883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742205978442166272/sQ1djhqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 263,
+          "like_count": 564,
+          "listed_count": 1,
+          "tweet_count": 83
+        },
+        "username": "ccblackrice",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "In mourning for my life.",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "进击的yaming（从头再来版）😌😽🧋",
+        "pinned_tweet_id": "1784893130208145563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784893238341459968/c_rdFaYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3450,
+          "following_count": 973,
+          "like_count": 5074,
+          "listed_count": 9,
+          "tweet_count": 1708
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

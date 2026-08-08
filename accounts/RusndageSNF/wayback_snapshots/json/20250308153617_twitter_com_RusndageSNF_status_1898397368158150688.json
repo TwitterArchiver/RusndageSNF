@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1898397368158150688",
+    "created_at": "2025-03-08T15:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T16:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898397368158150688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1441984967437807622",
+          "start": 3,
+          "username": "JakkuSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898397368158150688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898057160770342924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JakkuSakura: 一个令人GD的点：社会上假设男性是原罪，哪怕是做了SRS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1898397368158150688",
+        "created_at": "2025-03-08T15:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T16:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898397368158150688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1441984967437807622",
+              "start": 3,
+              "username": "JakkuSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898397368158150688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898057160770342924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JakkuSakura: 一个令人GD的点：社会上假设男性是原罪，哪怕是做了SRS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441984967437807622",
+        "conversation_id": "1898057160770342924",
+        "created_at": "2025-03-07T17:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T18:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898057160770342924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shusquirrel/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/shusquirrel/status/1898029118597587098",
+              "start": 29,
+              "url": "https://t.co/cOiee1kncu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898057160770342924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6335,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898029118597587098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个令人GD的点：社会上假设男性是原罪，哪怕是做了SRS https://t.co/cOiee1kncu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1893309762294391019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 893,
+          "like_count": 22933,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 4148
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T04:36:35.000Z",
+        "description": "彼岸樱酱 香港读书 编程/量化/摄影/cosplay 后现代/后结构主义",
+        "id": "1441984967437807622",
+        "location": "Hong Kong",
+        "name": "Jakku 彼岸樱 🇭🇰🏳️‍⚧️",
+        "pinned_tweet_id": "1849643215952945248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699632941998190592/8Z_APE5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 1090,
+          "like_count": 52966,
+          "listed_count": 7,
+          "media_count": 1116,
+          "tweet_count": 9420
+        },
+        "username": "JakkuSakura",
+        "verified": false
+      }
+    ]
+  }
+}

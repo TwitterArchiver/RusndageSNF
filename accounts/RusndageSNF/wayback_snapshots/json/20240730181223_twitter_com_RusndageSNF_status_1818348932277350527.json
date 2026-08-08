@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1818066982228672793",
+    "created_at": "2024-07-30T18:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T19:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818348932277350527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442050453194244102",
+          "start": 0,
+          "username": "HfSr_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818348932277350527",
+    "in_reply_to_user_id": "1442050453194244102",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818066982228672793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HfSr_official 应试教育会得精神病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1818066982228672793",
+        "created_at": "2024-07-30T18:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T19:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818348932277350527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442050453194244102",
+              "start": 0,
+              "username": "HfSr_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818348932277350527",
+        "in_reply_to_user_id": "1442050453194244102",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818066982228672793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HfSr_official 应试教育会得精神病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442050453194244102",
+        "conversation_id": "1818066982228672793",
+        "created_at": "2024-07-29T23:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T00:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818066982228672793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhao_mama/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/zhao_mama/status/1817961404860874873",
+              "start": 32,
+              "url": "https://t.co/nsfg40rDu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818066982228672793",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5889,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817961404860874873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上学再应试教育起码还能学到点东西，卖淫能干嘛，学来梅毒艾滋病? https://t.co/nsfg40rDu0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 674,
+          "like_count": 15200,
+          "listed_count": 5,
+          "tweet_count": 2650
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T08:56:58.000Z",
+        "description": "在炎炎国人/希望互关请私信/备用账号:@HfSr_unofficial/仅限熟人小号:@HfSr_hidden/正在与冰霜哥布林@kawaiiangel42散发恋爱的酸臭味😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "HfSr_unofficial"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "username": "HfSr_hidden"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "kawaiiangel42"
+              }
+            ]
+          }
+        },
+        "id": "1442050453194244102",
+        "location": "/dev/null",
+        "name": "HfSr🇨🇳🇹🇼🇷🇺🇺🇦🇵🇸🇮🇱🇰🇵🇰🇷🇷🇸🇽🇰",
+        "pinned_tweet_id": "1716880907309887542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794946950015660032/uc_vaLVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 304,
+          "like_count": 34172,
+          "listed_count": 14,
+          "tweet_count": 22120
+        },
+        "username": "HfSr_official",
+        "verified": false
+      }
+    ]
+  }
+}

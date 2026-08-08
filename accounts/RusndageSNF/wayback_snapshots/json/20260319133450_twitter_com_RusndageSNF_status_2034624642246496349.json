@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2034328283408732280",
+    "created_at": "2026-03-19T13:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T14:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034624642246496349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1222974486863106051",
+          "start": 0,
+          "username": "himawari5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034624642246496349",
+    "in_reply_to_user_id": "1222974486863106051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034328283408732280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@himawari5201314 哔咔不是有一键屏蔽耽美吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2034328283408732280",
+        "created_at": "2026-03-19T13:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034624642246496349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1222974486863106051",
+              "start": 0,
+              "username": "himawari5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034624642246496349",
+        "in_reply_to_user_id": "1222974486863106051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034328283408732280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himawari5201314 哔咔不是有一键屏蔽耽美吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222974486863106051",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2034328283408732280",
+        "created_at": "2026-03-18T17:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034328283408732280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034328283408732280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5362,
+          "like_count": 102,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近看到某涩涩漫画软件要分流，原因只是因为有的人不会屏蔽tag看到男同作品？\n会哭闹的孩子有奶吃啊，不分男同/耽美地只是一股脑把他们打包扔出去，又不顺手把女性向的一块扔出去，哇还有搞分裂\n到时候大家真去新软件看到被大奶大比操糊脸我就想笑不停\n顺直死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 1081,
+          "like_count": 29281,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5834
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-30T20:07:07.000Z",
+        "description": "一个🔞nsfw的男同性恋🏳️‍🌈画师，喜欢画美少年（成年\n蓝p https://t.co/3yqHx8Rrug\n大眼\nhttps://t.co/fUNnOVyoou\n蓝天https://t.co/xyEogUeiP4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/32377712",
+                "end": 55,
+                "expanded_url": "https://www.pixiv.net/users/32377712",
+                "start": 32,
+                "url": "https://t.co/3yqHx8Rrug"
+              },
+              {
+                "display_url": "weibo.com/u/6398810560",
+                "end": 82,
+                "expanded_url": "https://weibo.com/u/6398810560",
+                "start": 59,
+                "url": "https://t.co/fUNnOVyoou"
+              },
+              {
+                "display_url": "bsky.app/profile/himawa…",
+                "end": 108,
+                "expanded_url": "https://bsky.app/profile/himawari1106.bsky.social",
+                "start": 85,
+                "url": "https://t.co/xyEogUeiP4"
+              }
+            ]
+          }
+        },
+        "id": "1222974486863106051",
+        "name": "🔞himawari 男妈妈小课堂",
+        "pinned_tweet_id": "1977409950000513074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915852062652354561/AkNZ8lEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4386,
+          "following_count": 198,
+          "like_count": 3188,
+          "listed_count": 12,
+          "media_count": 263,
+          "tweet_count": 1731
+        },
+        "username": "himawari5201314",
+        "verified": false
+      }
+    ]
+  }
+}

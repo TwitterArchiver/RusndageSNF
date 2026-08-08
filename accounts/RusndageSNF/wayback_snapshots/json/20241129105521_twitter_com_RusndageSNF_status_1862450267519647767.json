@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862450261786046464"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "1862450267519647767",
+    "created_at": "2024-11-29T10:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T11:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862450267519647767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/96VZtXWaA5",
+          "end": 30,
+          "expanded_url": "https://x.com/RusndageSNF/status/1862450267519647767/photo/1",
+          "media_key": "3_1862450261786046464",
+          "start": 7,
+          "url": "https://t.co/96VZtXWaA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862450267519647767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "24小时后删 https://t.co/96VZtXWaA5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1862450267519647767].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1862450267519647767",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1862450267519647767"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1862450261786046464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdjApTmXMAABhF8.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 754,
+          "like_count": 19599,
+          "listed_count": 4,
+          "media_count": 311,
+          "tweet_count": 3328
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292818086488203264",
+          "name": "Fall Guys"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292818086488203264",
+          "name": "Fall Guys"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899973419499548",
+          "name": "Battle royale games"
+        }
+      }
+    ],
+    "conversation_id": "1907032973301731341",
+    "created_at": "2025-04-01T11:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T12:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907032973301731341"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 74,
+          "normalized_text": "Superstar Rank",
+          "probability": 0.6678,
+          "start": 61,
+          "type": "Other"
+        },
+        {
+          "end": 127,
+          "normalized_text": "Ranked Knockout",
+          "probability": 0.6882,
+          "start": 113,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1134552730146500608",
+          "start": 3,
+          "username": "FallGuysGame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907032973301731341",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907026833675088195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FallGuysGame: Like this if you think you’re making it to Superstar Rank ⭐\n\nJump in now to play the brand new Ranked Knockout! Earn poin…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36766,
+        "height": 1080,
+        "media_key": "13_1907026642842554368",
+        "preview_image_url": "https://pbs.twimg.com/media/Gncex9gXUAAhS8y.jpg",
+        "public_metrics": {
+          "view_count": 3278
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907026642842554368/vid/avc1/1920x1080/SroqjGzo84BVAFqL.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907026642842554368/vid/avc1/480x270/nRE7WMDzp21gwqKT.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1907026642842554368/pl/rJfLolfYzMOBHiRl.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907026642842554368/vid/avc1/1280x720/2mgzE-wFmFb54Pgl.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907026642842554368/vid/avc1/640x360/9yY4xevsOnDuHpcq.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292818086488203264",
+              "name": "Fall Guys"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292818086488203264",
+              "name": "Fall Guys"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899973419499548",
+              "name": "Battle royale games"
+            }
+          }
+        ],
+        "conversation_id": "1907032973301731341",
+        "created_at": "2025-04-01T11:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T12:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907032973301731341"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 74,
+              "normalized_text": "Superstar Rank",
+              "probability": 0.6678,
+              "start": 61,
+              "type": "Other"
+            },
+            {
+              "end": 127,
+              "normalized_text": "Ranked Knockout",
+              "probability": 0.6882,
+              "start": 113,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1134552730146500608",
+              "start": 3,
+              "username": "FallGuysGame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907032973301731341",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907026833675088195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FallGuysGame: Like this if you think you’re making it to Superstar Rank ⭐\n\nJump in now to play the brand new Ranked Knockout! Earn poin…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1907026642842554368"
+          ]
+        },
+        "author_id": "1134552730146500608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292818086488203264",
+              "name": "Fall Guys"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292818086488203264",
+              "name": "Fall Guys"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899973419499548",
+              "name": "Battle royale games"
+            }
+          }
+        ],
+        "conversation_id": "1907026833675088195",
+        "created_at": "2025-04-01T11:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T12:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907026833675088195"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "Superstar Rank",
+              "probability": 0.6285,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 109,
+              "normalized_text": "Ranked Knockout",
+              "probability": 0.613,
+              "start": 95,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VvKxDTRi64",
+              "end": 213,
+              "expanded_url": "https://x.com/FallGuysGame/status/1907026833675088195/video/1",
+              "media_key": "13_1907026642842554368",
+              "start": 190,
+              "url": "https://t.co/VvKxDTRi64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907026833675088195",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 10398,
+          "like_count": 255,
+          "quote_count": 15,
+          "reply_count": 32,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "Like this if you think you’re making it to Superstar Rank ⭐\n\nJump in now to play the brand new Ranked Knockout! Earn points to progress through the ranks, earn rewards and bragging rights 😎 https://t.co/VvKxDTRi64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️/ADHD+ASD\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 919,
+          "like_count": 23827,
+          "listed_count": 6,
+          "media_count": 405,
+          "tweet_count": 4291
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-31T20:10:24.000Z",
+        "description": "🌶️ Available on Mobile, PC & Console @ https://t.co/fS6QFznOrV\nDeveloped by Mediatonic 😎\nFor status updates, head over to @FallGuysOwl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 122,
+                "username": "FallGuysOwl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fallguys.com/download",
+                "end": 62,
+                "expanded_url": "http://fallguys.com/download",
+                "start": 39,
+                "url": "https://t.co/fS6QFznOrV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/FallGuysGame",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/FallGuysGame",
+                "start": 0,
+                "url": "https://t.co/h7Xtl6aGBC"
+              }
+            ]
+          }
+        },
+        "id": "1134552730146500608",
+        "name": "Fall Guys",
+        "pinned_tweet_id": "1824404700868825430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907025117449781248/rLJu6V1x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297343,
+          "following_count": 191,
+          "like_count": 1770,
+          "listed_count": 1388,
+          "media_count": 4194,
+          "tweet_count": 9846
+        },
+        "url": "https://t.co/h7Xtl6aGBC",
+        "username": "FallGuysGame",
+        "verified": true
+      }
+    ]
+  }
+}

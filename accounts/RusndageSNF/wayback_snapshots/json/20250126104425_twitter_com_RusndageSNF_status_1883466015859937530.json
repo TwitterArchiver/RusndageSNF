@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883466012932390913"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "1883466015859937530",
+    "created_at": "2025-01-26T10:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T11:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883466015859937530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tZHF7WBaqL",
+          "end": 72,
+          "expanded_url": "https://x.com/RusndageSNF/status/1883466015859937530/photo/1",
+          "media_key": "3_1883466012932390913",
+          "start": 49,
+          "url": "https://t.co/tZHF7WBaqL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883466015859937530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好几天没啥人关注我了，必须发点黄推（之前发过，但删了，现在重新修了一下图发了出来偏重口不喜勿点） https://t.co/tZHF7WBaqL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1883466015859937530].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1883466015859937530",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1883466015859937530"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 753,
+        "media_key": "3_1883466012932390913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiNqXBdbQAEB1LU.jpg",
+        "width": 1259
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1679,
+          "following_count": 865,
+          "like_count": 22169,
+          "listed_count": 7,
+          "media_count": 368,
+          "tweet_count": 3900
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

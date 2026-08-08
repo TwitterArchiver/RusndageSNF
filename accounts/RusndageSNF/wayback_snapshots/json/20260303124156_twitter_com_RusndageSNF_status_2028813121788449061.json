@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028813090327060480"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028813121788449061",
+    "created_at": "2026-03-03T12:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T13:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028813121788449061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7dPVG851sI",
+          "end": 29,
+          "expanded_url": "https://x.com/RusndageSNF/status/2028813121788449061/photo/1",
+          "media_key": "3_2028813090327060480",
+          "start": 6,
+          "url": "https://t.co/7dPVG851sI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028813121788449061",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请输入文本 https://t.co/7dPVG851sI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028813090327060480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfKwaybYAA5Mls.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028813090327060480"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028813121788449061",
+        "created_at": "2026-03-03T12:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028813121788449061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dPVG851sI",
+              "end": 29,
+              "expanded_url": "https://x.com/RusndageSNF/status/2028813121788449061/photo/1",
+              "media_key": "3_2028813090327060480",
+              "start": 6,
+              "url": "https://t.co/7dPVG851sI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028813121788449061",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请输入文本 https://t.co/7dPVG851sI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 1080,
+          "like_count": 28953,
+          "listed_count": 9,
+          "media_count": 561,
+          "tweet_count": 5759
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

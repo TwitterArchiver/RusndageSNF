@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060156959769407489"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060156968111948274",
+    "created_at": "2026-05-29T00:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T01:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060156968111948274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cc5dkzffSh",
+          "end": 31,
+          "expanded_url": "https://x.com/RusndageSNF/status/2060156968111948274/photo/1",
+          "media_key": "3_2060156959769407489",
+          "start": 8,
+          "url": "https://t.co/Cc5dkzffSh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060156968111948274",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香草雪球嘿嘿嘿 https://t.co/Cc5dkzffSh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060156959769407489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJcl1viasAEcbZu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060156959769407489"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060156968111948274",
+        "created_at": "2026-05-29T00:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060156968111948274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cc5dkzffSh",
+              "end": 31,
+              "expanded_url": "https://x.com/RusndageSNF/status/2060156968111948274/photo/1",
+              "media_key": "3_2060156959769407489",
+              "start": 8,
+              "url": "https://t.co/Cc5dkzffSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060156968111948274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香草雪球嘿嘿嘿 https://t.co/Cc5dkzffSh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2333,
+          "following_count": 1104,
+          "like_count": 30188,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 6120
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

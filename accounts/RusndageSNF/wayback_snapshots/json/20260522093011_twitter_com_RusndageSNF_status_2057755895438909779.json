@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057440297223704576"
+      ],
+      "media_source_tweet_id": [
+        "2057440455017578740"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Heroic (Esports)",
+          "id": "857297134495817729",
+          "name": "Heroic "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "Heroic (Esports)",
+          "id": "857297134495817729",
+          "name": "Heroic "
+        }
+      }
+    ],
+    "conversation_id": "2057755895438909779",
+    "created_at": "2026-05-22T09:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057755895438909779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "748284237359513600",
+          "start": 3,
+          "username": "heroicgg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P6yR2lfjyB",
+          "end": 63,
+          "expanded_url": "https://x.com/heroicgg/status/2057440455017578740/video/1",
+          "media_key": "13_2057440297223704576",
+          "start": 40,
+          "url": "https://t.co/P6yR2lfjyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057755895438909779",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1012
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057440455017578740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heroicgg: life of a Mirage B player https://t.co/P6yR2lfjyB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10750,
+        "height": 2880,
+        "media_key": "13_2057440297223704576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057440297223704576/img/eV9i4iWkGeJ6n46y.jpg",
+        "public_metrics": {
+          "view_count": 196246
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057440297223704576/vid/avc1/1440x1080/MgExCCoBzdEezxeq.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057440297223704576/vid/avc1/2880x2160/MOxap4u6TyfLm9zr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057440297223704576/vid/avc1/960x720/7RmzXTckqNPnZjSM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057440297223704576/vid/avc1/480x360/ghBuRQcRMzArxo30.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057440297223704576/pl/eEdKvWxizLZwCjBP.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057440297223704576/vid/avc1/360x270/eMHnheixrCvA5hLE.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057440297223704576"
+          ],
+          "media_source_tweet_id": [
+            "2057440455017578740"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Heroic (Esports)",
+              "id": "857297134495817729",
+              "name": "Heroic "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "Heroic (Esports)",
+              "id": "857297134495817729",
+              "name": "Heroic "
+            }
+          }
+        ],
+        "conversation_id": "2057755895438909779",
+        "created_at": "2026-05-22T09:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057755895438909779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "748284237359513600",
+              "start": 3,
+              "username": "heroicgg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6yR2lfjyB",
+              "end": 63,
+              "expanded_url": "https://x.com/heroicgg/status/2057440455017578740/video/1",
+              "media_key": "13_2057440297223704576",
+              "start": 40,
+              "url": "https://t.co/P6yR2lfjyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057755895438909779",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1012
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057440455017578740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heroicgg: life of a Mirage B player https://t.co/P6yR2lfjyB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057440297223704576"
+          ]
+        },
+        "author_id": "748284237359513600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Heroic (Esports)",
+              "id": "857297134495817729",
+              "name": "Heroic "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "Heroic (Esports)",
+              "id": "857297134495817729",
+              "name": "Heroic "
+            }
+          }
+        ],
+        "conversation_id": "2057440455017578740",
+        "created_at": "2026-05-21T12:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057440455017578740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6yR2lfjyB",
+              "end": 49,
+              "expanded_url": "https://x.com/heroicgg/status/2057440455017578740/video/1",
+              "media_key": "13_2057440297223704576",
+              "start": 26,
+              "url": "https://t.co/P6yR2lfjyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057440455017578740",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1151,
+          "impression_count": 438906,
+          "like_count": 16569,
+          "quote_count": 18,
+          "reply_count": 40,
+          "retweet_count": 1012
+        },
+        "reply_settings": "everyone",
+        "text": "life of a Mirage B player https://t.co/P6yR2lfjyB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 1105,
+          "like_count": 30082,
+          "listed_count": 7,
+          "media_count": 581,
+          "tweet_count": 6104
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-29T22:37:19.000Z",
+        "description": "extremely professional esports org",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "heroic.gg/links",
+                "end": 23,
+                "expanded_url": "https://heroic.gg/links",
+                "start": 0,
+                "url": "https://t.co/c4Y6QFIAgA"
+              }
+            ]
+          }
+        },
+        "id": "748284237359513600",
+        "location": "❤️🔥⚡️",
+        "name": "HEROIC",
+        "pinned_tweet_id": "2057627160194543649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952687214283919361/DbiU1lev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189447,
+          "following_count": 435,
+          "like_count": 40808,
+          "listed_count": 534,
+          "media_count": 9352,
+          "tweet_count": 24408
+        },
+        "url": "https://t.co/c4Y6QFIAgA",
+        "username": "heroicgg",
+        "verified": true
+      }
+    ]
+  }
+}

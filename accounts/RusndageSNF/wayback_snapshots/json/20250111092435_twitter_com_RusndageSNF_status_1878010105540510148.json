@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878010093087621120"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1878010105540510148",
+    "created_at": "2025-01-11T09:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T10:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878010105540510148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e1M1Nzm9sx",
+          "end": 32,
+          "expanded_url": "https://x.com/RusndageSNF/status/1878010105540510148/photo/1",
+          "media_key": "3_1878010093087621120",
+          "start": 9,
+          "url": "https://t.co/e1M1Nzm9sx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878010105540510148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这UI好难看（） https://t.co/e1M1Nzm9sx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1878010093087621120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhAIOsMWAAAfPqe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878010093087621120"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1878010105540510148",
+        "created_at": "2025-01-11T09:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T10:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878010105540510148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1M1Nzm9sx",
+              "end": 32,
+              "expanded_url": "https://x.com/RusndageSNF/status/1878010105540510148/photo/1",
+              "media_key": "3_1878010093087621120",
+              "start": 9,
+              "url": "https://t.co/e1M1Nzm9sx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878010105540510148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这UI好难看（） https://t.co/e1M1Nzm9sx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 832,
+          "like_count": 21766,
+          "listed_count": 4,
+          "media_count": 345,
+          "tweet_count": 3707
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

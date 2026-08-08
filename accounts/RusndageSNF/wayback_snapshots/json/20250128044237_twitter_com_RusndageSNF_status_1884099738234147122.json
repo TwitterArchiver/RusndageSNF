@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1883922626042810486",
+    "created_at": "2025-01-28T04:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T05:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884099738234147122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1417347897146986497",
+          "start": 0,
+          "username": "pinglunqu"
+        },
+        {
+          "end": 26,
+          "id": "1260553941714186241",
+          "start": 11,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884099738234147122",
+    "in_reply_to_user_id": "1417347897146986497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884005403606016074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pinglunqu @whyyoutouzhele 这个应该是模型压根儿就没学这些东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1883922626042810486",
+        "created_at": "2025-01-28T04:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T05:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884099738234147122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1417347897146986497",
+              "start": 0,
+              "username": "pinglunqu"
+            },
+            {
+              "end": 26,
+              "id": "1260553941714186241",
+              "start": 11,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884099738234147122",
+        "in_reply_to_user_id": "1417347897146986497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884005403606016074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinglunqu @whyyoutouzhele 这个应该是模型压根儿就没学这些东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884005390972485632"
+          ]
+        },
+        "author_id": "1417347897146986497",
+        "conversation_id": "1883922626042810486",
+        "created_at": "2025-01-27T22:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T23:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884005403606016074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 28,
+              "id": "1260553941714186241",
+              "start": 13,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cCgqI2Y5rv",
+              "end": 60,
+              "expanded_url": "https://x.com/pinglunqu/status/1884005403606016074/photo/1",
+              "media_key": "3_1884005390972485632",
+              "start": 37,
+              "url": "https://t.co/cCgqI2Y5rv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884005403606016074",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883955253936320547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @whyyoutouzhele Hahahha https://t.co/cCgqI2Y5rv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 875,
+          "like_count": 22273,
+          "listed_count": 7,
+          "media_count": 372,
+          "tweet_count": 3935
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T04:57:39.000Z",
+        "description": "Rise up ,I will behind you",
+        "id": "1417347897146986497",
+        "location": "Long Beach,",
+        "name": "林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640587882342625284/9Y6T0g37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 13,
+          "like_count": 2334,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1133
+        },
+        "username": "pinglunqu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1878245513012892001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914248,
+          "following_count": 924,
+          "like_count": 5671,
+          "listed_count": 8007,
+          "media_count": 22628,
+          "tweet_count": 28928
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

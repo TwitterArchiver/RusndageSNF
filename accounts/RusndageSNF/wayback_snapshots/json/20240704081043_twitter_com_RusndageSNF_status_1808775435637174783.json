@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1808483260730859841",
+    "created_at": "2024-07-04T08:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T09:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808775435637174783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1636442559236161537",
+          "start": 0,
+          "username": "RainEngine2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808775435637174783",
+    "in_reply_to_user_id": "1636442559236161537",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808483260730859841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2023 主要是现在管的太严了，小时候都没有接触的机会肯定不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1808483260730859841",
+        "created_at": "2024-07-04T08:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T09:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808775435637174783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1636442559236161537",
+              "start": 0,
+              "username": "RainEngine2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808775435637174783",
+        "in_reply_to_user_id": "1636442559236161537",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808483260730859841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2023 主要是现在管的太严了，小时候都没有接触的机会肯定不会"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808483258449145856"
+          ]
+        },
+        "author_id": "1636442559236161537",
+        "conversation_id": "1808483260730859841",
+        "created_at": "2024-07-03T12:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T13:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808483260730859841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/xZvCxsrCAm",
+              "end": 23,
+              "expanded_url": "https://twitter.com/RainEngine2023/status/1808483260730859841/photo/1",
+              "media_key": "3_1808483258449145856",
+              "start": 0,
+              "url": "https://t.co/xZvCxsrCAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808483260730859841",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 23069,
+          "like_count": 141,
+          "quote_count": 16,
+          "reply_count": 23,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xZvCxsrCAm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 658,
+          "like_count": 14442,
+          "listed_count": 5,
+          "tweet_count": 2536
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T19:01:33.000Z",
+        "description": "RainEngine联合创始人/Android ROM开发/目前高二休学/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/PM前请征得同意否则Ban/GMT+8/ZH-HK/EN-US",
+        "id": "1636442559236161537",
+        "name": "晴日向",
+        "pinned_tweet_id": "1772796316470722699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807463762959720448/dCZlBzEe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 217,
+          "like_count": 2479,
+          "listed_count": 0,
+          "tweet_count": 425
+        },
+        "username": "RainEngine2023",
+        "verified": false
+      }
+    ]
+  }
+}

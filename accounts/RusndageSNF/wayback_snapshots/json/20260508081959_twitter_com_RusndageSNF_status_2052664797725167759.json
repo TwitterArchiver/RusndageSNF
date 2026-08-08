@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2052319474821607881",
+    "created_at": "2026-05-08T08:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052664797725167759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673364955171782657",
+          "start": 0,
+          "username": "kxk1388574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052664797725167759",
+    "in_reply_to_user_id": "1673364955171782657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052319474821607881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxk1388574 钻被窝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2052319464738451458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtNrfVa8AIMvGL.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2052319474821607881",
+        "created_at": "2026-05-08T08:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052664797725167759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052664797725167759",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052319474821607881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 钻被窝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052319464738451458"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "2052319474821607881",
+        "created_at": "2026-05-07T09:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052319474821607881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gc0QNbBPsq",
+              "end": 48,
+              "expanded_url": "https://x.com/kxk1388574/status/2052319474821607881/photo/1",
+              "media_key": "3_2052319464738451458",
+              "start": 25,
+              "url": "https://t.co/gc0QNbBPsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052319474821607881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 53258,
+          "like_count": 726,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "教室里明明有几十根唧唧我却一根都吃不上，急哭了😭 https://t.co/gc0QNbBPsq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 1100,
+          "like_count": 29936,
+          "listed_count": 8,
+          "media_count": 578,
+          "tweet_count": 6068
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9473,
+          "following_count": 5797,
+          "like_count": 52306,
+          "listed_count": 14,
+          "media_count": 925,
+          "tweet_count": 7381
+        },
+        "username": "kxk1388574",
+        "verified": true
+      }
+    ]
+  }
+}

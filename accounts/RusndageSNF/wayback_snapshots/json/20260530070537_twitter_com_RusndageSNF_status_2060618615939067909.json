@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2060399348731531655",
+    "created_at": "2026-05-30T07:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060618615939067909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2836827767",
+          "start": 0,
+          "username": "sponsmac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060618615939067909",
+    "in_reply_to_user_id": "2836827767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060399348731531655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sponsmac 早日康复"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2060399346793717761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgCShkWIAE7wes.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2060399348731531655",
+        "created_at": "2026-05-30T07:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060618615939067909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2836827767",
+              "start": 0,
+              "username": "sponsmac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060618615939067909",
+        "in_reply_to_user_id": "2836827767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060399348731531655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sponsmac 早日康复"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060399346793717761"
+          ]
+        },
+        "author_id": "2836827767",
+        "conversation_id": "2060399348731531655",
+        "created_at": "2026-05-29T16:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060399348731531655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6DwyggEfQ",
+              "end": 77,
+              "expanded_url": "https://x.com/sponsmac/status/2060399348731531655/photo/1",
+              "media_key": "3_2060399346793717761",
+              "start": 54,
+              "url": "https://t.co/S6DwyggEfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060399348731531655",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 372356,
+          "like_count": 29134,
+          "quote_count": 62,
+          "reply_count": 2920,
+          "retweet_count": 507
+        },
+        "reply_settings": "everyone",
+        "text": "Kanser hastasıyım banada geçmiş olsun söylermisiniz 🥹 https://t.co/S6DwyggEfQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 1106,
+          "like_count": 30225,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 6128
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-19T04:24:56.000Z",
+        "description": "",
+        "id": "2836827767",
+        "name": "Ece",
+        "pinned_tweet_id": "2060399348731531655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058663219892207618/KFiF0H-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 4788,
+          "like_count": 35761,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2138
+        },
+        "username": "sponsmac",
+        "verified": true
+      }
+    ]
+  }
+}

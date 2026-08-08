@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1937536556497273031",
+    "created_at": "2025-06-25T17:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T18:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937920603551588385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1353169870691549184",
+          "start": 0,
+          "username": "iPaulCanada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937920603551588385",
+    "in_reply_to_user_id": "1353169870691549184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937536556497273031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iPaulCanada 躺赢狗发言："
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14743,
+        "height": 887,
+        "media_key": "13_1937536505863417857",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937536505863417857/img/WckIgRtrY2uU8o_p.jpg",
+        "public_metrics": {
+          "view_count": 177245
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937536505863417857/vid/avc1/320x524/rdIRZImu744vrJe3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937536505863417857/vid/avc1/480x788/dqFDpCAS1ODHUdRq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937536505863417857/vid/avc1/540x886/xOVyOHo7XlHAxvKU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1937536505863417857/pl/bf-n_CKs7KPRU8iL.m3u8?v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1937536556497273031",
+        "created_at": "2025-06-25T17:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T18:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937920603551588385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353169870691549184",
+              "start": 0,
+              "username": "iPaulCanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937920603551588385",
+        "in_reply_to_user_id": "1353169870691549184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937536556497273031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPaulCanada 躺赢狗发言："
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937536505863417857"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "1937536556497273031",
+        "created_at": "2025-06-24T15:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T16:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937536556497273031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVp0kK3dmz",
+              "end": 37,
+              "expanded_url": "https://x.com/iPaulCanada/status/1937536556497273031/video/1",
+              "media_key": "13_1937536505863417857",
+              "start": 14,
+              "url": "https://t.co/WVp0kK3dmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937536556497273031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 430405,
+          "like_count": 824,
+          "quote_count": 17,
+          "reply_count": 311,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "这个“也”字用得出神入化！ https://t.co/WVp0kK3dmz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 983,
+          "like_count": 25885,
+          "listed_count": 8,
+          "media_count": 445,
+          "tweet_count": 4814
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "Canada",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132315,
+          "following_count": 511,
+          "like_count": 7454,
+          "listed_count": 537,
+          "media_count": 8995,
+          "tweet_count": 15218
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

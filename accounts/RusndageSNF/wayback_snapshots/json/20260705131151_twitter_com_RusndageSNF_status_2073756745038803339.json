@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073756716685283328"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2073756745038803339",
+    "created_at": "2026-07-05T13:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073756745038803339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oqrkG1qRgp",
+          "end": 44,
+          "expanded_url": "https://x.com/RusndageSNF/status/2073756745038803339/photo/1",
+          "media_key": "3_2073756716685283328",
+          "start": 21,
+          "url": "https://t.co/oqrkG1qRgp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073756745038803339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男，阴道炎我见多了，但是这个我是真没见过 https://t.co/oqrkG1qRgp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1161,
+        "media_key": "3_2073756716685283328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd2vyCbUAAinDk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073756716685283328"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2073756745038803339",
+        "created_at": "2026-07-05T13:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073756745038803339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqrkG1qRgp",
+              "end": 44,
+              "expanded_url": "https://x.com/RusndageSNF/status/2073756745038803339/photo/1",
+              "media_key": "3_2073756716685283328",
+              "start": 21,
+              "url": "https://t.co/oqrkG1qRgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073756745038803339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男，阴道炎我见多了，但是这个我是真没见过 https://t.co/oqrkG1qRgp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 1119,
+          "like_count": 30708,
+          "listed_count": 7,
+          "media_count": 588,
+          "tweet_count": 6200
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

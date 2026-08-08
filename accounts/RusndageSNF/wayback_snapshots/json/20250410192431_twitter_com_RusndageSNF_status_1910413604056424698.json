@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1910338442883674451",
+    "created_at": "2025-04-10T19:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T20:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910413604056424698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1119719849893060608",
+          "start": 0,
+          "username": "5084Meaning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910413604056424698",
+    "in_reply_to_user_id": "1119719849893060608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910341969035084066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5084Meaning 听V家的歌（例如病名的爱之类的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1910338442883674451",
+        "created_at": "2025-04-10T19:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T20:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910413604056424698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1119719849893060608",
+              "start": 0,
+              "username": "5084Meaning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910413604056424698",
+        "in_reply_to_user_id": "1119719849893060608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910341969035084066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5084Meaning 听V家的歌（例如病名的爱之类的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1119719849893060608",
+        "conversation_id": "1910338442883674451",
+        "created_at": "2025-04-10T14:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T15:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910341969035084066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910341969035084066",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910338442883674451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 最中间的那个是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️/ADHD\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 938,
+          "like_count": 24119,
+          "listed_count": 6,
+          "media_count": 410,
+          "tweet_count": 4371
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-20T21:49:50.000Z",
+        "description": "我也想成为大魔鬼啊",
+        "id": "1119719849893060608",
+        "location": "地下室",
+        "name": "意义",
+        "pinned_tweet_id": "1822908350075421001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801183657383821312/anu7-KRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 345,
+          "like_count": 611,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 3635
+        },
+        "username": "5084Meaning",
+        "verified": false
+      }
+    ]
+  }
+}

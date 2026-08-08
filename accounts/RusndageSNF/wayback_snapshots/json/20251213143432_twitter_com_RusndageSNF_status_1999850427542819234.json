@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1999460620727648726",
+    "created_at": "2025-12-13T14:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T15:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999850427542819234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999850427542819234",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999460620727648726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya 冰棍可爱喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1999459738304806921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-CCdRagAk6er-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1560,
+        "media_key": "3_1999459735368794118",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-CCSVagAYxAs9.jpg",
+        "width": 2080
+      },
+      {
+        "height": 1560,
+        "media_key": "3_1999459740095774722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-CCj8agAIKGQ2.jpg",
+        "width": 2080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999459741425442816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7-CCo5boAA5ht7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1999460620727648726",
+        "created_at": "2025-12-13T14:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T15:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999850427542819234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999850427542819234",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999460620727648726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 冰棍可爱喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999459738304806921",
+            "3_1999459735368794118",
+            "3_1999459740095774722",
+            "3_1999459741425442816"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1999460620727648726",
+        "created_at": "2025-12-12T12:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999460620727648726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vHQzt0SlN7",
+              "end": 31,
+              "expanded_url": "https://x.com/bghtnya/status/1999460620727648726/photo/1",
+              "media_key": "3_1999459738304806921",
+              "start": 8,
+              "url": "https://t.co/vHQzt0SlN7"
+            },
+            {
+              "display_url": "pic.x.com/vHQzt0SlN7",
+              "end": 31,
+              "expanded_url": "https://x.com/bghtnya/status/1999460620727648726/photo/1",
+              "media_key": "3_1999459735368794118",
+              "start": 8,
+              "url": "https://t.co/vHQzt0SlN7"
+            },
+            {
+              "display_url": "pic.x.com/vHQzt0SlN7",
+              "end": 31,
+              "expanded_url": "https://x.com/bghtnya/status/1999460620727648726/photo/1",
+              "media_key": "3_1999459740095774722",
+              "start": 8,
+              "url": "https://t.co/vHQzt0SlN7"
+            },
+            {
+              "display_url": "pic.x.com/vHQzt0SlN7",
+              "end": 31,
+              "expanded_url": "https://x.com/bghtnya/status/1999460620727648726/photo/1",
+              "media_key": "3_1999459741425442816",
+              "start": 8,
+              "url": "https://t.co/vHQzt0SlN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999460620727648726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5384,
+          "like_count": 110,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "玩雪❄️好玩喵 https://t.co/vHQzt0SlN7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 1048,
+          "like_count": 28018,
+          "listed_count": 7,
+          "media_count": 529,
+          "tweet_count": 5564
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8307,
+          "following_count": 2099,
+          "like_count": 172688,
+          "listed_count": 20,
+          "media_count": 3617,
+          "tweet_count": 44298
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

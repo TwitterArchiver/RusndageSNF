@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1833367564808032374",
+    "created_at": "2024-09-11T01:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T02:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833682458878918660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1447256124487610376",
+          "start": 0,
+          "username": "Chenmodefengzi"
+        },
+        {
+          "end": 28,
+          "id": "1650564592949678080",
+          "start": 16,
+          "username": "Freder21199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833682458878918660",
+    "in_reply_to_user_id": "1447256124487610376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833678425439052218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chenmodefengzi @Freder21199 史蒂夫有胡子，而且比alyx壮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1833367564808032374",
+        "created_at": "2024-09-11T01:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T02:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833682458878918660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1447256124487610376",
+              "start": 0,
+              "username": "Chenmodefengzi"
+            },
+            {
+              "end": 28,
+              "id": "1650564592949678080",
+              "start": 16,
+              "username": "Freder21199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833682458878918660",
+        "in_reply_to_user_id": "1447256124487610376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833678425439052218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chenmodefengzi @Freder21199 史蒂夫有胡子，而且比alyx壮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1447256124487610376",
+        "conversation_id": "1833367564808032374",
+        "created_at": "2024-09-11T01:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T02:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833678425439052218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 25,
+              "id": "1650564592949678080",
+              "start": 13,
+              "username": "Freder21199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833678425439052218",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833439469636047000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @Freder21199 原版皮肤里也没有络腮胡肌肉男的形象啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 696,
+          "like_count": 16726,
+          "listed_count": 5,
+          "tweet_count": 2810
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T17:42:37.000Z",
+        "description": "",
+        "id": "1447256124487610376",
+        "name": "诶嘿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765468182209290240/r-_ytUHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 10,
+          "like_count": 34,
+          "listed_count": 1,
+          "tweet_count": 67
+        },
+        "username": "Chenmodefengzi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T18:17:20.000Z",
+        "description": "无政府主义者🏴／包容除了傻逼以外的任何人／检查成分后回fo",
+        "id": "1650564592949678080",
+        "name": "橙子汁-official🍹🏴✝️(zyn的爷爷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830826637694509059/766bgjjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 1097,
+          "like_count": 31298,
+          "listed_count": 3,
+          "tweet_count": 2617
+        },
+        "username": "Freder21199",
+        "verified": false
+      }
+    ]
+  }
+}

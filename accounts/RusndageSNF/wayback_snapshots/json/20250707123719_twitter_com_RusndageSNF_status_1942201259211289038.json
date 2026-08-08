@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1942069474720645315",
+    "created_at": "2025-07-07T12:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T13:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942201259211289038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1914188881353949184",
+          "start": 0,
+          "username": "xzsrtjjknknbvcd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942201259211289038",
+    "in_reply_to_user_id": "1914188881353949184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942069474720645315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzsrtjjknknbvcd 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1942069472342523904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvOd5UQbQAAFqPa.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1942069474720645315",
+        "created_at": "2025-07-07T12:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T13:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942201259211289038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1914188881353949184",
+              "start": 0,
+              "username": "xzsrtjjknknbvcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942201259211289038",
+        "in_reply_to_user_id": "1914188881353949184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942069474720645315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzsrtjjknknbvcd 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942069472342523904"
+          ]
+        },
+        "author_id": "1914188881353949184",
+        "conversation_id": "1942069474720645315",
+        "created_at": "2025-07-07T03:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T04:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942069474720645315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9W4xfNORA",
+              "end": 43,
+              "expanded_url": "https://x.com/xzsrtjjknknbvcd/status/1942069474720645315/photo/1",
+              "media_key": "3_1942069472342523904",
+              "start": 20,
+              "url": "https://t.co/h9W4xfNORA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942069474720645315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 966,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我什么也不会，只有发帖子了（命苦一笑） https://t.co/h9W4xfNORA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 996,
+          "like_count": 26293,
+          "listed_count": 8,
+          "media_count": 453,
+          "tweet_count": 4949
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T05:26:19.000Z",
+        "description": "06含糖xyn。\n你的爱跟泡泡一样脆弱。我也不再奢求什么。\n梦想有一个自己的小屋可以独立生活，要天天开心，没有违法没有伤害过别人，所以我不会在意任何人的攻击的。",
+        "id": "1914188881353949184",
+        "name": "江楚🍥🏳️‍⚧️～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941645198401982464/vnR9LzR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 22,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 45
+        },
+        "username": "xzsrtjjknknbvcd",
+        "verified": false
+      }
+    ]
+  }
+}

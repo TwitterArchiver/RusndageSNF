@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1895900133679923204",
+    "created_at": "2025-03-02T15:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T16:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896218981356441683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1686063963111374859",
+          "start": 0,
+          "username": "mo_chen6191"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896218981356441683",
+    "in_reply_to_user_id": "1686063963111374859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895900133679923204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo_chen6191 他们才不在乎呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1895900133679923204",
+        "created_at": "2025-03-02T15:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T16:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896218981356441683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1686063963111374859",
+              "start": 0,
+              "username": "mo_chen6191"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896218981356441683",
+        "in_reply_to_user_id": "1686063963111374859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895900133679923204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo_chen6191 他们才不在乎呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686063963111374859",
+        "conversation_id": "1895900133679923204",
+        "created_at": "2025-03-01T18:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T19:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895900133679923204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hatsushigure_c…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Hatsushigure_c/status/1895426890120507623",
+              "start": 66,
+              "url": "https://t.co/OcrWXRumUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895900133679923204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 868,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895426890120507623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是一个很典型的问题，当人们看到跨性别自杀时，首先想到的就是那个“咱喵”\n          跨性别需要有一个正面的人物作为代表 https://t.co/OcrWXRumUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1893309762294391019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 893,
+          "like_count": 22789,
+          "listed_count": 6,
+          "media_count": 391,
+          "tweet_count": 4112
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T17:19:22.000Z",
+        "description": "路人。逃生舱@yedeng1919",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "yedeng1919"
+              }
+            ]
+          }
+        },
+        "id": "1686063963111374859",
+        "location": "方北路",
+        "name": "陈",
+        "pinned_tweet_id": "1761789635859279967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686074367204036608/uU59SCN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 989,
+          "like_count": 25543,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 5528
+        },
+        "username": "mo_chen6191",
+        "verified": false
+      }
+    ]
+  }
+}

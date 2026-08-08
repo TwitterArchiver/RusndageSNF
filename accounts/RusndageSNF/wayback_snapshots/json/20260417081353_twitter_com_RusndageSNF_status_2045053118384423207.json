@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2045045170169921988",
+    "created_at": "2026-04-17T08:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T09:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045053118384423207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736265610911428608",
+          "start": 0,
+          "username": "noname2095_"
+        },
+        {
+          "end": 23,
+          "id": "1367650454042071045",
+          "start": 13,
+          "username": "hakua_ako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045053118384423207",
+    "in_reply_to_user_id": "1736265610911428608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045049093828087821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noname2095_ @hakua_ako 二鸟修一没有，女主detrans了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2045045170169921988",
+        "created_at": "2026-04-17T08:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045053118384423207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            },
+            {
+              "end": 23,
+              "id": "1367650454042071045",
+              "start": 13,
+              "username": "hakua_ako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045053118384423207",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045049093828087821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ @hakua_ako 二鸟修一没有，女主detrans了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "2045045170169921988",
+        "created_at": "2026-04-17T07:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045049093828087821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1367650454042071045",
+              "start": 0,
+              "username": "hakua_ako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045049093828087821",
+        "in_reply_to_user_id": "1367650454042071045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045048180815913142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakua_ako 放浪男孩最后结局是两个主角都detrans了，我觉得本身就不算太好的代表"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259,
+          "following_count": 1091,
+          "like_count": 29698,
+          "listed_count": 7,
+          "media_count": 573,
+          "tweet_count": 5984
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2138,
+          "following_count": 311,
+          "like_count": 3994,
+          "listed_count": 6,
+          "media_count": 293,
+          "tweet_count": 10078
+        },
+        "username": "noname2095_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-05T01:38:01.000Z",
+        "description": "Trans Girl/She/Her/双/Sub/已有主～\n2025.8.5正式含糖/绝赞减肥中！！！\n特摄/TF/手办/NSFW/R-18/模型摄影写真随拍分享~ 兴趣使然介意勿FO\n现阶段身材并不算很满意所以不怎么发本体",
+        "id": "1367650454042071045",
+        "location": "Japan",
+        "name": "白娅💫",
+        "pinned_tweet_id": "2014760297266106799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039021676680171520/lAfwaUj8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 1231,
+          "like_count": 1493,
+          "listed_count": 7,
+          "media_count": 283,
+          "tweet_count": 1871
+        },
+        "username": "hakua_ako",
+        "verified": false
+      }
+    ]
+  }
+}

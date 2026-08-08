@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1794019938841350638",
+    "created_at": "2024-05-25T16:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T17:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794399062877450498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1681532605081202688",
+          "start": 0,
+          "username": "kazuha191981"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794399062877450498",
+    "in_reply_to_user_id": "1681532605081202688",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794019938841350638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazuha191981 丑人甚至连被欺凌都是应该的...唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1794019938841350638",
+        "created_at": "2024-05-25T16:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T17:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794399062877450498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1681532605081202688",
+              "start": 0,
+              "username": "kazuha191981"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794399062877450498",
+        "in_reply_to_user_id": "1681532605081202688",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794019938841350638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazuha191981 丑人甚至连被欺凌都是应该的...唉"
+      },
+      {
+        "attachments": {},
+        "author_id": "1681532605081202688",
+        "conversation_id": "1794019938841350638",
+        "created_at": "2024-05-24T14:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T15:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794019938841350638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794019938841350638",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3396,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这几个月看了很多凡尔赛的mtf，刚刚又接触一个直球攻击别人颜值的mtf，再加上曾经贴吧发生的事，攻击别人颜值的mtf，算是总结出来了:\n其实这个群体，本质上就是让一群好看的人进去的。丑人是没资格的。你好看就是小姐姐，你丑，连一些mtf都要骂你人妖跨畜。\n当然，这也合理，没人喜欢丑的，对吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 648,
+          "like_count": 13517,
+          "listed_count": 5,
+          "tweet_count": 2324
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T05:13:18.000Z",
+        "description": "",
+        "id": "1681532605081202688",
+        "name": "叶楠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681533536459952128/UsSho1kL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 12,
+          "like_count": 1236,
+          "listed_count": 0,
+          "tweet_count": 997
+        },
+        "username": "kazuha191981",
+        "verified": false
+      }
+    ]
+  }
+}

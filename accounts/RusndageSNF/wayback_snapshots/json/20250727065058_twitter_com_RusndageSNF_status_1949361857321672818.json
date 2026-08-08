@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1949206342889291801",
+    "created_at": "2025-07-27T06:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T07:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949361857321672818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949361857321672818",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949206342889291801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 中国大陆人只配看宝宝巴士"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46656,
+        "height": 640,
+        "media_key": "13_1949181082655399936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949181082655399936/img/kQRcPvoSqcd4o7DO.jpg",
+        "public_metrics": {
+          "view_count": 73496
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949181082655399936/vid/avc1/320x568/HI7s7GN2TVWh3mSZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949181082655399936/vid/avc1/360x640/Eizzk3-BZ1qSLYE6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949181082655399936/pl/ytCcN8OcYCQionsy.m3u8?v=cfc"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "duration_ms": 28966,
+        "height": 960,
+        "media_key": "13_1949205919901814785",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949205919901814785/img/BbcUo15kbqomqJni.jpg",
+        "public_metrics": {
+          "view_count": 6286
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949205919901814785/vid/avc1/320x426/Hu6zSu_ay7Kn2RL0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949205919901814785/vid/avc1/480x640/OYmNHZXKNh7EX7YE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949205919901814785/vid/avc1/720x960/kW0MgHQFYofCbqup.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949205919901814785/pl/zTEfDA6mm0nzdcLI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1949206342889291801",
+        "created_at": "2025-07-27T06:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T07:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949361857321672818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949361857321672818",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949206342889291801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 中国大陆人只配看宝宝巴士"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949181082655399936",
+            "13_1949205919901814785"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949206342889291801",
+        "created_at": "2025-07-26T20:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T21:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949206342889291801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8nSLQLDcfW",
+              "end": 172,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949206342889291801/video/1",
+              "media_key": "13_1949181082655399936",
+              "start": 149,
+              "url": "https://t.co/8nSLQLDcfW"
+            },
+            {
+              "display_url": "pic.x.com/8nSLQLDcfW",
+              "end": 172,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949206342889291801/video/1",
+              "media_key": "13_1949205919901814785",
+              "start": 149,
+              "url": "https://t.co/8nSLQLDcfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949206342889291801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 171343,
+          "like_count": 599,
+          "quote_count": 17,
+          "reply_count": 143,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "7月26日，国内再次出现《我的英雄学院》COSer被霸凌事件。\n一段重庆观音桥的视频中，一名同样是日本动漫《火影忍者》的COSer追打一名《我的英雄学院》COSer。\n另一段视频中，在大巴车上，一名《火影忍者》的COSer在大巴上质问《我的英雄学院》COSer知不知道918，并拽掉了对方的假发。 https://t.co/8nSLQLDcfW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 1012,
+          "like_count": 26799,
+          "listed_count": 7,
+          "media_count": 466,
+          "tweet_count": 5101
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044115,
+          "following_count": 980,
+          "like_count": 7721,
+          "listed_count": 8210,
+          "media_count": 32296,
+          "tweet_count": 38963
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063963730120216576"
+      ],
+      "media_source_tweet_id": [
+        "2063963737795842076"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2064286121673265308",
+    "created_at": "2026-06-09T09:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064286121673265308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1639990877811802113",
+          "start": 3,
+          "username": "Mangmang0825"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LRuJAP3kG8",
+          "end": 48,
+          "expanded_url": "https://x.com/Mangmang0825/status/2063963737795842076/photo/1",
+          "media_key": "3_2063963730120216576",
+          "start": 25,
+          "url": "https://t.co/LRuJAP3kG8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064286121673265308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063963737795842076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mangmang0825: 这个世界好差 https://t.co/LRuJAP3kG8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2063963730120216576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSsE8MbEAA5s--.jpg",
+        "width": 1007
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063963730120216576"
+          ],
+          "media_source_tweet_id": [
+            "2063963737795842076"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2064286121673265308",
+        "created_at": "2026-06-09T09:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064286121673265308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1639990877811802113",
+              "start": 3,
+              "username": "Mangmang0825"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRuJAP3kG8",
+              "end": 48,
+              "expanded_url": "https://x.com/Mangmang0825/status/2063963737795842076/photo/1",
+              "media_key": "3_2063963730120216576",
+              "start": 25,
+              "url": "https://t.co/LRuJAP3kG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064286121673265308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063963737795842076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mangmang0825: 这个世界好差 https://t.co/LRuJAP3kG8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063963730120216576"
+          ]
+        },
+        "author_id": "1639990877811802113",
+        "conversation_id": "2063963737795842076",
+        "created_at": "2026-06-08T12:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063963737795842076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRuJAP3kG8",
+              "end": 30,
+              "expanded_url": "https://x.com/Mangmang0825/status/2063963737795842076/photo/1",
+              "media_key": "3_2063963730120216576",
+              "start": 7,
+              "url": "https://t.co/LRuJAP3kG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063963737795842076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 30387,
+          "like_count": 1177,
+          "quote_count": 4,
+          "reply_count": 34,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界好差 https://t.co/LRuJAP3kG8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 1106,
+          "like_count": 30326,
+          "listed_count": 7,
+          "media_count": 585,
+          "tweet_count": 6150
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T14:01:22.000Z",
+        "description": "不建政 不吵架 不恋爱 不社交 专心营业自己的呆萌生活\n碎碎念｜BDSM｜brat｜🪢被缚｜不约谢谢\n随便发的、仅输出个人观点\n来我帖子下跳脚的男的我会拉黑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mang29604",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mang29604",
+                "start": 0,
+                "url": "https://t.co/DNuCYf7Z3Q"
+              }
+            ]
+          }
+        },
+        "id": "1639990877811802113",
+        "location": "深圳",
+        "name": "三文鱼🍣",
+        "pinned_tweet_id": "2050498888700973182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040893650805379072/4oT5OkHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 111,
+          "like_count": 7759,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 1995
+        },
+        "url": "https://t.co/DNuCYf7Z3Q",
+        "username": "Mangmang0825",
+        "verified": false
+      }
+    ]
+  }
+}

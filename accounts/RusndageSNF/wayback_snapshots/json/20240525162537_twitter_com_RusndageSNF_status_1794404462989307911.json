@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1794045159052833186",
+    "created_at": "2024-05-25T16:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T17:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794404462989307911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1182158764419403776",
+          "start": 0,
+          "username": "Vd6Gvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794404462989307911",
+    "in_reply_to_user_id": "1182158764419403776",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794045159052833186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vd6Gvq AI图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1794045159052833186",
+        "created_at": "2024-05-25T16:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T17:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794404462989307911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1182158764419403776",
+              "start": 0,
+              "username": "Vd6Gvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794404462989307911",
+        "in_reply_to_user_id": "1182158764419403776",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794045159052833186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vd6Gvq AI图"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794045133924847616"
+          ]
+        },
+        "author_id": "1182158764419403776",
+        "conversation_id": "1794045159052833186",
+        "created_at": "2024-05-24T16:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T17:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794045159052833186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/dbWbFCKJii",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Vd6Gvq/status/1794045159052833186/photo/1",
+              "media_key": "3_1794045133924847616",
+              "start": 7,
+              "url": "https://t.co/dbWbFCKJii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794045159052833186",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 97018,
+          "like_count": 406,
+          "quote_count": 9,
+          "reply_count": 190,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "被震撼到了… https://t.co/dbWbFCKJii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 648,
+          "like_count": 13535,
+          "listed_count": 5,
+          "tweet_count": 2339
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-10T05:00:30.000Z",
+        "description": "兩腳踢翻塵世界，一肩挑盡古今愁。\n而今不食嗟來食，黃犬何須吠不休。",
+        "id": "1182158764419403776",
+        "name": "賣男孩的小火柴",
+        "pinned_tweet_id": "1677945984050143233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1199959562595397632/tdJpzPIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87994,
+          "following_count": 557,
+          "like_count": 134349,
+          "listed_count": 304,
+          "tweet_count": 24454
+        },
+        "username": "Vd6Gvq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1866174038814708161",
+    "created_at": "2024-12-11T04:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T05:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866697592610099230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1577836636783902720",
+          "start": 0,
+          "username": "njujimbo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866697592610099230",
+    "in_reply_to_user_id": "1577836636783902720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866174038814708161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@njujimbo 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1866174038814708161",
+        "created_at": "2024-12-11T04:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T05:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866697592610099230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1577836636783902720",
+              "start": 0,
+              "username": "njujimbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866697592610099230",
+        "in_reply_to_user_id": "1577836636783902720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866174038814708161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@njujimbo 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577836636783902720",
+        "conversation_id": "1866174038814708161",
+        "created_at": "2024-12-09T17:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T18:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866174038814708161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866174038814708161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5409,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布：华中科技大学同济医学院护理学院的领导，通通是傻逼😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 761,
+          "like_count": 20298,
+          "listed_count": 4,
+          "media_count": 319,
+          "tweet_count": 3422
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T01:42:36.000Z",
+        "description": "持证含糖MtF🏳️‍⚧️/Lesbian🏳️‍🌈/发情ing，想找对象/萌新Kiger，角色是绪山美波里和洛天依~/maimaiDX/交通迷/北京研一在读/五道口美食探索/onimai单推/我们今天都很可爱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/480514215",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/480514215",
+                "start": 0,
+                "url": "https://t.co/K0SNHd8jCa"
+              }
+            ]
+          }
+        },
+        "id": "1577836636783902720",
+        "location": "北京",
+        "name": "🍥金啵🍥",
+        "pinned_tweet_id": "1863124348271460861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577836925406556160/TewEQgDG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 558,
+          "like_count": 16,
+          "listed_count": 4,
+          "media_count": 163,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/K0SNHd8jCa",
+        "username": "njujimbo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1939254358476259661",
+    "created_at": "2025-06-29T13:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T14:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939310407191331225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690706941134397440",
+          "start": 0,
+          "username": "ITNSatori8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939310407191331225",
+    "in_reply_to_user_id": "1690706941134397440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939254358476259661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ITNSatori8964 唉，我何尝不是呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1939254358476259661",
+        "created_at": "2025-06-29T13:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T14:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939310407191331225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690706941134397440",
+              "start": 0,
+              "username": "ITNSatori8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939310407191331225",
+        "in_reply_to_user_id": "1690706941134397440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939254358476259661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ITNSatori8964 唉，我何尝不是呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690706941134397440",
+        "conversation_id": "1939254358476259661",
+        "created_at": "2025-06-29T09:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T10:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939254358476259661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939254358476259661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1681,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好羡慕那些可以好好上完高中，甚至可以在高中留头发的跨女……\n杭州没有高中会收我，我老家的高中也绝对不会接受我留头发和我的心理疾病\n我这辈子都别想上好的大学了吧……\n明明我以前成绩那么好。。。高一的时候是年段第一……\n为什么………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 985,
+          "like_count": 26011,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 4867
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T12:48:48.000Z",
+        "description": "08/1/5 164/54 🏳‍⚧️HRT:2023.12.16🍥 持证含糖 主人 @KOISHI_IV 姐姐们 @shuixian120886 Sub/brat 拒绝键政 双相/ASD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "KOISHI_IV"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "shuixian120886"
+              }
+            ]
+          }
+        },
+        "id": "1690706941134397440",
+        "location": "恋恋的笼子里",
+        "name": "小英酱喵🍥🏳‍⚧️",
+        "pinned_tweet_id": "1913508005502734724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866231302997098496/mnl2_0mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3205,
+          "following_count": 366,
+          "like_count": 13666,
+          "listed_count": 6,
+          "media_count": 183,
+          "tweet_count": 968
+        },
+        "username": "ITNSatori8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1943893391361945640",
+    "created_at": "2025-07-12T16:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T17:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944078467647103167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1899895552093073408",
+          "start": 0,
+          "username": "RexYip69"
+        },
+        {
+          "end": 25,
+          "id": "1721381996960845824",
+          "start": 10,
+          "username": "laozhouhengmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944078467647103167",
+    "in_reply_to_user_id": "1899895552093073408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943959555811291442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RexYip69 @laozhouhengmei 已经“公布”了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1943893391361945640",
+        "created_at": "2025-07-12T16:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T17:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944078467647103167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1899895552093073408",
+              "start": 0,
+              "username": "RexYip69"
+            },
+            {
+              "end": 25,
+              "id": "1721381996960845824",
+              "start": 10,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944078467647103167",
+        "in_reply_to_user_id": "1899895552093073408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943959555811291442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RexYip69 @laozhouhengmei 已经“公布”了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899895552093073408",
+        "conversation_id": "1943893391361945640",
+        "created_at": "2025-07-12T09:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T10:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943959555811291442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1721381996960845824",
+              "start": 0,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943959555811291442",
+        "in_reply_to_user_id": "1721381996960845824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16242,
+          "like_count": 221,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943893391361945640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laozhouhengmei 人家飛機出了事就會及時向公眾公告，大陸東航出了事到現在都沒有公布真相🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943919764566683648/0VKtwa2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 1000,
+          "like_count": 26490,
+          "listed_count": 8,
+          "media_count": 458,
+          "tweet_count": 5015
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T18:51:54.000Z",
+        "description": "不跟随～～",
+        "id": "1899895552093073408",
+        "location": "Hong Kong",
+        "name": "Rex Yip",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899896425301106688/sTQStM5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 46,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 74
+        },
+        "username": "RexYip69",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "原本是墙内时政批判类头部主播，微信视频号被下架几十个10万+，目前墙内已全面封杀。油管9个月破25万订阅。大马华人，美国8年，上海15年（2008~2023），现在新加坡；斯坦福计算机系，前金融企业CEO。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84263,
+          "following_count": 108,
+          "like_count": 9034,
+          "listed_count": 346,
+          "media_count": 596,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true
+      }
+    ]
+  }
+}

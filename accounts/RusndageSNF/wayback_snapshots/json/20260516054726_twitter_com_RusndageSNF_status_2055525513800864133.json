@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055481795680911361"
+      ],
+      "media_source_tweet_id": [
+        "2055481799166373990"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2055525513800864133",
+    "created_at": "2026-05-16T05:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055525513800864133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jKvH7MHEJI",
+          "end": 58,
+          "expanded_url": "https://x.com/Kenntnis22/status/2055481799166373990/photo/1",
+          "media_key": "3_2055481795680911361",
+          "start": 35,
+          "url": "https://t.co/jKvH7MHEJI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055525513800864133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055481799166373990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: 不，你的贡献仍然是值得的，感谢你❗️ https://t.co/jKvH7MHEJI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 697,
+        "media_key": "3_2055481795680911361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaJzYHXwAEgL5t.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055481795680911361"
+          ],
+          "media_source_tweet_id": [
+            "2055481799166373990"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2055525513800864133",
+        "created_at": "2026-05-16T05:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055525513800864133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKvH7MHEJI",
+              "end": 58,
+              "expanded_url": "https://x.com/Kenntnis22/status/2055481799166373990/photo/1",
+              "media_key": "3_2055481795680911361",
+              "start": 35,
+              "url": "https://t.co/jKvH7MHEJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055525513800864133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055481799166373990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: 不，你的贡献仍然是值得的，感谢你❗️ https://t.co/jKvH7MHEJI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055481795680911361"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2055481799166373990",
+        "created_at": "2026-05-16T02:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055481799166373990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jKvH7MHEJI",
+              "end": 42,
+              "expanded_url": "https://x.com/Kenntnis22/status/2055481799166373990/photo/1",
+              "media_key": "3_2055481795680911361",
+              "start": 19,
+              "url": "https://t.co/jKvH7MHEJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055481799166373990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 12454,
+          "like_count": 496,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "不，你的贡献仍然是值得的，感谢你❗️ https://t.co/jKvH7MHEJI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 1103,
+          "like_count": 30018,
+          "listed_count": 8,
+          "media_count": 579,
+          "tweet_count": 6082
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2055422375483801829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54861,
+          "following_count": 440,
+          "like_count": 57679,
+          "listed_count": 265,
+          "media_count": 12350,
+          "tweet_count": 18922
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

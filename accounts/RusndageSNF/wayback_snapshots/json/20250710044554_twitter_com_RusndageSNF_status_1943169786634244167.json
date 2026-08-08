@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1943149393894428698",
+    "created_at": "2025-07-10T04:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T05:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943169786634244167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1085871114314641410",
+          "start": 0,
+          "username": "Sarutobi39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943169786634244167",
+    "in_reply_to_user_id": "1085871114314641410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943149393894428698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sarutobi39 自己内部也内斗呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1943149393894428698",
+        "created_at": "2025-07-10T04:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T05:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943169786634244167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1085871114314641410",
+              "start": 0,
+              "username": "Sarutobi39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943169786634244167",
+        "in_reply_to_user_id": "1085871114314641410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943149393894428698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sarutobi39 自己内部也内斗呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1085871114314641410",
+        "conversation_id": "1943149393894428698",
+        "created_at": "2025-07-10T03:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T04:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943149393894428698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943149393894428698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于列车砸窗户这事儿\n一会儿热搜说干得好\n一会儿又说不提倡\n最后整了个折中\n不是很懂这两天官媒内部发生了啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815,
+          "following_count": 998,
+          "like_count": 26384,
+          "listed_count": 8,
+          "media_count": 456,
+          "tweet_count": 4982
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-17T12:07:02.000Z",
+        "description": "生活在赛博幻想乡的一枚挖坑大师 清流G向爱好者~ 人畜无害的萌萌人，Hololive箱推，AI探索中，会一点chess/ENTP/随缘系摄影ww/杂鱼up/超绝精波/百变萌二/北京国安サポ/意识形态是中间温和派（社自）\nStarcraft2 World Team League Staff\nよろしくお願いします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/I6pugjeaExR1…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/I6pugjeaExR1C7I4xL2KFeqed4w2",
+                "start": 0,
+                "url": "https://t.co/DwRo7f0M2x"
+              }
+            ]
+          }
+        },
+        "id": "1085871114314641410",
+        "name": "🇨🇳猿飞•斯基🇯🇵🇵🇱🇦🇺🌽☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1260008449900900353/pAkjD2-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 636,
+          "like_count": 30243,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 3270
+        },
+        "url": "https://t.co/DwRo7f0M2x",
+        "username": "Sarutobi39",
+        "verified": false
+      }
+    ]
+  }
+}

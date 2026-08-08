@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2070473718141452787",
+    "created_at": "2026-06-27T20:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T21:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070962770741449121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597605170502062080",
+          "start": 0,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070962770741449121",
+    "in_reply_to_user_id": "1597605170502062080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070473718141452787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami_rin0 能不能不要再像个老灯似的，对各种影视作品指指点点了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2070473718141452787",
+        "created_at": "2026-06-27T20:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T21:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070962770741449121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597605170502062080",
+              "start": 0,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070962770741449121",
+        "in_reply_to_user_id": "1597605170502062080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070473718141452787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_rin0 能不能不要再像个老灯似的，对各种影视作品指指点点了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597605170502062080",
+        "conversation_id": "2070473718141452787",
+        "created_at": "2026-06-26T11:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070473718141452787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070473718141452787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16143,
+          "like_count": 371,
+          "quote_count": 2,
+          "reply_count": 49,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "影视作品能不能不要再美化香烟了？说的就是你，什么山田小姐，香烟既不浪漫，也没有任何的文艺属性。我现在已经不管那么多了，凡是现实中在公共场合疯狂吸烟，让我吸二手烟的通通视为傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 1115,
+          "like_count": 30661,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 6191
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "大龄术后MTF，某二次元公司游戏开发🎮Unity客户端🦋，随机发吃喝玩乐\n只管开心,无需正常\n水中寒月如雪，指尖轻点融解， 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人\n#啊呀纳米相册 #小绫的诗歌日记本 #小绫饭店 #aynm吃什么 #aynm旅行日记",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 119,
+                "start": 112,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 144,
+                "start": 136,
+                "tag": "aynm吃什么"
+              },
+              {
+                "end": 154,
+                "start": 145,
+                "tag": "aynm旅行日记"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L2HGT"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm💨♿️🌊",
+        "pinned_tweet_id": "2061116133726716255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4848,
+          "following_count": 1021,
+          "like_count": 18770,
+          "listed_count": 16,
+          "media_count": 1746,
+          "tweet_count": 11352
+        },
+        "url": "https://t.co/scHs3L2HGT",
+        "username": "Ayanami_rin0",
+        "verified": true
+      }
+    ]
+  }
+}

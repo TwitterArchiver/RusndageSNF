@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1872138865210990698",
+    "created_at": "2024-12-26T22:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T23:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872416502114377903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1509939466101825542",
+          "start": 0,
+          "username": "22HomoPoliticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872416502114377903",
+    "in_reply_to_user_id": "1509939466101825542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872138865210990698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22HomoPoliticus 没好片子才是最大的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1872138865210990698",
+        "created_at": "2024-12-26T22:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T23:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872416502114377903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509939466101825542",
+              "start": 0,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872416502114377903",
+        "in_reply_to_user_id": "1509939466101825542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872138865210990698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22HomoPoliticus 没好片子才是最大的问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872138860848717824"
+          ]
+        },
+        "author_id": "1509939466101825542",
+        "conversation_id": "1872138865210990698",
+        "created_at": "2024-12-26T04:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T05:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872138865210990698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlZubMMTjU",
+              "end": 45,
+              "expanded_url": "https://x.com/22HomoPoliticus/status/1872138865210990698/photo/1",
+              "media_key": "3_1872138860848717824",
+              "start": 22,
+              "url": "https://t.co/HlZubMMTjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872138865210990698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 185713,
+          "like_count": 506,
+          "quote_count": 7,
+          "reply_count": 77,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "平安夜票房这么惨啊😧比三年大清零时代还惨！ https://t.co/HlZubMMTjU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1870405329076338744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 779,
+          "like_count": 21124,
+          "listed_count": 5,
+          "media_count": 334,
+          "tweet_count": 3580
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Political writer with a focus on Chinese politics and international relations. YouTube频道“一个内修司”：https://t.co/UidYD98B6f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mindalchemy20…",
+                "end": 119,
+                "expanded_url": "https://youtube.com/@mindalchemy2024?si=0kix-GDezYc1rLw0",
+                "start": 96,
+                "url": "https://t.co/UidYD98B6f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee",
+                "start": 0,
+                "url": "https://t.co/5siZDDccNb"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "location": "London",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "1872112560104759481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79502,
+          "following_count": 454,
+          "like_count": 89920,
+          "listed_count": 489,
+          "media_count": 7135,
+          "tweet_count": 22204
+        },
+        "url": "https://t.co/5siZDDccNb",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

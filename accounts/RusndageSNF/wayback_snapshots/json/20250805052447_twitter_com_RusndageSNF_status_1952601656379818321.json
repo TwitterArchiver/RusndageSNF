@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1952388379452096827",
+    "created_at": "2025-08-05T05:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T06:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952601656379818321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1027764083565711360",
+          "start": 0,
+          "username": "__Inty__"
+        },
+        {
+          "end": 21,
+          "id": "1261335549215989760",
+          "start": 10,
+          "username": "Polymarket"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952601656379818321",
+    "in_reply_to_user_id": "1027764083565711360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952388379452096827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Inty__ @Polymarket 我感觉这赔率得低的离谱吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1286,
+        "media_key": "3_1952385897191571458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxhEoRqWAAIKMw8.jpg",
+        "width": 2696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1952388379452096827",
+        "created_at": "2025-08-05T05:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T06:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952601656379818321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1027764083565711360",
+              "start": 0,
+              "username": "__Inty__"
+            },
+            {
+              "end": 21,
+              "id": "1261335549215989760",
+              "start": 10,
+              "username": "Polymarket"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952601656379818321",
+        "in_reply_to_user_id": "1027764083565711360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952388379452096827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Inty__ @Polymarket 我感觉这赔率得低的离谱吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952385897191571458"
+          ]
+        },
+        "author_id": "1027764083565711360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1952388379452096827",
+        "created_at": "2025-08-04T15:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T16:10:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952386742558101914",
+          "1952388379452096827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1261335549215989760",
+              "start": 33,
+              "username": "Polymarket"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvYDojRdeU",
+              "end": 129,
+              "expanded_url": "https://x.com/__Inty__/status/1952388379452096827/photo/1",
+              "media_key": "3_1952385897191571458",
+              "start": 106,
+              "url": "https://t.co/bvYDojRdeU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952388379452096827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 217065,
+          "like_count": 491,
+          "quote_count": 11,
+          "reply_count": 113,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "习近平年底（12/31/2025）之前会下台吗？\n\n如果你现在在 @Polymarket  下注100美金，堵他下台，届时你能拿到1111美金的回报！\n\n利润约1000美金！\n\n如果赌他不下台，能获利约8美金！ https://t.co/bvYDojRdeU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 1017,
+          "like_count": 26910,
+          "listed_count": 7,
+          "media_count": 486,
+          "tweet_count": 5179
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "为你分享世界热点新闻。\n\n我的YouTube主页 https://t.co/QWKpvf4NCB  \n时政聊天群 https://t.co/mfY4RFysrB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@inty",
+                "end": 48,
+                "expanded_url": "http://youtube.com/@inty",
+                "start": 25,
+                "url": "https://t.co/QWKpvf4NCB"
+              },
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 80,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 57,
+                "url": "https://t.co/mfY4RFysrB"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "Inty News",
+        "pinned_tweet_id": "1950900584933978531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719650,
+          "following_count": 40,
+          "like_count": 1457,
+          "listed_count": 2132,
+          "media_count": 32271,
+          "tweet_count": 91231
+        },
+        "username": "__Inty__",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-15T16:40:13.000Z",
+        "description": "Trade politics, news, culture & tech. Discord: https://t.co/tzKrbDf7dZ Tag @AskPolymarket to get live odds.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "AskPolymarket"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "polymarket.com/r/discord",
+                "end": 70,
+                "expanded_url": "http://polymarket.com/r/discord",
+                "start": 47,
+                "url": "https://t.co/tzKrbDf7dZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polymarket.com",
+                "end": 23,
+                "expanded_url": "https://polymarket.com",
+                "start": 0,
+                "url": "https://t.co/EAc2DPKt0X"
+              }
+            ]
+          }
+        },
+        "id": "1261335549215989760",
+        "name": "Polymarket",
+        "pinned_tweet_id": "1952373452670963794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789484330638561280/t4Js9UFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632320,
+          "following_count": 5452,
+          "like_count": 45173,
+          "listed_count": 2788,
+          "media_count": 4648,
+          "tweet_count": 17349
+        },
+        "url": "https://t.co/EAc2DPKt0X",
+        "username": "Polymarket",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "author_id": "1236317911431536640",
+    "conversation_id": "1844253352777089452",
+    "created_at": "2024-10-10T10:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T11:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844322456326340856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1495635928949616642",
+          "start": 0,
+          "username": "Meizakini"
+        },
+        {
+          "end": 22,
+          "id": "1757616332240224256",
+          "start": 11,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "id": "1844322456326340856",
+    "in_reply_to_user_id": "1495635928949616642",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 151,
+      "like_count": 5,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844255771913224221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meizakini @B_cat38324 05的已经大二了，06的现在是大一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1236317911431536640",
+        "conversation_id": "1844253352777089452",
+        "created_at": "2024-10-10T10:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T11:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844322456326340856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1495635928949616642",
+              "start": 0,
+              "username": "Meizakini"
+            },
+            {
+              "end": 22,
+              "id": "1757616332240224256",
+              "start": 11,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "id": "1844322456326340856",
+        "in_reply_to_user_id": "1495635928949616642",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844255771913224221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meizakini @B_cat38324 05的已经大二了，06的现在是大一"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 759,
+          "like_count": 20016,
+          "listed_count": 4,
+          "media_count": 317,
+          "tweet_count": 3376
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T05:46:25.000Z",
+        "description": "Trans girl | 铝铜&女朋友超可爱 | INTP | 无R18 | 不常键政 | 178 cm | 物理 PhD 在读 | mston @meizakini@o3o.ca | tg@meizakini | https://t.co/gZPAIapcje | 手术日记 https://t.co/NcHNk6AdML",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "meizakini.bsky.social",
+                "end": 131,
+                "expanded_url": "http://meizakini.bsky.social",
+                "start": 108,
+                "url": "https://t.co/gZPAIapcje"
+              },
+              {
+                "display_url": "t.me/meizaSRS",
+                "end": 162,
+                "expanded_url": "http://t.me/meizaSRS",
+                "start": 139,
+                "url": "https://t.co/NcHNk6AdML"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "meiza.cc",
+                "end": 23,
+                "expanded_url": "http://meiza.cc",
+                "start": 0,
+                "url": "https://t.co/uTDknZ8kNp"
+              }
+            ]
+          }
+        },
+        "id": "1495635928949616642",
+        "location": "0.7 km",
+        "name": "Meiza",
+        "pinned_tweet_id": "1847939518600519859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826198723694829568/ga73lAXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4569,
+          "following_count": 1248,
+          "like_count": 18800,
+          "listed_count": 11,
+          "media_count": 549,
+          "tweet_count": 6705
+        },
+        "url": "https://t.co/uTDknZ8kNp",
+        "username": "Meizakini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "丄",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12558,
+          "following_count": 179,
+          "like_count": 361,
+          "listed_count": 40,
+          "media_count": 69,
+          "tweet_count": 11785
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

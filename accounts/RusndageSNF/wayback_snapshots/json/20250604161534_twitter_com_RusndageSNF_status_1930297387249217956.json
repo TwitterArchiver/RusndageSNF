@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1929940812802171251",
+    "created_at": "2025-06-04T16:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930297387249217956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905967025509539840",
+          "start": 0,
+          "username": "Apatite_Cinis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930297387249217956",
+    "in_reply_to_user_id": "1905967025509539840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930294795366518796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apatite_Cinis 昨天什么都没发生，包括历史"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1930294795366518796].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1930294795366518796",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1930294795366518796"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1929940812802171251",
+        "created_at": "2025-06-04T16:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930297387249217956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905967025509539840",
+              "start": 0,
+              "username": "Apatite_Cinis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930297387249217956",
+        "in_reply_to_user_id": "1905967025509539840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930294795366518796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apatite_Cinis 昨天什么都没发生，包括历史"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 963,
+          "like_count": 25671,
+          "listed_count": 8,
+          "media_count": 438,
+          "tweet_count": 4735
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T12:55:36.000Z",
+        "description": "踩著半車金礦狂奔向公墓而去。\n大号@Apatite98568",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "Apatite98568"
+              }
+            ]
+          }
+        },
+        "id": "1905967025509539840",
+        "name": "湛陨的磷灰石骨灰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905967187984359424/OooR3E6H_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 43,
+          "like_count": 793,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 208
+        },
+        "username": "Apatite_Cinis",
+        "verified": false
+      }
+    ]
+  }
+}

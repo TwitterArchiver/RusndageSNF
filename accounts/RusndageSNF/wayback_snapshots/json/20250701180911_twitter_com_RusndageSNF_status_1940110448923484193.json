@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1939935752562852124",
+    "created_at": "2025-07-01T18:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T19:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940110448923484193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682445540695609345",
+          "start": 0,
+          "username": "cmyf_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940110448923484193",
+    "in_reply_to_user_id": "1682445540695609345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939935752562852124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cmyf_qwq lena就是跨啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1939935752562852124",
+        "created_at": "2025-07-01T18:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T19:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940110448923484193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682445540695609345",
+              "start": 0,
+              "username": "cmyf_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940110448923484193",
+        "in_reply_to_user_id": "1682445540695609345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939935752562852124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cmyf_qwq lena就是跨啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682445540695609345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "1939935752562852124",
+        "created_at": "2025-07-01T06:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T07:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939935752562852124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minecraft/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Minecraft/status/1939747830538612952",
+              "start": 23,
+              "url": "https://t.co/rgzJkEvH8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939935752562852124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 569,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939747830538612952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操你是我认识的Minecraft吗？？？😨 https://t.co/rgzJkEvH8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，但本体是前JMR雪球队退役球圆Snowflake（划去）🏳️‍⚧️/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 986,
+          "like_count": 26089,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 4880
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T17:41:09.000Z",
+        "description": "09年无证含糖 | 163cm45kg |HRT2024.10.2 |已炸柜|想和同类贴贴|性取向Transles|梦想是成为可爱的小女孩|TG:@cmyf_qwq|有事请联系我的TG|颜控|不要上来就私信要我联系方式请说明原因|不援交！|我们活着就是对恶意的最大反抗！|老公～@daiduodexs|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "cmyf_qwq"
+              },
+              {
+                "end": 150,
+                "start": 139,
+                "username": "daiduodexs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cmyf_qwq",
+                "end": 23,
+                "expanded_url": "http://t.me/cmyf_qwq",
+                "start": 0,
+                "url": "https://t.co/Xg5Th62LhY"
+              }
+            ]
+          }
+        },
+        "id": "1682445540695609345",
+        "location": "老公怀里",
+        "name": "朝梦引帆🍥",
+        "pinned_tweet_id": "1903313856602181945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864086343007268864/zYe352zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 421,
+          "like_count": 100,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 303
+        },
+        "url": "https://t.co/Xg5Th62LhY",
+        "username": "cmyf_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

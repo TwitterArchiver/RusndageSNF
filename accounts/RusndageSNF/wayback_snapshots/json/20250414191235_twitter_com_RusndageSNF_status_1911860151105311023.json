@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222535168",
+          "name": "Online Services - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10042999172",
+          "name": "Crunchyroll"
+        }
+      }
+    ],
+    "conversation_id": "1911841887314464930",
+    "created_at": "2025-04-14T19:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T20:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911860151105311023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "28023330",
+          "start": 0,
+          "username": "Crunchyroll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911860151105311023",
+    "in_reply_to_user_id": "28023330",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911841887314464930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Crunchyroll assassin classroom"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042999172",
+              "name": "Crunchyroll"
+            }
+          }
+        ],
+        "conversation_id": "1911841887314464930",
+        "created_at": "2025-04-14T19:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T20:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911860151105311023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "28023330",
+              "start": 0,
+              "username": "Crunchyroll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911860151105311023",
+        "in_reply_to_user_id": "28023330",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911841887314464930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crunchyroll assassin classroom"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28023330",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042999172",
+              "name": "Crunchyroll"
+            }
+          }
+        ],
+        "conversation_id": "1911841887314464930",
+        "created_at": "2025-04-14T18:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T19:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911841887314464930"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "National Anime Day",
+              "probability": 0.6932,
+              "start": 0,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911841887314464930",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 82470,
+          "like_count": 1854,
+          "quote_count": 193,
+          "reply_count": 624,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "National Anime Day is tomorrow! 🎉 What is your favorite anime of all time? 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 939,
+          "like_count": 24284,
+          "listed_count": 6,
+          "media_count": 413,
+          "tweet_count": 4400
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-01T01:55:52.000Z",
+        "description": "Welcome to the official account for Crunchyroll✨ Bringing you the latest & greatest anime!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crunchyroll.com",
+                "end": 23,
+                "expanded_url": "https://www.crunchyroll.com/",
+                "start": 0,
+                "url": "https://t.co/UAbRk6Pm1A"
+              }
+            ]
+          }
+        },
+        "id": "28023330",
+        "name": "Crunchyroll",
+        "pinned_tweet_id": "1902399614730285151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816516497289973761/fhcKXD3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10397228,
+          "following_count": 586,
+          "like_count": 17409,
+          "listed_count": 6527,
+          "media_count": 74489,
+          "tweet_count": 203362
+        },
+        "url": "https://t.co/UAbRk6Pm1A",
+        "username": "Crunchyroll",
+        "verified": true
+      }
+    ]
+  }
+}

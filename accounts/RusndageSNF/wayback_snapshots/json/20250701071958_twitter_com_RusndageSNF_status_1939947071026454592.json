@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1939876382068416531",
+    "created_at": "2025-07-01T07:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T08:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939947071026454592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        },
+        {
+          "end": 29,
+          "id": "1807107145756008448",
+          "start": 13,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939947071026454592",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939944963208249634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH @KagurazakaAzure 不是说服务器被黑了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939944960410714112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwRqckXAAAFWqj.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939944960431726592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwRqcpXoAAw0tY.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939944961031483392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwRqe4XMAAJ7-9.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939944961106972672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuwRqfKXEAApgIB.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1939876382068416531",
+        "created_at": "2025-07-01T07:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T08:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939947071026454592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            },
+            {
+              "end": 29,
+              "id": "1807107145756008448",
+              "start": 13,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939947071026454592",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939944963208249634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH @KagurazakaAzure 不是说服务器被黑了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939944960410714112",
+            "3_1939944960431726592",
+            "3_1939944961031483392",
+            "3_1939944961106972672"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939876382068416531",
+        "created_at": "2025-07-01T07:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T08:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939944963208249634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4pOmHsNaG0",
+              "end": 74,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1939944963208249634/photo/1",
+              "media_key": "3_1939944960410714112",
+              "start": 51,
+              "url": "https://t.co/4pOmHsNaG0"
+            },
+            {
+              "display_url": "pic.x.com/4pOmHsNaG0",
+              "end": 74,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1939944963208249634/photo/1",
+              "media_key": "3_1939944960431726592",
+              "start": 51,
+              "url": "https://t.co/4pOmHsNaG0"
+            },
+            {
+              "display_url": "pic.x.com/4pOmHsNaG0",
+              "end": 74,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1939944963208249634/photo/1",
+              "media_key": "3_1939944961031483392",
+              "start": 51,
+              "url": "https://t.co/4pOmHsNaG0"
+            },
+            {
+              "display_url": "pic.x.com/4pOmHsNaG0",
+              "end": 74,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1939944963208249634/photo/1",
+              "media_key": "3_1939944961106972672",
+              "start": 51,
+              "url": "https://t.co/4pOmHsNaG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939944963208249634",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939876382068416531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure b站已经在哈气了\n但是哈气归哈气也没人敢放原图🤣放了也过不了审（） https://t.co/4pOmHsNaG0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，但本体是前JMR雪球队退役球圆Snowflake（划去）🏳️‍⚧️/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 986,
+          "like_count": 26068,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 4876
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点”里哦😈\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🩷💜/含糖🍥2023.12.7/泛性恋🏳️‍🌈/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/淫趴头子+滥交药攻/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1913873631475622109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10764,
+          "following_count": 1179,
+          "like_count": 116151,
+          "listed_count": 22,
+          "media_count": 3920,
+          "tweet_count": 55280
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🕯🧊🌊⁉️ | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜179cm55kg｜可能是🇬🇧预备役英区留子｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜曾列席特朗普马斯克对谈会 ｜买雌二醇找@minokakay｜@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 118,
+                "username": "minokakay"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "Λzure色號の水彩翎.🕯",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938293505996296195/LQW0jQLL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7259,
+          "following_count": 1023,
+          "like_count": 33217,
+          "listed_count": 9,
+          "media_count": 2282,
+          "tweet_count": 18103
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

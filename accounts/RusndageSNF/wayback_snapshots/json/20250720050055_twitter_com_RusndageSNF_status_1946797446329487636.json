@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1946787850021642640",
+    "created_at": "2025-07-20T05:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T06:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946797446329487636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893623858911150080",
+          "start": 0,
+          "username": "Apatite98568"
+        },
+        {
+          "end": 30,
+          "id": "1893332752000524290",
+          "start": 14,
+          "username": "StarryCloud1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946797446329487636",
+    "in_reply_to_user_id": "1893623858911150080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946794820422582582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apatite98568 @StarryCloud1123 我也这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1946787850021642640",
+        "created_at": "2025-07-20T05:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T06:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946797446329487636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893623858911150080",
+              "start": 0,
+              "username": "Apatite98568"
+            },
+            {
+              "end": 30,
+              "id": "1893332752000524290",
+              "start": 14,
+              "username": "StarryCloud1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946797446329487636",
+        "in_reply_to_user_id": "1893623858911150080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946794820422582582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apatite98568 @StarryCloud1123 我也这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893623858911150080",
+        "conversation_id": "1946787850021642640",
+        "created_at": "2025-07-20T04:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T05:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946794820422582582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893332752000524290",
+              "start": 0,
+              "username": "StarryCloud1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946794820422582582",
+        "in_reply_to_user_id": "1893332752000524290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946787850021642640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryCloud1123 带个锁吧最好)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 1007,
+          "like_count": 26635,
+          "listed_count": 8,
+          "media_count": 461,
+          "tweet_count": 5067
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T11:28:16.000Z",
+        "description": "福瑞|航天|粥批|二次元|友🏳️‍⚧️🏳️‍🌈|泛性恋|小号@Apatite_Cinis\n(18歳以上の年齢表記)加画师里推用的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Apatite_Cinis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "biupiukiu.net",
+                "end": 23,
+                "expanded_url": "http://biupiukiu.net",
+                "start": 0,
+                "url": "https://t.co/a2fKnAmdyS"
+              }
+            ]
+          }
+        },
+        "id": "1893623858911150080",
+        "location": "在高潮的青年路",
+        "name": "湛隕",
+        "pinned_tweet_id": "1934594315801760111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938092250258694144/rb3BX6Po_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 967,
+          "like_count": 15295,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 3833
+        },
+        "url": "https://t.co/a2fKnAmdyS",
+        "username": "Apatite98568",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T16:11:34.000Z",
+        "description": "理科高三/辽宁沈阳/福瑞控/生理男取向男/舟/9/mai/arc/负能@StarryCloud1919",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 35,
+                "username": "StarryCloud1919"
+              }
+            ]
+          }
+        },
+        "id": "1893332752000524290",
+        "name": "灿云SCloud🔜Sleeping",
+        "pinned_tweet_id": "1946153355644113174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924529509619171329/NT9KPqcZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2654,
+          "following_count": 1042,
+          "like_count": 16290,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 240
+        },
+        "username": "StarryCloud1123",
+        "verified": false
+      }
+    ]
+  }
+}

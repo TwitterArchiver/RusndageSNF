@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1981377746669326571",
+    "created_at": "2025-10-23T15:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T16:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981382517879165323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981382517879165323",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981377746669326571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH 我想玩你号"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1878,
+        "media_key": "3_1981377744375033856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39Ej4tWsAAXnF3.jpg",
+        "width": 927
+      },
+      {
+        "height": 1958,
+        "media_key": "3_1981377744224096256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39Ej4JXkAASSw1.jpg",
+        "width": 929
+      },
+      {
+        "height": 1848,
+        "media_key": "3_1981377744668598272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39Ej5zWIAArEx9.jpg",
+        "width": 923
+      },
+      {
+        "height": 1834,
+        "media_key": "3_1981377745247494144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39Ej79XYAAV1K_.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1981377746669326571",
+        "created_at": "2025-10-23T15:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T16:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981382517879165323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981382517879165323",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981377746669326571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH 我想玩你号"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981377744375033856",
+            "3_1981377744224096256",
+            "3_1981377744668598272",
+            "3_1981377745247494144"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1981377746669326571",
+        "created_at": "2025-10-23T15:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T16:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981377746669326571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRHEhZXHPd",
+              "end": 180,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1981377746669326571/photo/1",
+              "media_key": "3_1981377744375033856",
+              "start": 157,
+              "url": "https://t.co/JRHEhZXHPd"
+            },
+            {
+              "display_url": "pic.x.com/JRHEhZXHPd",
+              "end": 180,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1981377746669326571/photo/1",
+              "media_key": "3_1981377744224096256",
+              "start": 157,
+              "url": "https://t.co/JRHEhZXHPd"
+            },
+            {
+              "display_url": "pic.x.com/JRHEhZXHPd",
+              "end": 180,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1981377746669326571/photo/1",
+              "media_key": "3_1981377744668598272",
+              "start": 157,
+              "url": "https://t.co/JRHEhZXHPd"
+            },
+            {
+              "display_url": "pic.x.com/JRHEhZXHPd",
+              "end": 180,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1981377746669326571/photo/1",
+              "media_key": "3_1981377745247494144",
+              "start": 157,
+              "url": "https://t.co/JRHEhZXHPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981377746669326571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏消息噢，我csgo里真的有几把高价格的刀，是我的那种，万一我出事了，应急保命钱的说，“最后的存款备用金”那种😇😇😇\n\n我不是倒勾我从来没倒卖过真的单纯挑两把喜欢的当存款的那种😭\n\n啊啊啊啊现在buff还打不开\n我只能祈求我当时买的红皮够多…\n呜呜呜记不得了）\n要不是刚谈上，真you jump I junp了) https://t.co/JRHEhZXHPd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 1045,
+          "like_count": 27868,
+          "listed_count": 7,
+          "media_count": 526,
+          "tweet_count": 5470
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/不堪风流往事🩷💜/21岁/上岸啦，不再约炮和援交/❤️\n@Mirro_zinuo\n/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Mirro_zinuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1973169992570118470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11797,
+          "following_count": 1357,
+          "like_count": 146826,
+          "listed_count": 23,
+          "media_count": 4712,
+          "tweet_count": 63972
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

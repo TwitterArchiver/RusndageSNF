@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2039565007432925614",
+    "created_at": "2026-04-02T13:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039701227790119423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828632343680294916",
+          "start": 0,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039701227790119423",
+    "in_reply_to_user_id": "1828632343680294916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039565007432925614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvya 直接拉黑，退租了是你检查不仔细还能怪我了？再说了氟利昂本来就是损耗品，每7-8年就要重新补充的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 511,
+        "media_key": "3_2039565005432188928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE39kP0acAAX1AL.jpg",
+        "width": 690
+      },
+      {
+        "height": 559,
+        "media_key": "3_2039565005281222656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE39kPQa4AAGBr8.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2039565007432925614",
+        "created_at": "2026-04-02T13:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039701227790119423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039701227790119423",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039565007432925614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 直接拉黑，退租了是你检查不仔细还能怪我了？再说了氟利昂本来就是损耗品，每7-8年就要重新补充的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039565005432188928",
+            "3_2039565005281222656"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2039565007432925614",
+        "created_at": "2026-04-02T04:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039565007432925614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ynI0l7rcwx",
+              "end": 40,
+              "expanded_url": "https://x.com/jianlvya/status/2039565007432925614/photo/1",
+              "media_key": "3_2039565005432188928",
+              "start": 17,
+              "url": "https://t.co/ynI0l7rcwx"
+            },
+            {
+              "display_url": "pic.x.com/ynI0l7rcwx",
+              "end": 40,
+              "expanded_url": "https://x.com/jianlvya/status/2039565007432925614/photo/1",
+              "media_key": "3_2039565005281222656",
+              "start": 17,
+              "url": "https://t.co/ynI0l7rcwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039565007432925614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 573579,
+          "like_count": 332,
+          "quote_count": 1,
+          "reply_count": 220,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "退房三个月后！房东给我发来了这个 https://t.co/ynI0l7rcwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 1089,
+          "like_count": 29561,
+          "listed_count": 8,
+          "media_count": 570,
+          "tweet_count": 5931
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 私信互关\n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2039565007432925614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4937,
+          "following_count": 978,
+          "like_count": 16474,
+          "listed_count": 14,
+          "media_count": 647,
+          "tweet_count": 1289
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1816499185249575345",
+    "created_at": "2024-07-27T06:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T07:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817086858381459606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1492473445220708355",
+          "start": 0,
+          "username": "ouo20061128ouo"
+        },
+        {
+          "end": 32,
+          "id": "1509939466101825542",
+          "start": 16,
+          "username": "22HomoPoliticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817086858381459606",
+    "in_reply_to_user_id": "1492473445220708355",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816525660791374216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouo20061128ouo @22HomoPoliticus 穆斯林都不能叫宗教，这叫恐怖主义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1816499185249575345",
+        "created_at": "2024-07-27T06:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T07:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817086858381459606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1492473445220708355",
+              "start": 0,
+              "username": "ouo20061128ouo"
+            },
+            {
+              "end": 32,
+              "id": "1509939466101825542",
+              "start": 16,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817086858381459606",
+        "in_reply_to_user_id": "1492473445220708355",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816525660791374216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouo20061128ouo @22HomoPoliticus 穆斯林都不能叫宗教，这叫恐怖主义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492473445220708355",
+        "conversation_id": "1816499185249575345",
+        "created_at": "2024-07-25T17:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T18:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816525660791374216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509939466101825542",
+              "start": 0,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816525660791374216",
+        "in_reply_to_user_id": "1509939466101825542",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4111,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816499185249575345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22HomoPoliticus 沒有宗教自由，可能要重複歷史了…這次迫害的是穆斯林"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 675,
+          "like_count": 15166,
+          "listed_count": 5,
+          "tweet_count": 2642
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T12:20:00.000Z",
+        "description": "",
+        "id": "1492473445220708355",
+        "location": "Nantou County, Taiwan",
+        "name": "赤城ouo🇧🇩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816466571830906880/3P9vduUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 89,
+          "like_count": 493,
+          "listed_count": 0,
+          "tweet_count": 136
+        },
+        "username": "ouo20061128ouo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Politics and International Relations. 本推订阅服务（点击右上角👆）会分享一些国际关系前沿学术著作、社会科学科普著作、深度社会评论、文学艺术评论、哲学笔记以及Substack专栏文章精彩内容等等。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee",
+                "start": 0,
+                "url": "https://t.co/5siZDDccNb"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "1815428282172477492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61522,
+          "following_count": 419,
+          "like_count": 76353,
+          "listed_count": 384,
+          "tweet_count": 20980
+        },
+        "url": "https://t.co/5siZDDccNb",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

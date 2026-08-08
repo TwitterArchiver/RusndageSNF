@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2046874956995453248",
+    "created_at": "2026-04-22T08:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T09:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046874956995453248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776704652483891200",
+          "start": 3,
+          "username": "xingxing_byd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046874956995453248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046540263750004993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xingxing_byd: 退出od 是正确的选择。市面上很多欧版抗抑郁药可选，不要因为一时冲动进入无限漩涡🌀，不要惹上法律风险和对自己的健康不负责任。14岁时我也说我活不过18岁，但目前我28了，尽力大约三次的od 圈变动。我觉得od 是没有尽头的…堕落不可取，入坑须…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2046874956995453248",
+        "created_at": "2026-04-22T08:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046874956995453248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776704652483891200",
+              "start": 3,
+              "username": "xingxing_byd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046874956995453248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046540263750004993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xingxing_byd: 退出od 是正确的选择。市面上很多欧版抗抑郁药可选，不要因为一时冲动进入无限漩涡🌀，不要惹上法律风险和对自己的健康不负责任。14岁时我也说我活不过18岁，但目前我28了，尽力大约三次的od 圈变动。我觉得od 是没有尽头的…堕落不可取，入坑须…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776704652483891200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2046540263750004993",
+        "created_at": "2026-04-21T10:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046540263750004993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046540263750004993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2072,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "退出od 是正确的选择。市面上很多欧版抗抑郁药可选，不要因为一时冲动进入无限漩涡🌀，不要惹上法律风险和对自己的健康不负责任。14岁时我也说我活不过18岁，但目前我28了，尽力大约三次的od 圈变动。我觉得od 是没有尽头的…堕落不可取，入坑须谨慎。（个人经历不代表大众观点）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 1092,
+          "like_count": 29730,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 6008
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T20:13:00.000Z",
+        "description": "98年/女生/日常/会发疯⚠️/生活推/确诊心理疾病‼️/尽量做个乖宝宝/更新奇思妙想",
+        "id": "1776704652483891200",
+        "location": "我梦中的幻想乡",
+        "name": "飞向星系✨🇨🇳🍔🍟🍜🍛",
+        "pinned_tweet_id": "2045827611910377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046552171949518848/D-UP0xlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 231,
+          "like_count": 1575,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 1760
+        },
+        "username": "xingxing_byd",
+        "verified": false
+      }
+    ]
+  }
+}

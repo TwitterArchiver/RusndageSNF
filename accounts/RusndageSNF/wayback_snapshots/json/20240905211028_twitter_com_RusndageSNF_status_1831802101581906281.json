@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1831544375425560664",
+    "created_at": "2024-09-05T21:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T22:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831802101581906281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789129127838248962",
+          "start": 0,
+          "username": "YeongjunSi91109"
+        },
+        {
+          "end": 31,
+          "id": "1332712954047856641",
+          "start": 17,
+          "username": "xinwendiaocha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831802101581906281",
+    "in_reply_to_user_id": "1789129127838248962",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831551103760265306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeongjunSi91109 @xinwendiaocha 车有这个东西，但是没人用过，公交司机只会觉得你很碍事，并且来一句残疾人就别出门了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1831544375425560664",
+        "created_at": "2024-09-05T21:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T22:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831802101581906281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789129127838248962",
+              "start": 0,
+              "username": "YeongjunSi91109"
+            },
+            {
+              "end": 31,
+              "id": "1332712954047856641",
+              "start": 17,
+              "username": "xinwendiaocha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831802101581906281",
+        "in_reply_to_user_id": "1789129127838248962",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831551103760265306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeongjunSi91109 @xinwendiaocha 车有这个东西，但是没人用过，公交司机只会觉得你很碍事，并且来一句残疾人就别出门了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789129127838248962",
+        "conversation_id": "1831544375425560664",
+        "created_at": "2024-09-05T04:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T05:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831551103760265306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1332712954047856641",
+              "start": 0,
+              "username": "xinwendiaocha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831551103760265306",
+        "in_reply_to_user_id": "1332712954047856641",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34767,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831544375425560664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinwendiaocha 中国没有吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 686,
+          "like_count": 16483,
+          "listed_count": 5,
+          "tweet_count": 2771
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T03:03:28.000Z",
+        "description": "롯데팬/TSLA, 율촌화학 주주/",
+        "id": "1789129127838248962",
+        "location": "대한민국 부산",
+        "name": "딸깍",
+        "pinned_tweet_id": "1828635521876463962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829466021604032512/CBqqFPmg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 521,
+          "like_count": 5920,
+          "listed_count": 1,
+          "tweet_count": 5002
+        },
+        "username": "YeongjunSi91109",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-28T15:48:33.000Z",
+        "description": "追踪新闻，调查真相！ 投稿、商务合作邮箱：charles811203@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/7tHKzRuGFb"
+              }
+            ]
+          }
+        },
+        "id": "1332712954047856641",
+        "name": "新闻调查",
+        "pinned_tweet_id": "1831557331089551722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347827975383760896/6aV1UyGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500718,
+          "following_count": 53,
+          "like_count": 2930,
+          "listed_count": 1407,
+          "tweet_count": 44849
+        },
+        "url": "https://t.co/7tHKzRuGFb",
+        "username": "xinwendiaocha",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068799939266658304"
+      ],
+      "media_source_tweet_id": [
+        "2068799966349266965"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2068941313475772672",
+    "created_at": "2026-06-22T06:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068941313475772672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3351760203",
+          "start": 3,
+          "username": "NiKoCS_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NXBnCxEZGR",
+          "end": 53,
+          "expanded_url": "https://x.com/NiKoCS_/status/2068799966349266965/photo/1",
+          "media_key": "3_2068799939266658304",
+          "start": 30,
+          "url": "https://t.co/NXBnCxEZGR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068941313475772672",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068799966349266965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NiKoCS_: Never give up ❤️ https://t.co/NXBnCxEZGR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2068799939266658304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXalXNWwAAdXpP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068799939266658304"
+          ],
+          "media_source_tweet_id": [
+            "2068799966349266965"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2068941313475772672",
+        "created_at": "2026-06-22T06:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068941313475772672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3351760203",
+              "start": 3,
+              "username": "NiKoCS_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXBnCxEZGR",
+              "end": 53,
+              "expanded_url": "https://x.com/NiKoCS_/status/2068799966349266965/photo/1",
+              "media_key": "3_2068799939266658304",
+              "start": 30,
+              "url": "https://t.co/NXBnCxEZGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068941313475772672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068799966349266965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NiKoCS_: Never give up ❤️ https://t.co/NXBnCxEZGR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068799939266658304"
+          ]
+        },
+        "author_id": "3351760203",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "@fazeniko",
+              "id": "903689486525120513",
+              "name": "NiKo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "FaZeClan (Esports)",
+              "id": "859465443316080640",
+              "name": "FaZeClan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "@fazeniko",
+              "id": "903689486525120513",
+              "name": "NiKo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "@fazeniko",
+              "id": "903689486525120513",
+              "name": "NiKo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288168909422518272",
+              "name": "Esports players"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports player like Optic Scump",
+              "id": "138",
+              "name": "Esports Player"
+            },
+            "entity": {
+              "description": "@fazeniko",
+              "id": "903689486525120513",
+              "name": "NiKo"
+            }
+          }
+        ],
+        "conversation_id": "2068799966349266965",
+        "created_at": "2026-06-21T20:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068799966349266965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXBnCxEZGR",
+              "end": 40,
+              "expanded_url": "https://x.com/NiKoCS_/status/2068799966349266965/photo/1",
+              "media_key": "3_2068799939266658304",
+              "start": 17,
+              "url": "https://t.co/NXBnCxEZGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068799966349266965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2388,
+          "impression_count": 1937434,
+          "like_count": 107794,
+          "quote_count": 500,
+          "reply_count": 2409,
+          "retweet_count": 11157
+        },
+        "reply_settings": "everyone",
+        "text": "Never give up ❤️ https://t.co/NXBnCxEZGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 1113,
+          "like_count": 30609,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 6180
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-30T13:41:17.000Z",
+        "description": "Gamer for @FalconsEsport @TeamRazer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "FalconsEsport"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "TeamRazer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/csgoniko",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/csgoniko",
+                "start": 0,
+                "url": "https://t.co/vWf6oHihLf"
+              }
+            ]
+          }
+        },
+        "id": "3351760203",
+        "location": "Bosnia and Herzegovina",
+        "name": "Nikola Kovač",
+        "pinned_tweet_id": "2068799966349266965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912286386972966913/poWzJg6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938131,
+          "following_count": 477,
+          "like_count": 8227,
+          "listed_count": 1445,
+          "media_count": 691,
+          "tweet_count": 6886
+        },
+        "url": "https://t.co/vWf6oHihLf",
+        "username": "NiKoCS_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2034756650632966519",
+    "created_at": "2026-03-20T16:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T17:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035033025348816966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235936483313242114",
+          "start": 0,
+          "username": "pilotgauge"
+        },
+        {
+          "end": 26,
+          "id": "1449409841093431302",
+          "start": 12,
+          "username": "whitenedcrown"
+        },
+        {
+          "end": 37,
+          "id": "1587138343854284802",
+          "start": 27,
+          "username": "_ashes_cs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035033025348816966",
+    "in_reply_to_user_id": "1235936483313242114",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034851727829344705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pilotgauge @whitenedcrown @_ashes_cs idiot incel"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14048,
+        "height": 480,
+        "media_key": "7_2034851706216095745",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2034851706216095745/pu/img/K57RcegWBSak8-kC.jpg",
+        "public_metrics": {
+          "view_count": 248
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034851706216095745/pu/vid/avc1/272x270/moKPxgYNN25l_Tr2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034851706216095745/pu/vid/avc1/362x360/2MKbg54WwyRecqEY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034851706216095745/pu/vid/avc1/484x480/PR2OY8rIqL2UzidW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2034851706216095745/pu/pl/m-e_XQjUf9UxYPi5.m3u8?tag=12"
+          }
+        ],
+        "width": 484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2034756650632966519",
+        "created_at": "2026-03-20T16:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035033025348816966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235936483313242114",
+              "start": 0,
+              "username": "pilotgauge"
+            },
+            {
+              "end": 26,
+              "id": "1449409841093431302",
+              "start": 12,
+              "username": "whitenedcrown"
+            },
+            {
+              "end": 37,
+              "id": "1587138343854284802",
+              "start": 27,
+              "username": "_ashes_cs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035033025348816966",
+        "in_reply_to_user_id": "1235936483313242114",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034851727829344705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pilotgauge @whitenedcrown @_ashes_cs idiot incel"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2034851706216095745"
+          ]
+        },
+        "author_id": "1235936483313242114",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2034756650632966519",
+        "created_at": "2026-03-20T04:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034851727829344705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1449409841093431302",
+              "start": 0,
+              "username": "whitenedcrown"
+            },
+            {
+              "end": 25,
+              "id": "1587138343854284802",
+              "start": 15,
+              "username": "_ashes_cs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXtXzudPTx",
+              "end": 122,
+              "expanded_url": "https://x.com/pilotgauge/status/2034851727829344705/video/1",
+              "media_key": "7_2034851706216095745",
+              "start": 99,
+              "url": "https://t.co/aXtXzudPTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034851727829344705",
+        "in_reply_to_user_id": "1449409841093431302",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 372,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034832238450549036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitenedcrown @_ashes_cs \"counter strike the only people who still play it in 2026 are all nazis\" https://t.co/aXtXzudPTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 1083,
+          "like_count": 29325,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5853
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-06T14:33:25.000Z",
+        "description": "𝕷𝖎𝖛𝖊 𝕱𝖗𝖊𝖊 𝖔𝖗 𝕯𝖎𝖊 𓆗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.zenitco.ru",
+                "end": 23,
+                "expanded_url": "https://en.zenitco.ru/",
+                "start": 0,
+                "url": "https://t.co/U8EWc9vkyL"
+              }
+            ]
+          }
+        },
+        "id": "1235936483313242114",
+        "location": "Hyperborea,Antarctica ",
+        "name": "Clifford Specters",
+        "pinned_tweet_id": "1994562695778242872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960591966816886784/oouOwELV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 347,
+          "like_count": 120480,
+          "listed_count": 11,
+          "media_count": 812,
+          "tweet_count": 32177
+        },
+        "url": "https://t.co/U8EWc9vkyL",
+        "username": "pilotgauge",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T16:20:42.000Z",
+        "description": "kill ice and israel and free palestine",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "silvertears.com",
+                "end": 23,
+                "expanded_url": "http://www.silvertears.com",
+                "start": 0,
+                "url": "https://t.co/usmByrLBsN"
+              }
+            ]
+          }
+        },
+        "id": "1449409841093431302",
+        "location": "End of the universe",
+        "name": "omnipotent parasite",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958209497807417344/8KY9wiVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 43,
+          "like_count": 13334,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 246
+        },
+        "url": "https://t.co/usmByrLBsN",
+        "username": "whitenedcrown",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T17:44:08.000Z",
+        "description": "",
+        "id": "1587138343854284802",
+        "location": "iykyk",
+        "name": "Ashes-_-",
+        "pinned_tweet_id": "2026516026557440041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968508125897527297/yYkBZBIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 277,
+          "like_count": 61119,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 2313
+        },
+        "username": "_ashes_cs",
+        "verified": false
+      }
+    ]
+  }
+}

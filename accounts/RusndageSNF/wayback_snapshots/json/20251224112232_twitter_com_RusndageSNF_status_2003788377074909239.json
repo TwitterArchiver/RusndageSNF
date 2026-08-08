@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2003788377074909239",
+    "created_at": "2025-12-24T11:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T12:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003788377074909239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1370966967444643842",
+          "start": 3,
+          "username": "CCCola13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003788377074909239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003432338345329037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCCola13: 反对术前跨性别女性进入女性空间，并且仅以其拥有阴茎为由加以排斥，本质上是不就是在拥护父权制对生殖器的符号化逻辑吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2003788377074909239",
+        "created_at": "2025-12-24T11:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003788377074909239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1370966967444643842",
+              "start": 3,
+              "username": "CCCola13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003788377074909239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003432338345329037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CCCola13: 反对术前跨性别女性进入女性空间，并且仅以其拥有阴茎为由加以排斥，本质上是不就是在拥护父权制对生殖器的符号化逻辑吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370966967444643842",
+        "conversation_id": "2003432338345329037",
+        "created_at": "2025-12-23T11:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T12:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003432338345329037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003432338345329037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7755,
+          "like_count": 105,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "反对术前跨性别女性进入女性空间，并且仅以其拥有阴茎为由加以排斥，本质上是不就是在拥护父权制对生殖器的符号化逻辑吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 1049,
+          "like_count": 28101,
+          "listed_count": 7,
+          "media_count": 531,
+          "tweet_count": 5585
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-14T05:16:21.000Z",
+        "description": "親手埋葬\n每一刻一顆",
+        "id": "1370966967444643842",
+        "name": "CCCola",
+        "pinned_tweet_id": "1872180739468570991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739696905209384960/fIErFCgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 435,
+          "like_count": 22119,
+          "listed_count": 4,
+          "media_count": 415,
+          "tweet_count": 7600
+        },
+        "username": "CCCola13",
+        "verified": false
+      }
+    ]
+  }
+}

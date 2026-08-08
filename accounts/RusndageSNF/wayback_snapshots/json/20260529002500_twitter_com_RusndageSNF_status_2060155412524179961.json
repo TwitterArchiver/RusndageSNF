@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2059939941530980672",
+    "created_at": "2026-05-29T00:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T01:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060155412524179961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1171414629400158208",
+          "start": 0,
+          "username": "zknmoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060155412524179961",
+    "in_reply_to_user_id": "1171414629400158208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059939941530980672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zknmoe 怎么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2059939941530980672",
+        "created_at": "2026-05-29T00:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060155412524179961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1171414629400158208",
+              "start": 0,
+              "username": "zknmoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060155412524179961",
+        "in_reply_to_user_id": "1171414629400158208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059939941530980672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zknmoe 怎么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171414629400158208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059939941530980672",
+        "created_at": "2026-05-28T10:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059939941530980672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059939941530980672",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 492622,
+          "like_count": 9436,
+          "quote_count": 20,
+          "reply_count": 2066,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "Questo è un tweet in italiano. Voglio vedere quanti cinesi riescono a vederlo."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2333,
+          "following_count": 1104,
+          "like_count": 30187,
+          "listed_count": 7,
+          "media_count": 581,
+          "tweet_count": 6118
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-10T13:26:38.000Z",
+        "description": "誰かに認められたくて、今日も生きてる",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zknmoe",
+                "end": 23,
+                "expanded_url": "http://t.me/zknmoe",
+                "start": 0,
+                "url": "https://t.co/napztrf6fW"
+              }
+            ]
+          }
+        },
+        "id": "1171414629400158208",
+        "location": "Italy, PD",
+        "name": "kɑːve/ .k3n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056524918922113024/bwBtpJ2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 120,
+          "like_count": 3656,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 1482
+        },
+        "url": "https://t.co/napztrf6fW",
+        "username": "zknmoe",
+        "verified": true
+      }
+    ]
+  }
+}

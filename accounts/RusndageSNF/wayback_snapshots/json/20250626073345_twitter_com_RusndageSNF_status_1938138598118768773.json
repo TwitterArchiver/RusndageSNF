@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1937894904979759389",
+    "created_at": "2025-06-26T07:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T08:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938138598118768773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1594548640521277440",
+          "start": 0,
+          "username": "mzp_lt"
+        },
+        {
+          "end": 20,
+          "id": "1577836636783902720",
+          "start": 8,
+          "username": "thujimbo411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938138598118768773",
+    "in_reply_to_user_id": "1594548640521277440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938041702008385714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzp_lt @thujimbo411 你被铁拳的那一天，你别叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1937894904979759389",
+        "created_at": "2025-06-26T07:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T08:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938138598118768773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1594548640521277440",
+              "start": 0,
+              "username": "mzp_lt"
+            },
+            {
+              "end": 20,
+              "id": "1577836636783902720",
+              "start": 8,
+              "username": "thujimbo411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938138598118768773",
+        "in_reply_to_user_id": "1594548640521277440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938041702008385714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzp_lt @thujimbo411 你被铁拳的那一天，你别叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594548640521277440",
+        "conversation_id": "1937894904979759389",
+        "created_at": "2025-06-26T01:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T02:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938041702008385714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1577836636783902720",
+              "start": 0,
+              "username": "thujimbo411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938041702008385714",
+        "in_reply_to_user_id": "1577836636783902720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937894904979759389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thujimbo411 最支持老共镇压非物种的一集"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 983,
+          "like_count": 25902,
+          "listed_count": 8,
+          "media_count": 446,
+          "tweet_count": 4824
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T04:30:17.000Z",
+        "description": "requiem of the motherfucker sparkle",
+        "id": "1594548640521277440",
+        "name": "⏚花火酱研究院院长（开香槟ver）⏚",
+        "pinned_tweet_id": "1850197921440084014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844025865115734016/ykE_pv_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 487,
+          "like_count": 12295,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 3123
+        },
+        "username": "mzp_lt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T01:42:36.000Z",
+        "description": "持证含糖MtF🏳️‍⚧️/SRS202607/爱人@yusakikassan/泛性恋/萌新Kiger/maimaiDX/美食探索/个人频道https://t.co/ETDj1cdNV3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "yusakikassan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/jimbosrs",
+                "end": 92,
+                "expanded_url": "https://t.me/jimbosrs",
+                "start": 69,
+                "url": "https://t.co/ETDj1cdNV3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/480514215",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/480514215",
+                "start": 0,
+                "url": "https://t.co/K0SNHd8jCa"
+              }
+            ]
+          }
+        },
+        "id": "1577836636783902720",
+        "location": "北京海淀",
+        "name": "🍥金啵🍥",
+        "pinned_tweet_id": "1928160704206377272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577836925406556160/TewEQgDG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 580,
+          "like_count": 16,
+          "listed_count": 4,
+          "media_count": 304,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/K0SNHd8jCa",
+        "username": "thujimbo411",
+        "verified": false
+      }
+    ]
+  }
+}

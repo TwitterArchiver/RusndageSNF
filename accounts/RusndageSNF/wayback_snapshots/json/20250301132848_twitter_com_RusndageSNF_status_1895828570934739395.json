@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1895800399669637399",
+    "created_at": "2025-03-01T13:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T14:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895828570934739395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1864523009194905603",
+          "start": 0,
+          "username": "CollapseVaresa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895828570934739395",
+    "in_reply_to_user_id": "1864523009194905603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895800399669637399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CollapseVaresa 粉红和反贼只不过是换了个人跪着罢了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1895800399669637399].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1895800399669637399",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1895800399669637399"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1895800399669637399",
+        "created_at": "2025-03-01T13:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T14:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895828570934739395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1864523009194905603",
+              "start": 0,
+              "username": "CollapseVaresa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895828570934739395",
+        "in_reply_to_user_id": "1864523009194905603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895800399669637399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CollapseVaresa 粉红和反贼只不过是换了个人跪着罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1893309762294391019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 894,
+          "like_count": 22745,
+          "listed_count": 6,
+          "media_count": 391,
+          "tweet_count": 4104
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T04:11:50.000Z",
+        "description": "往外转的一经发现立刻绝交，希望理解。\n和气小鱼的反面。\n会发一些暴论。\n包容性极其有限的真实自我。",
+        "id": "1864523009194905603",
+        "name": "MeinVaresa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895377367717031936/pQHQIKnL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 38,
+          "like_count": 153,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 38
+        },
+        "username": "CollapseVaresa",
+        "verified": false
+      }
+    ]
+  }
+}

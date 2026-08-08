@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1858767452194435414",
+    "created_at": "2024-11-19T21:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T22:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858987318197318006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1743659648518123520",
+          "start": 0,
+          "username": "beishanhanlsp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858987318197318006",
+    "in_reply_to_user_id": "1743659648518123520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858767452194435414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beishanhanlsp 为啥休学就要打工，修学的目的不是为了养病然后更好的去面对学校环境以及让自己的精神状态更好吗..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1858767452194435414",
+        "created_at": "2024-11-19T21:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T22:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858987318197318006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1743659648518123520",
+              "start": 0,
+              "username": "beishanhanlsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858987318197318006",
+        "in_reply_to_user_id": "1743659648518123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858767452194435414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beishanhanlsp 为啥休学就要打工，修学的目的不是为了养病然后更好的去面对学校环境以及让自己的精神状态更好吗..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743659648518123520",
+        "conversation_id": "1858767452194435414",
+        "created_at": "2024-11-19T07:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T08:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858767452194435414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858767452194435414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 31291,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被迫休学了，我爸妈意思是让我跟我爸去打工，但是我想远离他们，我该怎么办，逃跑吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 742,
+          "like_count": 19175,
+          "listed_count": 4,
+          "tweet_count": 3291
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T15:44:00.000Z",
+        "description": "06｜enfp｜持证含糖mtf🏳️‍⚧️｜精神不太好｜麻麻家长党｜大一（休学中）｜重度CS2（其实是菜逼）｜ham｜飞机火车拍摄｜竞技反曲｜业余摄影｜欢迎互fo贴贴（看黄推广告哥勿扰🚫）",
+        "id": "1743659648518123520",
+        "location": "比宇宙更遥远的地方",
+        "name": "北山寒beishanhan🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759930763699691520/2-tI4FB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 461,
+          "like_count": 1372,
+          "listed_count": 0,
+          "tweet_count": 453
+        },
+        "username": "beishanhanlsp",
+        "verified": false
+      }
+    ]
+  }
+}

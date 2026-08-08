@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1939263710952079626",
+    "created_at": "2025-06-29T10:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T11:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939272741406036228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "KagurazakaSenba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mtf.wiki",
+          "end": 40,
+          "expanded_url": "http://mtf.wiki",
+          "start": 17,
+          "status": 200,
+          "title": "MtF.wiki",
+          "unwound_url": "https://mtf.wiki/",
+          "url": "https://t.co/0u4PI3nSvd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939272741406036228",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939263710952079626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSenba https://t.co/0u4PI3nSvd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1939263710952079626",
+        "created_at": "2025-06-29T10:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T11:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939272741406036228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "KagurazakaSenba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mtf.wiki",
+              "end": 40,
+              "expanded_url": "http://mtf.wiki",
+              "start": 17,
+              "status": 200,
+              "title": "MtF.wiki",
+              "unwound_url": "https://mtf.wiki/",
+              "url": "https://t.co/0u4PI3nSvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939272741406036228",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939263710952079626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSenba https://t.co/0u4PI3nSvd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "943439286287851520",
+        "conversation_id": "1939263710952079626",
+        "created_at": "2025-06-29T10:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T11:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939263710952079626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939263710952079626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以大连七院心理科该找谁！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 984,
+          "like_count": 26003,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 4865
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "我们终会相见的，对吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.apple.com.cn",
+                "start": 0,
+                "url": "https://t.co/5PBp4gNTzt"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "location": "IP属地 : 大连",
+        "name": "💮神楽坂　千羽🌸🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 5401,
+          "like_count": 101950,
+          "listed_count": 9,
+          "media_count": 2157,
+          "tweet_count": 28208
+        },
+        "url": "https://t.co/5PBp4gNTzt",
+        "username": "KagurazakaSenba",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2034501799928107311",
+    "created_at": "2026-03-19T10:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034577791946227731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1349587545722482689",
+          "start": 0,
+          "username": "tempalayer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034577791946227731",
+    "in_reply_to_user_id": "1349587545722482689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034501799928107311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tempalayer 你的逻辑就像是指着一块玻璃说这是沙子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2034501799928107311",
+        "created_at": "2026-03-19T10:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034577791946227731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1349587545722482689",
+              "start": 0,
+              "username": "tempalayer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034577791946227731",
+        "in_reply_to_user_id": "1349587545722482689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034501799928107311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tempalayer 你的逻辑就像是指着一块玻璃说这是沙子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1349587545722482689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Insurance",
+              "id": "1037076317722763265",
+              "name": "Insurance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "2034501799928107311",
+        "created_at": "2026-03-19T05:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T06:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034501799928107311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kariconichan/s…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/kariconichan/status/2034441924376150021",
+              "start": 83,
+              "url": "https://t.co/Uoohwys5Qr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034501799928107311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 203,
+                "start": 189,
+                "tag": "トランスジョセイは男性です"
+              }
+            ]
+          },
+          "text": "これは美容整形です。保険適用とかありえない。性転換は不可能です。胎児の時に男女は決まってる。この手術をしたら男は女になれる、は詐欺です。\n\n去勢した男は女ではない。\n\n膣形成は不可能。膣に似せた手術なだけ。わたしたちにはダイレーションの必要はない。無いところに無理やり開けた穴は膣ではない。\n\nこれをしたら女性と呼ぶことは女性を侮辱している。\n\n女性を侮辱しないでください。\n\n#トランスジョセイは男性です"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 475292,
+          "like_count": 5039,
+          "quote_count": 32,
+          "reply_count": 22,
+          "retweet_count": 430
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034441924376150021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "これは美容整形です。保険適用とかありえない。性転換は不可能です。胎児の時に男女は決まってる。この手術をしたら男は女になれる、は詐欺です。\n\n去勢した男は女ではない。 https://t.co/Uoohwys5Qr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 1079,
+          "like_count": 29264,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5822
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-14T05:22:18.000Z",
+        "description": "女性のスペースに男が入れる法律が作られようとしてます。アベマ出演しました。https://t.co/YD9XUW94T7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/DDVdFrzxiWU?si…",
+                "end": 60,
+                "expanded_url": "https://youtu.be/DDVdFrzxiWU?si=lN0rlRhF1Mbwv_vl",
+                "start": 37,
+                "url": "https://t.co/YD9XUW94T7"
+              }
+            ]
+          }
+        },
+        "id": "1349587545722482689",
+        "location": "日本 東京",
+        "name": "青谷ゆかり",
+        "pinned_tweet_id": "1969730391260164248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971588958032429057/BB67B_xz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5224,
+          "following_count": 1429,
+          "like_count": 151576,
+          "listed_count": 193,
+          "media_count": 6922,
+          "tweet_count": 120659
+        },
+        "username": "tempalayer",
+        "verified": true
+      }
+    ]
+  }
+}

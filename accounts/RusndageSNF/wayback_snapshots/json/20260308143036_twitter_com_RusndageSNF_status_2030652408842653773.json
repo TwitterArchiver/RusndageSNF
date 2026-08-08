@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2030557819955777964",
+    "created_at": "2026-03-08T14:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T15:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030652408842653773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "265610388",
+          "start": 0,
+          "username": "fuzhiren"
+        },
+        {
+          "end": 18,
+          "id": "1433678976564662273",
+          "start": 10,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030652408842653773",
+    "in_reply_to_user_id": "265610388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030567944208765021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuzhiren @hsn8086 这个条款不具有法律意义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2030557819955777964",
+        "created_at": "2026-03-08T14:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030652408842653773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "265610388",
+              "start": 0,
+              "username": "fuzhiren"
+            },
+            {
+              "end": 18,
+              "id": "1433678976564662273",
+              "start": 10,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030652408842653773",
+        "in_reply_to_user_id": "265610388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030567944208765021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuzhiren @hsn8086 这个条款不具有法律意义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "265610388",
+        "conversation_id": "2030557819955777964",
+        "created_at": "2026-03-08T08:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030567944208765021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030567944208765021",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2102,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030557819955777964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 不，这些装备不是你的，包括你的账号在内都是是运营商借给你的，你的时间是借来的，你的意义是运营商的。\n                                                                                                 --腾讯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 1080,
+          "like_count": 29058,
+          "listed_count": 9,
+          "media_count": 562,
+          "tweet_count": 5776
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-13T21:28:34.000Z",
+        "description": "立派なバカです",
+        "id": "265610388",
+        "name": "soyou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/907261409414733824/Bv77X6T5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 22,
+          "like_count": 563,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2778
+        },
+        "username": "fuzhiren",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118466,
+          "following_count": 1040,
+          "like_count": 51478,
+          "listed_count": 271,
+          "media_count": 19744,
+          "tweet_count": 29727
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

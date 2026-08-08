@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1829350569942876472",
+    "created_at": "2024-08-30T08:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T09:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829440439893590157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "861461591283220480",
+          "start": 0,
+          "username": "EmilyAYoung1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829440439893590157",
+    "in_reply_to_user_id": "861461591283220480",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829350569942876472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmilyAYoung1 I really appreciate the video with your participation. Thank you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1829350569942876472",
+        "created_at": "2024-08-30T08:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T09:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829440439893590157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "861461591283220480",
+              "start": 0,
+              "username": "EmilyAYoung1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829440439893590157",
+        "in_reply_to_user_id": "861461591283220480",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829350569942876472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmilyAYoung1 I really appreciate the video with your participation. Thank you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "861461591283220480",
+        "conversation_id": "1829350569942876472",
+        "created_at": "2024-08-30T02:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T03:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829350569942876472"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "Linus Media Group",
+              "probability": 0.7804,
+              "start": 44,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829350569942876472",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 119901,
+          "like_count": 4604,
+          "quote_count": 13,
+          "reply_count": 164,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "Every story has an ending, and my time with Linus Media Group is at a close. A lot of my favourite people work there, and I'll always cherish our time together. These were some of the happiest days of my life.\n\nThank you all so much for supporting me. I wish everyone the best."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 679,
+          "like_count": 16190,
+          "listed_count": 5,
+          "tweet_count": 2743
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-08T06:03:43.000Z",
+        "description": "My name is Emily, I come from Newfoundland, and I write about things. Arch Linux user. She/Her 🏳️‍⚧️",
+        "id": "861461591283220480",
+        "location": "Surrey, British Columbia",
+        "name": "Emily Young",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829279696850468864/I0rFyUoi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155385,
+          "following_count": 123,
+          "like_count": 1330,
+          "listed_count": 370,
+          "tweet_count": 2916
+        },
+        "username": "EmilyAYoung1",
+        "verified": false
+      }
+    ]
+  }
+}

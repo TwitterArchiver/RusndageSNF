@@ -1,0 +1,209 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1795621631185846357",
+    "created_at": "2024-05-30T03:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T04:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796023666842448240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796023666842448240",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795621631185846357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 话说的不想做就不做呗，做不做你都是你自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1795621631185846357",
+        "created_at": "2024-05-30T03:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T04:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796023666842448240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796023666842448240",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795621631185846357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 话说的不想做就不做呗，做不做你都是你自己"
+      },
+      {
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1795621631185846357",
+        "created_at": "2024-05-29T01:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T02:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795621631185846357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795621631185846357",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 19226,
+          "like_count": 118,
+          "quote_count": 2,
+          "reply_count": 59,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有 mtf 坚决不想做 srs 的吗 焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 650,
+          "like_count": 13667,
+          "listed_count": 5,
+          "tweet_count": 2375
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "☭ mtf, hrt 2022.4.8; @dukeu @uchicago @transinacademia; trans studies, police abolition, china studies, crit theory; zh, en, fr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 21,
+                "username": "dukeu"
+              },
+              {
+                "end": 37,
+                "start": 28,
+                "username": "uchicago"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "transinacademia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/amber_toffee",
+                "end": 23,
+                "expanded_url": "http://t.me/amber_toffee",
+                "start": 0,
+                "url": "https://t.co/8R2S6tUAam"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Chicago, IL",
+        "name": "amber🍥",
+        "pinned_tweet_id": "1794252449265664493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774970309667368960/Ol-Klxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4400,
+          "following_count": 1725,
+          "like_count": 26474,
+          "listed_count": 18,
+          "tweet_count": 11516
+        },
+        "url": "https://t.co/8R2S6tUAam",
+        "username": "amber_toffee",
+        "verified": false
+      }
+    ]
+  }
+}

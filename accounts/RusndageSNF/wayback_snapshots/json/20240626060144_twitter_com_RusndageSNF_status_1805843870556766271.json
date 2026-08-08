@@ -1,0 +1,241 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1805822450019844322",
+    "created_at": "2024-06-26T06:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T07:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805843870556766271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "983597234288775168",
+          "start": 0,
+          "username": "WaterZhuchen"
+        },
+        {
+          "end": 24,
+          "id": "1672822866986024961",
+          "start": 14,
+          "username": "Lycaropia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805843870556766271",
+    "in_reply_to_user_id": "983597234288775168",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805836633520124394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WaterZhuchen @Lycaropia 我今天是陪我妈妈吃的饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1805822450019844322",
+        "created_at": "2024-06-26T06:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T07:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805843870556766271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "983597234288775168",
+              "start": 0,
+              "username": "WaterZhuchen"
+            },
+            {
+              "end": 24,
+              "id": "1672822866986024961",
+              "start": 14,
+              "username": "Lycaropia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805843870556766271",
+        "in_reply_to_user_id": "983597234288775168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805836633520124394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WaterZhuchen @Lycaropia 我今天是陪我妈妈吃的饭"
+      },
+      {
+        "attachments": {},
+        "author_id": "983597234288775168",
+        "conversation_id": "1805822450019844322",
+        "created_at": "2024-06-26T05:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T06:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805836633520124394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1672822866986024961",
+              "start": 0,
+              "username": "Lycaropia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805836633520124394",
+        "in_reply_to_user_id": "1672822866986024961",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805836126420353303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lycaropia 傻逼，你们被电没有冤枉的，反而是延长了你们可悲的生命。大多数人在被电前就自杀了。跨性别天生带有自我灭绝的属性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 655,
+          "like_count": 14313,
+          "listed_count": 4,
+          "tweet_count": 2514
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-10T06:47:09.000Z",
+        "description": "暴政必亡/反对共产主义/没有发言的陌生账号会被屏蔽/od禁止/不处cp不约炮宁愿嫖娼",
+        "id": "983597234288775168",
+        "location": "横滨",
+        "name": "狂暴抽插习近平屁眼",
+        "pinned_tweet_id": "1703797060334653477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741476200126840832/TyHDwz81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 850,
+          "like_count": 13838,
+          "listed_count": 8,
+          "tweet_count": 10689
+        },
+        "username": "WaterZhuchen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "Fullstack developer, UI designer, Trans‑Inclusionary Anarcha Feminist, ASD,#INFJ,@CatTalkerMitaka 's girlfriend | Would you love to have some Cyber Witchery?",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "INFJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "CatTalkerMitaka"
+              }
+            ]
+          }
+        },
+        "id": "1672822866986024961",
+        "location": "距你0.9km",
+        "name": "梅露希娜Melusina🏳️‍⚧️Ⓐ",
+        "pinned_tweet_id": "1793557699457921079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672915045020471298/zXj7Y0qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 803,
+          "like_count": 38918,
+          "listed_count": 3,
+          "tweet_count": 5723
+        },
+        "username": "Lycaropia",
+        "verified": false
+      }
+    ]
+  }
+}

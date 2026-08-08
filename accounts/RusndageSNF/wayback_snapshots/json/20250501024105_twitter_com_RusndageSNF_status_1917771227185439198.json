@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1917569362485207549",
+    "created_at": "2025-05-01T02:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T03:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917771227185439198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "RinneMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917771227185439198",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917569362485207549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RinneMTF 我B站有个特别喜欢看的up主叫佳乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1917563393726357504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpyNvzVaIAA8jnh.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1917569362485207549",
+        "created_at": "2025-05-01T02:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T03:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917771227185439198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "RinneMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917771227185439198",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917569362485207549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinneMTF 我B站有个特别喜欢看的up主叫佳乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917563393726357504"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "1917569362485207549",
+        "created_at": "2025-04-30T13:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T13:55:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917563406300897779",
+          "1917569362485207549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GWPh76WckW",
+              "end": 45,
+              "expanded_url": "https://x.com/RinneMTF/status/1917569362485207549/photo/1",
+              "media_key": "3_1917563393726357504",
+              "start": 22,
+              "url": "https://t.co/GWPh76WckW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917569362485207549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2445,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天路边偶然看到的，疑似暗号，下次买瓶尝尝 https://t.co/GWPh76WckW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 952,
+          "like_count": 24690,
+          "listed_count": 7,
+          "media_count": 422,
+          "tweet_count": 4495
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/中文，English /hrt: 2025.1.15/rle: 2025.2.10/ADHD, ASD /恐跨深柜觉醒党/家长党/生物系毕业/王者，崩铁，碧蓝航线",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 1165,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 489
+        },
+        "username": "RinneMTF",
+        "verified": true
+      }
+    ]
+  }
+}

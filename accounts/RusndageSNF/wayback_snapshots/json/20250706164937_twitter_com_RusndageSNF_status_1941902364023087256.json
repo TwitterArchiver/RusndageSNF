@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1941846877537980544",
+    "created_at": "2025-07-06T16:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T17:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941902364023087256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870022570353012736",
+          "start": 0,
+          "username": "kukudejiaxibei"
+        },
+        {
+          "end": 23,
+          "id": "1604313808096202752",
+          "start": 16,
+          "username": "tdfhi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941902364023087256",
+    "in_reply_to_user_id": "1870022570353012736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941869588574306314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukudejiaxibei @tdfhi8 我记得这东西超过30分钟就失去效果了，所以两道杠你再复测一下，如果30分钟内没有的话，那就是没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1941846877537980544",
+        "created_at": "2025-07-06T16:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T17:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941902364023087256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870022570353012736",
+              "start": 0,
+              "username": "kukudejiaxibei"
+            },
+            {
+              "end": 23,
+              "id": "1604313808096202752",
+              "start": 16,
+              "username": "tdfhi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941902364023087256",
+        "in_reply_to_user_id": "1870022570353012736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941869588574306314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukudejiaxibei @tdfhi8 我记得这东西超过30分钟就失去效果了，所以两道杠你再复测一下，如果30分钟内没有的话，那就是没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870022570353012736",
+        "conversation_id": "1941846877537980544",
+        "created_at": "2025-07-06T14:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T15:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941869588574306314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1604313808096202752",
+              "start": 0,
+              "username": "tdfhi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941869588574306314",
+        "in_reply_to_user_id": "1604313808096202752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941866800049992003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tdfhi8 而且昨天晚上没有的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 990,
+          "like_count": 26258,
+          "listed_count": 8,
+          "media_count": 452,
+          "tweet_count": 4935
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T08:25:12.000Z",
+        "description": "06liner INFJ Virgo♍\n🎮Gaming|🍸 Bartending 🍳 Cooking  \nBFF: @NataliaIcey2006💖@lyb1007\nBF:@xiyimeng04💕\nCat:@jiang_chua28655🐾\nHope I can transition✨\n🇺🇸/🇪🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "NataliaIcey2006"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "lyb1007"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "xiyimeng04"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "jiang_chua28655"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NataliaICEY060…",
+                "end": 23,
+                "expanded_url": "https://t.me/NataliaICEY060910https://ngl.link/kukudejiaxibei1",
+                "start": 0,
+                "url": "https://t.co/lGi3Ux1gT3"
+              }
+            ]
+          }
+        },
+        "id": "1870022570353012736",
+        "location": "Sanctum 9 Inner Ring of Virgo",
+        "name": "Jasiber🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1909221888443949341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933061552678318083/-zQhXG_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 2402,
+          "like_count": 22009,
+          "listed_count": 1,
+          "media_count": 600,
+          "tweet_count": 5963
+        },
+        "url": "https://t.co/lGi3Ux1gT3",
+        "username": "kukudejiaxibei",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T03:13:21.000Z",
+        "description": "。",
+        "id": "1604313808096202752",
+        "location": "海南",
+        "name": "述影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929216346065432576/O26W5Svg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 434,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 138
+        },
+        "username": "tdfhi8",
+        "verified": false
+      }
+    ]
+  }
+}

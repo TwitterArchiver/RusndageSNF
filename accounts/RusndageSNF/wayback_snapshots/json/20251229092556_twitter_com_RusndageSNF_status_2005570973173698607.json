@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2005532925572608340",
+    "created_at": "2025-12-29T09:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T10:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005570973173698607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490670069877252101",
+          "start": 0,
+          "username": "Sww2080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005570973173698607",
+    "in_reply_to_user_id": "1490670069877252101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005532925572608340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sww2080 第二天各地互保了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2005532925572608340",
+        "created_at": "2025-12-29T09:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T10:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005570973173698607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490670069877252101",
+              "start": 0,
+              "username": "Sww2080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005570973173698607",
+        "in_reply_to_user_id": "1490670069877252101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005532925572608340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sww2080 第二天各地互保了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490670069877252101",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2005532925572608340",
+        "created_at": "2025-12-29T06:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T07:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005532925572608340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/K7qWcfzcdAPW5Y…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/K7qWcfzcdAPW5Y9/status/2005450815298064836",
+              "start": 13,
+              "url": "https://t.co/yvLeXupIt7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005532925572608340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2961,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005450815298064836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来我不得不离开这片土地 https://t.co/yvLeXupIt7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 1051,
+          "like_count": 28153,
+          "listed_count": 7,
+          "media_count": 535,
+          "tweet_count": 5612
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T12:53:44.000Z",
+        "description": "粤/普/Eng\n\n先问是不是，再问为什么\n\nI never want someone's chest lying under my foot\nЯ никому не хочу ставить ногу на грудь\n\n我先是一个人，然后才是各种身份标签",
+        "id": "1490670069877252101",
+        "location": "幻想乡，距离你1.4公里",
+        "name": "千早爱因S坦🇵🇸🇭🇰(不吃香菜版)",
+        "pinned_tweet_id": "1715195016287752650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000493459996598275/6DOjxy0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 1726,
+          "like_count": 279756,
+          "listed_count": 16,
+          "media_count": 1590,
+          "tweet_count": 46465
+        },
+        "username": "Sww2080",
+        "verified": false
+      }
+    ]
+  }
+}

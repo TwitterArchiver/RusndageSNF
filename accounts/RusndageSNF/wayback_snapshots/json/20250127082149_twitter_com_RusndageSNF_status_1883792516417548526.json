@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1883666312842678693",
+    "created_at": "2025-01-27T08:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T09:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883792516417548526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1685143506074148864",
+          "start": 0,
+          "username": "RingleClark4319"
+        },
+        {
+          "end": 32,
+          "id": "1560392605342605312",
+          "start": 17,
+          "username": "Hammer_EU_9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883792516417548526",
+    "in_reply_to_user_id": "1685143506074148864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883673908894994819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RingleClark4319 @Hammer_EU_9527 很多游戏都这样吧，荒野大镖客救赎2，赛博朋克等很多大作也是半成品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1883666312842678693",
+        "created_at": "2025-01-27T08:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T09:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883792516417548526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1685143506074148864",
+              "start": 0,
+              "username": "RingleClark4319"
+            },
+            {
+              "end": 32,
+              "id": "1560392605342605312",
+              "start": 17,
+              "username": "Hammer_EU_9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883792516417548526",
+        "in_reply_to_user_id": "1685143506074148864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883673908894994819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RingleClark4319 @Hammer_EU_9527 很多游戏都这样吧，荒野大镖客救赎2，赛博朋克等很多大作也是半成品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685143506074148864",
+        "conversation_id": "1883666312842678693",
+        "created_at": "2025-01-27T00:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T01:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883673908894994819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1560392605342605312",
+              "start": 0,
+              "username": "Hammer_EU_9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883673908894994819",
+        "in_reply_to_user_id": "1560392605342605312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4971,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883666312842678693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hammer_EU_9527 别的不知道 黑神话看起来光鲜亮丽，里面一包糠。破剧情不清不楚，最后一章根本烂尾没做完端出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 866,
+          "like_count": 22210,
+          "listed_count": 7,
+          "media_count": 368,
+          "tweet_count": 3917
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T04:21:53.000Z",
+        "description": "",
+        "id": "1685143506074148864",
+        "name": "RingleTingle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685143582683058178/BuVAiqZV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 191,
+          "like_count": 13697,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 273
+        },
+        "username": "RingleClark4319",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T22:26:21.000Z",
+        "description": "1， 浙江山坞佬，乡巴佬，去了西方二十来个国家 ； \n2，长居瑞典，关注移民政策。 \n3，马学门徒，操学发起人，国男help国男行动发起人；\n4，间歇性退推。\n5，微信公众号“大龄青年硕博留学”。",
+        "id": "1560392605342605312",
+        "location": "Stockholm, Sweden",
+        "name": "山坞佬观世界✝️",
+        "pinned_tweet_id": "1882833722619449562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867816218536665088/ptRN7dLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108187,
+          "following_count": 487,
+          "like_count": 16644,
+          "listed_count": 360,
+          "media_count": 1070,
+          "tweet_count": 18909
+        },
+        "username": "Hammer_EU_9527",
+        "verified": true
+      }
+    ]
+  }
+}

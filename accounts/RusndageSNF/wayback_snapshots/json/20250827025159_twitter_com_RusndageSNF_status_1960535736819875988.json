@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1960352219422965858",
+    "created_at": "2025-08-27T02:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T03:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960535736819875988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1559906722588000256",
+          "start": 0,
+          "username": "Project_Luo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960535736819875988",
+    "in_reply_to_user_id": "1559906722588000256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960504400704889028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Project_Luo 主要是很多人都说回忆里面那部剧情没什么半夏的剧情，然后我就没买那部"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1960352219422965858",
+        "created_at": "2025-08-27T02:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T03:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960535736819875988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1559906722588000256",
+              "start": 0,
+              "username": "Project_Luo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960535736819875988",
+        "in_reply_to_user_id": "1559906722588000256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960504400704889028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Project_Luo 主要是很多人都说回忆里面那部剧情没什么半夏的剧情，然后我就没买那部"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559906722588000256",
+        "conversation_id": "1960352219422965858",
+        "created_at": "2025-08-27T00:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T01:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960504400704889028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960504400704889028",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960352219422965858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 有一点点剧情，但是感觉真的是纯路人\n甚至我觉得回忆里面半夏剧情都少了\n不过最后那段记忆那里\n我直接😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 1031,
+          "like_count": 27260,
+          "listed_count": 7,
+          "media_count": 500,
+          "tweet_count": 5284
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "果然还是喜欢被叫小洛呢w  找我面基会被uno牌打哭的😈  里@Mitaner_hidden",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "Mitaner_hidden"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yiurblog.top",
+                "end": 23,
+                "expanded_url": "http://www.yiurblog.top",
+                "start": 0,
+                "url": "https://t.co/A4NOlo75lV"
+              }
+            ]
+          }
+        },
+        "id": "1559906722588000256",
+        "name": "洛🐱的日常～碎碎念",
+        "pinned_tweet_id": "1947702904422600970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954610505039138816/kJvPf_cj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 462,
+          "like_count": 5764,
+          "listed_count": 6,
+          "media_count": 665,
+          "tweet_count": 7382
+        },
+        "url": "https://t.co/A4NOlo75lV",
+        "username": "Project_Luo",
+        "verified": false
+      }
+    ]
+  }
+}

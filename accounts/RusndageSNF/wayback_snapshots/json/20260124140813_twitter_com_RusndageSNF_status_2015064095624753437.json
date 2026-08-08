@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2014938560793628672"
+      ],
+      "media_source_tweet_id": [
+        "2014938658680582167"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015064095624753437",
+    "created_at": "2026-01-24T14:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T15:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015064095624753437"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 20,
+          "tag": "F114514"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1868588926824488960",
+          "start": 3,
+          "username": "JuStrawiberry_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T7WSCVnbyC",
+          "end": 52,
+          "expanded_url": "https://x.com/JuStrawiberry_/status/2014938658680582167/video/1",
+          "media_key": "7_2014938560793628672",
+          "start": 29,
+          "url": "https://t.co/T7WSCVnbyC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015064095624753437",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014938658680582167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JuStrawiberry_: #F114514 https://t.co/T7WSCVnbyC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90372,
+        "height": 720,
+        "media_key": "7_2014938560793628672",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2014938560793628672/pu/img/i6dqfvgZqjV_qib6.jpg",
+        "public_metrics": {
+          "view_count": 198971
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014938560793628672/pu/vid/avc1/444x270/svQOdWqdFAuHWuSK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014938560793628672/pu/vid/avc1/592x360/5XOcvfaC7nS3JVkO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014938560793628672/pu/vid/avc1/1186x720/ytMw0bDy4ngNU8DA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2014938560793628672/pu/pl/YP9Ec_JCEOszm-SW.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2014938560793628672"
+          ],
+          "media_source_tweet_id": [
+            "2014938658680582167"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015064095624753437",
+        "created_at": "2026-01-24T14:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T15:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015064095624753437"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "F114514"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1868588926824488960",
+              "start": 3,
+              "username": "JuStrawiberry_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7WSCVnbyC",
+              "end": 52,
+              "expanded_url": "https://x.com/JuStrawiberry_/status/2014938658680582167/video/1",
+              "media_key": "7_2014938560793628672",
+              "start": 29,
+              "url": "https://t.co/T7WSCVnbyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015064095624753437",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014938658680582167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JuStrawiberry_: #F114514 https://t.co/T7WSCVnbyC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2014938560793628672"
+          ]
+        },
+        "author_id": "1868588926824488960",
+        "conversation_id": "2014938658680582167",
+        "created_at": "2026-01-24T05:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014938658680582167"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "F114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7WSCVnbyC",
+              "end": 32,
+              "expanded_url": "https://x.com/JuStrawiberry_/status/2014938658680582167/video/1",
+              "media_key": "7_2014938560793628672",
+              "start": 9,
+              "url": "https://t.co/T7WSCVnbyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014938658680582167",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5129,
+          "impression_count": 557215,
+          "like_count": 16699,
+          "quote_count": 192,
+          "reply_count": 25,
+          "retweet_count": 3114
+        },
+        "reply_settings": "everyone",
+        "text": "#F114514 https://t.co/T7WSCVnbyC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 1050,
+          "like_count": 28409,
+          "listed_count": 7,
+          "media_count": 547,
+          "tweet_count": 5659
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T09:28:22.000Z",
+        "description": "#全日本痛車蟹走連合(仮)                ㅤㅤㅤㅤㅤㅤㅤㅤㅤ\n　GT7、樽ゲ、湾      🔑→@CR_65X",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "全日本痛車蟹走連合"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 56,
+                "username": "CR_65X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/yasei_niito",
+                "end": 23,
+                "expanded_url": "https://x.com/yasei_niito",
+                "start": 0,
+                "url": "https://t.co/AfAEgR27xg"
+              }
+            ]
+          }
+        },
+        "id": "1868588926824488960",
+        "location": "FFドリフター",
+        "name": "ﾖｳﾑﾁｬﾝ!",
+        "pinned_tweet_id": "1984809574780788775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922209861288214528/WambVOXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 554,
+          "like_count": 1953,
+          "listed_count": 1,
+          "media_count": 1335,
+          "tweet_count": 6602
+        },
+        "url": "https://t.co/AfAEgR27xg",
+        "username": "JuStrawiberry_",
+        "verified": false
+      }
+    ]
+  }
+}

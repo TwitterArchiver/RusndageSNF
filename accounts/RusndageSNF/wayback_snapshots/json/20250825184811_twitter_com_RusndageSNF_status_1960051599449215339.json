@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1959848596792393981",
+    "created_at": "2025-08-25T18:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T19:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960051599449215339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942551114626514944",
+          "start": 0,
+          "username": "CollapsibleCat2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960051599449215339",
+    "in_reply_to_user_id": "1942551114626514944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960030369362985233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CollapsibleCat2 我吃色普龙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1959848596792393981",
+        "created_at": "2025-08-25T18:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T19:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960051599449215339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942551114626514944",
+              "start": 0,
+              "username": "CollapsibleCat2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960051599449215339",
+        "in_reply_to_user_id": "1942551114626514944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960030369362985233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CollapsibleCat2 我吃色普龙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942551114626514944",
+        "conversation_id": "1959848596792393981",
+        "created_at": "2025-08-25T17:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T18:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960030369362985233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960030369362985233",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959848596792393981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 螺内酯就是利尿的（确信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 1030,
+          "like_count": 27214,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 5267
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T11:47:54.000Z",
+        "description": "🔞R18警告⚠️丨涩批一个，专找男娘线下的采花大盗丨会一些前列腺按摩丨会乳首责|龟责略知五六|捆绑学习中|好评如潮（真）只要楠酿丨最喜欢前戏调情，还有南梁说我口活不错丨会一点点的拍照（大概丨会瞎几把剪视频丨即将去上海上班且久居！小飞机频道在这↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaojie7784",
+                "end": 23,
+                "expanded_url": "https://t.me/xiaojie7784",
+                "start": 0,
+                "url": "https://t.co/b4soAPgI33"
+              }
+            ]
+          }
+        },
+        "id": "1942551114626514944",
+        "location": "江苏苏州",
+        "name": "CollapsibleCat2杰喵络合物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945117403454590976/WlzMtAEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 1455,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/b4soAPgI33",
+        "username": "CollapsibleCat2",
+        "verified": false
+      }
+    ]
+  }
+}

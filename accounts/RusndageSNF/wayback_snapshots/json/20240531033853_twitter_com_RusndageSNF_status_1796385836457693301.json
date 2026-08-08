@@ -1,0 +1,96 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1796385836457693301",
+    "created_at": "2024-05-31T03:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T04:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796385836457693301"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1796385836457693301",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们高考完打算七个人一起出去玩，然后七个人里一个顺男俩顺女剩下四个一个姛一个基一个双一个跨\n最主要的是我们七个是初中同学，一个班里LGBT全了（大草）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1796385836457693301",
+        "created_at": "2024-05-31T03:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T04:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796385836457693301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796385836457693301",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们高考完打算七个人一起出去玩，然后七个人里一个顺男俩顺女剩下四个一个姛一个基一个双一个跨\n最主要的是我们七个是初中同学，一个班里LGBT全了（大草）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 650,
+          "like_count": 13683,
+          "listed_count": 5,
+          "tweet_count": 2382
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

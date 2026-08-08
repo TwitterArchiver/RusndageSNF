@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2049759717086703754",
+    "created_at": "2026-04-30T07:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T08:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049759717086703754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752963005061738496",
+          "start": 3,
+          "username": "moutianc"
+        },
+        {
+          "end": 24,
+          "id": "1150753335881826305",
+          "start": 14,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049759717086703754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049733506801226062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moutianc: @acacia038 这辈子最恨的其中一个词就是不男不女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2049759717086703754",
+        "created_at": "2026-04-30T07:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049759717086703754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752963005061738496",
+              "start": 3,
+              "username": "moutianc"
+            },
+            {
+              "end": 24,
+              "id": "1150753335881826305",
+              "start": 14,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049759717086703754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049733506801226062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moutianc: @acacia038 这辈子最恨的其中一个词就是不男不女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752963005061738496",
+        "conversation_id": "2049696520455311392",
+        "created_at": "2026-04-30T06:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T07:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049733506801226062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1150753335881826305",
+              "start": 0,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049733506801226062",
+        "in_reply_to_user_id": "1150753335881826305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 510,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049696520455311392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acacia038 这辈子最恨的其中一个词就是不男不女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 1101,
+          "like_count": 29833,
+          "listed_count": 8,
+          "media_count": 575,
+          "tweet_count": 6040
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T07:52:17.000Z",
+        "description": "友正常人丨永远怀念我们的六年@LCG_Akiball 🍥 丨看人不爽我就拉黑丨这里是互联网你说得都对",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "LCG_Akiball"
+              }
+            ]
+          }
+        },
+        "id": "1752963005061738496",
+        "name": "ななみ_c",
+        "pinned_tweet_id": "1939306841919685027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939347987609624577/WlyqvB_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 357,
+          "like_count": 4002,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 563
+        },
+        "username": "moutianc",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "原来是suzu\n随缘上号…\nDONT GIVE A SHIT ABOUT ME OR YOUD BE DISAPPOINTED",
+        "id": "1150753335881826305",
+        "name": "Charlotte F.",
+        "pinned_tweet_id": "2016084177138155670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046258494253273088/2leeLfOB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 267,
+          "like_count": 2380,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1127
+        },
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}

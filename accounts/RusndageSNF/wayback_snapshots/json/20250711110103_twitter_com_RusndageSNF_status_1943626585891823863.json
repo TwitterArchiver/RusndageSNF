@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1943339614695231875",
+    "created_at": "2025-07-11T11:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T12:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943626585891823863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1275912964915302403",
+          "start": 0,
+          "username": "miniapeur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943626585891823863",
+    "in_reply_to_user_id": "1275912964915302403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943339614695231875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miniapeur 抖音牌电脑"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1069,
+        "media_key": "3_1943339609884065792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvghFDUWAAAyC20.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1943339614695231875",
+        "created_at": "2025-07-11T11:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T12:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943626585891823863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1275912964915302403",
+              "start": 0,
+              "username": "miniapeur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943626585891823863",
+        "in_reply_to_user_id": "1275912964915302403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943339614695231875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miniapeur 抖音牌电脑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943339609884065792"
+          ]
+        },
+        "author_id": "1275912964915302403",
+        "conversation_id": "1943339614695231875",
+        "created_at": "2025-07-10T16:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T17:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943339614695231875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7VBN4VsniL",
+              "end": 23,
+              "expanded_url": "https://x.com/miniapeur/status/1943339614695231875/photo/1",
+              "media_key": "3_1943339609884065792",
+              "start": 0,
+              "url": "https://t.co/7VBN4VsniL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943339614695231875",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1190,
+          "impression_count": 1707008,
+          "like_count": 50374,
+          "quote_count": 1307,
+          "reply_count": 460,
+          "retweet_count": 11214
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7VBN4VsniL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 1000,
+          "like_count": 26429,
+          "listed_count": 8,
+          "media_count": 457,
+          "tweet_count": 5000
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-24T22:05:38.000Z",
+        "description": "Gradient surfer by day, Möbius stripper by night. PhD @ai_ucl. Co-organises @logconference. FR, EN, trying ES. 🇹🇼🇨🇦🇬🇳🇺🇸🇩🇴🇫🇷🇪🇸🇬🇧🇿🇦.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 54,
+                "username": "ai_ucl"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "logconference"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "scholar.google.com/citations?user…",
+                "end": 23,
+                "expanded_url": "https://scholar.google.com/citations?user=mqxF640AAAAJ&hl",
+                "start": 0,
+                "url": "https://t.co/FlVx3vW3yb"
+              }
+            ]
+          }
+        },
+        "id": "1275912964915302403",
+        "location": "Canada ↔ UK ↔ France",
+        "name": "Mathieu",
+        "pinned_tweet_id": "1941486934427304305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1279117113580564481/T3PEblUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32766,
+          "following_count": 2253,
+          "like_count": 34469,
+          "listed_count": 152,
+          "media_count": 9614,
+          "tweet_count": 24246
+        },
+        "url": "https://t.co/FlVx3vW3yb",
+        "username": "miniapeur",
+        "verified": true
+      }
+    ]
+  }
+}

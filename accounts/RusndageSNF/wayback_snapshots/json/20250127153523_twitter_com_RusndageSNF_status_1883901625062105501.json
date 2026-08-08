@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1883797341070909442",
+    "created_at": "2025-01-27T15:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T16:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883901625062105501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593626570559823872",
+          "start": 0,
+          "username": "jinsenalaqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883901625062105501",
+    "in_reply_to_user_id": "1593626570559823872",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883860710603870528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinsenalaqwq C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1883797341070909442",
+        "created_at": "2025-01-27T15:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T16:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883901625062105501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593626570559823872",
+              "start": 0,
+              "username": "jinsenalaqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883901625062105501",
+        "in_reply_to_user_id": "1593626570559823872",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883860710603870528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinsenalaqwq C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593626570559823872",
+        "conversation_id": "1883797341070909442",
+        "created_at": "2025-01-27T12:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T13:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883860710603870528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883860710603870528",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883797341070909442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 好大！雪花是什么罩杯呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 866,
+          "like_count": 22241,
+          "listed_count": 7,
+          "media_count": 369,
+          "tweet_count": 3925
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T15:26:10.000Z",
+        "description": "@jinsenala的另一个号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "jinsenala"
+              }
+            ]
+          }
+        },
+        "id": "1593626570559823872",
+        "location": "终之空",
+        "name": "金色那菈🍥",
+        "pinned_tweet_id": "1879476070313078942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879474002667970560/bwjYijEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 39,
+          "like_count": 16,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "jinsenalaqwq",
+        "verified": false
+      }
+    ]
+  }
+}

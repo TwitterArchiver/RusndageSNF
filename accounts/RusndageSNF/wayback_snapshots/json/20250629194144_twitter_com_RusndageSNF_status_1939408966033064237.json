@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1935694928757297220",
+    "created_at": "2025-06-29T19:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T20:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939408966033064237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1681837279411859456",
+          "start": 0,
+          "username": "AsatsukiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939408966033064237",
+    "in_reply_to_user_id": "1681837279411859456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939395008916066406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsatsukiSakura 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1935694928757297220",
+        "created_at": "2025-06-29T19:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T20:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939408966033064237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1681837279411859456",
+              "start": 0,
+              "username": "AsatsukiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939408966033064237",
+        "in_reply_to_user_id": "1681837279411859456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939395008916066406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsatsukiSakura 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681837279411859456",
+        "conversation_id": "1935694928757297220",
+        "created_at": "2025-06-29T18:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T19:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939395008916066406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939395008916066406",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935694928757297220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 你挺pass的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 985,
+          "like_count": 26030,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 4870
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T01:23:56.000Z",
+        "description": "osu player id:33407560\n偶尔玩玩p社\n萌豚，萝莉控，百合大好き\n车万人，stg苦手\nCS:GO Forever\n适度键政",
+        "id": "1681837279411859456",
+        "location": "Uji-shi, Kyoto",
+        "name": "Маргатройд",
+        "pinned_tweet_id": "1703980361192181950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681845013880373250/X3nBJMaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 811,
+          "like_count": 2643,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 1311
+        },
+        "username": "AsatsukiSakura",
+        "verified": false
+      }
+    ]
+  }
+}

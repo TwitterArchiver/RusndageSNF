@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1940259135301267793",
+    "created_at": "2025-07-03T07:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T08:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940679794141851941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1260654982325403648",
+          "start": 0,
+          "username": "Golence1"
+        },
+        {
+          "end": 26,
+          "id": "1702925354132992000",
+          "start": 10,
+          "username": "remilia_servant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940679794141851941",
+    "in_reply_to_user_id": "1260654982325403648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940605990258593908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Golence1 @remilia_servant ？你认真的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1940259135301267793",
+        "created_at": "2025-07-03T07:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T08:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940679794141851941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1260654982325403648",
+              "start": 0,
+              "username": "Golence1"
+            },
+            {
+              "end": 26,
+              "id": "1702925354132992000",
+              "start": 10,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940679794141851941",
+        "in_reply_to_user_id": "1260654982325403648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940605990258593908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Golence1 @remilia_servant ？你认真的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260654982325403648",
+        "conversation_id": "1940259135301267793",
+        "created_at": "2025-07-03T02:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T03:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940605990258593908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 29,
+              "id": "1702925354132992000",
+              "start": 13,
+              "username": "remilia_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940605990258593908",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940479416624361604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @remilia_servant 我觉得纯粹是巨无霸太难吃了，就连肯德基的牛肉汉堡都比麦当劳强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 986,
+          "like_count": 26129,
+          "listed_count": 8,
+          "media_count": 449,
+          "tweet_count": 4896
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T19:35:56.000Z",
+        "description": "",
+        "id": "1260654982325403648",
+        "name": "Golence",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 231,
+          "like_count": 33754,
+          "listed_count": 11,
+          "media_count": 106,
+          "tweet_count": 9133
+        },
+        "username": "Golence1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T06:00:52.000Z",
+        "description": "母語英語/香港語 | 2025DSE • 過期男子高中生 | 現在暑期工做侍應非常折磨😭 | 左翼香港本土主義⬜🟦 | 會譯些廢梗片爛梗圖 | 東方廚 | 頭貼是好朋友幫忙畫的 | 裏帳號 @tnavres_ailimer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "tnavres_ailimer"
+              }
+            ]
+          }
+        },
+        "id": "1702925354132992000",
+        "location": "New Hong Kong Republic ",
+        "name": "⬜蕾米米🟦",
+        "pinned_tweet_id": "1916556956816249106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913497390289743872/qTHbrTMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15027,
+          "following_count": 1531,
+          "like_count": 97241,
+          "listed_count": 59,
+          "media_count": 368,
+          "tweet_count": 2238
+        },
+        "username": "remilia_servant",
+        "verified": false
+      }
+    ]
+  }
+}

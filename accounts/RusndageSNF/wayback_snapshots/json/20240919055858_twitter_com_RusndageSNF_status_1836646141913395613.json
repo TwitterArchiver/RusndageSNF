@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1836646128009261056"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1836646141913395613",
+    "created_at": "2024-09-19T05:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T06:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836646141913395613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/srgzmnk04t",
+          "end": 51,
+          "expanded_url": "https://twitter.com/RusndageSNF/status/1836646141913395613/photo/1",
+          "media_key": "3_1836646128009261056",
+          "start": 28,
+          "url": "https://t.co/sRGZmNk04t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836646141913395613",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次吃塔斯汀还挺好吃的，汉堡酱给的太多了以至于有点腻 https://t.co/sRGZmNk04t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1836646128009261056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GX0T7CYWsAAZk9Q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836646128009261056"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1836646141913395613",
+        "created_at": "2024-09-19T05:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T06:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836646141913395613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/srgzmnk04t",
+              "end": 51,
+              "expanded_url": "https://twitter.com/RusndageSNF/status/1836646141913395613/photo/1",
+              "media_key": "3_1836646128009261056",
+              "start": 28,
+              "url": "https://t.co/sRGZmNk04t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836646141913395613",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次吃塔斯汀还挺好吃的，汉堡酱给的太多了以至于有点腻 https://t.co/sRGZmNk04t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️，暂时和 @MuFengkana 住在一起\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 704,
+          "like_count": 17107,
+          "listed_count": 5,
+          "tweet_count": 2885
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

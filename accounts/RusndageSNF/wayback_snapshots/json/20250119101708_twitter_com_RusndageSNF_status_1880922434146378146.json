@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1880669851188080971",
+    "created_at": "2025-01-19T10:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T11:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880922434146378146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "982938376855699456",
+          "start": 0,
+          "username": "ShengDai_lizi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880922434146378146",
+    "in_reply_to_user_id": "982938376855699456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880669851188080971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShengDai_lizi 出血了诶，还好吗qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1880669851188080971",
+        "created_at": "2025-01-19T10:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880922434146378146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "982938376855699456",
+              "start": 0,
+              "username": "ShengDai_lizi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880922434146378146",
+        "in_reply_to_user_id": "982938376855699456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880669851188080971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShengDai_lizi 出血了诶，还好吗qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1880667460203945984"
+          ]
+        },
+        "author_id": "982938376855699456",
+        "conversation_id": "1880669851188080971",
+        "created_at": "2025-01-18T17:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T18:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880669851188080971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "where creativity pays off,Join 10,000+ creators earning up to $30,000 monthly.。",
+              "display_url": "umate.me/shengdai_lizi/…",
+              "end": 64,
+              "expanded_url": "https://umate.me/shengdai_lizi/IUQXAA",
+              "start": 41,
+              "status": 200,
+              "title": "Umate-創作者變現平台",
+              "unwound_url": "https://umate.me/shengdai_lizi/IUQXAA",
+              "url": "https://t.co/jOsFlLtVAB"
+            },
+            {
+              "display_url": "pic.x.com/ffL0JBUcTh",
+              "end": 88,
+              "expanded_url": "https://x.com/ShengDai_lizi/status/1880669851188080971/video/1",
+              "media_key": "13_1880667460203945984",
+              "start": 65,
+              "url": "https://t.co/ffL0JBUcTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880669851188080971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 14152,
+          "like_count": 487,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "剪辑了自拳和大塞子预览版的内容！最可以清楚看到pyz的一集（\n\n完整版15min在https://t.co/jOsFlLtVAB https://t.co/ffL0JBUcTh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 846,
+          "like_count": 21948,
+          "listed_count": 7,
+          "media_count": 362,
+          "tweet_count": 3816
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-08T11:09:05.000Z",
+        "description": "🔞NSFW/中文/ENG/DM open/Trying to destroy my hole/Femboy/无糖/男男男的/拳交/露出/口罩是本体/门槛私/不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "umate.me/shengdai_lizi/…",
+                "end": 23,
+                "expanded_url": "https://umate.me/shengdai_lizi/IUQXAA",
+                "start": 0,
+                "url": "https://t.co/hKbdk8GMa0"
+              }
+            ]
+          }
+        },
+        "id": "982938376855699456",
+        "name": "周日的毛栗",
+        "pinned_tweet_id": "1817580292535939363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819778029482287104/vKJLAHsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21938,
+          "following_count": 807,
+          "like_count": 14124,
+          "listed_count": 16,
+          "media_count": 25,
+          "tweet_count": 3240
+        },
+        "url": "https://t.co/hKbdk8GMa0",
+        "username": "ShengDai_lizi",
+        "verified": true
+      }
+    ]
+  }
+}

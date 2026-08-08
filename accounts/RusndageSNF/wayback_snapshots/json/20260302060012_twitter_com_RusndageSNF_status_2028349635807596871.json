@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2028158774683590714",
+    "created_at": "2026-03-02T06:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028349635807596871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025993842680598528",
+          "start": 0,
+          "username": "edxb666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028349635807596871",
+    "in_reply_to_user_id": "2025993842680598528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028158774683590714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@edxb666666 推到主页了喵，羡慕妹妹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 108633,
+        "height": 1280,
+        "media_key": "13_2028151461801267200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028151461801267200/img/tZWRp0jQ_Bhs8PfB.jpg",
+        "public_metrics": {
+          "view_count": 638
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028151461801267200/vid/avc1/320x568/TbFpKftd_IRAjPE8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028151461801267200/vid/avc1/480x852/AveiC891FofJNVHV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028151461801267200/vid/avc1/720x1280/AH4lGHiw89YGGm6B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028151461801267200/pl/D-a6jUShabJbDwqC.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 108800,
+        "height": 960,
+        "media_key": "13_2028151461054648320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028151461054648320/img/Ecg5S070ptRWnTcy.jpg",
+        "public_metrics": {
+          "view_count": 157
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028151461054648320/vid/avc1/320x426/dFcfPaJQC3bZwZdm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028151461054648320/vid/avc1/480x640/n5XjQozYbxmDS4w4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028151461054648320/vid/avc1/720x960/33W_ftOfkXycMKz-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028151461054648320/pl/EXx5XU4NTvA67dD3.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2028158774683590714",
+        "created_at": "2026-03-02T06:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028349635807596871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025993842680598528",
+              "start": 0,
+              "username": "edxb666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028349635807596871",
+        "in_reply_to_user_id": "2025993842680598528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028158774683590714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edxb666666 推到主页了喵，羡慕妹妹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028151461801267200",
+            "13_2028151461054648320"
+          ]
+        },
+        "author_id": "2025993842680598528",
+        "conversation_id": "2028158774683590714",
+        "created_at": "2026-03-01T17:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T18:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028158774683590714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "le"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "wlw"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "女同"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "拳交"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "扩张"
+            },
+            {
+              "end": 143,
+              "start": 138,
+              "tag": "女高母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKcbgMKxaW",
+              "end": 167,
+              "expanded_url": "https://x.com/edxb666666/status/2028158774683590714/video/1",
+              "media_key": "13_2028151461801267200",
+              "start": 144,
+              "url": "https://t.co/uKcbgMKxaW"
+            },
+            {
+              "display_url": "pic.x.com/uKcbgMKxaW",
+              "end": 167,
+              "expanded_url": "https://x.com/edxb666666/status/2028158774683590714/video/1",
+              "media_key": "13_2028151461054648320",
+              "start": 144,
+              "url": "https://t.co/uKcbgMKxaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028158774683590714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1546,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "酒后乱性…手套什么的也没让她戴就急着让她进来了\n去同学家玩 不小心被艹了怎么办🥺\n她视频外说：你的b怎么这么大啊\n你前面拍视频放那么多润滑是骗人的吧水好多啊\n（对…甚至录这段拳交时 顺滑液都没用我完全湿透了）\n（她醉酒手机拿的比较晃 #le #wlw #女同 #拳交 #扩张 #女高母狗 https://t.co/uKcbgMKxaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 1081,
+          "like_count": 28929,
+          "listed_count": 9,
+          "media_count": 560,
+          "tweet_count": 5750
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T17:59:18.000Z",
+        "description": "09高中生不定期更新 喜欢尝试各种大玩具玩扩张会画点画的暴露癖变态女同 别质疑我取向 拍摄一切内容均出于爱好且均为免费🚫ai 无门槛 扩列可私 随缘加",
+        "id": "2025993842680598528",
+        "location": "广州",
+        "name": "Edxb🔞（复活复健版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025993970757890048/8vui9Jh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 39,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 31
+        },
+        "username": "edxb666666",
+        "verified": false
+      }
+    ]
+  }
+}

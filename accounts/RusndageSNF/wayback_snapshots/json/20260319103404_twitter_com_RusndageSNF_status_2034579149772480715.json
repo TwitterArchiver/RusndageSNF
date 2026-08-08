@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2034579149772480715",
+    "created_at": "2026-03-19T10:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034579149772480715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KARICONICHAN/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/KARICONICHAN/status/2034441924376150021",
+          "start": 27,
+          "url": "https://t.co/rFZAKR1nKF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034579149772480715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034441924376150021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本劳保给我看力竭了，全世界劳保能不能让核弹炸一炸啊 https://t.co/rFZAKR1nKF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 755,
+        "media_key": "3_2034441613901213696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvJ3nDasAAgdXP.jpg",
+        "width": 1320
+      },
+      {
+        "height": 748,
+        "media_key": "3_2034441613905399808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvJ3nEakAA54Ui.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2034579149772480715",
+        "created_at": "2026-03-19T10:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034579149772480715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KARICONICHAN/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/KARICONICHAN/status/2034441924376150021",
+              "start": 27,
+              "url": "https://t.co/rFZAKR1nKF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034579149772480715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034441924376150021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本劳保给我看力竭了，全世界劳保能不能让核弹炸一炸啊 https://t.co/rFZAKR1nKF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034441613901213696",
+            "3_2034441613905399808"
+          ]
+        },
+        "author_id": "178010721",
+        "conversation_id": "2034441924376150021",
+        "created_at": "2026-03-19T01:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:27:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034441618347237568",
+          "2034441924376150021"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "富山大学附属病院",
+              "probability": 0.5323,
+              "start": 8,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Usz1iLsHPO",
+              "end": 69,
+              "expanded_url": "https://x.com/KARICONICHAN/status/2034441924376150021/photo/1",
+              "media_key": "3_2034441613901213696",
+              "start": 46,
+              "url": "https://t.co/Usz1iLsHPO"
+            },
+            {
+              "display_url": "pic.x.com/Usz1iLsHPO",
+              "end": 69,
+              "expanded_url": "https://x.com/KARICONICHAN/status/2034441924376150021/photo/1",
+              "media_key": "3_2034441613905399808",
+              "start": 46,
+              "url": "https://t.co/Usz1iLsHPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034441924376150021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 268,
+                "start": 264,
+                "tag": "SRS"
+              },
+              {
+                "end": 276,
+                "start": 269,
+                "tag": "性別適合手術"
+              },
+              {
+                "end": 287,
+                "start": 277,
+                "tag": "KARICONIC"
+              }
+            ]
+          },
+          "text": "リアルな現実。\n富山大学附属病院さん、ありがとうございます。\n私の昔の知り合いお話しです。\nある病院で性別適合手術を受けたんですが術後に尿道が癒着してしまい、救急車を呼んで病院をたらい回しにされて6件の病院(大学病院含む)に拒否されてしまいました。7件目の病院でやっと受け入れて頂き、緊急オペ尿道切開をして貰い命を繋ぎ止めました。後少しで膀胱破裂して命を落とす所でした。\n全国の大学病院、そして私達トランスジェンダー🏳️‍🌈を受け入れてくれる病院の方々。是非、前向きに私達の受け入れを考えて下さい。どうぞ宜しくお願い致します。\n#SRS #性別適合手術 #KARICONIC"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12586,
+          "impression_count": 6653146,
+          "like_count": 24554,
+          "quote_count": 598,
+          "reply_count": 285,
+          "retweet_count": 1354
+        },
+        "reply_settings": "everyone",
+        "text": "リアルな現実。\n富山大学附属病院さん、ありがとうございます。\n私の昔の知り合いお話しです。 https://t.co/Usz1iLsHPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 1079,
+          "like_count": 29264,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5824
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-13T16:52:45.000Z",
+        "description": "性同一性障害特例法を守る為に、皆様エールを送って下さい。2026年も宜しくお願い致します。→ https://t.co/eqxVY18O9L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/kariconichan/s…",
+                "end": 70,
+                "expanded_url": "https://x.com/kariconichan/status/1988529071928537363?s=12",
+                "start": 47,
+                "url": "https://t.co/eqxVY18O9L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCh3z8…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCh3z8GRcLNrWHhxWTll877w",
+                "start": 0,
+                "url": "https://t.co/xsJRV4Sz47"
+              }
+            ]
+          }
+        },
+        "id": "178010721",
+        "location": "iphone:35.154584,136.916821\n\n",
+        "name": "★KARICONIC★",
+        "pinned_tweet_id": "1988529071928537363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476899394066972672/QkXptxxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10707,
+          "following_count": 2463,
+          "like_count": 25063,
+          "listed_count": 9,
+          "media_count": 2552,
+          "tweet_count": 14583
+        },
+        "url": "https://t.co/xsJRV4Sz47",
+        "username": "KARICONICHAN",
+        "verified": false
+      }
+    ]
+  }
+}

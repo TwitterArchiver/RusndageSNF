@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "1846852738325663784",
+    "created_at": "2024-10-17T13:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-17T14:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1846913896495698304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "902877284918468608",
+          "start": 0,
+          "username": "RkMonoChrome_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1846913896495698304",
+    "in_reply_to_user_id": "902877284918468608",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846852738325663784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RkMonoChrome_CN threads（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "1846852738325663784",
+        "created_at": "2024-10-17T13:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T14:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846913896495698304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "902877284918468608",
+              "start": 0,
+              "username": "RkMonoChrome_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1846913896495698304",
+        "in_reply_to_user_id": "902877284918468608",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846852738325663784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RkMonoChrome_CN threads（？）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1846852737235144706"
+          ]
+        },
+        "author_id": "902877284918468608",
+        "conversation_id": "1846852738325663784",
+        "created_at": "2024-10-17T09:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-17T10:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846852738325663784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1846852738325663784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1538,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果以后有一天推特彻底被马一龙搞黄了，你们会选择润去哪里？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️，暂时和 @MuFengkana 住在一起\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 722,
+          "like_count": 17746,
+          "listed_count": 5,
+          "tweet_count": 3073
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-30T12:54:54.000Z",
+        "description": "日本語中国語両方支離滅裂ゴミ人間ド金欠人生失敗中国人限界御宅｜V老人｜ゲーム・アニメとか趣味色々｜1落ちカウンター 374\n𝕏⃠ \n※スパム・エロ垢・投資垢・インプレゾンビなどは一切お断り致します\n中文/English/日本語/한국어（조금밖에 할줄 모름）OK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/rkmonochrome_c…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/rkmonochrome_cn?utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/FHKhXzzmes"
+              }
+            ]
+          }
+        },
+        "id": "902877284918468608",
+        "location": "現実世界・中国⇆ストリートのセカイ",
+        "name": "𝓜𝓸𝓷𝓸𝓒𝓱𝓻𝓸𝓶𝓮.(モノクロ) (𝓡𝓮:仮)",
+        "pinned_tweet_id": "1796940850121019472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821860495441457153/XpdeVbmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3626,
+          "following_count": 4908,
+          "like_count": 410674,
+          "listed_count": 15,
+          "tweet_count": 59228
+        },
+        "url": "https://t.co/FHKhXzzmes",
+        "username": "RkMonoChrome_CN",
+        "verified": false
+      }
+    ]
+  }
+}

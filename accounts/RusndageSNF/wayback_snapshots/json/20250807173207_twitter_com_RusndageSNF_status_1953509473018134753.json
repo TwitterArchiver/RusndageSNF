@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953509469184569345"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "1953509167173357857",
+    "created_at": "2025-08-07T17:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T18:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953509473018134753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T0XjnymeJL",
+          "end": 34,
+          "expanded_url": "https://x.com/RusndageSNF/status/1953509473018134753/photo/1",
+          "media_key": "3_1953509469184569345",
+          "start": 11,
+          "url": "https://t.co/T0XjnymeJL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953509473018134753",
+    "in_reply_to_user_id": "1236317911431536640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953509167173357857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以及这是我们的球设！ https://t.co/T0XjnymeJL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953509469184569345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxxCgxgbsAEcpFS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1702,
+        "media_key": "3_1953509164426379264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxxCPCMawAAgE8D.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953509469184569345"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "1953509167173357857",
+        "created_at": "2025-08-07T17:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T18:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953509473018134753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T0XjnymeJL",
+              "end": 34,
+              "expanded_url": "https://x.com/RusndageSNF/status/1953509473018134753/photo/1",
+              "media_key": "3_1953509469184569345",
+              "start": 11,
+              "url": "https://t.co/T0XjnymeJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953509473018134753",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953509167173357857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以及这是我们的球设！ https://t.co/T0XjnymeJL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953509164426379264"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "1953509167173357857",
+        "created_at": "2025-08-07T17:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T18:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953509167173357857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZITu4f2Pu",
+              "end": 70,
+              "expanded_url": "https://x.com/RusndageSNF/status/1953509167173357857/photo/1",
+              "media_key": "3_1953509164426379264",
+              "start": 47,
+              "url": "https://t.co/xZITu4f2Pu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953509167173357857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和洁面乳的大家一起吃饭！\n（被大家夸非常pass以至于声音和长相都完全看不出来是个跨跨了！） https://t.co/xZITu4f2Pu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 1015,
+          "like_count": 26973,
+          "listed_count": 7,
+          "media_count": 490,
+          "tweet_count": 5190
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

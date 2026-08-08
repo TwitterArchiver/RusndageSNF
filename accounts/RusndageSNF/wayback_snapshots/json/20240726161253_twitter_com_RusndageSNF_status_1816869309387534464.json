@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1816364977680273753",
+    "created_at": "2024-07-26T16:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T17:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816869309387534464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1365521689241522176",
+          "start": 0,
+          "username": "chenhj_sakana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816869309387534464",
+    "in_reply_to_user_id": "1365521689241522176",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816364977680273753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenhj_sakana 我也是...超级麻烦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1816364977680273753",
+        "created_at": "2024-07-26T16:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T17:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816869309387534464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1365521689241522176",
+              "start": 0,
+              "username": "chenhj_sakana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816869309387534464",
+        "in_reply_to_user_id": "1365521689241522176",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816364977680273753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenhj_sakana 我也是...超级麻烦"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816364969606406145"
+          ]
+        },
+        "author_id": "1365521689241522176",
+        "conversation_id": "1816364977680273753",
+        "created_at": "2024-07-25T06:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T07:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816364977680273753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YIUexYx50q",
+              "end": 76,
+              "expanded_url": "https://twitter.com/chenhj_sakana/status/1816364977680273753/photo/1",
+              "media_key": "3_1816364969606406145",
+              "start": 53,
+              "url": "https://t.co/YIUexYx50q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816364977680273753",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19085,
+          "like_count": 236,
+          "quote_count": 4,
+          "reply_count": 54,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大抵是你国特色：\n哥们都是个真大学生了，出去住酒店，因为还是未成年人所以还需要一系列监护人授权才能入住😅 https://t.co/YIUexYx50q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 675,
+          "like_count": 15154,
+          "listed_count": 5,
+          "tweet_count": 2638
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-27T04:38:47.000Z",
+        "description": "陈叔叔/鲑鱼高中生/是呆唯厨子/星粉/果粉/虹杂/半个飞友/不会打音游的泻谱师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fantanstic.top",
+                "end": 23,
+                "expanded_url": "http://fantanstic.top",
+                "start": 0,
+                "url": "https://t.co/WotMAIjBXj"
+              }
+            ]
+          }
+        },
+        "id": "1365521689241522176",
+        "location": "IP属地：理塘",
+        "name": "晨晖",
+        "pinned_tweet_id": "1422935734164459526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812520461739126784/VKVzYYPr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 790,
+          "like_count": 132163,
+          "listed_count": 8,
+          "tweet_count": 13574
+        },
+        "url": "https://t.co/WotMAIjBXj",
+        "username": "chenhj_sakana",
+        "verified": false
+      }
+    ]
+  }
+}

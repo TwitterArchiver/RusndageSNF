@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071933878642626561"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2071932193526694206",
+    "created_at": "2026-06-30T12:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071933888826647023"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YOAjQcM3mO",
+          "end": 28,
+          "expanded_url": "https://x.com/RusndageSNF/status/2071933888826647023/photo/1",
+          "media_key": "3_2071933878642626561",
+          "start": 5,
+          "url": "https://t.co/YOAjQcM3mO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071933888826647023",
+    "in_reply_to_user_id": "1236317911431536640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071932193526694206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "急了急了 https://t.co/YOAjQcM3mO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2071933878642626561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD84pKXUAExGQs.jpg",
+        "width": 864
+      },
+      {
+        "height": 1313,
+        "media_key": "3_2071932183279788032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD7V9cXYAAjO49.jpg",
+        "width": 1205
+      },
+      {
+        "height": 1981,
+        "media_key": "3_2071932183292342272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD7V9fW8AAwMJg.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1373,
+        "media_key": "3_2071932183283986432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD7V9dXcAAzEjp.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1314,
+        "media_key": "3_2071932183275593728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD7V9bXYAA2fmL.jpg",
+        "width": 723
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071933878642626561"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2071932193526694206",
+        "created_at": "2026-06-30T12:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071933888826647023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOAjQcM3mO",
+              "end": 28,
+              "expanded_url": "https://x.com/RusndageSNF/status/2071933888826647023/photo/1",
+              "media_key": "3_2071933878642626561",
+              "start": 5,
+              "url": "https://t.co/YOAjQcM3mO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071933888826647023",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071932193526694206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "急了急了 https://t.co/YOAjQcM3mO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071932183279788032",
+            "3_2071932183292342272",
+            "3_2071932183283986432",
+            "3_2071932183275593728"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071932193526694206",
+        "created_at": "2026-06-30T12:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071932193526694206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFFY9CABaD",
+              "end": 129,
+              "expanded_url": "https://x.com/RusndageSNF/status/2071932193526694206/photo/1",
+              "media_key": "3_2071932183279788032",
+              "start": 106,
+              "url": "https://t.co/EFFY9CABaD"
+            },
+            {
+              "display_url": "pic.x.com/EFFY9CABaD",
+              "end": 129,
+              "expanded_url": "https://x.com/RusndageSNF/status/2071932193526694206/photo/1",
+              "media_key": "3_2071932183292342272",
+              "start": 106,
+              "url": "https://t.co/EFFY9CABaD"
+            },
+            {
+              "display_url": "pic.x.com/EFFY9CABaD",
+              "end": 129,
+              "expanded_url": "https://x.com/RusndageSNF/status/2071932193526694206/photo/1",
+              "media_key": "3_2071932183283986432",
+              "start": 106,
+              "url": "https://t.co/EFFY9CABaD"
+            },
+            {
+              "display_url": "pic.x.com/EFFY9CABaD",
+              "end": 129,
+              "expanded_url": "https://x.com/RusndageSNF/status/2071932193526694206/photo/1",
+              "media_key": "3_2071932183275593728",
+              "start": 106,
+              "url": "https://t.co/EFFY9CABaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071932193526694206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以防有人不知道沈阳职业技术学院干了什么逼畜牲事我觉得我有必要写一长篇来说一下\n\n外卖不让学生送，迟到三次就开除，不装空调装监控，校园猫狗我图图，我干这些你别管，敢说你就要被抓\n\n来吧，这就是我们沈阳职业技术学院 https://t.co/EFFY9CABaD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2349,
+          "following_count": 1116,
+          "like_count": 30681,
+          "listed_count": 7,
+          "media_count": 589,
+          "tweet_count": 6200
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

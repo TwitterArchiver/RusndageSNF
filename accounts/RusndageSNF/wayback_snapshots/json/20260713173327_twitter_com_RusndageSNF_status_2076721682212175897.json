@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076721624385228800",
+        "3_2076721624326549505"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2076721682212175897",
+    "created_at": "2026-07-13T17:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076721682212175897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g1b2vXDQ5u",
+          "end": 46,
+          "expanded_url": "https://x.com/RusndageSNF/status/2076721682212175897/video/1",
+          "media_key": "13_2076721624385228800",
+          "start": 23,
+          "url": "https://t.co/g1b2vXDQ5u"
+        },
+        {
+          "display_url": "pic.x.com/g1b2vXDQ5u",
+          "end": 46,
+          "expanded_url": "https://x.com/RusndageSNF/status/2076721682212175897/video/1",
+          "media_key": "3_2076721624326549505",
+          "start": 23,
+          "url": "https://t.co/g1b2vXDQ5u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076721682212175897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再见了，抱歉，现在才给你那瓶早应该给你的可乐 https://t.co/g1b2vXDQ5u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6433,
+        "height": 1280,
+        "media_key": "13_2076721624385228800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076721624385228800/img/ajI7YzHfZiDBt3-u.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076721624385228800/vid/avc1/320x568/zURjOYhGpfIkH9jT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076721624385228800/vid/avc1/480x852/_VKzLGXSFB1t9uU1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076721624385228800/vid/avc1/720x1280/kxnIQYNyMNih1yok.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076721624385228800/pl/PnZAQ9IMnfGibpNA.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076721624326549505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNH_UHtbMAEKCp1.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076721624385228800",
+            "3_2076721624326549505"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2076721682212175897",
+        "created_at": "2026-07-13T17:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076721682212175897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1b2vXDQ5u",
+              "end": 46,
+              "expanded_url": "https://x.com/RusndageSNF/status/2076721682212175897/video/1",
+              "media_key": "13_2076721624385228800",
+              "start": 23,
+              "url": "https://t.co/g1b2vXDQ5u"
+            },
+            {
+              "display_url": "pic.x.com/g1b2vXDQ5u",
+              "end": 46,
+              "expanded_url": "https://x.com/RusndageSNF/status/2076721682212175897/video/1",
+              "media_key": "3_2076721624326549505",
+              "start": 23,
+              "url": "https://t.co/g1b2vXDQ5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076721682212175897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再见了，抱歉，现在才给你那瓶早应该给你的可乐 https://t.co/g1b2vXDQ5u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 1119,
+          "like_count": 30776,
+          "listed_count": 7,
+          "media_count": 591,
+          "tweet_count": 6214
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

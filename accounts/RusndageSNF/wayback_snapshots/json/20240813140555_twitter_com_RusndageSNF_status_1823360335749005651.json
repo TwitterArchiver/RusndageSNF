@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1822750807634145729",
+    "created_at": "2024-08-13T14:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T15:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823360335749005651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "25268540",
+          "start": 0,
+          "username": "eurosport"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823360335749005651",
+    "in_reply_to_user_id": "25268540",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822750807634145729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eurosport no asians here, u racists"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1822750807634145729",
+        "created_at": "2024-08-13T14:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T15:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823360335749005651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "25268540",
+              "start": 0,
+              "username": "eurosport"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823360335749005651",
+        "in_reply_to_user_id": "25268540",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822750807634145729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eurosport no asians here, u racists"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822750744958599168"
+          ]
+        },
+        "author_id": "25268540",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "1822750807634145729",
+        "created_at": "2024-08-11T21:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T22:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822750807634145729"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Earth",
+              "probability": 0.4087,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Paris",
+              "probability": 0.4881,
+              "start": 31,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ua8kmou8co",
+              "end": 95,
+              "expanded_url": "https://twitter.com/eurosport/status/1822750807634145729/photo/1",
+              "media_key": "3_1822750744958599168",
+              "start": 72,
+              "url": "https://t.co/uA8KMou8co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822750807634145729",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1701,
+          "impression_count": 19603902,
+          "like_count": 16805,
+          "quote_count": 4517,
+          "reply_count": 2702,
+          "retweet_count": 2458
+        },
+        "reply_settings": "everyone",
+        "text": "The Greatest Show on Earth ❤️\n\nParis 2024, we will never forget you 🇫🇷🫡 https://t.co/uA8KMou8co"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 672,
+          "like_count": 15584,
+          "listed_count": 5,
+          "tweet_count": 2687
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-19T10:47:34.000Z",
+        "description": "The #1 sports destination across Europe 🎾⛸🎱🎿⚽️🚲🏃‍♀️🏂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "eurosport.com",
+                "end": 23,
+                "expanded_url": "http://eurosport.com",
+                "start": 0,
+                "url": "https://t.co/0U1RFrri28"
+              }
+            ]
+          }
+        },
+        "id": "25268540",
+        "location": "London, England",
+        "name": "Eurosport",
+        "pinned_tweet_id": "1822993453904461850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807669089071964160/MKK6Q8k4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248096,
+          "following_count": 687,
+          "like_count": 1784,
+          "listed_count": 2536,
+          "tweet_count": 192159
+        },
+        "url": "https://t.co/0U1RFrri28",
+        "username": "eurosport",
+        "verified": true
+      }
+    ]
+  }
+}

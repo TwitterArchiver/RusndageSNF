@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1895563100964978807",
+    "created_at": "2025-03-01T10:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T11:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895780046234878052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "9485274a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895780046234878052",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895563100964978807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9485274a 确实，葫芦岛的313（旧称）也有srs这个选项，但是没人做过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1895563100964978807",
+        "created_at": "2025-03-01T10:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T11:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895780046234878052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "9485274a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895780046234878052",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895563100964978807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9485274a 确实，葫芦岛的313（旧称）也有srs这个选项，但是没人做过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "1895563100964978807",
+        "created_at": "2025-02-28T19:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T20:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895563100964978807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chunier520/sta…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/chunier520/status/1895487303008829764",
+              "start": 83,
+              "url": "https://t.co/HIr4fMyhTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895563100964978807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895487303008829764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爸说他十多年前进修过的同为军医院的【上海长征医院】也有做srs的，他之前还好奇进手术室看了。据说军医院做srs比普通医院多是因为军医院不归卫健委管所以相对灵活自由 https://t.co/HIr4fMyhTQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1893309762294391019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 893,
+          "like_count": 22731,
+          "listed_count": 6,
+          "media_count": 391,
+          "tweet_count": 4100
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/英语雅思6.5/hrt: 2025.1.15/rle: 2025.2.10/中度抑郁，焦虑症ing/恐跨深柜觉醒党/家长党/生物系毕业/王者，崩铁，碧蓝航线",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 618,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 158
+        },
+        "username": "9485274a",
+        "verified": false
+      }
+    ]
+  }
+}

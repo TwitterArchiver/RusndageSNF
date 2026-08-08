@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1937941076943507928",
+    "created_at": "2025-06-26T08:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T09:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938152254688899207"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Bad News",
+          "probability": 0.6466,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824428396258234368",
+          "start": 0,
+          "username": "wingsing355236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938152254688899207",
+    "in_reply_to_user_id": "1824428396258234368",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938110267617054806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wingsing355236 Bad News"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1937941076943507928",
+        "created_at": "2025-06-26T08:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T09:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938152254688899207"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Bad News",
+              "probability": 0.6466,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824428396258234368",
+              "start": 0,
+              "username": "wingsing355236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938152254688899207",
+        "in_reply_to_user_id": "1824428396258234368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938110267617054806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wingsing355236 Bad News"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824428396258234368",
+        "conversation_id": "1937941076943507928",
+        "created_at": "2025-06-26T05:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T06:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938110267617054806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938110267617054806",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937941076943507928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF Good News"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 983,
+          "like_count": 25904,
+          "listed_count": 8,
+          "media_count": 446,
+          "tweet_count": 4827
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T12:50:20.000Z",
+        "description": "Made in Hong Kong，心動心動 精通鐵路/ 航空知識！个性極電波，剩下的⋯ Maybe I can find the answer in my note......",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shkp.com/zh-HK",
+                "end": 23,
+                "expanded_url": "https://www.shkp.com/zh-HK",
+                "start": 0,
+                "url": "https://t.co/qiEvdTcl9Q"
+              }
+            ]
+          }
+        },
+        "id": "1824428396258234368",
+        "location": "新宇國雙星市星拓區梁家河大道088號祥星中心55樓08室",
+        "name": "毛新宇宙{TAKAO}(E486)🇨🇳🇹🇼🇭🇰🇲🇴🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1933844400066687211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936057954605621248/AHKH3yh5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 664,
+          "like_count": 58949,
+          "listed_count": 4,
+          "media_count": 3021,
+          "tweet_count": 8707
+        },
+        "url": "https://t.co/qiEvdTcl9Q",
+        "username": "wingsing355236",
+        "verified": false
+      }
+    ]
+  }
+}

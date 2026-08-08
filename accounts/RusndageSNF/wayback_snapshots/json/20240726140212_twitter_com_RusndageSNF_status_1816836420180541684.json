@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1816762070446293494",
+    "created_at": "2024-07-26T14:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T15:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816836420180541684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1510971829866754058",
+          "start": 0,
+          "username": "ccioood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816836420180541684",
+    "in_reply_to_user_id": "1510971829866754058",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816762070446293494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccioood 这帮傻逼，难道他们眼睛能看到染色体？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1816762070446293494",
+        "created_at": "2024-07-26T14:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T15:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816836420180541684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1510971829866754058",
+              "start": 0,
+              "username": "ccioood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816836420180541684",
+        "in_reply_to_user_id": "1510971829866754058",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816762070446293494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccioood 这帮傻逼，难道他们眼睛能看到染色体？"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816762063584428032"
+          ]
+        },
+        "author_id": "1510971829866754058",
+        "conversation_id": "1816762070446293494",
+        "created_at": "2024-07-26T09:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T10:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816762070446293494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UNRObeqP6d",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ccioood/status/1816762070446293494/photo/1",
+              "media_key": "3_1816762063584428032",
+              "start": 7,
+              "url": "https://t.co/UNRObeqP6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816762070446293494",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3146,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "繁殖癌导致的 https://t.co/UNRObeqP6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 676,
+          "like_count": 15126,
+          "listed_count": 5,
+          "tweet_count": 2633
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-04T13:25:40.000Z",
+        "description": "别来沾边/不线下/不聊骚/清水日常推",
+        "id": "1510971829866754058",
+        "location": "Zhejiang",
+        "name": "不知名的Cc酱",
+        "pinned_tweet_id": "1787370259676356673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1561257409988857856/adUcRC1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3377,
+          "following_count": 0,
+          "like_count": 84,
+          "listed_count": 12,
+          "tweet_count": 127
+        },
+        "username": "ccioood",
+        "verified": false
+      }
+    ]
+  }
+}

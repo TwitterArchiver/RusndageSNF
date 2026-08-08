@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1901525060319629569",
+    "created_at": "2025-03-17T06:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T07:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901525060319629569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1812217449338785792",
+          "start": 3,
+          "username": "beijieyoufengle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901525060319629569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901517548438561251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beijieyoufengle: 颠覆了我的三观，有舞萌有华卡洗衣机并且全天任玩的洗浴中心，这不就是可以免费吃自助餐和水果还可以过夜通宵还能泡澡按摩的超级豪华版音游窝吗？！哪个天才想出来的主意！深圳你真是太厉害了…\n\n这下不得不再去一次澡堂了，姐妹们等我好消息😋 htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1901517537969594368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmOMIEjaYAACTo4.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1901517537952870400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmOMIEfbMAAHT0a.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1901517537961271296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmOMIEhbYAABCYi.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1901525060319629569",
+        "created_at": "2025-03-17T06:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T07:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901525060319629569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1812217449338785792",
+              "start": 3,
+              "username": "beijieyoufengle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901525060319629569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901517548438561251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beijieyoufengle: 颠覆了我的三观，有舞萌有华卡洗衣机并且全天任玩的洗浴中心，这不就是可以免费吃自助餐和水果还可以过夜通宵还能泡澡按摩的超级豪华版音游窝吗？！哪个天才想出来的主意！深圳你真是太厉害了…\n\n这下不得不再去一次澡堂了，姐妹们等我好消息😋 htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901517537969594368",
+            "3_1901517537952870400",
+            "3_1901517537961271296"
+          ]
+        },
+        "author_id": "1812217449338785792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1901517548438561251",
+        "created_at": "2025-03-17T06:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T07:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901517548438561251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5rIiG2g7B",
+              "end": 138,
+              "expanded_url": "https://x.com/beijieyoufengle/status/1901517548438561251/photo/1",
+              "media_key": "3_1901517537969594368",
+              "start": 115,
+              "url": "https://t.co/Q5rIiG2g7B"
+            },
+            {
+              "display_url": "pic.x.com/Q5rIiG2g7B",
+              "end": 138,
+              "expanded_url": "https://x.com/beijieyoufengle/status/1901517548438561251/photo/1",
+              "media_key": "3_1901517537952870400",
+              "start": 115,
+              "url": "https://t.co/Q5rIiG2g7B"
+            },
+            {
+              "display_url": "pic.x.com/Q5rIiG2g7B",
+              "end": 138,
+              "expanded_url": "https://x.com/beijieyoufengle/status/1901517548438561251/photo/1",
+              "media_key": "3_1901517537961271296",
+              "start": 115,
+              "url": "https://t.co/Q5rIiG2g7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901517548438561251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 274,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "颠覆了我的三观，有舞萌有华卡洗衣机并且全天任玩的洗浴中心，这不就是可以免费吃自助餐和水果还可以过夜通宵还能泡澡按摩的超级豪华版音游窝吗？！哪个天才想出来的主意！深圳你真是太厉害了…\n\n这下不得不再去一次澡堂了，姐妹们等我好消息😋 https://t.co/Q5rIiG2g7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 900,
+          "like_count": 23173,
+          "listed_count": 6,
+          "media_count": 401,
+          "tweet_count": 4190
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T20:08:13.000Z",
+        "description": "北极的一只🦊～不是鹅！//已成年!//Coser//🇭🇰//🏳‍⚧mtf 大证//187/58kg/75B//infp//约拍 寄拍 互fo请私信//接线下⭕️ 全国可🛬 🚪30聊天🚪100线下(过门报价)//经常被封 可加置顶Q群//Sis:@Allenium114 //亲爱的@snsnl142663",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 122,
+                "username": "Allenium114"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "snsnl142663"
+              }
+            ]
+          }
+        },
+        "id": "1812217449338785792",
+        "location": "距离你5.0cm/s",
+        "name": "鹅宝不是鹅🍥（三号机）",
+        "pinned_tweet_id": "1823997009357103518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874866528757444608/v6IE-reo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22684,
+          "following_count": 265,
+          "like_count": 981,
+          "listed_count": 42,
+          "media_count": 202,
+          "tweet_count": 763
+        },
+        "username": "beijieyoufengle",
+        "verified": false
+      }
+    ]
+  }
+}

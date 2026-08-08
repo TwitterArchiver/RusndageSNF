@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201628202105335808",
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201628202105335808",
+          "name": "PlayStation 4"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027048853",
+          "name": "PlayStation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10027048853",
+          "name": "PlayStation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027048853",
+          "name": "PlayStation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1883666312842678693",
+    "created_at": "2025-01-27T10:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T11:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883818130457424156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1532990904549511169",
+          "start": 0,
+          "username": "Ian71594991"
+        },
+        {
+          "end": 29,
+          "id": "1685143506074148864",
+          "start": 13,
+          "username": "RingleClark4319"
+        },
+        {
+          "end": 45,
+          "id": "1560392605342605312",
+          "start": 30,
+          "username": "Hammer_EU_9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883818130457424156",
+    "in_reply_to_user_id": "1532990904549511169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883815683173359702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ian71594991 @RingleClark4319 @Hammer_EU_9527 本来就这样嘛，亚瑟本来可以不死的，赛博朋克PS4版刚发布没法玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201628202105335808",
+              "name": "PlayStation 4"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201628202105335808",
+              "name": "PlayStation 4"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1883666312842678693",
+        "created_at": "2025-01-27T10:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T11:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883818130457424156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1532990904549511169",
+              "start": 0,
+              "username": "Ian71594991"
+            },
+            {
+              "end": 29,
+              "id": "1685143506074148864",
+              "start": 13,
+              "username": "RingleClark4319"
+            },
+            {
+              "end": 45,
+              "id": "1560392605342605312",
+              "start": 30,
+              "username": "Hammer_EU_9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883818130457424156",
+        "in_reply_to_user_id": "1532990904549511169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883815683173359702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ian71594991 @RingleClark4319 @Hammer_EU_9527 本来就这样嘛，亚瑟本来可以不死的，赛博朋克PS4版刚发布没法玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532990904549511169",
+        "conversation_id": "1883666312842678693",
+        "created_at": "2025-01-27T09:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T10:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883815683173359702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 29,
+              "id": "1685143506074148864",
+              "start": 13,
+              "username": "RingleClark4319"
+            },
+            {
+              "end": 45,
+              "id": "1560392605342605312",
+              "start": 30,
+              "username": "Hammer_EU_9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883815683173359702",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883792516417548526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @RingleClark4319 @Hammer_EU_9527 虽然你前半句不错，但是后面两个例子有点逆天啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 866,
+          "like_count": 22216,
+          "listed_count": 8,
+          "media_count": 369,
+          "tweet_count": 3924
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T07:41:50.000Z",
+        "description": "",
+        "id": "1532990904549511169",
+        "name": "Ian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532990999076610048/8uYqeec1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 33
+        },
+        "username": "Ian71594991",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T04:21:53.000Z",
+        "description": "",
+        "id": "1685143506074148864",
+        "name": "RingleTingle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685143582683058178/BuVAiqZV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 191,
+          "like_count": 13707,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 274
+        },
+        "username": "RingleClark4319",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T22:26:21.000Z",
+        "description": "1， 浙江山坞佬，乡巴佬，去了西方二十来个国家 ； \n2，长居瑞典，关注移民政策。 \n3，马学门徒，操学发起人，国男help国男行动发起人；\n4，间歇性退推。\n5，微信公众号“大龄青年硕博留学”。",
+        "id": "1560392605342605312",
+        "location": "Stockholm, Sweden",
+        "name": "山坞佬观世界✝️",
+        "pinned_tweet_id": "1882833722619449562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867816218536665088/ptRN7dLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108192,
+          "following_count": 487,
+          "like_count": 16645,
+          "listed_count": 360,
+          "media_count": 1070,
+          "tweet_count": 18910
+        },
+        "username": "Hammer_EU_9527",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1921166861267267611",
+    "created_at": "2025-05-12T04:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T05:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921777805777375399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831199138412974080",
+          "start": 0,
+          "username": "xulaodiedie"
+        },
+        {
+          "end": 29,
+          "id": "153305674",
+          "start": 13,
+          "username": "boluochuixuexue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921777805777375399",
+    "in_reply_to_user_id": "1831199138412974080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921599125998461322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xulaodiedie @boluochuixuexue 脑袋没那么灵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1921166861267267611",
+        "created_at": "2025-05-12T04:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T05:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921777805777375399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831199138412974080",
+              "start": 0,
+              "username": "xulaodiedie"
+            },
+            {
+              "end": 29,
+              "id": "153305674",
+              "start": 13,
+              "username": "boluochuixuexue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921777805777375399",
+        "in_reply_to_user_id": "1831199138412974080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921599125998461322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xulaodiedie @boluochuixuexue 脑袋没那么灵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831199138412974080",
+        "conversation_id": "1921166861267267611",
+        "created_at": "2025-05-11T16:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T17:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921599125998461322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 29,
+              "id": "153305674",
+              "start": 13,
+              "username": "boluochuixuexue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921599125998461322",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921387125297025524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @boluochuixuexue 做辅助线画蛇添足了。直线180度。直接用180-108=72 就算出来了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 953,
+          "like_count": 25022,
+          "listed_count": 7,
+          "media_count": 428,
+          "tweet_count": 4573
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T05:14:49.000Z",
+        "description": "屌特长",
+        "id": "1831199138412974080",
+        "location": "Hong Kong",
+        "name": "徐老爹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831200603298820096/hjIrHUQm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 4,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 143
+        },
+        "username": "xulaodiedie",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-08T05:53:18.000Z",
+        "description": "最骚菠萝头在此🍍我菠萝吹雪，吹的不是雪，是梗🍍梨花诗忠犬，见到梨花诗麻烦客气一点，否则我对你就不客气了🍍互fo我是专业的🍍由于账号限制有的时候无法回 fo，如果有没回的情况一定要私信提醒我！我保证 100% 回 fo🍍欢迎交朋友🍍试试我的🪜？很好用哦 https://t.co/jAQNmuaTGj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/blcxvvv",
+                "end": 149,
+                "expanded_url": "http://bit.ly/blcxvvv",
+                "start": 126,
+                "url": "https://t.co/jAQNmuaTGj"
+              }
+            ]
+          }
+        },
+        "id": "153305674",
+        "name": "菠萝吹雪（神评达人互fo中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917882547335491584/2Gl5Xdbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 33,
+          "like_count": 421,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 505
+        },
+        "username": "boluochuixuexue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1793986975227420937",
+    "created_at": "2024-05-24T12:53:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T13:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793988812286398718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1625868333898940416",
+          "start": 0,
+          "username": "Dufay1963"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793988812286398718",
+    "in_reply_to_user_id": "1625868333898940416",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793986975227420937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dufay1963 叫我干嘛（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1793986975227420937",
+        "created_at": "2024-05-24T12:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T13:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793988812286398718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1625868333898940416",
+              "start": 0,
+              "username": "Dufay1963"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793988812286398718",
+        "in_reply_to_user_id": "1625868333898940416",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793986975227420937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dufay1963 叫我干嘛（）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1625868333898940416",
+        "conversation_id": "1793986975227420937",
+        "created_at": "2024-05-24T12:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T13:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793986975227420937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793986975227420937",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷(&gt;_&lt;)❄️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 645,
+          "like_count": 13475,
+          "listed_count": 5,
+          "tweet_count": 2313
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T14:43:45.000Z",
+        "description": "mtx，撒丁岛人，老本行和扎瓦多尼一样，隐居中，一个白痴。",
+        "id": "1625868333898940416",
+        "name": "Nova 6",
+        "pinned_tweet_id": "1789968952216469772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793840705024184321/hGm2YI3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 371,
+          "like_count": 1881,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "Dufay1963",
+        "verified": false
+      }
+    ]
+  }
+}

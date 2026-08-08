@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1891795428972061131",
+    "created_at": "2025-02-18T16:12:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T17:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891883579606696233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "111942564",
+          "start": 0,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891883579606696233",
+    "in_reply_to_user_id": "111942564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891795428972061131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boiledwater 日本动漫前些年也有一些对于性别有深入探索的，但是应该是销量不行所以渐渐没落了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1891795428972061131",
+        "created_at": "2025-02-18T16:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T17:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891883579606696233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "111942564",
+              "start": 0,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891883579606696233",
+        "in_reply_to_user_id": "111942564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891795428972061131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boiledwater 日本动漫前些年也有一些对于性别有深入探索的，但是应该是销量不行所以渐渐没落了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "111942564",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1291083246663372800",
+              "name": "Star Trek: Lower Decks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1531941871609470977",
+              "name": "Dead End: Paranormal Park"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1010220507482865665",
+              "name": "Star Trek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "847869772129685504",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "856976559529263104",
+              "name": "Animated films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1010220507482865665",
+              "name": "Star Trek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Sir Patrick Stewart helped introduce the first look of the stand-alone series, which revealed the return of beloved Star Trek characters Data and Seven of Nine. ",
+              "id": "1152674945601687552",
+              "name": "Patrick Stewart unveils first full trailer for Star Trek: Picard"
+            }
+          }
+        ],
+        "conversation_id": "1891795428972061131",
+        "created_at": "2025-02-18T10:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T11:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891795428972061131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891795428972061131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "推荐女性与性少数友好的动画：\n\n《猫头鹰魔法社》迪士尼首部明确以LGBTQ+为主角的动画\n\n《幻灭》辛普森团队制作，主角是强大独立的公主，有LGBTQ+角色\n\n《奇波和神奇动物的时代》首部男配明确是gay的动画\n\n《Dead End: Paranormal Park》主角trans，配音演员也是trans\n\n《Star Trek: Lower Decks》多位 LGBTQ+角色\n\n《宇宙小子/Steven Universe》几乎全员queer\n\n《马男波杰克》女性主义& LGBT友好\n\n《希瑞与非凡的公主们》LGBT友好\n\n《Aggretsuko》日本职场女性困境\n\n《妖精森林的小不点》双女主，治愈系\n\n《别对映像研出手！》全女主\n\n《鸟姐妹的反差生活》双女鸟，成人动画\n\n《自由的她们》大声探讨月经，法国\n\n《寻找她们》描绘历史上“被消失”和被窃取成果的女性，法国\n\n但其实欧美的好动画非常多，性别意识吊打所有日本动漫，欢迎补充：《希尔达》《无尽列车》《降世神通》《奇幻沼泽》《小恶魔》《双城之战》《拾荒者统治》《卡门》《怪诞小镇》《无敌少侠》"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 3613,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "推荐女性与性少数友好的动画：\n\n《猫头鹰魔法社》迪士尼首部明确以LGBTQ+为主角的动画\n\n《幻灭》辛普森团队制作，主角是强大独立的公主，有LGBTQ+角色\n\n《奇波和神奇动物的时代》首部男配明确是gay的动画\n\n《Dead End: Paranormal Park》主角trans，配音演员也是trans\n\n《Star Trek: Lower Decks》多位…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 886,
+          "like_count": 22581,
+          "listed_count": 7,
+          "media_count": 386,
+          "tweet_count": 4033
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess",
+        "pinned_tweet_id": "1879966795433734528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891758418559410176/QMKkxD7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41475,
+          "following_count": 1758,
+          "like_count": 28413,
+          "listed_count": 162,
+          "media_count": 4310,
+          "tweet_count": 34174
+        },
+        "username": "boiledwater",
+        "verified": false
+      }
+    ]
+  }
+}

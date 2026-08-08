@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1903715986534011020",
+    "created_at": "2025-03-23T16:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T17:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903851936950178044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662133965099245568",
+          "start": 0,
+          "username": "interestxy"
+        },
+        {
+          "end": 20,
+          "id": "2262723812",
+          "start": 12,
+          "username": "abskoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903851936950178044",
+    "in_reply_to_user_id": "1662133965099245568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903737295884386404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@interestxy @abskoop 有的地方基础建设及安全保护不行，例如太子港"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1903715986534011020",
+        "created_at": "2025-03-23T16:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T17:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903851936950178044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662133965099245568",
+              "start": 0,
+              "username": "interestxy"
+            },
+            {
+              "end": 20,
+              "id": "2262723812",
+              "start": 12,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903851936950178044",
+        "in_reply_to_user_id": "1662133965099245568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903737295884386404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@interestxy @abskoop 有的地方基础建设及安全保护不行，例如太子港"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662133965099245568",
+        "conversation_id": "1903715986534011020",
+        "created_at": "2025-03-23T09:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T10:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903737295884386404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2262723812",
+              "start": 0,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903737295884386404",
+        "in_reply_to_user_id": "2262723812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9481,
+          "like_count": 198,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903715986534011020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abskoop 所有宜居的前提是：你得有钱，只要你有钱，整个世界都宜居"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 908,
+          "like_count": 23494,
+          "listed_count": 6,
+          "media_count": 402,
+          "tweet_count": 4227
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T16:30:04.000Z",
+        "description": "💡智慧｜🌳健康｜💰财富｜🏊运动｜📖阅读｜一个有价值的博主。",
+        "id": "1662133965099245568",
+        "location": "青岛",
+        "name": "段闲云",
+        "pinned_tweet_id": "1900059916360151138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861024434494312448/cSdtpSHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 101,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 96
+        },
+        "username": "interestxy",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️虚假推友🫶🫰😘💕 收集分享各种互联网垃圾｜投稿侵权请私信｜谢谢不接推｜TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs l🔔重复刷无相关评论会被拉黑｜链接打不开用Chrome浏览器，不要用国产浏览器",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 69,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 46,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719366,
+          "following_count": 1208,
+          "like_count": 26260,
+          "listed_count": 2560,
+          "media_count": 21744,
+          "tweet_count": 56522
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

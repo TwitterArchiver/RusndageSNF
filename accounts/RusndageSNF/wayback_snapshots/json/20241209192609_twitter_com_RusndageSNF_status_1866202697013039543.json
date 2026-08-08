@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10035226191",
+          "name": "暗殺教室"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205250687388377088",
+          "name": "Assassination Classroom"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205250687388377088",
+          "name": "Assassination Classroom"
+        }
+      }
+    ],
+    "conversation_id": "1866075377707483315",
+    "created_at": "2024-12-09T19:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T20:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866202697013039543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2585992411",
+          "start": 0,
+          "username": "ansatsu_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866202697013039543",
+    "in_reply_to_user_id": "2585992411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866075377707483315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ansatsu_anime 因为这部番16年入的B站，天呐一眨眼都8年了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10035226191",
+              "name": "暗殺教室"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205250687388377088",
+              "name": "Assassination Classroom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205250687388377088",
+              "name": "Assassination Classroom"
+            }
+          }
+        ],
+        "conversation_id": "1866075377707483315",
+        "created_at": "2024-12-09T19:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T20:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866202697013039543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2585992411",
+              "start": 0,
+              "username": "ansatsu_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866202697013039543",
+        "in_reply_to_user_id": "2585992411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866075377707483315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansatsu_anime 因为这部番16年入的B站，天呐一眨眼都8年了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866075374633005057"
+          ]
+        },
+        "author_id": "2585992411",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10035226191",
+              "name": "暗殺教室"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205250687388377088",
+              "name": "Assassination Classroom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205250687388377088",
+              "name": "Assassination Classroom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205250687388377088",
+              "name": "Assassination Classroom"
+            }
+          }
+        ],
+        "conversation_id": "1866075377707483315",
+        "created_at": "2024-12-09T11:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T12:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866075377707483315"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "暗殺教室",
+              "probability": 0.4435,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "暗殺教室"
+            },
+            {
+              "end": 141,
+              "start": 132,
+              "tag": "暗殺教室10th"
+            }
+          ],
+          "urls": [
+            {
+              "description": "放送10周年を迎え、３大アニバーサリー施策始動！第1弾は2025.4.1～再放送　原作：「暗殺教室」松井優征（集英社 ジャンプ コミックス刊）、監督：岸 誠二、アニメーション制作：Lerche、出演：福山潤、杉田智和、渕上舞、岡本信彦、洲崎綾 ほか",
+              "display_url": "ansatsu-anime.com",
+              "end": 166,
+              "expanded_url": "https://www.ansatsu-anime.com/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1866075383223013376/phrdRdSn?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1866075383223013376/phrdRdSn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 143,
+              "status": 200,
+              "title": "アニメ『暗殺教室』放送10周年特設サイト",
+              "unwound_url": "https://www.ansatsu-anime.com/",
+              "url": "https://t.co/RKERDpVHQV"
+            },
+            {
+              "display_url": "pic.x.com/44QO2fhaMy",
+              "end": 190,
+              "expanded_url": "https://x.com/ansatsu_anime/status/1866075377707483315/photo/1",
+              "media_key": "3_1866075374633005057",
+              "start": 167,
+              "url": "https://t.co/44QO2fhaMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866075377707483315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6835,
+          "impression_count": 4005343,
+          "like_count": 114996,
+          "quote_count": 7641,
+          "reply_count": 227,
+          "retweet_count": 34863
+        },
+        "reply_settings": "everyone",
+        "text": "📢10周年プロジェクト\n『アニメ「暗殺教室」10周年の時間』始動！\n10周年特設サイトもOPEN😐\n\n✨3大アニバーサリー企画第1⃣弾✨\n2025年4月よりアニメ第1期第2期の再放送が決定！\n\n第2⃣弾、第3⃣弾は後日発表します👀\nぜひお楽しみに🙌​\n#暗殺教室 #暗殺教室10th\n\nhttps://t.co/RKERDpVHQV https://t.co/44QO2fhaMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 760,
+          "like_count": 20167,
+          "listed_count": 4,
+          "media_count": 318,
+          "tweet_count": 3404
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-24T15:57:11.000Z",
+        "description": "10周年を迎え、3大アニバーサリー施策始動！ 第1弾は2025年4月より再放送 #暗殺教室 #暗殺教室10th\n\n😐原作：「暗殺教室」 #松井優征（集英社 ジャンプ コミックス刊）\n😐監督：岸 誠二\n😐アニメーション制作：Lerche\n😐出演： #福山潤 #杉田智和 #渕上舞 #岡本信彦 #洲崎綾 ほか",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "暗殺教室"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "tag": "暗殺教室10th"
+              },
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "松井優征"
+              },
+              {
+                "end": 127,
+                "start": 123,
+                "tag": "福山潤"
+              },
+              {
+                "end": 133,
+                "start": 128,
+                "tag": "杉田智和"
+              },
+              {
+                "end": 138,
+                "start": 134,
+                "tag": "渕上舞"
+              },
+              {
+                "end": 144,
+                "start": 139,
+                "tag": "岡本信彦"
+              },
+              {
+                "end": 149,
+                "start": 145,
+                "tag": "洲崎綾"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ansatsu-anime.com",
+                "end": 23,
+                "expanded_url": "http://www.ansatsu-anime.com",
+                "start": 0,
+                "url": "https://t.co/KIlsB4DU9k"
+              }
+            ]
+          }
+        },
+        "id": "2585992411",
+        "name": "アニメ『暗殺教室』公式",
+        "pinned_tweet_id": "1866075377707483315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866075817832587264/HG_5Cfdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195457,
+          "following_count": 30,
+          "like_count": 19,
+          "listed_count": 1387,
+          "media_count": 1944,
+          "tweet_count": 4170
+        },
+        "url": "https://t.co/KIlsB4DU9k",
+        "username": "ansatsu_anime",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1921166861267267611",
+    "created_at": "2025-05-11T02:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T03:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921385942465610181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "153305674",
+          "start": 0,
+          "username": "boluochuixuexue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921385942465610181",
+    "in_reply_to_user_id": "153305674",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921166861267267611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boluochuixuexue 36"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_1921166858176081920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqlbFCfWsAAcV6H.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1921166861267267611",
+        "created_at": "2025-05-11T02:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T03:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921385942465610181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "153305674",
+              "start": 0,
+              "username": "boluochuixuexue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921385942465610181",
+        "in_reply_to_user_id": "153305674",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921166861267267611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boluochuixuexue 36"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921166858176081920"
+          ]
+        },
+        "author_id": "153305674",
+        "conversation_id": "1921166861267267611",
+        "created_at": "2025-05-10T11:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T12:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921166861267267611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z97FzmMmrx",
+              "end": 34,
+              "expanded_url": "https://x.com/boluochuixuexue/status/1921166861267267611/photo/1",
+              "media_key": "3_1921166858176081920",
+              "start": 11,
+              "url": "https://t.co/Z97FzmMmrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921166861267267611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6355,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请数学学霸展示一下吧 https://t.co/Z97FzmMmrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 954,
+          "like_count": 24998,
+          "listed_count": 7,
+          "media_count": 427,
+          "tweet_count": 4566
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-08T05:53:18.000Z",
+        "description": "最骚菠萝头在此🍍我菠萝吹雪，吹的不是雪，是梗🍍梨花诗忠犬，见到梨花诗麻烦客气一点，否则我对你就不客气了🍍互fo我是专业的🍍由于账号限制有的时候无法回 fo，如果有没回的情况一定要私信提醒我！我保证 100% 回 fo🍍欢迎交朋友🍍",
+        "id": "153305674",
+        "name": "菠萝吹雪（神评达人互fo中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917882547335491584/2Gl5Xdbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 30,
+          "like_count": 389,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 466
+        },
+        "username": "boluochuixuexue",
+        "verified": false
+      }
+    ]
+  }
+}

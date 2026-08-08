@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1941818524223045981",
+    "created_at": "2025-07-06T11:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T12:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941818524223045981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941818524223045981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941725128720630081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 给跨性别分上古TS和现代mtf并且比谁是真跨女更是bullshit中的bullshit。\n\n你一个学智能城市规划的和你学土木的学姐相聚工地打灰的时候，不还是聊谁能抢到邸晓兰的号吗？咋滴，坐头等舱能先到目的地啊？你坐的是穿甲弹的位置？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1941818524223045981",
+        "created_at": "2025-07-06T11:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T12:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941818524223045981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941818524223045981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941725128720630081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 给跨性别分上古TS和现代mtf并且比谁是真跨女更是bullshit中的bullshit。\n\n你一个学智能城市规划的和你学土木的学姐相聚工地打灰的时候，不还是聊谁能抢到邸晓兰的号吗？咋滴，坐头等舱能先到目的地啊？你坐的是穿甲弹的位置？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1941725128720630081",
+        "created_at": "2025-07-06T05:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T06:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941725128720630081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941725128720630081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3047,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "给跨性别分上古TS和现代mtf并且比谁是真跨女更是bullshit中的bullshit。\n\n你一个学智能城市规划的和你学土木的学姐相聚工地打灰的时候，不还是聊谁能抢到邸晓兰的号吗？咋滴，坐头等舱能先到目的地啊？你坐的是穿甲弹的位置？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 990,
+          "like_count": 26245,
+          "listed_count": 8,
+          "media_count": 452,
+          "tweet_count": 4932
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17161,
+          "following_count": 188,
+          "like_count": 562,
+          "listed_count": 64,
+          "media_count": 86,
+          "tweet_count": 17201
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

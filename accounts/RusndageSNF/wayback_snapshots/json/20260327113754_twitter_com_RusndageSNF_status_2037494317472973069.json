@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2037494317472973069",
+    "created_at": "2026-03-27T11:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T12:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037494317472973069"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 29,
+          "tag": "MarbleLeague2026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/nytchinese/sta…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/nytchinese/status/2037415319568867713",
+          "start": 47,
+          "url": "https://t.co/p5r9dptAS9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037494317472973069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037415319568867713",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是为什么奥运会变得越来越傻逼，来看我们弹珠奥运会吧！\n#MarbleLeague2026 https://t.co/p5r9dptAS9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2037494317472973069",
+        "created_at": "2026-03-27T11:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037494317472973069"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 29,
+              "tag": "MarbleLeague2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nytchinese/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/nytchinese/status/2037415319568867713",
+              "start": 47,
+              "url": "https://t.co/p5r9dptAS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037494317472973069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037415319568867713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是为什么奥运会变得越来越傻逼，来看我们弹珠奥运会吧！\n#MarbleLeague2026 https://t.co/p5r9dptAS9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "620632841",
+        "conversation_id": "2037415319568867713",
+        "created_at": "2026-03-27T06:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037415319568867713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "这项将于2028年奥运会期间生效的规定要求运动员接受基因检测。此前国际奥委会的指导意见允许跨性别女性在降低睾酮水平的情况下参赛，但最终决定权归各体育联合会。",
+              "display_url": "cn.nytimes.com/world/20260327…",
+              "end": 113,
+              "expanded_url": "https://cn.nytimes.com/world/20260327/ioc-transgender-athletes-ban/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "images": [
+                {
+                  "height": 507,
+                  "url": "https://pbs.twimg.com/news_img/2037415362031955968/WBzcnIc0?format=jpg&name=orig",
+                  "width": 768
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037415362031955968/WBzcnIc0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "国际奥委会禁止跨性别运动员参加女子赛事",
+              "unwound_url": "https://cn.nytimes.com/world/20260327/ioc-transgender-athletes-ban/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "url": "https://t.co/9NpybKjual"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037415319568867713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 16434,
+          "like_count": 91,
+          "quote_count": 11,
+          "reply_count": 31,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "国际奥委会已禁止跨性别运动员参加奥运会女子项目，并表示所有参加此类项目的选手都必须接受基因检测。\n这一决定是自去年柯丝蒂·考文垂当选为国际奥委会首位女性主席以来最具影响力的举措。\nhttps://t.co/9NpybKjual"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 1084,
+          "like_count": 29396,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5872
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-28T04:25:01.000Z",
+        "description": "纽约时报中文网官方推特。Official Twitter Account of The New York Times Chinese Website.\niPhone & iPad app: https://t.co/hzbwaOOxA6\nAndroid app: https://t.co/NIusFpRU2S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apple.co/2aLBQZl",
+                "end": 118,
+                "expanded_url": "http://apple.co/2aLBQZl",
+                "start": 95,
+                "url": "https://t.co/hzbwaOOxA6"
+              },
+              {
+                "display_url": "bit.ly/2qbAFH4",
+                "end": 155,
+                "expanded_url": "http://bit.ly/2qbAFH4",
+                "start": 132,
+                "url": "https://t.co/NIusFpRU2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.nytimes.com",
+                "end": 23,
+                "expanded_url": "http://cn.nytimes.com",
+                "start": 0,
+                "url": "https://t.co/iOfk7hg4wi"
+              }
+            ]
+          }
+        },
+        "id": "620632841",
+        "name": "纽约时报中文网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/963709224466374656/W7eiSwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3806187,
+          "following_count": 370,
+          "like_count": 1101,
+          "listed_count": 9146,
+          "media_count": 12927,
+          "tweet_count": 74059
+        },
+        "url": "https://t.co/iOfk7hg4wi",
+        "username": "nytchinese",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1961980828868898968",
+    "created_at": "2025-08-31T17:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T18:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962203043740676572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792575947469975552",
+          "start": 0,
+          "username": "Chigine1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962203043740676572",
+    "in_reply_to_user_id": "1792575947469975552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961980828868898968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chigine1 我个人认为太理想化的东西目前来看是实现不了的，强行实现只会让所有人不幸，人终究是动物，换句话来说人类只是智商偏高的畜生罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1961980828868898968",
+        "created_at": "2025-08-31T17:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T18:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962203043740676572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792575947469975552",
+              "start": 0,
+              "username": "Chigine1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962203043740676572",
+        "in_reply_to_user_id": "1792575947469975552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961980828868898968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chigine1 我个人认为太理想化的东西目前来看是实现不了的，强行实现只会让所有人不幸，人终究是动物，换句话来说人类只是智商偏高的畜生罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792575947469975552",
+        "conversation_id": "1961980828868898968",
+        "created_at": "2025-08-31T02:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T03:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961980828868898968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961980828868898968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 20619,
+          "like_count": 176,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "看了一段2023年李颖的推文，能看到他对马克思主义本身没有那么反对。但是如今他的基本盘已经定下，他也不敢表达更多个人的想法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 1033,
+          "like_count": 27329,
+          "listed_count": 7,
+          "media_count": 503,
+          "tweet_count": 5302
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T15:19:52.000Z",
+        "description": "“亮点”收集了我历年所有置顶帖 发疯文字和键政内容（正在减少键政） 一个漂浮在中国大陆的幽灵 想到什么说什么 缺乏立场性 以前是做题蛆现在也是 在补充阅读量 长年唯心主义实践者 中原官话/普通话/英语 CPMandarin/Mandarin/English 病娇控",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chigine1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chigine1",
+                "start": 0,
+                "url": "https://t.co/Ii6gF9bQKi"
+              }
+            ]
+          }
+        },
+        "id": "1792575947469975552",
+        "location": "中国上海市宝山区上大路99号",
+        "name": "𝕮𝖍𝖎𝖌𝖎𝖓𝖊금기산",
+        "pinned_tweet_id": "1961447279363330082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915831868836220931/z8i5_a8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 1099,
+          "like_count": 66908,
+          "listed_count": 8,
+          "media_count": 1235,
+          "tweet_count": 13783
+        },
+        "url": "https://t.co/Ii6gF9bQKi",
+        "username": "Chigine1",
+        "verified": true
+      }
+    ]
+  }
+}

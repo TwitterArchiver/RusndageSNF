@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1874859919486431249",
+    "created_at": "2025-01-03T03:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T04:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875025516518056357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818107582117994496",
+          "start": 0,
+          "username": "CypressAlbert"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875025516518056357",
+    "in_reply_to_user_id": "1818107582117994496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874859919486431249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CypressAlbert 还好（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1874859919486431249",
+        "created_at": "2025-01-03T03:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T04:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875025516518056357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818107582117994496",
+              "start": 0,
+              "username": "CypressAlbert"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875025516518056357",
+        "in_reply_to_user_id": "1818107582117994496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874859919486431249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CypressAlbert 还好（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818107582117994496",
+        "conversation_id": "1874859919486431249",
+        "created_at": "2025-01-02T16:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T17:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874859919486431249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874859919486431249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3388,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "直肠灌酒会导致腹泻\n哪怕就一点点，不到50ml\n亲身经历\n别学我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1870405329076338744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 797,
+          "like_count": 21435,
+          "listed_count": 4,
+          "media_count": 338,
+          "tweet_count": 3635
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T02:13:32.000Z",
+        "description": "你好我是柏树/Albert|精神状态是量子叠加态|成分复杂|分裂情感性障碍|INFJ-T 5w6-tritype593-sp/so|FtX🏳‍⚧️无性别&无性恋，双性浪漫|查成分回fo|屏蔽必回敬|误block致歉|欢迎理性讨论|攻击我的死全家哈|看我不爽建议您去死捏|第二人格\n@theDarkCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 140,
+                "username": "theDarkCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cypressalbert1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cypressalbert1",
+                "start": 0,
+                "url": "https://t.co/iBEVtegYmX"
+              }
+            ]
+          }
+        },
+        "id": "1818107582117994496",
+        "location": "我才知道星期八的真名叫作Schizophrenia ",
+        "name": "住在星期八的柏树（又双叒叕重生版）",
+        "pinned_tweet_id": "1873270180970905606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834602959516409856/nwmpqBZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 725,
+          "like_count": 10944,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 2430
+        },
+        "url": "https://t.co/iBEVtegYmX",
+        "username": "CypressAlbert",
+        "verified": true
+      }
+    ]
+  }
+}

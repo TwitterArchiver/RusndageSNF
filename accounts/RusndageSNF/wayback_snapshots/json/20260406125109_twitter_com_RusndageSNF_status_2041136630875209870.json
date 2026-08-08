@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2041136630875209870",
+    "created_at": "2026-04-06T12:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041136630875209870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2010016500812533760",
+          "start": 3,
+          "username": "di_sco81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041136630875209870",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 972
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040986027997978761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @di_sco81: 子供にLGBTQ教育をすると「思想を押し付けるな」と言う癖にこういうのは許容する謎の人々"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2041136630875209870",
+        "created_at": "2026-04-06T12:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041136630875209870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2010016500812533760",
+              "start": 3,
+              "username": "di_sco81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041136630875209870",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 972
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040986027997978761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @di_sco81: 子供にLGBTQ教育をすると「思想を押し付けるな」と言う癖にこういうのは許容する謎の人々"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010016500812533760",
+        "conversation_id": "2040986027997978761",
+        "created_at": "2026-04-06T02:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040986027997978761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taroinagaki025…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/taroinagaki025/status/2039620662055297331",
+              "start": 45,
+              "url": "https://t.co/8zkUxFUUdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040986027997978761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 386823,
+          "like_count": 8868,
+          "quote_count": 106,
+          "reply_count": 113,
+          "retweet_count": 972
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039620662055297331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "子供にLGBTQ教育をすると「思想を押し付けるな」と言う癖にこういうのは許容する謎の人々 https://t.co/8zkUxFUUdn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2288,
+          "following_count": 1090,
+          "like_count": 29682,
+          "listed_count": 8,
+          "media_count": 570,
+          "tweet_count": 5949
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T15:53:13.000Z",
+        "description": "08世代 MtF(未診断) She/Her 自閉症 ADHD(診断済)",
+        "id": "2010016500812533760",
+        "name": "でぃすこ🏳️‍⚧️",
+        "pinned_tweet_id": "2035595551639757047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010020201153404928/sE9mr1CY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 106,
+          "like_count": 2518,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 355
+        },
+        "username": "di_sco81",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1942165770844459111",
+    "created_at": "2025-07-07T12:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T13:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942205993372532955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897717048685608963",
+          "start": 0,
+          "username": "Stjarnskadare_L"
+        },
+        {
+          "end": 28,
+          "id": "1462419807173677059",
+          "start": 17,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942205993372532955",
+    "in_reply_to_user_id": "1897717048685608963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942174594376540606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stjarnskadare_L @Jane_S_Eye 这运气没谁了，抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1942165770844459111",
+        "created_at": "2025-07-07T12:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T13:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942205993372532955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897717048685608963",
+              "start": 0,
+              "username": "Stjarnskadare_L"
+            },
+            {
+              "end": 28,
+              "id": "1462419807173677059",
+              "start": 17,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942205993372532955",
+        "in_reply_to_user_id": "1897717048685608963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942174594376540606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stjarnskadare_L @Jane_S_Eye 这运气没谁了，抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897717048685608963",
+        "conversation_id": "1942165770844459111",
+        "created_at": "2025-07-07T10:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T11:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942174594376540606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462419807173677059",
+              "start": 0,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942174594376540606",
+        "in_reply_to_user_id": "1462419807173677059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942165770844459111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jane_S_Eye 作为某三线城市医院实验手术对象，做完之后坏死返厂两次，大腿表皮取了7×11cm+3×6cm，左侧大阴唇神经彻底失联，阴道快速萎缩至无深度，海绵体残留严重且充血会撑破表皮疼痛，阴蒂100%无感，同院前两例均失败（我是第三例）\n另外，北京友谊的声带手术也失败了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 996,
+          "like_count": 26294,
+          "listed_count": 8,
+          "media_count": 453,
+          "tweet_count": 4951
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T18:33:09.000Z",
+        "description": "Fairytale Creator of Lyra Paradise",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.youtube.com/channel/UCz5Ct…",
+                "end": 23,
+                "expanded_url": "https://music.youtube.com/channel/UCz5Ct1U1CfSY9kOT7F0HNFQ?si=gfkI5E6kcDrocso3",
+                "start": 0,
+                "url": "https://t.co/qtBh3u9osM"
+              }
+            ]
+          }
+        },
+        "id": "1897717048685608963",
+        "location": "Älithoria, Lynnäre",
+        "name": "星澜Lily✨🇸🇪💙",
+        "pinned_tweet_id": "1911314504626954573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906264135484211200/Ziqq66LS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 300,
+          "like_count": 15240,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 4190
+        },
+        "url": "https://t.co/qtBh3u9osM",
+        "username": "Stjarnskadare_L",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "she/her but Not a whore.",
+        "id": "1462419807173677059",
+        "location": "Blowing in the wind",
+        "name": "Véronique",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938117188331966464/6cnJ4nAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10852,
+          "following_count": 2994,
+          "like_count": 11137,
+          "listed_count": 22,
+          "media_count": 436,
+          "tweet_count": 7280
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

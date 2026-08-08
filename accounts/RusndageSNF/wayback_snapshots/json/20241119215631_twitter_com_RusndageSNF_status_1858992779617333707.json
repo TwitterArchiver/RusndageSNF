@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1858718866442252342",
+    "created_at": "2024-11-19T21:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T22:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858992779617333707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858992779617333707",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858718866442252342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 没钱（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1858718866442252342",
+        "created_at": "2024-11-19T21:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T22:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858992779617333707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858992779617333707",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858718866442252342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 没钱（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858718857491607553"
+          ]
+        },
+        "author_id": "1703297947121901568",
+        "conversation_id": "1858718866442252342",
+        "created_at": "2024-11-19T03:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T04:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858718866442252342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/reup04kDq1",
+              "end": 65,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1858718866442252342/photo/1",
+              "media_key": "3_1858718857491607553",
+              "start": 42,
+              "url": "https://t.co/reup04kDq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858718866442252342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4905,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "关于为什么我能让一直想拖着的家里人同意成年就SRS\n就像“每时每刻都很关键的人生” https://t.co/reup04kDq1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 743,
+          "like_count": 19189,
+          "listed_count": 4,
+          "tweet_count": 3297
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "2008.4.28出厂🎉||2021.7.29持证/20.11.11含糖MtF🏳️‍⚧️||持“证”ADHD&ASD🤕||2024.4.28大证||411已约2026.7手术🥳||退役CChOer🧪||主攻:C++＆Python（菜）||业余:药理学💊＆有机化学⚗️（曾经的主攻）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "http://overspeed.wiki",
+                "start": 0,
+                "url": "https://t.co/dFGrxix1Zt"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "location": "重庆市",
+        "name": "织不唧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841829606376312832/re_4oKm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 302,
+          "like_count": 5024,
+          "listed_count": 2,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/dFGrxix1Zt",
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

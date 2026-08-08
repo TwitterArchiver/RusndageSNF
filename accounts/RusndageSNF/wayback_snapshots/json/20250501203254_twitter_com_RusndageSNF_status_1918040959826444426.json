@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1917778632635998416",
+    "created_at": "2025-05-01T20:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T21:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918040959826444426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3181560432",
+          "start": 0,
+          "username": "Criss_l4v"
+        },
+        {
+          "end": 19,
+          "id": "1433678976564662273",
+          "start": 11,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918040959826444426",
+    "in_reply_to_user_id": "3181560432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917832267696865651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Criss_l4v @hsn8086 给你来一针色谱龙就老实了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1917778632635998416",
+        "created_at": "2025-05-01T20:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T21:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918040959826444426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3181560432",
+              "start": 0,
+              "username": "Criss_l4v"
+            },
+            {
+              "end": 19,
+              "id": "1433678976564662273",
+              "start": 11,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918040959826444426",
+        "in_reply_to_user_id": "3181560432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917832267696865651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Criss_l4v @hsn8086 给你来一针色谱龙就老实了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3181560432",
+        "conversation_id": "1917778632635998416",
+        "created_at": "2025-05-01T06:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917832267696865651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917832267696865651",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 968,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917778632635998416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 米勃龙\n康复龙\n群勃龙\n氧雄龙\n康力龙\n曲托龙\n西斯龙\n美替诺龙\n葵酸诺龙\n苯丙酸诺龙\n九龙助我🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 952,
+          "like_count": 24734,
+          "listed_count": 7,
+          "media_count": 422,
+          "tweet_count": 4502
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-01T10:57:27.000Z",
+        "description": "",
+        "id": "3181560432",
+        "name": "AOI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845264639803924480/0U5D4vfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 11,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 424
+        },
+        "username": "Criss_l4v",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63374,
+          "following_count": 959,
+          "like_count": 39499,
+          "listed_count": 143,
+          "media_count": 10182,
+          "tweet_count": 16344
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

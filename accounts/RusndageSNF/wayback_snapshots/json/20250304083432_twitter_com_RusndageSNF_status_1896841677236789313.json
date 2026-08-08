@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1896784918392565861",
+    "created_at": "2025-03-04T08:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T09:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896841677236789313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1320966410202472448",
+          "start": 0,
+          "username": "Raphinha_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896841677236789313",
+    "in_reply_to_user_id": "1320966410202472448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896784918392565861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raphinha_owo doi都意思是和别人涩涩吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1896784918392565861",
+        "created_at": "2025-03-04T08:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T09:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896841677236789313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1320966410202472448",
+              "start": 0,
+              "username": "Raphinha_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896841677236789313",
+        "in_reply_to_user_id": "1320966410202472448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896784918392565861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raphinha_owo doi都意思是和别人涩涩吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320966410202472448",
+        "conversation_id": "1896784918392565861",
+        "created_at": "2025-03-04T04:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T05:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896784918392565861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896784918392565861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10167,
+          "like_count": 147,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "听着雨声大do特do了…跟平常做完全不一样…特别容易发情…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1893309762294391019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 894,
+          "like_count": 22810,
+          "listed_count": 6,
+          "media_count": 393,
+          "tweet_count": 4120
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-27T05:52:00.000Z",
+        "description": "小天使们好！希望你们天天开心！为你们祈祷哦——这边的事就留在这边叭w祝大家身体健康万事如意吖—— ⸜(๑'ᵕ'๑)⸝⋆*",
+        "id": "1320966410202472448",
+        "name": "神奇薯条侠",
+        "pinned_tweet_id": "1854572996880744601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842420977927680000/nmg4lciR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43003,
+          "following_count": 8,
+          "like_count": 2822,
+          "listed_count": 54,
+          "media_count": 18,
+          "tweet_count": 377
+        },
+        "username": "Raphinha_owo",
+        "verified": false
+      }
+    ]
+  }
+}

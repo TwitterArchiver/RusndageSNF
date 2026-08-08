@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2034441924376150021",
+    "created_at": "2026-03-19T10:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034577162892882360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "845448922856243200",
+          "start": 0,
+          "username": "416mazuru3"
+        },
+        {
+          "end": 25,
+          "id": "178010721",
+          "start": 12,
+          "username": "KARICONICHAN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034577162892882360",
+    "in_reply_to_user_id": "845448922856243200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034543034554311141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@416mazuru3 @KARICONICHAN 这是医院的问题，不是她的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2034441924376150021",
+        "created_at": "2026-03-19T10:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034577162892882360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "845448922856243200",
+              "start": 0,
+              "username": "416mazuru3"
+            },
+            {
+              "end": 25,
+              "id": "178010721",
+              "start": 12,
+              "username": "KARICONICHAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034577162892882360",
+        "in_reply_to_user_id": "845448922856243200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034543034554311141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@416mazuru3 @KARICONICHAN 这是医院的问题，不是她的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "845448922856243200",
+        "conversation_id": "2034441924376150021",
+        "created_at": "2026-03-19T08:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034543034554311141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "178010721",
+              "start": 0,
+              "username": "KARICONICHAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034543034554311141",
+        "in_reply_to_user_id": "178010721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 67625,
+          "like_count": 632,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034441924376150021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KARICONICHAN シンプルに、経験がない、保証できないことは病院側も無理って言うやろ。病院が悪いみたいな投稿気持ち悪いわ。トランスジェンダーだから受け入れられないってことではなく、症例が少なすぎるが故に、対応が難しいって話。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 1079,
+          "like_count": 29263,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5820
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-25T01:35:05.000Z",
+        "description": "シアーミュージック好き。たまにイラスト描きます。医療職",
+        "id": "845448922856243200",
+        "location": "天空の城ラピュタ",
+        "name": "ただのゆずき🪐💘",
+        "pinned_tweet_id": "1629255808495292416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730107454305054720/FX4oQkO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 1707,
+          "like_count": 39503,
+          "listed_count": 12,
+          "media_count": 1220,
+          "tweet_count": 22113
+        },
+        "username": "416mazuru3",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-13T16:52:45.000Z",
+        "description": "性同一性障害特例法を守る為に、皆様エールを送って下さい。2026年も宜しくお願い致します。→ https://t.co/eqxVY18O9L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/kariconichan/s…",
+                "end": 70,
+                "expanded_url": "https://x.com/kariconichan/status/1988529071928537363?s=12",
+                "start": 47,
+                "url": "https://t.co/eqxVY18O9L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCh3z8…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCh3z8GRcLNrWHhxWTll877w",
+                "start": 0,
+                "url": "https://t.co/xsJRV4Sz47"
+              }
+            ]
+          }
+        },
+        "id": "178010721",
+        "location": "iphone:35.154584,136.916821\n\n",
+        "name": "★KARICONIC★",
+        "pinned_tweet_id": "1988529071928537363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476899394066972672/QkXptxxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10704,
+          "following_count": 2463,
+          "like_count": 25063,
+          "listed_count": 9,
+          "media_count": 2552,
+          "tweet_count": 14583
+        },
+        "url": "https://t.co/xsJRV4Sz47",
+        "username": "KARICONICHAN",
+        "verified": false
+      }
+    ]
+  }
+}

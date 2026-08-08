@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1834377786284298516",
+    "created_at": "2024-09-13T13:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T14:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834588522751070445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786592917731389440",
+          "start": 0,
+          "username": "VonLinne8964"
+        },
+        {
+          "end": 25,
+          "id": "1736013613922729984",
+          "start": 14,
+          "username": "LING_bdnit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834588522751070445",
+    "in_reply_to_user_id": "1786592917731389440",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834579843037692381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonLinne8964 @LING_bdnit 顺序从左到右是GBLT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1834377786284298516",
+        "created_at": "2024-09-13T13:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T14:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834588522751070445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786592917731389440",
+              "start": 0,
+              "username": "VonLinne8964"
+            },
+            {
+              "end": 25,
+              "id": "1736013613922729984",
+              "start": 14,
+              "username": "LING_bdnit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834588522751070445",
+        "in_reply_to_user_id": "1786592917731389440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834579843037692381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonLinne8964 @LING_bdnit 顺序从左到右是GBLT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786592917731389440",
+        "conversation_id": "1834377786284298516",
+        "created_at": "2024-09-13T13:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T14:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834579843037692381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736013613922729984",
+              "start": 0,
+              "username": "LING_bdnit"
+            },
+            {
+              "end": 24,
+              "id": "1236317911431536640",
+              "start": 12,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834579843037692381",
+        "in_reply_to_user_id": "1736013613922729984",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834578569248305215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LING_bdnit @RusndageSNF 红头发是 T，短头发是 B 吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 697,
+          "like_count": 16835,
+          "listed_count": 5,
+          "tweet_count": 2828
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T03:05:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🇸🇬🇹🇼🇭🇰🇲🇴🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maps.app.goo.gl/5HjGL39QmBeQQb…",
+                "end": 23,
+                "expanded_url": "https://maps.app.goo.gl/5HjGL39QmBeQQb9L6",
+                "start": 0,
+                "url": "https://t.co/lDozG0BkP3"
+              }
+            ]
+          }
+        },
+        "id": "1786592917731389440",
+        "location": "Taipei City, Taiwan",
+        "name": "8️⃣9️⃣新加坡护士生 VonLinne6️⃣4️⃣",
+        "pinned_tweet_id": "1829896299032039502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829895633185988608/fFToMTG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 560,
+          "like_count": 55645,
+          "listed_count": 3,
+          "tweet_count": 19165
+        },
+        "url": "https://t.co/lDozG0BkP3",
+        "username": "VonLinne8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T13:21:22.000Z",
+        "description": "🇨🇳/潮汕人/抑郁症/焦虑症状/疑似StPD/疑似人格解体/顺女/双性恋/休学高一/不喜欢键政/绘画爱好者/法语爱好者/重度三体爱好者/药物爱好者/音乐剧爱好者/超喜欢 #ギルガメッシュ #叶文洁 ＃Starmania/前FGO月丑/ACGN淡坑/超级推特该溜子/国家一级保护废物（欢迎互fo！）（请和我聊天！！！）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 85,
+                "tag": "ギルガメッシュ"
+              },
+              {
+                "end": 98,
+                "start": 94,
+                "tag": "叶文洁"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "tag": "Starmania"
+              }
+            ]
+          }
+        },
+        "id": "1736013613922729984",
+        "location": "已然遥远的理想乡 Lost Camelot",
+        "name": "泠栀子没有在刷推LING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787096337680650240/5nefRWxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 366,
+          "like_count": 54068,
+          "listed_count": 0,
+          "tweet_count": 530
+        },
+        "username": "LING_bdnit",
+        "verified": false
+      }
+    ]
+  }
+}

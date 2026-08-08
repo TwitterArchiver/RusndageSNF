@@ -1,0 +1,157 @@
+{
+  "data": {
+    "author_id": "1236317911431536640",
+    "conversation_id": "1849678109852709260",
+    "created_at": "2024-10-26T02:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T03:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850006987259642009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1408917967690162182",
+          "start": 0,
+          "username": "pricklety"
+        }
+      ]
+    },
+    "id": "1850006987259642009",
+    "in_reply_to_user_id": "1408917967690162182",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849678109852709260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pricklety i am so i support"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1236317911431536640",
+        "conversation_id": "1849678109852709260",
+        "created_at": "2024-10-26T02:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T03:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850006987259642009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1408917967690162182",
+              "start": 0,
+              "username": "pricklety"
+            }
+          ]
+        },
+        "id": "1850006987259642009",
+        "in_reply_to_user_id": "1408917967690162182",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849678109852709260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pricklety i am so i support"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 752,
+          "like_count": 19511,
+          "listed_count": 4,
+          "tweet_count": 3323
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T22:40:03.000Z",
+        "description": "17 - i like bocchi the rock - i love tech stuff, geography and japan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jammerdash.com/devs/pricklety",
+                "end": 23,
+                "expanded_url": "https://jammerdash.com/devs/pricklety",
+                "start": 0,
+                "url": "https://t.co/0lvQc366zQ"
+              }
+            ]
+          }
+        },
+        "id": "1408917967690162182",
+        "location": "Sesvete, Croatia 🇭🇷",
+        "name": "prickle",
+        "pinned_tweet_id": "1861065010870411449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855676521454710784/lj9V3irx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 158,
+          "like_count": 47293,
+          "listed_count": 4,
+          "tweet_count": 16925
+        },
+        "url": "https://t.co/0lvQc366zQ",
+        "username": "pricklety",
+        "verified": false
+      }
+    ]
+  }
+}

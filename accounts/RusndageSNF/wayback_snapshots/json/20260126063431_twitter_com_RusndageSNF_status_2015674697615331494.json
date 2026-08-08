@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2015503135700332916",
+    "created_at": "2026-01-26T06:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T07:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015674697615331494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1399226898907947010",
+          "start": 0,
+          "username": "FSummer233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015674697615331494",
+    "in_reply_to_user_id": "1399226898907947010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015503135700332916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FSummer233 喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24213,
+        "height": 720,
+        "media_key": "7_2015503088346664960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015503088346664960/pu/img/0prfr2QJNVZxzkEf.jpg",
+        "public_metrics": {
+          "view_count": 342
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015503088346664960/pu/vid/avc1/480x270/gxAYXjBtR_cQXwMu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015503088346664960/pu/vid/avc1/640x360/btspP7yCqm_IkBD7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015503088346664960/pu/vid/avc1/1280x720/Fujqx37V1n1xrMWF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015503088346664960/pu/pl/VmTAinodaHixMBJ1.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015503091089498112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_iBYfwXYAAiSNu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2015503135700332916",
+        "created_at": "2026-01-26T06:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015674697615331494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1399226898907947010",
+              "start": 0,
+              "username": "FSummer233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015674697615331494",
+        "in_reply_to_user_id": "1399226898907947010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015503135700332916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FSummer233 喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015503088346664960",
+            "3_2015503091089498112"
+          ]
+        },
+        "author_id": "1399226898907947010",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2015503135700332916",
+        "created_at": "2026-01-25T19:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T20:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015503135700332916"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "男娘"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "药娘"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQNGj9nOlW",
+              "end": 124,
+              "expanded_url": "https://x.com/FSummer233/status/2015503135700332916/video/1",
+              "media_key": "7_2015503088346664960",
+              "start": 101,
+              "url": "https://t.co/jQNGj9nOlW"
+            },
+            {
+              "display_url": "pic.x.com/jQNGj9nOlW",
+              "end": 124,
+              "expanded_url": "https://x.com/FSummer233/status/2015503135700332916/video/1",
+              "media_key": "3_2015503091089498112",
+              "start": 101,
+              "url": "https://t.co/jQNGj9nOlW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015503135700332916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 903,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一边跑澡一边涩涩是真棒吧，又暖和又舒服~\n之前一直说玩具没有真的好用，结果好久没玩玩具之后突然玩一下觉得好爽啊，再也不说玩具没有真的好用了喵\np2是玩爽了之后的事后烟环节（\n\n#男娘 #药娘 #xyn https://t.co/jQNGj9nOlW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 1052,
+          "like_count": 28446,
+          "listed_count": 7,
+          "media_count": 550,
+          "tweet_count": 5668
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T04:51:14.000Z",
+        "description": "是持证含糖小药娘哦 在努力变可爱喵\n坐标京津冀 不定期上推 私信随缘看没回就是没看到可以择日再发",
+        "id": "1399226898907947010",
+        "name": "Fox_summer233🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558687128275415042/qn4M4xAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 217,
+          "like_count": 2502,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 1426
+        },
+        "username": "FSummer233",
+        "verified": false
+      }
+    ]
+  }
+}

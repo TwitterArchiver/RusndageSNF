@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949425716774531072"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "1949426051119206655",
+    "created_at": "2025-07-27T11:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T12:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949426051119206655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Me0wpfAaJK",
+          "end": 73,
+          "expanded_url": "https://x.com/RusndageSNF/status/1949426051119206655/photo/1",
+          "media_key": "3_1949425716774531072",
+          "start": 50,
+          "url": "https://t.co/Me0wpfAaJK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949426051119206655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "记住了，你一辈子都是人妖，你只是个切了鸡巴的男的，你的精神和你的灵魂是男的，你只是一头被阉了的公猪 https://t.co/Me0wpfAaJK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "3_1949425716774531072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3AXGRbcAAdlT_.png",
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949425716774531072"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "1949426051119206655",
+        "created_at": "2025-07-27T11:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949426051119206655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Me0wpfAaJK",
+              "end": 73,
+              "expanded_url": "https://x.com/RusndageSNF/status/1949426051119206655/photo/1",
+              "media_key": "3_1949425716774531072",
+              "start": 50,
+              "url": "https://t.co/Me0wpfAaJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949426051119206655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记住了，你一辈子都是人妖，你只是个切了鸡巴的男的，你的精神和你的灵魂是男的，你只是一头被阉了的公猪 https://t.co/Me0wpfAaJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 1013,
+          "like_count": 26813,
+          "listed_count": 7,
+          "media_count": 478,
+          "tweet_count": 5124
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

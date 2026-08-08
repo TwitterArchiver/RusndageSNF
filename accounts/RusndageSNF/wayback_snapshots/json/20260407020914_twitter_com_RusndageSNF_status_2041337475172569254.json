@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2040695170434510862",
+    "created_at": "2026-04-07T02:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T03:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041337475172569254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1715939698047332352",
+          "start": 0,
+          "username": "gugugujuan"
+        },
+        {
+          "end": 28,
+          "id": "1783404524906196992",
+          "start": 12,
+          "username": "fanzeiwocaonima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041337475172569254",
+    "in_reply_to_user_id": "1715939698047332352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041277385602159023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugugujuan @fanzeiwocaonima 不比一般街头饭店便宜？正常人起码要1.5份或者两份1+1才能吃饱吧？路边小店买个盖饭也就15"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2040695170434510862",
+        "created_at": "2026-04-07T02:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041337475172569254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1715939698047332352",
+              "start": 0,
+              "username": "gugugujuan"
+            },
+            {
+              "end": 28,
+              "id": "1783404524906196992",
+              "start": 12,
+              "username": "fanzeiwocaonima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041337475172569254",
+        "in_reply_to_user_id": "1715939698047332352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041277385602159023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugugujuan @fanzeiwocaonima 不比一般街头饭店便宜？正常人起码要1.5份或者两份1+1才能吃饱吧？路边小店买个盖饭也就15"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715939698047332352",
+        "conversation_id": "2040695170434510862",
+        "created_at": "2026-04-06T22:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041277385602159023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 29,
+              "id": "1783404524906196992",
+              "start": 13,
+              "username": "fanzeiwocaonima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041277385602159023",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041124533231611994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @fanzeiwocaonima 贵在哪儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 1089,
+          "like_count": 29691,
+          "listed_count": 8,
+          "media_count": 570,
+          "tweet_count": 5951
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T03:55:42.000Z",
+        "description": "",
+        "id": "1715939698047332352",
+        "name": "gujuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722287532233383936/WdteZOVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 560,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 53
+        },
+        "username": "gugugujuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T07:56:00.000Z",
+        "description": "聪明的人容易变成赤色分子，基本盘，半工半读人，号炸了，推友寻回中。Our mission is the great rejuvenation of the Chinese nation",
+        "id": "1783404524906196992",
+        "name": "胜利主义Leo同志(三叶）☘️",
+        "pinned_tweet_id": "2006697720795599083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041165865018875904/ZRfuijnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 655,
+          "like_count": 30515,
+          "listed_count": 3,
+          "media_count": 565,
+          "tweet_count": 4802
+        },
+        "username": "fanzeiwocaonima",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1883191980395762085",
+    "created_at": "2025-01-25T17:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T18:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883204143302771079"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "JMA",
+          "probability": 0.4963,
+          "start": 57,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1673562560153493506",
+          "start": 0,
+          "username": "The_Cyansky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883204143302771079",
+    "in_reply_to_user_id": "1673562560153493506",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883191980395762085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@The_Cyansky anyways that's not surprise because they're JMA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1883191980395762085",
+        "created_at": "2025-01-25T17:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T18:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883204143302771079"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "JMA",
+              "probability": 0.4963,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1673562560153493506",
+              "start": 0,
+              "username": "The_Cyansky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883204143302771079",
+        "in_reply_to_user_id": "1673562560153493506",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883191980395762085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@The_Cyansky anyways that's not surprise because they're JMA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883191975668559872"
+          ]
+        },
+        "author_id": "1673562560153493506",
+        "conversation_id": "1883191980395762085",
+        "created_at": "2025-01-25T16:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T17:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883191980395762085"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "wisps marble",
+              "probability": 0.4841,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s99m4HMMT7",
+              "end": 117,
+              "expanded_url": "https://x.com/The_Cyansky/status/1883191980395762085/photo/1",
+              "media_key": "3_1883191975668559872",
+              "start": 94,
+              "url": "https://t.co/s99m4HMMT7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883191980395762085",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wisps marble allstars e3(allowed ml23)\nheat wis\nsemifinal wys\nanyway, two turns two marbles\n❓ https://t.co/s99m4HMMT7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 864,
+          "like_count": 22144,
+          "listed_count": 7,
+          "media_count": 366,
+          "tweet_count": 3889
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T05:23:24.000Z",
+        "description": "Chinese//头像是约稿//f1🏎️zhou24 jmr🕰️MNWwospy//English not good//f1@Mango_Cyanblue_//Celeste爱好者(game)//一直见不着人大概是登不上梯子了",
+        "id": "1673562560153493506",
+        "location": "青色天空",
+        "name": "Mango_Cyanblue_",
+        "pinned_tweet_id": "1763176578530582544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859240946132717568/os0P26hr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 111,
+          "like_count": 1136,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 456
+        },
+        "username": "The_Cyansky",
+        "verified": false
+      }
+    ]
+  }
+}

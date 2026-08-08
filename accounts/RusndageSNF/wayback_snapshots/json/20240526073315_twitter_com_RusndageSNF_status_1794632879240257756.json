@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1794372272628887565",
+    "created_at": "2024-05-26T07:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T08:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794632879240257756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794632879240257756",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794372272628887565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1794372272628887565",
+        "created_at": "2024-05-26T07:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T08:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794632879240257756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794632879240257756",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794372272628887565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi 抱抱你"
+      },
+      {
+        "attachments": {},
+        "author_id": "1553107630511603712",
+        "conversation_id": "1794372272628887565",
+        "created_at": "2024-05-25T14:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T15:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794372272628887565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794372272628887565",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2110,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "B站上的某些人是怎么做到一边顶着最可爱的头像和名字一边说着最烂和梗与最极端最富有攻击力的语言的？😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 647,
+          "like_count": 13560,
+          "listed_count": 5,
+          "tweet_count": 2355
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "若非群玉山头见，会向瑶台月下逢。",
+        "id": "1553107630511603712",
+        "name": "纪真由子",
+        "pinned_tweet_id": "1793902055536591026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794628602816045056/blnn66fI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 1927,
+          "like_count": 7451,
+          "listed_count": 7,
+          "tweet_count": 7177
+        },
+        "username": "JiZhenYouZi",
+        "verified": false
+      }
+    ]
+  }
+}

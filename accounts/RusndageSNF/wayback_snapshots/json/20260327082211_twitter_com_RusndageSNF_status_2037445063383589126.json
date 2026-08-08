@@ -1,0 +1,581 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      }
+    ],
+    "conversation_id": "2037445063383589126",
+    "created_at": "2026-03-27T08:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037445063383589126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1138458175663988738",
+          "start": 3,
+          "username": "PopBase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037445063383589126",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8302
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037319408301817920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PopBase: Nikki Hiltz, a transgender &amp; non-binary Olympian, speaks out against the event’s new anti-trans policy:\n\n“I don't know who nee…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2037319400525602816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEYDM1pXIAAkxFw.jpg",
+        "width": 1290
+      },
+      {
+        "height": 793,
+        "media_key": "3_2037319400672604160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEYDM2MaMAA5Sv6.jpg",
+        "width": 793
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "2037445063383589126",
+        "created_at": "2026-03-27T08:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037445063383589126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1138458175663988738",
+              "start": 3,
+              "username": "PopBase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037445063383589126",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8302
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037319408301817920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PopBase: Nikki Hiltz, a transgender &amp; non-binary Olympian, speaks out against the event’s new anti-trans policy:\n\n“I don't know who nee…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037319400525602816",
+            "3_2037319400672604160"
+          ]
+        },
+        "author_id": "1138458175663988738",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1407828664981458949",
+              "name": "Tokyo 2020 Summer Olympics (Limited Topics)"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1407828664981458949",
+              "name": "Tokyo 2020 Summer Olympics (Limited Topics)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284153285293690881",
+              "name": "Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Tokyo 2020 will unveil the design of their Olympic medals at a One Year to Go Ceremony at the Tokyo International Forum.",
+              "id": "1152999358272397312",
+              "name": "Tokyo Olympic medal design set to be revealed"
+            }
+          }
+        ],
+        "conversation_id": "2037319408301817920",
+        "created_at": "2026-03-27T00:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037319408301817920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5uuzVHPHa",
+              "end": 308,
+              "expanded_url": "https://x.com/PopBase/status/2037319408301817920/photo/1",
+              "media_key": "3_2037319400525602816",
+              "start": 285,
+              "url": "https://t.co/C5uuzVHPHa"
+            },
+            {
+              "display_url": "pic.x.com/C5uuzVHPHa",
+              "end": 308,
+              "expanded_url": "https://x.com/PopBase/status/2037319408301817920/photo/1",
+              "media_key": "3_2037319400672604160",
+              "start": 285,
+              "url": "https://t.co/C5uuzVHPHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037319408301817920",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Nikki Hiltz, a transgender & non-binary Olympian, speaks out against the event’s new anti-trans policy:\n\n“I don't know who needs to hear this but ZERO trans women competed in the Paris Olympics. Only ONE trans woman weightlifter competed in Tokyo 2021 and she did not win a medal. Can we please stop obsessing over trans people? And idk maybe focus our time, energy, and resources into real problems women's sports face?”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2757,
+          "impression_count": 1671119,
+          "like_count": 66823,
+          "quote_count": 168,
+          "reply_count": 800,
+          "retweet_count": 8302
+        },
+        "reply_settings": "everyone",
+        "text": "Nikki Hiltz, a transgender &amp; non-binary Olympian, speaks out against the event’s new anti-trans policy:\n\n“I don't know who needs to hear this but ZERO trans women competed in the Paris Olympics. Only ONE trans woman weightlifter competed in Tokyo 2021 and she did not win a medal. https://t.co/C5uuzVHPHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 1084,
+          "like_count": 29388,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5867
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-11T14:49:15.000Z",
+        "description": "Pop Base is your best source for all pop culture related entertainment, news, award show coverage, chart updates, statistics and more. | email@popbase.tv",
+        "id": "1138458175663988738",
+        "name": "Pop Base",
+        "pinned_tweet_id": "2035208528911061320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268086791443230737/BRGz4AiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847973,
+          "following_count": 2655,
+          "like_count": 3756,
+          "listed_count": 4874,
+          "media_count": 69895,
+          "tweet_count": 86346
+        },
+        "username": "PopBase",
+        "verified": true
+      }
+    ]
+  }
+}

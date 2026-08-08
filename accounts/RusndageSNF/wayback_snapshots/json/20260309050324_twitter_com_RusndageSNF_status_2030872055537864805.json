@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2030872055537864805",
+    "created_at": "2026-03-09T05:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T06:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030872055537864805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yui33671335404…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Yui336713354044/status/2030342338225299614",
+          "start": 13,
+          "url": "https://t.co/a7r6HieEyZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030872055537864805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030342338225299614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我最爱最爱的男朋友！！！ https://t.co/a7r6HieEyZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2030342335666761728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC05mNnasAADH-B.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2030872055537864805",
+        "created_at": "2026-03-09T05:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T06:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030872055537864805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yui33671335404…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Yui336713354044/status/2030342338225299614",
+              "start": 13,
+              "url": "https://t.co/a7r6HieEyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030872055537864805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030342338225299614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最爱最爱的男朋友！！！ https://t.co/a7r6HieEyZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030342335666761728"
+          ]
+        },
+        "author_id": "1764513634867404800",
+        "conversation_id": "2030342338225299614",
+        "created_at": "2026-03-07T17:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T18:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030342338225299614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifyzHv0Dsa",
+              "end": 46,
+              "expanded_url": "https://x.com/Yui336713354044/status/2030342338225299614/photo/1",
+              "media_key": "3_2030342335666761728",
+              "start": 23,
+              "url": "https://t.co/ifyzHv0Dsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030342338225299614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 23740,
+          "like_count": 398,
+          "quote_count": 14,
+          "reply_count": 161,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "是什么支撑着你，\n好奇大家的精神支柱是什么？ https://t.co/ifyzHv0Dsa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2311,
+          "following_count": 1079,
+          "like_count": 29065,
+          "listed_count": 9,
+          "media_count": 562,
+          "tweet_count": 5777
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T04:50:43.000Z",
+        "description": "04本/infp情绪稳定/互fo",
+        "id": "1764513634867404800",
+        "name": "酥宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028895996030410752/IIHeSW7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 797,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 330
+        },
+        "username": "Yui336713354044",
+        "verified": false
+      }
+    ]
+  }
+}

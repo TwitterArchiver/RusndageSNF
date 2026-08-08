@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1938602846326591818",
+    "created_at": "2026-02-24T12:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026278914780442627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "721727910634065920",
+          "start": 0,
+          "username": "RieeQvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026278914780442627",
+    "in_reply_to_user_id": "721727910634065920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938602846326591818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RieeQvQ 蒙古的傻逼是这样的，我打Faceit也一堆傻逼蒙古人，建议先治好沙子再来打游戏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26826,
+        "height": 720,
+        "media_key": "13_1938602130962845696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938602130962845696/img/Xfu04C37G58j2c-A.jpg",
+        "public_metrics": {
+          "view_count": 2388
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938602130962845696/vid/avc1/480x270/QUcw29hf5CWpbn5-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938602130962845696/vid/avc1/640x360/lxqU86kPX6X-fU-3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938602130962845696/vid/avc1/1280x720/011SJ9Ys1mdD5n7T.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938602130962845696/pl/zb8zfGZpipaye67x.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 214,
+        "media_key": "3_1938602176814948352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudMaJ3aoAATm2q.png",
+        "width": 675
+      },
+      {
+        "height": 559,
+        "media_key": "3_1938602177305669632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudMaLsacAA-0sk.jpg",
+        "width": 499
+      },
+      {
+        "height": 67,
+        "media_key": "3_1938602176001327105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudMaG1bwAEBUo0.png",
+        "width": 743
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1938602846326591818",
+        "created_at": "2026-02-24T12:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026278914780442627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "721727910634065920",
+              "start": 0,
+              "username": "RieeQvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026278914780442627",
+        "in_reply_to_user_id": "721727910634065920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938602846326591818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RieeQvQ 蒙古的傻逼是这样的，我打Faceit也一堆傻逼蒙古人，建议先治好沙子再来打游戏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938602130962845696",
+            "3_1938602176814948352",
+            "3_1938602177305669632",
+            "3_1938602176001327105"
+          ]
+        },
+        "author_id": "721727910634065920",
+        "conversation_id": "1938602846326591818",
+        "created_at": "2025-06-27T14:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938602846326591818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "replay144.valve.net/730/0037603131…",
+              "end": 138,
+              "expanded_url": "http://replay144.valve.net/730/003760313175535255976_0872614261.dem.bz2",
+              "start": 115,
+              "unwound_url": "http://replay144.valve.net/730/003760313175535255976_0872614261.dem.bz2",
+              "url": "https://t.co/iN4yfedTkm"
+            },
+            {
+              "display_url": "pic.x.com/IPghRObToH",
+              "end": 162,
+              "expanded_url": "https://x.com/RieeQvQ/status/1938602846326591818/video/1",
+              "media_key": "13_1938602130962845696",
+              "start": 139,
+              "url": "https://t.co/IPghRObToH"
+            },
+            {
+              "display_url": "pic.x.com/IPghRObToH",
+              "end": 162,
+              "expanded_url": "https://x.com/RieeQvQ/status/1938602846326591818/video/1",
+              "media_key": "3_1938602176814948352",
+              "start": 139,
+              "url": "https://t.co/IPghRObToH"
+            },
+            {
+              "display_url": "pic.x.com/IPghRObToH",
+              "end": 162,
+              "expanded_url": "https://x.com/RieeQvQ/status/1938602846326591818/video/1",
+              "media_key": "3_1938602177305669632",
+              "start": 139,
+              "url": "https://t.co/IPghRObToH"
+            },
+            {
+              "display_url": "pic.x.com/IPghRObToH",
+              "end": 162,
+              "expanded_url": "https://x.com/RieeQvQ/status/1938602846326591818/video/1",
+              "media_key": "3_1938602176001327105",
+              "start": 139,
+              "url": "https://t.co/IPghRObToH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938602846326591818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12998,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "a mongolian \"pro\" player mad at a \"transgender\"\n\n只能说CS蒙古职业选手确实有素质 上来给我扣个跨性别的帽子先歧视一番　有玩CS的可以下载DEMO看看\n\nbtw demo link:https://t.co/iN4yfedTkm https://t.co/IPghRObToH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 1080,
+          "like_count": 28865,
+          "listed_count": 9,
+          "media_count": 553,
+          "tweet_count": 5728
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-17T15:51:57.000Z",
+        "description": "纯丑逼 不好看\nEN/CN/JP 164cm/56kg 不接推广 不收门槛 接受投喂！！~         \n欢迎私信骚扰排忧解难",
+        "id": "721727910634065920",
+        "location": "性别???",
+        "name": "Rie",
+        "pinned_tweet_id": "2006314117335044528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966047212540190720/p0S18y0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10452,
+          "following_count": 86,
+          "like_count": 2285,
+          "listed_count": 50,
+          "media_count": 143,
+          "tweet_count": 600
+        },
+        "username": "RieeQvQ",
+        "verified": true
+      }
+    ]
+  }
+}

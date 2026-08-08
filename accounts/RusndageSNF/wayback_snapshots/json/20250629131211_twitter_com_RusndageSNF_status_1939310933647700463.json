@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1939207827375173633",
+    "created_at": "2025-06-29T13:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T14:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939310933647700463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "987508360336424961",
+          "start": 0,
+          "username": "safaricheung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939310933647700463",
+    "in_reply_to_user_id": "987508360336424961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 57,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939207827375173633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@safaricheung 感觉是北京正常价格的美食已经几乎消失了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 542,
+        "media_key": "3_1939207824376057856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GulzPe2X0AARdNL.jpg",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1939207827375173633",
+        "created_at": "2025-06-29T13:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T14:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939310933647700463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "987508360336424961",
+              "start": 0,
+              "username": "safaricheung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939310933647700463",
+        "in_reply_to_user_id": "987508360336424961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939207827375173633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@safaricheung 感觉是北京正常价格的美食已经几乎消失了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939207824376057856"
+          ]
+        },
+        "author_id": "987508360336424961",
+        "conversation_id": "1939207827375173633",
+        "created_at": "2025-06-29T06:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T07:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939207827375173633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rnk0BQeJhJ",
+              "end": 43,
+              "expanded_url": "https://x.com/safaricheung/status/1939207827375173633/photo/1",
+              "media_key": "3_1939207824376057856",
+              "start": 20,
+              "url": "https://t.co/rnk0BQeJhJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939207827375173633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16192,
+          "like_count": 89,
+          "quote_count": 9,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在北京吃饭这件事 会平等的创死所有人。 https://t.co/rnk0BQeJhJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 985,
+          "like_count": 26017,
+          "listed_count": 8,
+          "media_count": 448,
+          "tweet_count": 4868
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-21T01:48:34.000Z",
+        "description": "Editor @update4weekly ⚡. Brand Strategy Director / Designer @studiomockup 🎨.  Aviation photographer ✈️ .\n\nSometime I produce Chinese tweets.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "update4weekly"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "studiomockup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "studiomockup.ink",
+                "end": 23,
+                "expanded_url": "http://studiomockup.ink",
+                "start": 0,
+                "url": "https://t.co/mgiqx6ATeF"
+              }
+            ]
+          }
+        },
+        "id": "987508360336424961",
+        "location": "精神病院",
+        "name": "safari",
+        "pinned_tweet_id": "1925340432067662239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535513461358153728/qaYfZwAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8783,
+          "following_count": 343,
+          "like_count": 5346,
+          "listed_count": 47,
+          "media_count": 2598,
+          "tweet_count": 6927
+        },
+        "url": "https://t.co/mgiqx6ATeF",
+        "username": "safaricheung",
+        "verified": true
+      }
+    ]
+  }
+}

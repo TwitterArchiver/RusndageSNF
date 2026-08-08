@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1836671975596650720",
+    "created_at": "2024-09-19T08:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T09:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836689607267655992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836689607267655992",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836671975596650720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi ovo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1836671975596650720",
+        "created_at": "2024-09-19T08:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T09:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836689607267655992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836689607267655992",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836671975596650720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi ovo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553107630511603712",
+        "conversation_id": "1836671975596650720",
+        "created_at": "2024-09-19T07:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T08:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836671975596650720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836671975596650720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1355,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又把我的互关列表看了一遍\n\n可爱的互关们~(⁠ ⁠/⁠^⁠ω⁠^⁠)⁠/⁠♪⁠♪\n\n我到现在依然能够大概认出我最早的两千多个粉丝~\n\n再往后的就比较陌生了(⁠ㆁ⁠ω⁠ㆁ⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️，暂时和 @MuFengkana 住在一起\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 704,
+          "like_count": 17121,
+          "listed_count": 5,
+          "tweet_count": 2891
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "叶底黄鹂一两声，日长飞絮轻。",
+        "id": "1553107630511603712",
+        "location": "东亚",
+        "name": "纪真由子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821428357503873024/yksf06KG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7984,
+          "following_count": 2270,
+          "like_count": 11640,
+          "listed_count": 30,
+          "tweet_count": 11726
+        },
+        "username": "JiZhenYouZi",
+        "verified": true
+      }
+    ]
+  }
+}

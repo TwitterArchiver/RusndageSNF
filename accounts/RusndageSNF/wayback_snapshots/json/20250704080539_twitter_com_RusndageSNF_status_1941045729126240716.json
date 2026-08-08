@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1941041434247024919",
+    "created_at": "2025-07-04T08:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T09:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941045729126240716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767139045774360576",
+          "start": 0,
+          "username": "gu4327053743275"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941045729126240716",
+    "in_reply_to_user_id": "1767139045774360576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941042818564382745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu4327053743275 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1941041434247024919",
+        "created_at": "2025-07-04T08:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941045729126240716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767139045774360576",
+              "start": 0,
+              "username": "gu4327053743275"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941045729126240716",
+        "in_reply_to_user_id": "1767139045774360576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941042818564382745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu4327053743275 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767139045774360576",
+        "conversation_id": "1941041434247024919",
+        "created_at": "2025-07-04T07:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T08:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941042818564382745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941042818564382745",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941041434247024919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 金堂蒜蓉小龙虾？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 987,
+          "like_count": 26173,
+          "listed_count": 8,
+          "media_count": 450,
+          "tweet_count": 4907
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T10:42:45.000Z",
+        "description": "别苦着脸了，来喝一杯吧",
+        "id": "1767139045774360576",
+        "name": "绝缘栅双极晶体管",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881611531432992768/ePUo-KIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 224,
+          "like_count": 19865,
+          "listed_count": 2,
+          "media_count": 610,
+          "tweet_count": 14073
+        },
+        "username": "gu4327053743275",
+        "verified": false
+      }
+    ]
+  }
+}

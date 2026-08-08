@@ -1,0 +1,198 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1803274321437270145",
+    "created_at": "2024-06-19T07:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T08:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803334198952161700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558730611556175873",
+          "start": 0,
+          "username": "ChisakaKanako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803334198952161700",
+    "in_reply_to_user_id": "1558730611556175873",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803274321437270145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@ChisakaKanako 不纯找茬？我他妈的头发那样都让过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1803274321437270145",
+        "created_at": "2024-06-19T07:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T08:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803334198952161700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558730611556175873",
+              "start": 0,
+              "username": "ChisakaKanako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803334198952161700",
+        "in_reply_to_user_id": "1558730611556175873",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803274321437270145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@ChisakaKanako 不纯找茬？我他妈的头发那样都让过"
+      },
+      {
+        "attachments": {},
+        "author_id": "1558730611556175873",
+        "conversation_id": "1803274321437270145",
+        "created_at": "2024-06-19T03:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T04:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803274321437270145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1803274321437270145",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1917,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "无语死了，术前去办人证相符的身份证，拍完照输完身份证号一下子变脸，说男的不允许长头发照片传上去，和上一张照片（四年前，平头）差别太大会审核不过。我问谁审核，她说省厅，我说那你就传上去，不过就不过。她不给传，我问为啥，她说我这样子她没法传，我问有规定证件男不允许长发吗，她还说不上来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 655,
+          "like_count": 14176,
+          "listed_count": 5,
+          "tweet_count": 2483
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "烟嗓女孩🏳️‍⚧️ 爱她 @TszCoco 锁推小号不要关注我谢谢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "TszCoco"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisakakanako.notion.site/96f67217a4c041…",
+                "end": 23,
+                "expanded_url": "https://chisakakanako.notion.site/96f67217a4c0410eb35c4200f835eafa?pvs=4",
+                "start": 0,
+                "url": "https://t.co/ot7AE8ZHyA"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "1751252975757259069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714118214324760576/fZDtNmu2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4653,
+          "following_count": 1419,
+          "like_count": 37865,
+          "listed_count": 6,
+          "tweet_count": 6518
+        },
+        "url": "https://t.co/ot7AE8ZHyA",
+        "username": "ChisakaKanako",
+        "verified": false
+      }
+    ]
+  }
+}

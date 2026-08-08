@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1806969752050352484",
+    "created_at": "2024-06-29T09:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T10:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806989489417679295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1701530505525780480",
+          "start": 0,
+          "username": "Warmabesty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806989489417679295",
+    "in_reply_to_user_id": "1701530505525780480",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806969752050352484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Warmabesty 呜呜呜呜已经没我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1806969752050352484",
+        "created_at": "2024-06-29T09:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T10:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806989489417679295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1701530505525780480",
+              "start": 0,
+              "username": "Warmabesty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806989489417679295",
+        "in_reply_to_user_id": "1701530505525780480",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806969752050352484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warmabesty 呜呜呜呜已经没我了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806969726351900672"
+          ]
+        },
+        "author_id": "1701530505525780480",
+        "conversation_id": "1806969752050352484",
+        "created_at": "2024-06-29T08:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T09:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806969752050352484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/cu6ZPy0wer",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Warmabesty/status/1806969752050352484/photo/1",
+              "media_key": "3_1806969726351900672",
+              "start": 4,
+              "url": "https://t.co/cu6ZPy0wer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806969752050352484",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴🥺 https://t.co/cu6ZPy0wer"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 656,
+          "like_count": 14334,
+          "listed_count": 5,
+          "tweet_count": 2516
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T09:38:03.000Z",
+        "description": "MtX😇",
+        "id": "1701530505525780480",
+        "location": "疯狂宇宙•天国",
+        "name": "元bao",
+        "pinned_tweet_id": "1799055648396845423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781905376113500161/hso3pC9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 1242,
+          "like_count": 5126,
+          "listed_count": 1,
+          "tweet_count": 1258
+        },
+        "username": "Warmabesty",
+        "verified": false
+      }
+    ]
+  }
+}

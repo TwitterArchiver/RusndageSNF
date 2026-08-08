@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062908023182659584"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2062908029008519389",
+    "created_at": "2026-06-05T14:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062908029008519389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TwBu7wRQjN",
+          "end": 25,
+          "expanded_url": "https://x.com/RusndageSNF/status/2062908029008519389/photo/1",
+          "media_key": "3_2062908023182659584",
+          "start": 2,
+          "url": "https://t.co/TwBu7wRQjN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062908029008519389",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😭 https://t.co/TwBu7wRQjN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_2062908023182659584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDr6tYbEAAjgsG.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062908023182659584"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2062908029008519389",
+        "created_at": "2026-06-05T14:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062908029008519389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TwBu7wRQjN",
+              "end": 25,
+              "expanded_url": "https://x.com/RusndageSNF/status/2062908029008519389/photo/1",
+              "media_key": "3_2062908023182659584",
+              "start": 2,
+              "url": "https://t.co/TwBu7wRQjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062908029008519389",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/TwBu7wRQjN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 1106,
+          "like_count": 30271,
+          "listed_count": 7,
+          "media_count": 585,
+          "tweet_count": 6144
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

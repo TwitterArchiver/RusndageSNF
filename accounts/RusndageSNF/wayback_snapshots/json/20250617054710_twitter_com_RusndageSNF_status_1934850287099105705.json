@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1934617606860018167",
+    "created_at": "2025-06-17T05:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T06:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934850287099105705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934850287099105705",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934617606860018167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 这下色 香 味俱全了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39845,
+        "height": 368,
+        "media_key": "13_1934617363049324544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1934617363049324544/img/WXEy01fkl-22nlmQ.jpg",
+        "public_metrics": {
+          "view_count": 10425
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934617363049324544/vid/avc1/468x270/lPEaKCzuh5eGSn0m.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1934617363049324544/vid/avc1/640x368/UrIDm0ITa3yISFer.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1934617363049324544/pl/4yD5al9dquMNC0T4.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1934617606860018167",
+        "created_at": "2025-06-17T05:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T06:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934850287099105705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934850287099105705",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934617606860018167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 这下色 香 味俱全了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1934617363049324544"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1934617606860018167",
+        "created_at": "2025-06-16T14:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T15:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934617606860018167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jfWbiz28Nl",
+              "end": 40,
+              "expanded_url": "https://x.com/FurinaDF/status/1934617606860018167/video/1",
+              "media_key": "13_1934617363049324544",
+              "start": 17,
+              "url": "https://t.co/jfWbiz28Nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934617606860018167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 21659,
+          "like_count": 312,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "国内某家饭店，放黄片给顾客下饭： https://t.co/jfWbiz28Nl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 973,
+          "like_count": 25828,
+          "listed_count": 7,
+          "media_count": 440,
+          "tweet_count": 4775
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "这个宇宙一定是虚拟的，不是真实存在的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1934657222065394130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31705,
+          "following_count": 2199,
+          "like_count": 26451,
+          "listed_count": 90,
+          "media_count": 5184,
+          "tweet_count": 9365
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

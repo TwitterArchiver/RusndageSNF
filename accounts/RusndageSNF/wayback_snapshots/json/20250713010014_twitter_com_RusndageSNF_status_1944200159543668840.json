@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1944194825932198192",
+    "created_at": "2025-07-13T01:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T02:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944200159543668840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944200159543668840",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944194825932198192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan 为什么我上来就能负数？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1754,
+        "media_key": "3_1944194822924902401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvsq5AKXoAEk3JB.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1944194825932198192",
+        "created_at": "2025-07-13T01:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T02:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944200159543668840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944200159543668840",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944194825932198192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 为什么我上来就能负数？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944194822924902401"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "1944194825932198192",
+        "created_at": "2025-07-13T00:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T01:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944194825932198192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jXInSM1afl",
+              "end": 33,
+              "expanded_url": "https://x.com/ggdxfulan/status/1944194825932198192/photo/1",
+              "media_key": "3_1944194822924902401",
+              "start": 10,
+              "url": "https://t.co/jXInSM1afl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944194825932198192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤓👆我可以负数() https://t.co/jXInSM1afl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 1000,
+          "like_count": 26496,
+          "listed_count": 8,
+          "media_count": 458,
+          "tweet_count": 5019
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "纯1、药娘攻、抖s、反差、MtX(半个男同)，喜欢欺负人",
+        "id": "1639816523190763521",
+        "location": "太阳系",
+        "name": "乖乖哒二小姐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7216,
+          "following_count": 409,
+          "like_count": 21303,
+          "listed_count": 17,
+          "media_count": 2636,
+          "tweet_count": 8639
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

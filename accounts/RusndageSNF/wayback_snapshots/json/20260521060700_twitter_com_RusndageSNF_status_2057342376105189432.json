@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2057039668374614523",
+    "created_at": "2026-05-21T06:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057342376105189432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2054264517539053568",
+          "start": 0,
+          "username": "XiaohuayaChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057342376105189432",
+    "in_reply_to_user_id": "2054264517539053568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057039668374614523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaohuayaChan 羡慕喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1456,
+        "media_key": "3_2057039659465883648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwSq-9awAAO50A.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2057039668374614523",
+        "created_at": "2026-05-21T06:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057342376105189432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2054264517539053568",
+              "start": 0,
+              "username": "XiaohuayaChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057342376105189432",
+        "in_reply_to_user_id": "2054264517539053568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057039668374614523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaohuayaChan 羡慕喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057039659465883648"
+          ]
+        },
+        "author_id": "2054264517539053568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057039668374614523",
+        "created_at": "2026-05-20T10:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057039668374614523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NS2jnnAd0C",
+              "end": 41,
+              "expanded_url": "https://x.com/XiaohuayaChan/status/2057039668374614523/photo/1",
+              "media_key": "3_2057039659465883648",
+              "start": 18,
+              "url": "https://t.co/NS2jnnAd0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057039668374614523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好耶～今年也是有520红包的一年～ https://t.co/NS2jnnAd0C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 1107,
+          "like_count": 30082,
+          "listed_count": 7,
+          "media_count": 581,
+          "tweet_count": 6102
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T18:20:27.000Z",
+        "description": "原小花酱 ｜ 🚪68",
+        "id": "2054264517539053568",
+        "name": "小花芽酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054268304374829056/YJRZS0ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 22,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "XiaohuayaChan",
+        "verified": false
+      }
+    ]
+  }
+}

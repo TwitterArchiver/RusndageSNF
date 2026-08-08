@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1913675508551651768",
+    "created_at": "2025-04-19T20:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T21:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913684925125181711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "819252081764814848",
+          "start": 0,
+          "username": "Jellesmarbles"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913684925125181711",
+    "in_reply_to_user_id": "819252081764814848",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913675508551651768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jellesmarbles holy crap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 983,
+        "media_key": "3_1913675501098381312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go69uqpWMAAOLNp.jpg",
+        "width": 735
+      },
+      {
+        "height": 983,
+        "media_key": "3_1913675501119377408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go69uquWkAAN199.jpg",
+        "width": 735
+      },
+      {
+        "height": 983,
+        "media_key": "3_1913675501232586752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go69urJWAAAOzRM.jpg",
+        "width": 735
+      },
+      {
+        "height": 983,
+        "media_key": "3_1913675501152956416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go69uq2W8AAa8dM.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1913675508551651768",
+        "created_at": "2025-04-19T20:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T21:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913684925125181711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "819252081764814848",
+              "start": 0,
+              "username": "Jellesmarbles"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913684925125181711",
+        "in_reply_to_user_id": "819252081764814848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913675508551651768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jellesmarbles holy crap"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913675501098381312",
+            "3_1913675501119377408",
+            "3_1913675501232586752",
+            "3_1913675501152956416"
+          ]
+        },
+        "author_id": "819252081764814848",
+        "conversation_id": "1913675508551651768",
+        "created_at": "2025-04-19T19:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T20:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913675508551651768"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "Marble League",
+              "probability": 0.7761,
+              "start": 32,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 105,
+              "tag": "MidnightWisps"
+            },
+            {
+              "end": 135,
+              "start": 120,
+              "tag": "WillOfTheWisps"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zZos09l7jO",
+              "end": 159,
+              "expanded_url": "https://x.com/Jellesmarbles/status/1913675508551651768/photo/1",
+              "media_key": "3_1913675501098381312",
+              "start": 136,
+              "url": "https://t.co/zZos09l7jO"
+            },
+            {
+              "display_url": "pic.x.com/zZos09l7jO",
+              "end": 159,
+              "expanded_url": "https://x.com/Jellesmarbles/status/1913675508551651768/photo/1",
+              "media_key": "3_1913675501119377408",
+              "start": 136,
+              "url": "https://t.co/zZos09l7jO"
+            },
+            {
+              "display_url": "pic.x.com/zZos09l7jO",
+              "end": 159,
+              "expanded_url": "https://x.com/Jellesmarbles/status/1913675508551651768/photo/1",
+              "media_key": "3_1913675501232586752",
+              "start": 136,
+              "url": "https://t.co/zZos09l7jO"
+            },
+            {
+              "display_url": "pic.x.com/zZos09l7jO",
+              "end": 159,
+              "expanded_url": "https://x.com/Jellesmarbles/status/1913675508551651768/photo/1",
+              "media_key": "3_1913675501152956416",
+              "start": 136,
+              "url": "https://t.co/zZos09l7jO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913675508551651768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 752,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🚨ANNOUNCEMENT🚨\n\nA staple of the Marble League since 2017 is performing the final roster change of 2025.\n\n#MidnightWisps #WillOfTheWisps https://t.co/zZos09l7jO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 944,
+          "like_count": 24452,
+          "listed_count": 6,
+          "media_count": 416,
+          "tweet_count": 4427
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-11T18:38:12.000Z",
+        "description": "Creators of parallel universes with marbles since 2006 • 1.43 mln subs on YT • ML • M1 • MR • As seen on Last Week Tonight •https://t.co/A52YXzUMfe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jellesmarbleruns.com",
+                "end": 147,
+                "expanded_url": "http://www.jellesmarbleruns.com",
+                "start": 124,
+                "url": "https://t.co/A52YXzUMfe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/@JellesMarbleR…",
+                "end": 23,
+                "expanded_url": "http://YouTube.com/@JellesMarbleRuns",
+                "start": 0,
+                "url": "https://t.co/wQ0RdCsoJD"
+              }
+            ]
+          }
+        },
+        "id": "819252081764814848",
+        "name": "Jelle’s Marble Runs",
+        "pinned_tweet_id": "1900578558608540101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639590844889006080/Q_4rnyjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36877,
+          "following_count": 2503,
+          "like_count": 6857,
+          "listed_count": 82,
+          "media_count": 1862,
+          "tweet_count": 5067
+        },
+        "url": "https://t.co/wQ0RdCsoJD",
+        "username": "Jellesmarbles",
+        "verified": true
+      }
+    ]
+  }
+}

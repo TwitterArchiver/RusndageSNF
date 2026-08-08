@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1804089508213985640",
+    "created_at": "2024-06-21T14:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T15:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804160346372084061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "854250925480845312",
+          "start": 0,
+          "username": "liulingyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804160346372084061",
+    "in_reply_to_user_id": "854250925480845312",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804089508213985640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyue 法律会教做人的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1804089508213985640",
+        "created_at": "2024-06-21T14:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T15:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804160346372084061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "854250925480845312",
+              "start": 0,
+              "username": "liulingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804160346372084061",
+        "in_reply_to_user_id": "854250925480845312",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804089508213985640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyue 法律会教做人的"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804089497891803138"
+          ]
+        },
+        "author_id": "854250925480845312",
+        "conversation_id": "1804089508213985640",
+        "created_at": "2024-06-21T09:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T10:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804089508213985640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/bFvonzF75A",
+              "end": 149,
+              "expanded_url": "https://twitter.com/liulingyue/status/1804089508213985640/photo/1",
+              "media_key": "3_1804089497891803138",
+              "start": 126,
+              "url": "https://t.co/bFvonzF75A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804089508213985640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1834,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得男性道德底线普遍更低的原因就在这里，这也是一例，不跟你姓你就没抚养责任了？类似这种为子女必须随父姓的辩护理由看到过114514次了，毫无道德底线，这次评论还是在个左b的视频下面看到的。闹钟特色左男追求的公平，无非是跟富哥平等瓜分女性的权利罢了。 https://t.co/bFvonzF75A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 653,
+          "like_count": 14199,
+          "listed_count": 5,
+          "tweet_count": 2490
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-18T08:31:06.000Z",
+        "description": "速来接我回火星",
+        "id": "854250925480845312",
+        "name": "panchiao🚩🏴🏴‍☠️🏳️‍⚧️🏳‍🌈",
+        "pinned_tweet_id": "1797597003112956269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794931835518263296/h39GLadf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 1238,
+          "like_count": 12526,
+          "listed_count": 9,
+          "tweet_count": 5570
+        },
+        "username": "liulingyue",
+        "verified": false
+      }
+    ]
+  }
+}

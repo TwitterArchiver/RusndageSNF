@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1885163149458104661",
+    "created_at": "2025-01-31T09:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T10:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885254415856394604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856186701280075776",
+          "start": 0,
+          "username": "baizhouzi520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885254415856394604",
+    "in_reply_to_user_id": "1856186701280075776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885163149458104661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhouzi520 “糖”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1885163149458104661",
+        "created_at": "2025-01-31T09:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T10:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885254415856394604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856186701280075776",
+              "start": 0,
+              "username": "baizhouzi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885254415856394604",
+        "in_reply_to_user_id": "1856186701280075776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885163149458104661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhouzi520 “糖”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885163146924675072"
+          ]
+        },
+        "author_id": "1856186701280075776",
+        "conversation_id": "1885163149458104661",
+        "created_at": "2025-01-31T03:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T04:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885163149458104661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lC03mjqF97",
+              "end": 50,
+              "expanded_url": "https://x.com/baizhouzi520/status/1885163149458104661/photo/1",
+              "media_key": "3_1885163146924675072",
+              "start": 27,
+              "url": "https://t.co/lC03mjqF97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885163149458104661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7762,
+          "like_count": 131,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "《男童将避孕药当成糖》\n我咧个年龄党\n5岁胸部发育（ https://t.co/lC03mjqF97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 881,
+          "like_count": 22302,
+          "listed_count": 7,
+          "media_count": 372,
+          "tweet_count": 3948
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "こんにちは，私は白州です，大学生。\nそして私は中国から来ました，日本語を使うのは単に日本語が好きだから|拍车佬（大概|休学了|精神状态差|🍥2024.12.11|二次元|175cm|55kg|想发疯|自宅警备队|无证含糖ing～|最最好的妹妹@Yamanaka_Ame|@Shenyuebanran姐姐加油……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "Yamanaka_Ame"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Shenyuebanran"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "姐姐的怀里w",
+        "name": "白洲不是白粥是白洲（在家休学ing）（能不能讨个fo啊）🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1884050905332605273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866681094873157633/fWyMHiqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 482,
+          "like_count": 7610,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 920
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

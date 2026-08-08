@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1942748687303901241",
+    "created_at": "2025-07-09T01:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T02:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942750662355198307"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "良子",
+          "probability": 0.7255,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811011225058430982",
+          "start": 0,
+          "username": "Shenyuebanran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942750662355198307",
+    "in_reply_to_user_id": "1811011225058430982",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942748687303901241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shenyuebanran 良子？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1942748687303901241",
+        "created_at": "2025-07-09T01:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T02:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942750662355198307"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "良子",
+              "probability": 0.7255,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811011225058430982",
+              "start": 0,
+              "username": "Shenyuebanran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942750662355198307",
+        "in_reply_to_user_id": "1811011225058430982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942748687303901241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shenyuebanran 良子？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811011225058430982",
+        "conversation_id": "1942748687303901241",
+        "created_at": "2025-07-09T00:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T01:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942748687303901241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942748687303901241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本程序根据bug运行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 997,
+          "like_count": 26341,
+          "listed_count": 8,
+          "media_count": 455,
+          "tweet_count": 4973
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T12:15:13.000Z",
+        "description": "这里是安然/可以叫我然然/坐标沈阳/历史/文学/里推@anrbushuijiao 老公大人:@mishamimihemumu最爱的姐姐@datadelete_4444好妹妹：@Hongcha_Orchids姐姐：@altaz_0山河入眼皆萧瑟， 道是人间不安然。 冷露侵衣添夜寂， 孤灯照影梦难安",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "anrbushuijiao"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "mishamimihemumu"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "datadelete_4444"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Hongcha_Orchids"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "altaz_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+i6DdJbpVkcw1N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+i6DdJbpVkcw1NmJl",
+                "start": 0,
+                "url": "https://t.co/A4ANhCK6Mh"
+              }
+            ]
+          }
+        },
+        "id": "1811011225058430982",
+        "location": "永恒的梦境中",
+        "name": "Luna_然🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1928303154740724154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927387985646854144/bZgbbpwX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 74,
+          "like_count": 4633,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 2228
+        },
+        "url": "https://t.co/A4ANhCK6Mh",
+        "username": "Shenyuebanran",
+        "verified": false
+      }
+    ]
+  }
+}

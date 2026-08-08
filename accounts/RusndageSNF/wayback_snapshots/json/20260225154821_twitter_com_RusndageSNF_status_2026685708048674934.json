@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026368979346849792"
+      ],
+      "media_source_tweet_id": [
+        "2026368983981555901"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2026685708048674934",
+    "created_at": "2026-02-25T15:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026685708048674934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1004010886741286919",
+          "start": 3,
+          "username": "Garcismos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ycPtBgjZES",
+          "end": 38,
+          "expanded_url": "https://x.com/Garcismos/status/2026368983981555901/photo/1",
+          "media_key": "3_2026368979346849792",
+          "start": 15,
+          "url": "https://t.co/ycPtBgjZES"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026685708048674934",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5849
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026368983981555901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Garcismos: https://t.co/ycPtBgjZES"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 588,
+        "media_key": "3_2026368979346849792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB8b2b3XAAAq3or.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026368979346849792"
+          ],
+          "media_source_tweet_id": [
+            "2026368983981555901"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2026685708048674934",
+        "created_at": "2026-02-25T15:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026685708048674934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1004010886741286919",
+              "start": 3,
+              "username": "Garcismos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycPtBgjZES",
+              "end": 38,
+              "expanded_url": "https://x.com/Garcismos/status/2026368983981555901/photo/1",
+              "media_key": "3_2026368979346849792",
+              "start": 15,
+              "url": "https://t.co/ycPtBgjZES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026685708048674934",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5849
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026368983981555901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Garcismos: https://t.co/ycPtBgjZES"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026368979346849792"
+          ]
+        },
+        "author_id": "1004010886741286919",
+        "conversation_id": "2026368983981555901",
+        "created_at": "2026-02-24T18:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026368983981555901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ycPtBgjZES",
+              "end": 23,
+              "expanded_url": "https://x.com/Garcismos/status/2026368983981555901/photo/1",
+              "media_key": "3_2026368979346849792",
+              "start": 0,
+              "url": "https://t.co/ycPtBgjZES"
+            },
+            {
+              "display_url": "x.com/lymanstoneky/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lymanstoneky/status/2026303726940565630",
+              "start": 24,
+              "url": "https://t.co/I8KezgX3mX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026368983981555901",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2115,
+          "impression_count": 855505,
+          "like_count": 78466,
+          "quote_count": 27,
+          "reply_count": 98,
+          "retweet_count": 5849
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026303726940565630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ycPtBgjZES https://t.co/I8KezgX3mX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 1080,
+          "like_count": 28881,
+          "listed_count": 9,
+          "media_count": 553,
+          "tweet_count": 5730
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-05T14:43:43.000Z",
+        "description": "si la gocha nun quier maíz da igual que-y arrimes la panoya. Aldeanu.",
+        "id": "1004010886741286919",
+        "location": "En Siero no",
+        "name": "50 puntos y ya",
+        "pinned_tweet_id": "1946685871169695831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017588279508406272/5MIRCiBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4288,
+          "following_count": 922,
+          "like_count": 125623,
+          "listed_count": 23,
+          "media_count": 26561,
+          "tweet_count": 249013
+        },
+        "username": "Garcismos",
+        "verified": false
+      }
+    ]
+  }
+}

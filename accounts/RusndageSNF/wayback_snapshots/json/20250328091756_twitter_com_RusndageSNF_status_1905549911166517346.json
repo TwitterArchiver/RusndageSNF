@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1905273257168711695",
+    "created_at": "2025-03-28T09:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T10:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905549911166517346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        },
+        {
+          "end": 28,
+          "id": "1300828282061877249",
+          "start": 15,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 42,
+          "id": "1424779836938022913",
+          "start": 29,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905549911166517346",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905540415903744329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore @HANLIANYI331 @amber_toffee 和我好朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1905273257168711695",
+        "created_at": "2025-03-28T09:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T10:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905549911166517346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 28,
+              "id": "1300828282061877249",
+              "start": 15,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 42,
+              "id": "1424779836938022913",
+              "start": 29,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905549911166517346",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905540415903744329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore @HANLIANYI331 @amber_toffee 和我好朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688385343580680192",
+        "conversation_id": "1905273257168711695",
+        "created_at": "2025-03-28T08:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T09:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905540415903744329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 26,
+              "id": "1300828282061877249",
+              "start": 13,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 40,
+              "id": "1424779836938022913",
+              "start": 27,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905540415903744329",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905530960374104205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @HANLIANYI331 @amber_toffee ？😦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️/ADHD+ASD\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 915,
+          "like_count": 23733,
+          "listed_count": 6,
+          "media_count": 404,
+          "tweet_count": 4270
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "名音/字:まつり清\n對很多感興趣吧…但都僅僅淺嘗\nMtX🍥hrt24.9.23\n勞動者非順直非健全非男者革命万才\n愿善的人性理性感性终将引领拥有祂的人走向平和柔善的一个又一个地上天国\n❤️@manakaao68\n小妹妹@ATRIyatuoliQAQ\n愛麗絲@Alice14_88\n死變態@HyotoChandesuyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "manakaao68"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "ATRIyatuoliQAQ"
+              },
+              {
+                "end": 139,
+                "start": 128,
+                "username": "Alice14_88"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "HyotoChandesuyo"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "小小の末裏せい(前 平和を守れ)🐳⭐️🌴🍥🍉🌸",
+        "pinned_tweet_id": "1903848742719283584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885006163034730496/vh82mVRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 2040,
+          "like_count": 98997,
+          "listed_count": 15,
+          "media_count": 1005,
+          "tweet_count": 50337
+        },
+        "username": "heiwawomamore",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1904488778196283819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37030,
+          "following_count": 3634,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 2305
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ",
+        "id": "1424779836938022913",
+        "name": "amber",
+        "pinned_tweet_id": "1905273257168711695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9865,
+          "following_count": 2294,
+          "like_count": 30802,
+          "listed_count": 31,
+          "media_count": 436,
+          "tweet_count": 14276
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

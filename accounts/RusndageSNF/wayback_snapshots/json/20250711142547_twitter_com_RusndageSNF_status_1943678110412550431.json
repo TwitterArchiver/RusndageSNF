@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943678096869040128"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "1943678110412550431",
+    "created_at": "2025-07-11T14:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T15:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943678110412550431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kn7kl20O5g",
+          "end": 23,
+          "expanded_url": "https://x.com/RusndageSNF/status/1943678110412550431/photo/1",
+          "media_key": "3_1943678096869040128",
+          "start": 0,
+          "url": "https://t.co/Kn7kl20O5g"
+        },
+        {
+          "display_url": "x.com/puddings00/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/puddings00/status/1943636514535043501",
+          "start": 24,
+          "url": "https://t.co/MhAMEytaGJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943678110412550431",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943636514535043501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Kn7kl20O5g https://t.co/MhAMEytaGJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 548,
+        "media_key": "3_1943678096869040128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlU7lmWIAAjLH8.png",
+        "width": 604
+      },
+      {
+        "height": 548,
+        "media_key": "3_1943636511708024834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvkvHAzWEAI26VH.jpg",
+        "width": 604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943678096869040128"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "1943678110412550431",
+        "created_at": "2025-07-11T14:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T15:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943678110412550431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kn7kl20O5g",
+              "end": 23,
+              "expanded_url": "https://x.com/RusndageSNF/status/1943678110412550431/photo/1",
+              "media_key": "3_1943678096869040128",
+              "start": 0,
+              "url": "https://t.co/Kn7kl20O5g"
+            },
+            {
+              "display_url": "x.com/puddings00/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/puddings00/status/1943636514535043501",
+              "start": 24,
+              "url": "https://t.co/MhAMEytaGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943678110412550431",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943636514535043501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Kn7kl20O5g https://t.co/MhAMEytaGJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943636511708024834"
+          ]
+        },
+        "author_id": "1760890372585037824",
+        "conversation_id": "1943636514535043501",
+        "created_at": "2025-07-11T11:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T12:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943636514535043501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pNMpnnNZ00",
+              "end": 23,
+              "expanded_url": "https://x.com/puddings00/status/1943636514535043501/photo/1",
+              "media_key": "3_1943636511708024834",
+              "start": 0,
+              "url": "https://t.co/pNMpnnNZ00"
+            },
+            {
+              "display_url": "x.com/XiaoHuiHuiH/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1943616571772973454",
+              "start": 24,
+              "url": "https://t.co/qPdcTXqjuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943636514535043501",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 639,
+          "like_count": 8,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943616571772973454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/pNMpnnNZ00 https://t.co/qPdcTXqjuz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1820,
+          "following_count": 999,
+          "like_count": 26436,
+          "listed_count": 8,
+          "media_count": 458,
+          "tweet_count": 5002
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "希望你可以喜欢我哦🍬/zh-CN&en-US/可爱的mtf一只~🏳️‍⚧️/Lesbian/she or her🩷/158cm＆40kg/HRT•8.30.23🍥/infp-t/喜欢贴贴🌟/不玩游戏/🚪128/🏳️‍⚧️同类互fo喵",
+        "id": "1760890372585037824",
+        "location": "Hong Kong",
+        "name": "布丁喵呜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1912727183027564721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760890511252955136/x0DpoxWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 623,
+          "like_count": 8358,
+          "listed_count": 5,
+          "media_count": 626,
+          "tweet_count": 4981
+        },
+        "username": "puddings00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1959880083323203624",
+    "created_at": "2025-08-26T10:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T11:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960287002626269346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1659646666410950657",
+          "start": 0,
+          "username": "Mingzheshi123"
+        },
+        {
+          "end": 27,
+          "id": "2786701",
+          "start": 15,
+          "username": "williamlong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960287002626269346",
+    "in_reply_to_user_id": "1659646666410950657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960234724862910816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mingzheshi123 @williamlong 沈阳地铁线不够，目前在运营的只有六条，但其实原因懂得都懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1959880083323203624",
+        "created_at": "2025-08-26T10:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960287002626269346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659646666410950657",
+              "start": 0,
+              "username": "Mingzheshi123"
+            },
+            {
+              "end": 27,
+              "id": "2786701",
+              "start": 15,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960287002626269346",
+        "in_reply_to_user_id": "1659646666410950657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960234724862910816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mingzheshi123 @williamlong 沈阳地铁线不够，目前在运营的只有六条，但其实原因懂得都懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659646666410950657",
+        "conversation_id": "1959880083323203624",
+        "created_at": "2025-08-26T06:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T07:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960234724862910816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2786701",
+              "start": 0,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960234724862910816",
+        "in_reply_to_user_id": "2786701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959880083323203624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlong 沈阳也是啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 1031,
+          "like_count": 27247,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 5274
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-19T19:46:32.000Z",
+        "description": "客观公正",
+        "id": "1659646666410950657",
+        "name": "Brian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659646744244658187/ZQkE9L9v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "Mingzheshi123",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "青青子衿，悠悠我心，但为君故，沉吟至今",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388202,
+          "following_count": 336,
+          "like_count": 0,
+          "listed_count": 2718,
+          "media_count": 3258,
+          "tweet_count": 29987
+        },
+        "username": "williamlong",
+        "verified": true
+      }
+    ]
+  }
+}

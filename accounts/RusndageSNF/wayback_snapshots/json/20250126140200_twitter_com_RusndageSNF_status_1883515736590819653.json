@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1883515736590819653",
+    "created_at": "2025-01-26T14:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T15:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883515736590819653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "焦虑",
+          "display_url": "x.com/i/grok/share/T…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/TRmmcArw9zjyky1tME7ZJLo5T",
+          "start": 0,
+          "status": 200,
+          "title": "用一个词来描述我",
+          "unwound_url": "https://x.com/i/grok/share/TRmmcArw9zjyky1tME7ZJLo5T",
+          "url": "https://t.co/mKIXgvbLWk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883515736590819653",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/mKIXgvbLWk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1883515736590819653",
+        "created_at": "2025-01-26T14:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T15:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883515736590819653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "焦虑",
+              "display_url": "x.com/i/grok/share/T…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/TRmmcArw9zjyky1tME7ZJLo5T",
+              "start": 0,
+              "status": 200,
+              "title": "用一个词来描述我",
+              "unwound_url": "https://x.com/i/grok/share/TRmmcArw9zjyky1tME7ZJLo5T",
+              "url": "https://t.co/mKIXgvbLWk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883515736590819653",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mKIXgvbLWk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 866,
+          "like_count": 22195,
+          "listed_count": 7,
+          "media_count": 368,
+          "tweet_count": 3906
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

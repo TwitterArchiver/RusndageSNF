@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055522944458313728"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2055522952079462769",
+    "created_at": "2026-05-16T05:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055522952079462769"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 6,
+          "tag": "femboy"
+        },
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "trans"
+        },
+        {
+          "end": 25,
+          "start": 21,
+          "tag": "mtf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aXhVv6ZKMn",
+          "end": 49,
+          "expanded_url": "https://x.com/RusndageSNF/status/2055522952079462769/photo/1",
+          "media_key": "3_2055522944458313728",
+          "start": 26,
+          "url": "https://t.co/aXhVv6ZKMn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055522952079462769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请输入文本\n#femboy #trans #mtf https://t.co/aXhVv6ZKMn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055522944458313728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIavOjQaUAA2pfV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055522944458313728"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2055522952079462769",
+        "created_at": "2026-05-16T05:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055522952079462769"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 6,
+              "tag": "femboy"
+            },
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "trans"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXhVv6ZKMn",
+              "end": 49,
+              "expanded_url": "https://x.com/RusndageSNF/status/2055522952079462769/photo/1",
+              "media_key": "3_2055522944458313728",
+              "start": 26,
+              "url": "https://t.co/aXhVv6ZKMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055522952079462769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请输入文本\n#femboy #trans #mtf https://t.co/aXhVv6ZKMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 1102,
+          "like_count": 30014,
+          "listed_count": 8,
+          "media_count": 579,
+          "tweet_count": 6079
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2056289515786879158",
+    "created_at": "2026-05-19T07:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T08:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056637256925131218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "ShiroSkura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056637256925131218",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056289515786879158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroSkura 我勒个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 631,
+        "media_key": "3_2056289512720891905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIloaskXAAEOKff.jpg",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2056289515786879158",
+        "created_at": "2026-05-19T07:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T08:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056637256925131218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "ShiroSkura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056637256925131218",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056289515786879158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroSkura 我勒个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056289512720891905"
+          ]
+        },
+        "author_id": "1662439435726905344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056289515786879158",
+        "created_at": "2026-05-18T08:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056289515786879158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gj1v0FSq9w",
+              "end": 47,
+              "expanded_url": "https://x.com/ShiroSkura/status/2056289515786879158/photo/1",
+              "media_key": "3_2056289512720891905",
+              "start": 24,
+              "url": "https://t.co/gj1v0FSq9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056289515786879158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12848,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个不是什么梅毒艾滋，这个是我们的猫猫印记喵😭 https://t.co/gj1v0FSq9w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 1107,
+          "like_count": 30073,
+          "listed_count": 7,
+          "media_count": 581,
+          "tweet_count": 6099
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "17岁生活在Kennewick的天才美少女\n想知道我是谁？才不告诉你！ 商务联系⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+kbiFvS7eC4k3Y…",
+                "end": 23,
+                "expanded_url": "https://t.me/+kbiFvS7eC4k3YzNl",
+                "start": 0,
+                "url": "https://t.co/BhUcaEgN6z"
+              }
+            ]
+          }
+        },
+        "id": "1662439435726905344",
+        "location": "Kennewick, WA",
+        "name": "白",
+        "pinned_tweet_id": "1999157411341570111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049910725519298560/vD65zElg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 40,
+          "like_count": 10344,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/BhUcaEgN6z",
+        "username": "ShiroSkura",
+        "verified": false
+      }
+    ]
+  }
+}

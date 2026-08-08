@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2046209453184450761",
+    "created_at": "2026-04-21T11:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046555431066382365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634191700712390657",
+          "start": 0,
+          "username": "xiaozhongT_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046555431066382365",
+    "in_reply_to_user_id": "1634191700712390657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046209453184450761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhongT_T 美金刚太他妈难受了，药效持续时间太长而且不舒服会出现视觉黑洞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2046209453184450761",
+        "created_at": "2026-04-21T11:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046555431066382365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046555431066382365",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046209453184450761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 美金刚太他妈难受了，药效持续时间太长而且不舒服会出现视觉黑洞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2046209453184450761",
+        "created_at": "2026-04-20T12:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046209453184450761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046209453184450761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 20608,
+          "like_count": 203,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "从现在开始全国帕金森人数将会激增"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 1094,
+          "like_count": 29728,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 6004
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045797211447971840/iX7ajiBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 393,
+          "like_count": 2304,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1216
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      }
+    ]
+  }
+}

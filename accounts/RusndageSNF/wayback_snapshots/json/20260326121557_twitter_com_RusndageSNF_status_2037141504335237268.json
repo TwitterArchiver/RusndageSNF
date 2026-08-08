@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2037115490066432128",
+    "created_at": "2026-03-26T12:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037141504335237268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025993842680598528",
+          "start": 0,
+          "username": "edxb666666"
+        },
+        {
+          "end": 26,
+          "id": "1914574017555783683",
+          "start": 12,
+          "username": "GEEBAysciyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037141504335237268",
+    "in_reply_to_user_id": "2025993842680598528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037115490066432128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@edxb666666 @GEEBAysciyuan 外挂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63705,
+        "height": 720,
+        "media_key": "13_2037114857296924672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037114857296924672/img/ja403R105q0XhMpi.jpg",
+        "public_metrics": {
+          "view_count": 407
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037114857296924672/vid/avc1/480x270/y8BfWAfg8JDhG7mS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037114857296924672/vid/avc1/640x360/FOLFZtKwMw3oBbb9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037114857296924672/vid/avc1/1280x720/M5ZbcmKsUrRZwF80.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037114857296924672/pl/Y4Jzzrgzt3BzyR-2.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 62341,
+        "height": 720,
+        "media_key": "13_2037114857242365952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037114857242365952/img/fh4-E_ktn1uFZ1AG.jpg",
+        "public_metrics": {
+          "view_count": 146
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037114857242365952/vid/avc1/480x270/XWwFVvMRnMCyhHPn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037114857242365952/vid/avc1/640x360/-TXgH6BLevMYKLB7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037114857242365952/vid/avc1/1280x720/w8pYXNucx62WwWzP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037114857242365952/pl/5ScaPwp6wbbW-6SH.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2037115490066432128",
+        "created_at": "2026-03-26T12:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037141504335237268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025993842680598528",
+              "start": 0,
+              "username": "edxb666666"
+            },
+            {
+              "end": 26,
+              "id": "1914574017555783683",
+              "start": 12,
+              "username": "GEEBAysciyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037141504335237268",
+        "in_reply_to_user_id": "2025993842680598528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037115490066432128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edxb666666 @GEEBAysciyuan 外挂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037114857296924672",
+            "13_2037114857242365952"
+          ]
+        },
+        "author_id": "2025993842680598528",
+        "conversation_id": "2037115490066432128",
+        "created_at": "2026-03-26T10:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037115490066432128"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "扩张"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "猎奇"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "女高母狗"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "自慰"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "变态"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1914574017555783683",
+              "start": 35,
+              "username": "GEEBAysciyuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkEAtk7Hd7",
+              "end": 114,
+              "expanded_url": "https://x.com/edxb666666/status/2037115490066432128/video/1",
+              "media_key": "13_2037114857296924672",
+              "start": 91,
+              "url": "https://t.co/bkEAtk7Hd7"
+            },
+            {
+              "display_url": "pic.x.com/bkEAtk7Hd7",
+              "end": 114,
+              "expanded_url": "https://x.com/edxb666666/status/2037115490066432128/video/1",
+              "media_key": "13_2037114857242365952",
+              "start": 91,
+              "url": "https://t.co/bkEAtk7Hd7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037115490066432128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1030,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "马年不单要吃马牛牛还要吃马蹄\n我不单要吃马蹄还要入马蹄😈\n飞机杯来自：@GEEBAysciyuan \n挺有趣的哈哈 透明马牛牛随便买的 \n#扩张 #猎奇 #女高母狗 #自慰 #变态 https://t.co/bkEAtk7Hd7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2298,
+          "following_count": 1082,
+          "like_count": 29374,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5863
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T17:59:18.000Z",
+        "description": "09高中生不定期更新 喜欢尝试各种大玩具玩扩张会画点画的暴露癖变态女同 别质疑我取向 拍摄一切内容均出于爱好且均为免费🚫ai 无门槛 扩列可私 随缘加 （炮友仅有一位 目前只和她做",
+        "id": "2025993842680598528",
+        "location": "广州",
+        "name": "Edxb🔞（复活复健版",
+        "pinned_tweet_id": "2030671688015233131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025993970757890048/8vui9Jh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7029,
+          "following_count": 179,
+          "like_count": 744,
+          "listed_count": 21,
+          "media_count": 29,
+          "tweet_count": 283
+        },
+        "username": "edxb666666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T06:56:41.000Z",
+        "description": "🔮 不只是圣杯，更是通往异兽次元的任意门 🎨 每一件作品都藏着专属人设与世界观，为你打造沉浸式心动体验 🐧粉丝群：837261973 💌 推广合作 / 寄拍测评请私信（粉丝≥1w 优先） 📸 欢迎宝子们返图晒单、拍梗玩梗，记得@我哦 🎯 专注福瑞/人外/猎奇，万物皆可成为XP 👇 戳下方传送门",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.tb.cn/h.6Q6q6ANoAl3U…",
+                "end": 23,
+                "expanded_url": "https://m.tb.cn/h.6Q6q6ANoAl3UpZN",
+                "start": 0,
+                "url": "https://t.co/6qJmk0TqfY"
+              }
+            ]
+          }
+        },
+        "id": "1914574017555783683",
+        "location": "淘宝：GEEBA异兽次元",
+        "name": "GEEBA次元异兽（福瑞猎奇飞机杯）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940965213756403712/lpfyV3Bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2251,
+          "following_count": 249,
+          "like_count": 103,
+          "listed_count": 6,
+          "media_count": 28,
+          "tweet_count": 51
+        },
+        "url": "https://t.co/6qJmk0TqfY",
+        "username": "GEEBAysciyuan",
+        "verified": false
+      }
+    ]
+  }
+}

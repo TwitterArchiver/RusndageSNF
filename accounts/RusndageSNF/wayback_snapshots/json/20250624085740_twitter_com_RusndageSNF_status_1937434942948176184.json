@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1937102635972334063",
+    "created_at": "2025-06-24T08:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T09:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937434942948176184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558730611556175873",
+          "start": 0,
+          "username": "ChisakaKanako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937434942948176184",
+    "in_reply_to_user_id": "1558730611556175873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937102635972334063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChisakaKanako 来玩糖豆人！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1937102635972334063",
+        "created_at": "2025-06-24T08:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T09:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937434942948176184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558730611556175873",
+              "start": 0,
+              "username": "ChisakaKanako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937434942948176184",
+        "in_reply_to_user_id": "1558730611556175873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937102635972334063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChisakaKanako 来玩糖豆人！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558730611556175873",
+        "conversation_id": "1937102635972334063",
+        "created_at": "2025-06-23T10:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T11:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937102635972334063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chisakakanako/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/chisakakanako/status/1934155603397825016",
+              "start": 10,
+              "url": "https://t.co/MwUH36aMy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937102635972334063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 708,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934155603397825016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人一起玩喷喷嘛👀 https://t.co/MwUH36aMy7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 982,
+          "like_count": 25849,
+          "listed_count": 8,
+          "media_count": 445,
+          "tweet_count": 4802
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisakakanako.notion.site/96f67217a4c041…",
+                "end": 23,
+                "expanded_url": "https://chisakakanako.notion.site/96f67217a4c0410eb35c4200f835eafa?pvs=4",
+                "start": 0,
+                "url": "https://t.co/ot7AE8ZHyA"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "location": "这个世界破破烂烂，却没有人缝缝补补",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "1934452141684670766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937046938475487232/BZ25G6e1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5547,
+          "following_count": 1536,
+          "like_count": 41381,
+          "listed_count": 7,
+          "media_count": 37,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/ot7AE8ZHyA",
+        "username": "ChisakaKanako",
+        "verified": true
+      }
+    ]
+  }
+}

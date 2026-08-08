@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1910250856999796754",
+    "created_at": "2025-04-10T08:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T09:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910251564851446114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905967025509539840",
+          "start": 0,
+          "username": "Apatite_Cinis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910251564851446114",
+    "in_reply_to_user_id": "1905967025509539840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910250856999796754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apatite_Cinis 谢谢弟弟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1910250856999796754",
+        "created_at": "2025-04-10T08:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T09:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910251564851446114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905967025509539840",
+              "start": 0,
+              "username": "Apatite_Cinis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910251564851446114",
+        "in_reply_to_user_id": "1905967025509539840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910250856999796754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apatite_Cinis 谢谢弟弟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905967025509539840",
+        "conversation_id": "1910250856999796754",
+        "created_at": "2025-04-10T08:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T09:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910250856999796754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1236317911431536640",
+              "start": 7,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910250856999796754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "修改了大号简介@RusndageSNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️/ADHD\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 64,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 939,
+          "like_count": 24117,
+          "listed_count": 6,
+          "media_count": 409,
+          "tweet_count": 4364
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T12:55:36.000Z",
+        "description": "",
+        "id": "1905967025509539840",
+        "name": "湛陨的磷灰石骨灰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905967187984359424/OooR3E6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 16,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 54
+        },
+        "username": "Apatite_Cinis",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1938425013792567627",
+    "created_at": "2025-06-28T02:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T03:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938780470273360361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1909553877739085825",
+          "start": 0,
+          "username": "TOKYOheshan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938780470273360361",
+    "in_reply_to_user_id": "1909553877739085825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938425013792567627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOKYOheshan 瘦子考411，公办二本"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38333,
+        "height": 1280,
+        "media_key": "13_1938424795198345216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938424795198345216/img/7bw6HqpUgmc2f4iJ.jpg",
+        "public_metrics": {
+          "view_count": 40524
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938424795198345216/vid/avc1/320x568/UyauiZCI8d5uFf4C.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938424795198345216/vid/avc1/480x852/U6-U6XB5qlroM6b8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938424795198345216/vid/avc1/720x1280/PmvSmyEEXyyj1QzA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938424795198345216/pl/fw0bfikvgGmS55do.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1938425013792567627",
+        "created_at": "2025-06-28T02:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T03:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938780470273360361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909553877739085825",
+              "start": 0,
+              "username": "TOKYOheshan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938780470273360361",
+        "in_reply_to_user_id": "1909553877739085825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938425013792567627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOKYOheshan 瘦子考411，公办二本"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938424795198345216"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1938425013792567627",
+        "created_at": "2025-06-27T02:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T03:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938425013792567627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNGkmOScrw",
+              "end": 37,
+              "expanded_url": "https://x.com/TOKYOheshan/status/1938425013792567627/video/1",
+              "media_key": "13_1938424795198345216",
+              "start": 14,
+              "url": "https://t.co/rNGkmOScrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938425013792567627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 81576,
+          "like_count": 292,
+          "quote_count": 6,
+          "reply_count": 34,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "满州TV之败类瘦子学日语2 https://t.co/rNGkmOScrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 986,
+          "like_count": 25929,
+          "listed_count": 8,
+          "media_count": 446,
+          "tweet_count": 4834
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "互联网冲浪找史炒作高手 07无药男娘 IP🇯🇵日本東京 成分复杂：键政｜抽象｜二次元｜神友｜自由民主｜包蜜｜无神论｜LGBTQ🏳️‍🌈｜女裝｜舞萌痴｜永雏塔菲｜東雪蓮 ｜进击的巨人｜MYGO｜平常会更新日常或抽象爱国TV 互fo扩列请私信 欢迎线下找我玩 我爱你中国 主人：@heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 137,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象東雪蓮",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934618396718780416/fwpwYXrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4049,
+          "following_count": 550,
+          "like_count": 610,
+          "listed_count": 10,
+          "media_count": 208,
+          "tweet_count": 372
+        },
+        "username": "TOKYOheshan",
+        "verified": true
+      }
+    ]
+  }
+}

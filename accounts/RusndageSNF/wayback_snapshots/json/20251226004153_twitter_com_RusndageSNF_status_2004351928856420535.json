@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2004196996488614347",
+    "created_at": "2025-12-26T00:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T01:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004351928856420535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1444640763070005251",
+          "start": 0,
+          "username": "hq_chihiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004351928856420535",
+    "in_reply_to_user_id": "1444640763070005251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004196996488614347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hq_chihiro 只能说你家装网很晚了，我家在我小时候就有网了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2004196996488614347",
+        "created_at": "2025-12-26T00:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T01:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004351928856420535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1444640763070005251",
+              "start": 0,
+              "username": "hq_chihiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004351928856420535",
+        "in_reply_to_user_id": "1444640763070005251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004196996488614347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hq_chihiro 只能说你家装网很晚了，我家在我小时候就有网了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444640763070005251",
+        "conversation_id": "2004196996488614347",
+        "created_at": "2025-12-25T14:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T15:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004196996488614347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004196996488614347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 392,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我对于很多人怀念10年代很无感\n\n我家17年才装上宽带，我18-20住了三年寄宿学校，21年才有了电脑和b站账号，22年才有手机，24年才第二次出省玩\n\n2017年之前的世界，只是万年不变的县城、打人的班主任，去过最远的地方只是10km外的一个镇子\n\n从我认识世界的第一天起，这个世界就是这么烂、充满戾气的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 1049,
+          "like_count": 28136,
+          "listed_count": 7,
+          "media_count": 532,
+          "tweet_count": 5600
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "自称左翼青年。",
+        "id": "1444640763070005251",
+        "name": "hqin",
+        "pinned_tweet_id": "2004194589343993971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004275613595848706/C1_xKL2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 951,
+          "like_count": 15774,
+          "listed_count": 7,
+          "media_count": 516,
+          "tweet_count": 7703
+        },
+        "username": "hq_chihiro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2034787493783208340",
+    "created_at": "2026-04-22T17:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047010191733096615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1324190854085369857",
+          "start": 0,
+          "username": "2541404751Hiko"
+        },
+        {
+          "end": 31,
+          "id": "2029809107751030788",
+          "start": 16,
+          "username": "Floraino020717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047010191733096615",
+    "in_reply_to_user_id": "1324190854085369857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034787493783208340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2541404751Hiko @Floraino020717 互fo一下呗（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2034787493783208340",
+        "created_at": "2026-04-22T17:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047010191733096615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1324190854085369857",
+              "start": 0,
+              "username": "2541404751Hiko"
+            },
+            {
+              "end": 31,
+              "id": "2029809107751030788",
+              "start": 16,
+              "username": "Floraino020717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047010191733096615",
+        "in_reply_to_user_id": "1324190854085369857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034787493783208340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2541404751Hiko @Floraino020717 互fo一下呗（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324190854085369857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2034787493783208340",
+        "created_at": "2026-03-20T00:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T01:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034787493783208340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "2029809107751030788",
+              "start": 24,
+              "username": "Floraino020717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034787493783208340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2645,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我给大家公布一下购买流程吧\n1 首先互关此账号和@Floraino020717 \n2 我们经过审核会将你拉入群聊\n3 具体价目表我们会在群内公开并更新\n4 支持usdt 微信 支付宝 \n5 为保证账号的安全，我们必须走完这些流程才能发货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 1095,
+          "like_count": 29743,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 6012
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:24:51.000Z",
+        "description": "2002大龄mtx/无证含糖hrt2025.5.18-7.5 8.20-?/178 60/intj/od成瘾/双相二型 解离型人格障碍 ptsd 边缘性人格障碍 状态已完全失控/这是私人账号，购买移步至@Floraino020717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 101,
+                "username": "Floraino020717"
+              }
+            ]
+          }
+        },
+        "id": "1324190854085369857",
+        "location": "天堂或地狱",
+        "name": "HYiko🏳️‍⚧️🍥（九命猫）",
+        "pinned_tweet_id": "2034787493783208340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004211053370978304/pjWevk_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 192,
+          "like_count": 159,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 546
+        },
+        "username": "2541404751Hiko",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T06:39:48.000Z",
+        "description": "Destiny Drug Lab，天命药物实验室",
+        "id": "2029809107751030788",
+        "name": "天命药物实验室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029809268631707648/oHiN_kwL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 288,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 76
+        },
+        "username": "Floraino020717",
+        "verified": false
+      }
+    ]
+  }
+}

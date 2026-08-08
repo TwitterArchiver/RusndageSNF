@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2079903223025189342",
+    "created_at": "2026-07-22T14:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079937643203494262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "IchinichiNagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079937643203494262",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079903223025189342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IchinichiNagi 他家反正挺好吃的，我每次聚会都推荐这家饭店"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1726,
+        "media_key": "3_2079903169283579904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1M6aRbYAAJ3YB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079903169237422081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1M6aGbEAEq0uw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079903169237446656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1M6aGbcAA-1oP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079903169249976320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1M6aJaoAATDsa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2079903223025189342",
+        "created_at": "2026-07-22T14:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079937643203494262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "IchinichiNagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079937643203494262",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079903223025189342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IchinichiNagi 他家反正挺好吃的，我每次聚会都推荐这家饭店"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079903169283579904",
+            "3_2079903169237422081",
+            "3_2079903169237446656",
+            "3_2079903169249976320"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2079903223025189342",
+        "created_at": "2026-07-22T12:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079903223025189342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GvYPrledGl",
+              "end": 169,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2079903223025189342/photo/1",
+              "media_key": "3_2079903169283579904",
+              "start": 146,
+              "url": "https://t.co/GvYPrledGl"
+            },
+            {
+              "display_url": "pic.x.com/GvYPrledGl",
+              "end": 169,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2079903223025189342/photo/1",
+              "media_key": "3_2079903169237422081",
+              "start": 146,
+              "url": "https://t.co/GvYPrledGl"
+            },
+            {
+              "display_url": "pic.x.com/GvYPrledGl",
+              "end": 169,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2079903223025189342/photo/1",
+              "media_key": "3_2079903169237446656",
+              "start": 146,
+              "url": "https://t.co/GvYPrledGl"
+            },
+            {
+              "display_url": "pic.x.com/GvYPrledGl",
+              "end": 169,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2079903223025189342/photo/1",
+              "media_key": "3_2079903169249976320",
+              "start": 146,
+              "url": "https://t.co/GvYPrledGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079903223025189342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 214,
+                "id": "1236317911431536640",
+                "start": 202,
+                "username": "RusndageSNF"
+              }
+            ]
+          },
+          "text": "嗯今天是一日药娘Nagi\n很久没参加跨圈线下聚餐了\n一桌人就像药娘不同阶段的切片\n有稚嫩的有活泼的有老练的\n从中可以看到最初和以前的自己\n\n要是以后有机会能参加这样的男同聚餐就好了\n我也想cosplay一日男同\n就不知道他们会不会有这种不同阶段的感觉\n\n嗯很久没在这种正经饭店跟同龄人聚餐了\n其实菜比我想的要好吃\n也算物美价廉，人均六十几就能吃这么好\n或许应该放下一点对这种餐厅的成见？\n\n嗯面到了美少女@RusndageSNF \n蛮喜欢她这种性格的\n跟冰棍有点像但是更疯\n好久没碰到过这种性格的女生了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 684,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯今天是一日药娘Nagi\n很久没参加跨圈线下聚餐了\n一桌人就像药娘不同阶段的切片\n有稚嫩的有活泼的有老练的\n从中可以看到最初和以前的自己\n\n要是以后有机会能参加这样的男同聚餐就好了\n我也想cosplay一日男同\n就不知道他们会不会有这种不同阶段的感觉\n\n嗯很久没在这种正经饭店跟同龄人聚餐了 https://t.co/GvYPrledGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2079556927311478823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 1117,
+          "like_count": 30796,
+          "listed_count": 7,
+          "media_count": 592,
+          "tweet_count": 6223
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "静安寺",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2078181346590306815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076291088625885184/U0VEOAw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6024,
+          "following_count": 2385,
+          "like_count": 31158,
+          "listed_count": 8,
+          "media_count": 2878,
+          "tweet_count": 26957
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "IchinichiNagi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1801608623484719128",
+    "created_at": "2024-06-15T14:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T15:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801989400353821179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1751358604928557056",
+          "start": 0,
+          "username": "amanitaaaaaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801989400353821179",
+    "in_reply_to_user_id": "1751358604928557056",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801608623484719128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amanitaaaaaaaa fk u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1801608623484719128",
+        "created_at": "2024-06-15T14:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T15:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801989400353821179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1751358604928557056",
+              "start": 0,
+              "username": "amanitaaaaaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801989400353821179",
+        "in_reply_to_user_id": "1751358604928557056",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801608623484719128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amanitaaaaaaaa fk u"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801608621274411008"
+          ]
+        },
+        "author_id": "1751358604928557056",
+        "conversation_id": "1801608623484719128",
+        "created_at": "2024-06-14T13:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T14:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801608623484719128"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "BMI",
+              "probability": 0.7574,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6yTyGf6wnF",
+              "end": 78,
+              "expanded_url": "https://twitter.com/amanitaaaaaaaa/status/1801608623484719128/photo/1",
+              "media_key": "3_1801608621274411008",
+              "start": 55,
+              "url": "https://t.co/6yTyGf6wnF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801608623484719128",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 423,
+          "impression_count": 60051,
+          "like_count": 2438,
+          "quote_count": 151,
+          "reply_count": 882,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "Made my own BMI grade chart :) what grade do you have? https://t.co/6yTyGf6wnF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 653,
+          "like_count": 14036,
+          "listed_count": 5,
+          "tweet_count": 2458
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T21:37:00.000Z",
+        "description": "edtwt! i interact with shtwt a bit too.\nrecoverytwt dni plz 🙏‼️ my threads are in the replies of my pinned 🔥🔥\nlets b mutuals :3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "justcico.com",
+                "end": 23,
+                "expanded_url": "http://justcico.com",
+                "start": 0,
+                "url": "https://t.co/VF3uQ2bGDK"
+              }
+            ]
+          }
+        },
+        "id": "1751358604928557056",
+        "location": "sbmi 27, cbmi 23.3, ugbmi 16",
+        "name": "amanitaaaaaaa🍉(1.1/5kgs)",
+        "pinned_tweet_id": "1772139660329816376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773469462479491072/6zGyDLVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 211,
+          "like_count": 19118,
+          "listed_count": 3,
+          "tweet_count": 3449
+        },
+        "url": "https://t.co/VF3uQ2bGDK",
+        "username": "amanitaaaaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

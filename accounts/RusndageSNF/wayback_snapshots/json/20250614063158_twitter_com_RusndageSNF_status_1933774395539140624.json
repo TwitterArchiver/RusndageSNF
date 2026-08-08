@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1933743094291398963",
+    "created_at": "2025-06-14T06:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T07:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933774395539140624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1364071591206785027",
+          "start": 0,
+          "username": "yugu_790497872"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933774395539140624",
+    "in_reply_to_user_id": "1364071591206785027",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933743094291398963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yugu_790497872 大佬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1512,
+        "media_key": "3_1933741929277345792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtYICg3a0AAdwro.jpg",
+        "width": 2688
+      },
+      {
+        "height": 1512,
+        "media_key": "3_1933741929281585152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtYICg4bgAAwkm5.jpg",
+        "width": 2688
+      },
+      {
+        "height": 1512,
+        "media_key": "3_1933741929273176066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtYICg2bMAI2gO1.jpg",
+        "width": 2688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1933743094291398963",
+        "created_at": "2025-06-14T06:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T07:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933774395539140624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1364071591206785027",
+              "start": 0,
+              "username": "yugu_790497872"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933774395539140624",
+        "in_reply_to_user_id": "1364071591206785027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933743094291398963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yugu_790497872 大佬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933741929277345792",
+            "3_1933741929281585152",
+            "3_1933741929273176066"
+          ]
+        },
+        "author_id": "1364071591206785027",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "1933743094291398963",
+        "created_at": "2025-06-14T04:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T05:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933743094291398963"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Summer Sky",
+              "probability": 0.5332,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "Blizzard Blaster",
+              "probability": 0.5707,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 74,
+              "normalized_text": "Big Pearl",
+              "probability": 0.6505,
+              "start": 66,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "Blue Moon",
+              "probability": 0.6611,
+              "start": 77,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "Marbly McMarbleface",
+              "probability": 0.6796,
+              "start": 88,
+              "type": "Other"
+            },
+            {
+              "end": 122,
+              "normalized_text": "Black Knight",
+              "probability": 0.6422,
+              "start": 111,
+              "type": "Other"
+            },
+            {
+              "end": 132,
+              "normalized_text": "Lollipop",
+              "probability": 0.5652,
+              "start": 125,
+              "type": "Other"
+            },
+            {
+              "end": 143,
+              "normalized_text": "Superball",
+              "probability": 0.6766,
+              "start": 135,
+              "type": "Other"
+            },
+            {
+              "end": 155,
+              "normalized_text": "Cool Moody",
+              "probability": 0.6658,
+              "start": 146,
+              "type": "Other"
+            },
+            {
+              "end": 167,
+              "normalized_text": "Pollo Loco",
+              "probability": 0.6288,
+              "start": 158,
+              "type": "Other"
+            },
+            {
+              "end": 175,
+              "normalized_text": "Nemo",
+              "probability": 0.472,
+              "start": 172,
+              "type": "Other"
+            },
+            {
+              "end": 187,
+              "normalized_text": "Deep Ocean",
+              "probability": 0.743,
+              "start": 178,
+              "type": "Other"
+            },
+            {
+              "end": 201,
+              "normalized_text": "Green Turtle",
+              "probability": 0.7086,
+              "start": 190,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUvGu9iZfl",
+              "end": 226,
+              "expanded_url": "https://x.com/yugu_790497872/status/1933743094291398963/photo/1",
+              "media_key": "3_1933741929277345792",
+              "start": 203,
+              "url": "https://t.co/xUvGu9iZfl"
+            },
+            {
+              "display_url": "pic.x.com/xUvGu9iZfl",
+              "end": 226,
+              "expanded_url": "https://x.com/yugu_790497872/status/1933743094291398963/photo/1",
+              "media_key": "3_1933741929281585152",
+              "start": 203,
+              "url": "https://t.co/xUvGu9iZfl"
+            },
+            {
+              "display_url": "pic.x.com/xUvGu9iZfl",
+              "end": 226,
+              "expanded_url": "https://x.com/yugu_790497872/status/1933743094291398963/photo/1",
+              "media_key": "3_1933741929273176066",
+              "start": 203,
+              "url": "https://t.co/xUvGu9iZfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933743094291398963",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "👇New Year activities in 2025【2】\n\np1 Summer Sky/ Blizzard Blaster/ Big Pearl/ Blue Moon/ Marbly McMarbleface\np2 Black Knight/ Lollipop/ Superball/ Cool Moody/ Pollo Loco\np3 Nemo/ Deep Ocean/ Green Turtle https://t.co/xUvGu9iZfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 971,
+          "like_count": 25779,
+          "listed_count": 7,
+          "media_count": 440,
+          "tweet_count": 4764
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-23T04:36:47.000Z",
+        "description": "你好我是鱼菇，twitter很少登录请谅解！近期专注jmr进行同人创作",
+        "id": "1364071591206785027",
+        "location": "Fantum",
+        "name": "鱼菇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677264129332228096/JCSbdHGx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 58,
+          "like_count": 698,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 600
+        },
+        "username": "yugu_790497872",
+        "verified": false
+      }
+    ]
+  }
+}

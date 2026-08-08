@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1967130034906472562",
+    "created_at": "2025-09-14T07:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T08:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967130034906472562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938210111992074240",
+          "start": 3,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967130034906472562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966997503934599252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FJUNNNN: 现在是9月14日，是寒涟漪的生日。转发这个消息到5个群，寒涟漪就会出来在你的城市开避难所并允许你免费居住，我试过了是假的，转了之后什么都没有发生，但是今天真的是寒涟漪生日"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1967130034906472562",
+        "created_at": "2025-09-14T07:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T08:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967130034906472562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938210111992074240",
+              "start": 3,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967130034906472562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966997503934599252",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FJUNNNN: 现在是9月14日，是寒涟漪的生日。转发这个消息到5个群，寒涟漪就会出来在你的城市开避难所并允许你免费居住，我试过了是假的，转了之后什么都没有发生，但是今天真的是寒涟漪生日"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938210111992074240",
+        "conversation_id": "1966997503934599252",
+        "created_at": "2025-09-13T22:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T23:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966997503934599252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966997503934599252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3180,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "现在是9月14日，是寒涟漪的生日。转发这个消息到5个群，寒涟漪就会出来在你的城市开避难所并允许你免费居住，我试过了是假的，转了之后什么都没有发生，但是今天真的是寒涟漪生日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1033,
+          "like_count": 27521,
+          "listed_count": 7,
+          "media_count": 506,
+          "tweet_count": 5340
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 288,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 188
+        },
+        "username": "FJUNNNN",
+        "verified": false
+      }
+    ]
+  }
+}

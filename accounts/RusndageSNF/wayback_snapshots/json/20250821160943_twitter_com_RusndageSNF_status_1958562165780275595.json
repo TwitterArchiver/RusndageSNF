@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1958061730896179485",
+    "created_at": "2025-08-21T16:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T17:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958562165780275595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1750804799031824384",
+          "start": 0,
+          "username": "lizi5202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958562165780275595",
+    "in_reply_to_user_id": "1750804799031824384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958061730896179485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizi5202 不让，但没有老师敢管我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1958061730896179485",
+        "created_at": "2025-08-21T16:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T17:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958562165780275595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1750804799031824384",
+              "start": 0,
+              "username": "lizi5202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958562165780275595",
+        "in_reply_to_user_id": "1750804799031824384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958061730896179485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizi5202 不让，但没有老师敢管我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750804799031824384",
+        "conversation_id": "1958061730896179485",
+        "created_at": "2025-08-20T07:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T08:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958061730896179485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958061730896179485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 176886,
+          "like_count": 544,
+          "quote_count": 29,
+          "reply_count": 373,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你们高中允许学生上课喝水吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 1024,
+          "like_count": 27152,
+          "listed_count": 7,
+          "media_count": 494,
+          "tweet_count": 5240
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "西郊有密林，助君出重围",
+        "id": "1750804799031824384",
+        "location": "月之森女子学园",
+        "name": "漓莫莫",
+        "pinned_tweet_id": "1941489600012448048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 1425,
+          "like_count": 16572,
+          "listed_count": 4,
+          "media_count": 584,
+          "tweet_count": 6693
+        },
+        "username": "lizi5202",
+        "verified": false
+      }
+    ]
+  }
+}

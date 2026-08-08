@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1940066021341372711",
+    "created_at": "2025-07-03T07:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T08:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940679870859956461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733549812975611904",
+          "start": 0,
+          "username": "xzcraftpaint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940679870859956461",
+    "in_reply_to_user_id": "1733549812975611904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940638451189404007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzcraftpaint 好哦，那要小雪花豆！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1940066021341372711",
+        "created_at": "2025-07-03T07:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T08:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940679870859956461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733549812975611904",
+              "start": 0,
+              "username": "xzcraftpaint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940679870859956461",
+        "in_reply_to_user_id": "1733549812975611904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940638451189404007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzcraftpaint 好哦，那要小雪花豆！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733549812975611904",
+        "conversation_id": "1940066021341372711",
+        "created_at": "2025-07-03T05:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T06:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940638451189404007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940638451189404007",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940109045450539111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 你可以加入的，只是我還沒開始畫😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 986,
+          "like_count": 26129,
+          "listed_count": 8,
+          "media_count": 449,
+          "tweet_count": 4897
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T18:11:02.000Z",
+        "description": "https://t.co/fsR9l1jWPa 本人 @xzcraftp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "xzcraftp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tiny.cc/xzcraftpsd",
+                "end": 23,
+                "expanded_url": "http://tiny.cc/xzcraftpsd",
+                "start": 0,
+                "url": "https://t.co/fsR9l1jWPa"
+              }
+            ]
+          }
+        },
+        "id": "1733549812975611904",
+        "location": "Taiwan",
+        "name": "Craft",
+        "pinned_tweet_id": "1895701280871629108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887169879087951872/I7BIOR_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 379,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 159
+        },
+        "username": "xzcraftpaint",
+        "verified": false
+      }
+    ]
+  }
+}

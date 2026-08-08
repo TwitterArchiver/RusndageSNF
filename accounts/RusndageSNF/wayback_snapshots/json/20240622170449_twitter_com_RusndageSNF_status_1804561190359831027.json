@@ -1,0 +1,223 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1804425843537764440",
+    "created_at": "2024-06-22T17:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T18:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804561190359831027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1354157392959660038",
+          "start": 0,
+          "username": "translate_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804561190359831027",
+    "in_reply_to_user_id": "1354157392959660038",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804425843537764440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@translate_cn 臭打一顿顺殖就老实了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1804425843537764440",
+        "created_at": "2024-06-22T17:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T18:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804561190359831027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1354157392959660038",
+              "start": 0,
+              "username": "translate_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804561190359831027",
+        "in_reply_to_user_id": "1354157392959660038",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804425843537764440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@translate_cn 臭打一顿顺殖就老实了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804425841423847426"
+          ]
+        },
+        "author_id": "1354157392959660038",
+        "conversation_id": "1804425843537764440",
+        "created_at": "2024-06-22T08:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T09:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804425843537764440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pinkwug/status…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/PinkWug/status/1651618598077493248",
+              "start": 55,
+              "url": "https://t.co/St8ZsOd1G1"
+            },
+            {
+              "display_url": "pic.twitter.com/TU6xe3lSMN",
+              "end": 102,
+              "expanded_url": "https://twitter.com/translate_cn/status/1804425843537764440/photo/1",
+              "media_key": "3_1804425841423847426",
+              "start": 79,
+              "url": "https://t.co/TU6xe3lSMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804425843537764440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11478,
+          "like_count": 152,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1651618598077493248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当弱势群体联合起来为自己发声的时候，压迫TA们的群体通常会尝试拉拢其中一部分人来搅乱民心。请千万不要上当。\n\nhttps://t.co/St8ZsOd1G1 https://t.co/TU6xe3lSMN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 654,
+          "like_count": 14248,
+          "listed_count": 5,
+          "tweet_count": 2503
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T20:01:30.000Z",
+        "description": "关于我们： https://t.co/HrhGp1Y8A4\n\n参与翻译： https://t.co/UhWmHDw6RV\n\n我们欢迎所有善意的修改和转发。\n\n翻译中的用词取舍、是否为选译、译者校对者等信息，请至电报频道的评论区查看。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/twitter_transl…",
+                "end": 29,
+                "expanded_url": "https://linktr.ee/twitter_translate",
+                "start": 6,
+                "url": "https://t.co/HrhGp1Y8A4"
+              },
+              {
+                "display_url": "t.me/+UqONLgaRc1Mnq…",
+                "end": 60,
+                "expanded_url": "https://t.me/+UqONLgaRc1Mnq19T",
+                "start": 37,
+                "url": "https://t.co/UhWmHDw6RV"
+              }
+            ]
+          }
+        },
+        "id": "1354157392959660038",
+        "name": "推特翻译",
+        "pinned_tweet_id": "1712022291092275438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354668835484225540/azcPVoB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16487,
+          "following_count": 12,
+          "like_count": 552,
+          "listed_count": 96,
+          "tweet_count": 7389
+        },
+        "username": "translate_cn",
+        "verified": false
+      }
+    ]
+  }
+}

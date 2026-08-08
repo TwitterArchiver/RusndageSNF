@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864056751663861760"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "1864056757011583045",
+    "created_at": "2024-12-03T21:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T22:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864056757011583045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mGzV3UXnc1",
+          "end": 53,
+          "expanded_url": "https://x.com/RusndageSNF/status/1864056757011583045/photo/1",
+          "media_key": "3_1864056751663861760",
+          "start": 30,
+          "url": "https://t.co/mGzV3UXnc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864056757011583045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无所谓了，她都死了，所以我就发这张照片了，但是我真的很想她 https://t.co/mGzV3UXnc1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1864056757011583045].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1864056757011583045",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1864056757011583045"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1864056751663861760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd51vUwX0AA0E5p.jpg",
+        "width": 1155
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 759,
+          "like_count": 19779,
+          "listed_count": 4,
+          "media_count": 312,
+          "tweet_count": 3351
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

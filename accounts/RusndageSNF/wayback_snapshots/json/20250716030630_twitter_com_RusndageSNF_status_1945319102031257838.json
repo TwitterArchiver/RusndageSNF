@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1945319102031257838",
+    "created_at": "2025-07-16T03:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T04:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945319102031257838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Egg_irl_bot/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Egg_irl_bot/status/1944822690319061081",
+          "start": 3,
+          "url": "https://t.co/y0JlnSz8Kw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945319102031257838",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944822690319061081",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难绷 https://t.co/y0JlnSz8Kw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_1944822687731212288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv1l7i1W4AAiknI.jpg",
+        "width": 2035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1945319102031257838",
+        "created_at": "2025-07-16T03:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T04:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945319102031257838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Egg_irl_bot/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Egg_irl_bot/status/1944822690319061081",
+              "start": 3,
+              "url": "https://t.co/y0JlnSz8Kw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945319102031257838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944822690319061081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难绷 https://t.co/y0JlnSz8Kw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944822687731212288"
+          ]
+        },
+        "author_id": "1163471038916812800",
+        "conversation_id": "1944822690319061081",
+        "created_at": "2025-07-14T18:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T19:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944822690319061081"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "Transfem"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Explore this post and more from the egg_irl community",
+              "display_url": "redd.it/1lzryff",
+              "end": 46,
+              "expanded_url": "https://redd.it/1lzryff",
+              "images": [
+                {
+                  "height": 584,
+                  "url": "https://pbs.twimg.com/news_img/1944822733499428864/hIwxI_cb?format=jpg&name=orig",
+                  "width": 1120
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1944822733499428864/hIwxI_cb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 23,
+              "status": 200,
+              "title": "From the egg_irl community on Reddit: egg irl",
+              "unwound_url": "https://www.reddit.com/r/egg_irl/comments/1lzryff/egg_irl/",
+              "url": "https://t.co/vW876Hx0tD"
+            },
+            {
+              "display_url": "pic.x.com/shwBhXcDCR",
+              "end": 70,
+              "expanded_url": "https://x.com/Egg_irl_bot/status/1944822690319061081/photo/1",
+              "media_key": "3_1944822687731212288",
+              "start": 47,
+              "url": "https://t.co/shwBhXcDCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944822690319061081",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 70697,
+          "like_count": 918,
+          "quote_count": 37,
+          "reply_count": 25,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "egg irl #Transfem Meme https://t.co/vW876Hx0tD https://t.co/shwBhXcDCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 1004,
+          "like_count": 26557,
+          "listed_count": 8,
+          "media_count": 459,
+          "tweet_count": 5046
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-19T15:21:50.000Z",
+        "description": "Memes about trans people in denial.\n\nFor any inconvenience/errors contact @Mahkda_\n\nOther social media and source code are available in the linktree",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "Mahkda_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/egg_irl_bot",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/egg_irl_bot",
+                "start": 0,
+                "url": "https://t.co/fAITvssLLq"
+              }
+            ]
+          }
+        },
+        "id": "1163471038916812800",
+        "name": "Egg_irl 🏳️‍⚧️",
+        "pinned_tweet_id": "1930636815586750740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1163471319108923393/wTgJEgmG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73506,
+          "following_count": 3,
+          "like_count": 31,
+          "listed_count": 111,
+          "media_count": 41501,
+          "tweet_count": 41633
+        },
+        "url": "https://t.co/fAITvssLLq",
+        "username": "Egg_irl_bot",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1974090133696884769",
+    "created_at": "2025-10-03T16:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T17:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974151717236453610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974151717236453610",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974090133696884769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 我想去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1974090115439050753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VggDVawAEfzHw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974090118802911233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VggP3bMAEAfHm.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1974090133696884769",
+        "created_at": "2025-10-03T16:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T17:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974151717236453610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974151717236453610",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974090133696884769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 我想去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974090115439050753",
+            "3_1974090118802911233"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1974090133696884769",
+        "created_at": "2025-10-03T12:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T13:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974090133696884769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GM9YcCI7T",
+              "end": 134,
+              "expanded_url": "https://x.com/NagiExpress/status/1974090133696884769/photo/1",
+              "media_key": "3_1974090115439050753",
+              "start": 111,
+              "url": "https://t.co/5GM9YcCI7T"
+            },
+            {
+              "display_url": "pic.x.com/5GM9YcCI7T",
+              "end": 134,
+              "expanded_url": "https://x.com/NagiExpress/status/1974090133696884769/photo/1",
+              "media_key": "3_1974090118802911233",
+              "start": 111,
+              "url": "https://t.co/5GM9YcCI7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974090133696884769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2579,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次组织超大型聚餐\n总共19人\n成功权衡了极高的人数和较低的预算\n笑死了\n磨骨方块等人：nagi你tm怎么选的店，贵的要死\n我：我怎么知道这么贵啊（\n\n但有一说一麻酱是真的好吃\n羊肉也很嫩很香\n\n还是感谢王安黛姐的推荐 https://t.co/5GM9YcCI7T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 1041,
+          "like_count": 27777,
+          "listed_count": 7,
+          "media_count": 520,
+          "tweet_count": 5432
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "也算是一种独特的人生体验了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpKvQ"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "鹿栖",
+        "pinned_tweet_id": "1974090133696884769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961447475040124928/fPSXAgy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3595,
+          "following_count": 1796,
+          "like_count": 15477,
+          "listed_count": 7,
+          "media_count": 1260,
+          "tweet_count": 13436
+        },
+        "url": "https://t.co/O8fBywpKvQ",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

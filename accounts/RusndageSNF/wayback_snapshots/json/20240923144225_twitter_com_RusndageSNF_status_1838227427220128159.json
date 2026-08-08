@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1838071882257735916",
+    "created_at": "2024-09-23T14:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T15:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838227427220128159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1786694173883871232",
+          "start": 0,
+          "username": "2022Fxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838227427220128159",
+    "in_reply_to_user_id": "1786694173883871232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838071882257735916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2022Fxs 伦理科学你妈臭比，妈的论文都没看过几篇就在这逼逼这些，鸡吧给你砍下来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1838071882257735916",
+        "created_at": "2024-09-23T14:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T15:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838227427220128159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1786694173883871232",
+              "start": 0,
+              "username": "2022Fxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838227427220128159",
+        "in_reply_to_user_id": "1786694173883871232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838071882257735916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2022Fxs 伦理科学你妈臭比，妈的论文都没看过几篇就在这逼逼这些，鸡吧给你砍下来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786694173883871232",
+        "conversation_id": "1838071882257735916",
+        "created_at": "2024-09-23T04:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T05:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838071882257735916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838071882257735916",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11686,
+          "like_count": 293,
+          "quote_count": 4,
+          "reply_count": 34,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "今天和同学的对话\n同学：“你跨性别是反生物科学的”\n我：“就他妈反科学了怎么着吧”\n同学：“你这是违反伦理道德的”\n我：“就几把违反了怎么着吧，你他妈说话给我放尊重点，不然老子给你蛋废了”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️，暂时和 @MuFengkana 住在一起\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 709,
+          "like_count": 17247,
+          "listed_count": 5,
+          "tweet_count": 2923
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T09:47:51.000Z",
+        "description": "08年小药娘\n/老公，挚爱，活着的目的@sabulin8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "sabulin8964"
+              }
+            ]
+          }
+        },
+        "id": "1786694173883871232",
+        "location": "地狱",
+        "name": "流光🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819243129423515648/OcxK0fXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 259,
+          "like_count": 12118,
+          "listed_count": 4,
+          "tweet_count": 6508
+        },
+        "username": "2022Fxs",
+        "verified": false
+      }
+    ]
+  }
+}

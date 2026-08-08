@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2026549999266574802",
+    "created_at": "2026-02-25T15:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026687078571061639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824771267305566208",
+          "start": 0,
+          "username": "BvbZhang1208"
+        },
+        {
+          "end": 24,
+          "id": "1414146868049715202",
+          "start": 14,
+          "username": "BQnanqiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026687078571061639",
+    "in_reply_to_user_id": "1824771267305566208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026655362900951098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BvbZhang1208 @BQnanqiao 他要是敢回怼一句拳头马上就和脸发生碰撞了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2026549999266574802",
+        "created_at": "2026-02-25T15:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026687078571061639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824771267305566208",
+              "start": 0,
+              "username": "BvbZhang1208"
+            },
+            {
+              "end": 24,
+              "id": "1414146868049715202",
+              "start": 14,
+              "username": "BQnanqiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026687078571061639",
+        "in_reply_to_user_id": "1824771267305566208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026655362900951098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BvbZhang1208 @BQnanqiao 他要是敢回怼一句拳头马上就和脸发生碰撞了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824771267305566208",
+        "conversation_id": "2026549999266574802",
+        "created_at": "2026-02-25T13:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T14:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026655362900951098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1414146868049715202",
+              "start": 0,
+              "username": "BQnanqiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026655362900951098",
+        "in_reply_to_user_id": "1414146868049715202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 632,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026549999266574802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BQnanqiao 都不敢揍李傻比一顿，还自我感觉良好这么多年在这吹牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 1080,
+          "like_count": 28884,
+          "listed_count": 9,
+          "media_count": 553,
+          "tweet_count": 5731
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T11:42:42.000Z",
+        "description": "",
+        "id": "1824771267305566208",
+        "location": "Kanagawa-ken, Japan",
+        "name": "Zhang Bvb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824773916109176832/dS_vurZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 95,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "BvbZhang1208",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T08:57:54.000Z",
+        "description": "两轮牛熊经历，2025年8月19日高点清仓，带领群友完美避开10月11日全网200亿U爆仓黑天鹅。盈利达到A7，牛顶套现第一人。\n\n◉ ok钱包邀请码：987987\n◉邀请链接：https://t.co/qAHqStIY5N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "web3.okx.com/join/987987",
+                "end": 112,
+                "expanded_url": "https://web3.okx.com/join/987987",
+                "start": 89,
+                "url": "https://t.co/qAHqStIY5N"
+              }
+            ]
+          }
+        },
+        "id": "1414146868049715202",
+        "location": "English",
+        "name": "BQ南乔",
+        "pinned_tweet_id": "1962139622282305908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955396959772282880/ny2n_4-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28853,
+          "following_count": 176,
+          "like_count": 25360,
+          "listed_count": 232,
+          "media_count": 690,
+          "tweet_count": 16189
+        },
+        "username": "BQnanqiao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1898987970520137768",
+    "created_at": "2025-03-10T12:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T13:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899075820523577476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1617138994227339265",
+          "start": 0,
+          "username": "cathy213924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899075820523577476",
+    "in_reply_to_user_id": "1617138994227339265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898987970520137768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cathy213924 因为谁都有抑郁（自杀）的权利，抑郁本质上是神经病变"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898987966283857920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlqPfnsXQAAe30f.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1898987970520137768",
+        "created_at": "2025-03-10T12:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T13:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899075820523577476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617138994227339265",
+              "start": 0,
+              "username": "cathy213924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899075820523577476",
+        "in_reply_to_user_id": "1617138994227339265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898987970520137768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cathy213924 因为谁都有抑郁（自杀）的权利，抑郁本质上是神经病变"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898987966283857920"
+          ]
+        },
+        "author_id": "1617138994227339265",
+        "conversation_id": "1898987970520137768",
+        "created_at": "2025-03-10T06:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T07:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898987970520137768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPgRYOG9P7",
+              "end": 41,
+              "expanded_url": "https://x.com/cathy213924/status/1898987970520137768/photo/1",
+              "media_key": "3_1898987966283857920",
+              "start": 18,
+              "url": "https://t.co/nPgRYOG9P7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898987970520137768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3928,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有人术后还会有抑郁自杀等想法 https://t.co/nPgRYOG9P7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1893309762294391019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 895,
+          "like_count": 22956,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 4157
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T12:36:17.000Z",
+        "description": "she/her | trans girl | asexual🖤🩶🤍💜 | social liberalism & transgender nationalism | hate imperialism & communism | HRT 2023.12.11",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/cathy213924",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/cathy213924",
+                "start": 0,
+                "url": "https://t.co/0HrD0nLTu5"
+              }
+            ]
+          }
+        },
+        "id": "1617138994227339265",
+        "location": "Republic of Transland🏳️‍⚧️",
+        "name": "Cathy🍥🏳️‍⚧️🇹🇼🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729445425055248384/2sTIZPo0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 866,
+          "like_count": 6830,
+          "listed_count": 5,
+          "media_count": 700,
+          "tweet_count": 3499
+        },
+        "url": "https://t.co/0HrD0nLTu5",
+        "username": "cathy213924",
+        "verified": true
+      }
+    ]
+  }
+}

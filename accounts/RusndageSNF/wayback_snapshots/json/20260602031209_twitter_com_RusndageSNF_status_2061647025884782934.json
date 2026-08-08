@@ -1,0 +1,637 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Page for Global Pride Month for all years",
+          "id": "1275153105659650048",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "ex Uppercut Esports",
+          "id": "1116034906793041920",
+          "name": "Furia Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1465735561230962690",
+          "name": "Pride Month"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1664343480645066763",
+          "name": "Pride Month 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "ex Uppercut Esports",
+          "id": "1116034906793041920",
+          "name": "Furia Esports"
+        }
+      }
+    ],
+    "conversation_id": "2061647025884782934",
+    "created_at": "2026-06-02T03:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061647025884782934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "894704535037513729",
+          "start": 3,
+          "username": "FURIA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061647025884782934",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 509
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061448643031277858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FURIA: O Mês do Orgulho existe para celebrar a diversidade, dar visibilidade pra histórias únicas e reforçar a importância do respeito…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2061448636320354304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJu8nNqWkAARzC2.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "ex Uppercut Esports",
+              "id": "1116034906793041920",
+              "name": "Furia Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "ex Uppercut Esports",
+              "id": "1116034906793041920",
+              "name": "Furia Esports"
+            }
+          }
+        ],
+        "conversation_id": "2061647025884782934",
+        "created_at": "2026-06-02T03:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061647025884782934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "894704535037513729",
+              "start": 3,
+              "username": "FURIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061647025884782934",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 509
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061448643031277858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FURIA: O Mês do Orgulho existe para celebrar a diversidade, dar visibilidade pra histórias únicas e reforçar a importância do respeito…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061448636320354304"
+          ]
+        },
+        "author_id": "894704535037513729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "ex Uppercut Esports",
+              "id": "1116034906793041920",
+              "name": "Furia Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1465735561230962690",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1664343480645066763",
+              "name": "Pride Month 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "ex Uppercut Esports",
+              "id": "1116034906793041920",
+              "name": "Furia Esports"
+            }
+          }
+        ],
+        "conversation_id": "2061448643031277858",
+        "created_at": "2026-06-01T14:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061448643031277858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VXxcOXEJh",
+              "end": 300,
+              "expanded_url": "https://x.com/FURIA/status/2061448643031277858/photo/1",
+              "media_key": "3_2061448636320354304",
+              "start": 277,
+              "url": "https://t.co/6VXxcOXEJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061448643031277858",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {},
+          "text": "O Mês do Orgulho existe para celebrar a diversidade, dar visibilidade pra histórias únicas e reforçar a importância do respeito e da inclusão.\n\nQue toda a comunidade se sinta acolhida pelo abraço da pantera não apenas neste mês, mas todos os dias do ano, e que viva sempre com orgulho de ser quem é.\n\nFeliz Mês do Orgulho! 🖤🏳️‍🌈"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 100561,
+          "like_count": 5894,
+          "quote_count": 46,
+          "reply_count": 161,
+          "retweet_count": 509
+        },
+        "reply_settings": "everyone",
+        "text": "O Mês do Orgulho existe para celebrar a diversidade, dar visibilidade pra histórias únicas e reforçar a importância do respeito e da inclusão.\n\nQue toda a comunidade se sinta acolhida pelo abraço da pantera não apenas neste mês, mas todos os dias do ano, e que viva sempre com https://t.co/6VXxcOXEJh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 1106,
+          "like_count": 30244,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 6132
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-07T23:39:18.000Z",
+        "description": "A FURIA do Brasil 🇧🇷 Follow the steps 🐾 #FURIACS #FURIAR6 #FURIAFC #FURIAVAL #FURIARL #FURIALoL #FURIAPUBG #FURIARedram @FURIA_USA #DIADEFURIA",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 40,
+                "tag": "FURIACS"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "FURIAR6"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "FURIAFC"
+              },
+              {
+                "end": 76,
+                "start": 67,
+                "tag": "FURIAVAL"
+              },
+              {
+                "end": 85,
+                "start": 77,
+                "tag": "FURIARL"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "tag": "FURIALoL"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "tag": "FURIAPUBG"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "tag": "FURIARedram"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "tag": "DIADEFURIA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 120,
+                "username": "FURIA_USA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "FURIA.gg",
+                "end": 23,
+                "expanded_url": "http://FURIA.gg",
+                "start": 0,
+                "url": "https://t.co/DGLhzbJWcl"
+              }
+            ]
+          }
+        },
+        "id": "894704535037513729",
+        "location": "Uberlândia, Brasil",
+        "name": "FURIA",
+        "pinned_tweet_id": "2045203336341663761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008552990794297345/e9s6afht_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622807,
+          "following_count": 643,
+          "like_count": 82105,
+          "listed_count": 750,
+          "media_count": 25853,
+          "tweet_count": 75553
+        },
+        "url": "https://t.co/DGLhzbJWcl",
+        "username": "FURIA",
+        "verified": true
+      }
+    ]
+  }
+}

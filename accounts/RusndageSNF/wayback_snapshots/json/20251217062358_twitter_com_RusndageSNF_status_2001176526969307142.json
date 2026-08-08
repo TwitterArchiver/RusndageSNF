@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2000987190227296670",
+    "created_at": "2025-12-17T06:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T07:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001176526969307142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1211879989995421696",
+          "start": 0,
+          "username": "medicagoo"
+        },
+        {
+          "end": 25,
+          "id": "1789184782825615360",
+          "start": 11,
+          "username": "nonsweetsuger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001176526969307142",
+    "in_reply_to_user_id": "1211879989995421696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001083932503368024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@medicagoo @nonsweetsuger 还在，我有她QQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2000987190227296670",
+        "created_at": "2025-12-17T06:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001176526969307142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1211879989995421696",
+              "start": 0,
+              "username": "medicagoo"
+            },
+            {
+              "end": 25,
+              "id": "1789184782825615360",
+              "start": 11,
+              "username": "nonsweetsuger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001176526969307142",
+        "in_reply_to_user_id": "1211879989995421696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001083932503368024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@medicagoo @nonsweetsuger 还在，我有她QQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1211879989995421696",
+        "conversation_id": "2000987190227296670",
+        "created_at": "2025-12-17T00:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T01:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001083932503368024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789184782825615360",
+              "start": 0,
+              "username": "nonsweetsuger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001083932503368024",
+        "in_reply_to_user_id": "1789184782825615360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3722,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000987190227296670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonsweetsuger 有一个坐轮椅的跨女，很久没刷到了，不知道她怎么样了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 1047,
+          "like_count": 28024,
+          "listed_count": 7,
+          "media_count": 531,
+          "tweet_count": 5572
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T05:21:31.000Z",
+        "description": "BPD Algorithm engineer for OR; Borderline Personality Disorder - BPD, sleep disorder; trans BPD woman 🏳️‍⚧️.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medicago.top",
+                "end": 23,
+                "expanded_url": "https://medicago.top/",
+                "start": 0,
+                "url": "https://t.co/yXqadddKGh"
+              }
+            ]
+          }
+        },
+        "id": "1211879989995421696",
+        "name": "🍉沐雪小猪🌰",
+        "pinned_tweet_id": "1996172640135115218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990723871683837952/qN5-3xFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 308,
+          "like_count": 10080,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 4368
+        },
+        "url": "https://t.co/yXqadddKGh",
+        "username": "medicagoo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "悲伤的设计狗/非二元有男友",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 671,
+          "like_count": 21704,
+          "listed_count": 2,
+          "media_count": 451,
+          "tweet_count": 9621
+        },
+        "username": "nonsweetsuger",
+        "verified": false
+      }
+    ]
+  }
+}

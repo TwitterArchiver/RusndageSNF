@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2077363297540821304",
+    "created_at": "2026-07-16T03:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077589741055480270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1664742004423794688",
+          "start": 0,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077589741055480270",
+    "in_reply_to_user_id": "1664742004423794688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077363297540821304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rwayne 千问马上就要成苹果的ai了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2077303022284341248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQQF74agAA8SzF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2077363297540821304",
+        "created_at": "2026-07-16T03:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077589741055480270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1664742004423794688",
+              "start": 0,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077589741055480270",
+        "in_reply_to_user_id": "1664742004423794688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077363297540821304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwayne 千问马上就要成苹果的ai了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077303022284341248"
+          ]
+        },
+        "author_id": "1664742004423794688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077363297540821304",
+        "created_at": "2026-07-15T12:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077363297540821304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TuzUaq1jSu",
+              "end": 60,
+              "expanded_url": "https://x.com/rwayne/status/2077363297540821304/photo/1",
+              "media_key": "3_2077303022284341248",
+              "start": 37,
+              "url": "https://t.co/TuzUaq1jSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077363297540821304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 585157,
+          "like_count": 1791,
+          "quote_count": 2,
+          "reply_count": 127,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "那些曾经很火但快要慢慢消失的APP，你们还记得几个？ ​​​我提一个千问 https://t.co/TuzUaq1jSu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 1118,
+          "like_count": 30802,
+          "listed_count": 7,
+          "media_count": 591,
+          "tweet_count": 6217
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "医学，经济学与人工智能交叉领域段子手研究员🤡\n我的科研Skill：rw-research-skill\n发段子是因为科研很压抑了...😅",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2077401955387982126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52605,
+          "following_count": 784,
+          "like_count": 38981,
+          "listed_count": 271,
+          "media_count": 6190,
+          "tweet_count": 20717
+        },
+        "url": "",
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

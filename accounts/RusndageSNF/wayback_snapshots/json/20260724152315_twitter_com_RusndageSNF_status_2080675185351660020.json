@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2080663882432131531",
+    "created_at": "2026-07-24T15:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080675185351660020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "IchinichiNagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080675185351660020",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080663882432131531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IchinichiNagi 狗肉和香菜差不多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080663351143923713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAAS0YbgAEW22N.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2080663351064186880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAAS0Fa0AA37Uy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080663351110287360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAAS0QaQAAlirm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2080663882432131531",
+        "created_at": "2026-07-24T15:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080675185351660020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "IchinichiNagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080675185351660020",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080663882432131531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IchinichiNagi 狗肉和香菜差不多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080663351143923713",
+            "3_2080663351064186880",
+            "3_2080663351110287360"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080663882432131531",
+        "created_at": "2026-07-24T14:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080663882432131531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NY4zzNAo9X",
+              "end": 123,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2080663882432131531/photo/1",
+              "media_key": "3_2080663351143923713",
+              "start": 100,
+              "url": "https://t.co/NY4zzNAo9X"
+            },
+            {
+              "display_url": "pic.x.com/NY4zzNAo9X",
+              "end": 123,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2080663882432131531/photo/1",
+              "media_key": "3_2080663351064186880",
+              "start": 100,
+              "url": "https://t.co/NY4zzNAo9X"
+            },
+            {
+              "display_url": "pic.x.com/NY4zzNAo9X",
+              "end": 123,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2080663882432131531/photo/1",
+              "media_key": "3_2080663351110287360",
+              "start": 100,
+              "url": "https://t.co/NY4zzNAo9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080663882432131531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯第一次吃狗肉\n狗肉的香味像是香菜一样\n对我来说能识别到但是基本无感\n没想到东北人这么能吃辣\n被某人推荐到了逆天景区\n虽然纯坑游客但确实好看\n\n嗯和另外俩人互相见识到了完全不同的生活方式\n这辈子有了 https://t.co/NY4zzNAo9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2079556927311478823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 1116,
+          "like_count": 30801,
+          "listed_count": 7,
+          "media_count": 592,
+          "tweet_count": 6229
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "静安寺",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2080547212132765940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076291088625885184/U0VEOAw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6028,
+          "following_count": 2382,
+          "like_count": 31291,
+          "listed_count": 8,
+          "media_count": 2892,
+          "tweet_count": 27035
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "IchinichiNagi",
+        "verified": false
+      }
+    ]
+  }
+}

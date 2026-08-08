@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1939536140383744414",
+    "created_at": "2025-07-06T08:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T09:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941771900834734517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1085871114314641410",
+          "start": 0,
+          "username": "Sarutobi39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941771900834734517",
+    "in_reply_to_user_id": "1085871114314641410",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939536140383744414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sarutobi39 玉！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1939536073727901696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuqdyG-bgAAnh5d.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1939536140383744414",
+        "created_at": "2025-07-06T08:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941771900834734517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1085871114314641410",
+              "start": 0,
+              "username": "Sarutobi39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941771900834734517",
+        "in_reply_to_user_id": "1085871114314641410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939536140383744414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sarutobi39 玉！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939536073727901696"
+          ]
+        },
+        "author_id": "1085871114314641410",
+        "conversation_id": "1939536140383744414",
+        "created_at": "2025-06-30T04:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939536140383744414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6m8SFC70zW",
+              "end": 33,
+              "expanded_url": "https://x.com/Sarutobi39/status/1939536140383744414/photo/1",
+              "media_key": "3_1939536073727901696",
+              "start": 10,
+              "url": "https://t.co/6m8SFC70zW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939536140383744414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "久违的发些足控内容 https://t.co/6m8SFC70zW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 990,
+          "like_count": 26240,
+          "listed_count": 8,
+          "media_count": 452,
+          "tweet_count": 4927
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-17T12:07:02.000Z",
+        "description": "生活在赛博幻想乡的一枚挖坑大师 清流G向爱好者~ 人畜无害的萌萌人，Hololive箱推，AI探索中，会一点chess/ENTP/随缘系摄影ww/杂鱼up/超绝精波/百变萌二/北京国安サポ/意识形态是中间温和派（社自）\nStarcraft2 World Team League Staff\nよろしくお願いします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/I6pugjeaExR1…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/I6pugjeaExR1C7I4xL2KFeqed4w2",
+                "start": 0,
+                "url": "https://t.co/DwRo7f0M2x"
+              }
+            ]
+          }
+        },
+        "id": "1085871114314641410",
+        "name": "🇨🇳猿飞•斯基🇯🇵🇵🇱🇦🇺🌽☄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1260008449900900353/pAkjD2-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 635,
+          "like_count": 30217,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 3264
+        },
+        "url": "https://t.co/DwRo7f0M2x",
+        "username": "Sarutobi39",
+        "verified": false
+      }
+    ]
+  }
+}

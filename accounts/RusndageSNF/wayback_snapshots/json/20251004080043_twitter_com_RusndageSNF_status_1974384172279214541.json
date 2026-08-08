@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1974090133696884769",
+    "created_at": "2025-10-04T08:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T09:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974384172279214541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        },
+        {
+          "end": 25,
+          "id": "1126154089216262145",
+          "start": 13,
+          "username": "ArtsSuraimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974384172279214541",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974376054958792937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress @ArtsSuraimu 但确实是互ban"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1974090133696884769",
+        "created_at": "2025-10-04T08:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T09:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974384172279214541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            },
+            {
+              "end": 25,
+              "id": "1126154089216262145",
+              "start": 13,
+              "username": "ArtsSuraimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974384172279214541",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974376054958792937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress @ArtsSuraimu 但确实是互ban"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754494415152766976",
+        "conversation_id": "1974090133696884769",
+        "created_at": "2025-10-04T07:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T08:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974376054958792937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsSuraimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974376054958792937",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974374734659006774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsSuraimu bpd犯了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 1042,
+          "like_count": 27793,
+          "listed_count": 7,
+          "media_count": 521,
+          "tweet_count": 5435
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "也算是一种独特的人生体验了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpKvQ"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "鹿栖",
+        "pinned_tweet_id": "1974090133696884769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961447475040124928/fPSXAgy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3602,
+          "following_count": 1798,
+          "like_count": 15525,
+          "listed_count": 7,
+          "media_count": 1263,
+          "tweet_count": 13462
+        },
+        "url": "https://t.co/O8fBywpKvQ",
+        "username": "NagiExpress",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. Traveller. Opinions are own. 属性鼠鹿，性别男/无性别，找不到对象，政治属性不明，喜欢鹿乃子、史莱姆（利姆露）、小埋、@ddvd233 日本語を少しい話せます Deutsch kann ich auch ein bissl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 96,
+                "username": "ddvd233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimurosuraimu",
+                "end": 23,
+                "expanded_url": "https://t.me/rimurosuraimu",
+                "start": 0,
+                "url": "https://t.co/IDEk4qoiBq"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu スライム 史莱姆",
+        "pinned_tweet_id": "1961942536651776399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973833276134400000/Y2Fmw8_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10944,
+          "following_count": 2550,
+          "like_count": 94319,
+          "listed_count": 49,
+          "media_count": 590,
+          "tweet_count": 5927
+        },
+        "url": "https://t.co/IDEk4qoiBq",
+        "username": "ArtsSuraimu",
+        "verified": true
+      }
+    ]
+  }
+}

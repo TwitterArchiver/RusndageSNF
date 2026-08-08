@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1959848596792393981",
+    "created_at": "2025-08-26T07:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T08:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960244692890812630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1551500275424186368",
+          "start": 0,
+          "username": "Zhangjianuo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960244692890812630",
+    "in_reply_to_user_id": "1551500275424186368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960192519758610506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhangjianuo7 嗯嗯，主要是事情发生在一起就有点让我难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1959848596792393981",
+        "created_at": "2025-08-26T07:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T08:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960244692890812630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551500275424186368",
+              "start": 0,
+              "username": "Zhangjianuo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960244692890812630",
+        "in_reply_to_user_id": "1551500275424186368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960192519758610506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhangjianuo7 嗯嗯，主要是事情发生在一起就有点让我难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551500275424186368",
+        "conversation_id": "1959848596792393981",
+        "created_at": "2025-08-26T04:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T05:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960192519758610506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960192519758610506",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959848596792393981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 别o了，对身体有害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 1031,
+          "like_count": 27233,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 5273
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T09:31:14.000Z",
+        "description": "和平友爱友好交往\n爱国爱党，非极左或极右 毛选、共产党宣言、资本论已读\n沙勒/夏莱跨国优秀教师\njianuozhang76@gmail.com\n星粉、摩粉，搞机的来互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/TCKw7Xf1oy"
+              }
+            ]
+          }
+        },
+        "id": "1551500275424186368",
+        "location": "八宝州",
+        "name": "酷安今天倒闭了没🇨🇳",
+        "pinned_tweet_id": "1884978106483826741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960234932195962880/V0cua9Rq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 621,
+          "like_count": 2284,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 2642
+        },
+        "url": "https://t.co/TCKw7Xf1oy",
+        "username": "Zhangjianuo7",
+        "verified": false
+      }
+    ]
+  }
+}

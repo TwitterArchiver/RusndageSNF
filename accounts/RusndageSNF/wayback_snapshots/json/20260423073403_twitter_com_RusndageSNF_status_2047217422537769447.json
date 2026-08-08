@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047203884935090176"
+      ],
+      "media_source_tweet_id": [
+        "2047203887246168088"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2047217422537769447",
+    "created_at": "2026-04-23T07:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047217422537769447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790068221397061633",
+          "start": 3,
+          "username": "CZ520000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A7dpSmzcOr",
+          "end": 45,
+          "expanded_url": "https://x.com/CZ520000/status/2047203887246168088/photo/1",
+          "media_key": "3_2047203884935090176",
+          "start": 22,
+          "url": "https://t.co/A7dpSmzcOr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047217422537769447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047203887246168088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CZ520000: 转发→_→男娘 https://t.co/A7dpSmzcOr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047217422537769447].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047217422537769447",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047217422537769447"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2047203884935090176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkhFjhbEAAjeFC.jpg",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047203884935090176"
+          ]
+        },
+        "author_id": "1790068221397061633",
+        "conversation_id": "2047203887246168088",
+        "created_at": "2026-04-23T06:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047203887246168088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7dpSmzcOr",
+              "end": 31,
+              "expanded_url": "https://x.com/CZ520000/status/2047203887246168088/photo/1",
+              "media_key": "3_2047203884935090176",
+              "start": 8,
+              "url": "https://t.co/A7dpSmzcOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047203887246168088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 901,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "转发→_→男娘 https://t.co/A7dpSmzcOr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2273,
+          "following_count": 1096,
+          "like_count": 29748,
+          "listed_count": 7,
+          "media_count": 575,
+          "tweet_count": 6016
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T17:15:08.000Z",
+        "description": "",
+        "id": "1790068221397061633",
+        "name": "曼曼",
+        "pinned_tweet_id": "2045368764556874065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041764347295268864/F7c9w0u-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62050,
+          "following_count": 1,
+          "like_count": 729,
+          "listed_count": 232,
+          "media_count": 49,
+          "tweet_count": 81
+        },
+        "username": "CZ520000",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2060114628554719739",
+    "created_at": "2026-05-29T08:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060271819345838413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1846278003934007296",
+          "start": 0,
+          "username": "thedantelord"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060271819345838413",
+    "in_reply_to_user_id": "1846278003934007296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060114628554719739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thedantelord 但是是真的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2060114628554719739",
+        "created_at": "2026-05-29T08:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060271819345838413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846278003934007296",
+              "start": 0,
+              "username": "thedantelord"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060271819345838413",
+        "in_reply_to_user_id": "1846278003934007296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060114628554719739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thedantelord 但是是真的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846278003934007296",
+        "conversation_id": "2060114628554719739",
+        "created_at": "2026-05-28T21:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T22:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060114628554719739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thedantelord/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/thedantelord/status/2060031630077538514",
+              "start": 67,
+              "url": "https://t.co/P2ewaxYAKr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060114628554719739",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 100454,
+          "like_count": 321,
+          "quote_count": 3,
+          "reply_count": 280,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060031630077538514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Me están re puteando los chinos jijo es un chiste nomas tranquilas https://t.co/P2ewaxYAKr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 1105,
+          "like_count": 30202,
+          "listed_count": 7,
+          "media_count": 582,
+          "tweet_count": 6123
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T19:52:40.000Z",
+        "description": "Youtuber de exito. Veterano de guerra | Teórico del Beyblade |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@octaviopro?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@octaviopro?si=rLKSUGcCMXXI-qp8",
+                "start": 0,
+                "url": "https://t.co/jc0lmfadJN"
+              }
+            ]
+          }
+        },
+        "id": "1846278003934007296",
+        "location": "fab founding member",
+        "name": "thedantelord",
+        "pinned_tweet_id": "1846283965117935766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846280820597706752/PlCu9uY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 229,
+          "like_count": 7256,
+          "listed_count": 2,
+          "media_count": 367,
+          "tweet_count": 4067
+        },
+        "url": "https://t.co/jc0lmfadJN",
+        "username": "thedantelord",
+        "verified": false
+      }
+    ]
+  }
+}

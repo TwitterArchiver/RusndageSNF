@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1957654935287525558",
+    "created_at": "2025-08-19T05:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T06:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957671183857643632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472612806600048641",
+          "start": 0,
+          "username": "haitu223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957671183857643632",
+    "in_reply_to_user_id": "1472612806600048641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957654935287525558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haitu223 真女友啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13421,
+        "height": 1280,
+        "media_key": "7_1957654852462325760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1957654852462325760/pu/img/GAvuYwZGF01biJf9.jpg",
+        "public_metrics": {
+          "view_count": 483
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957654852462325760/pu/vid/avc1/320x568/b1tUrrtlGoowUU6N.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957654852462325760/pu/vid/avc1/480x852/1YsF5tYnKE-MhxYm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1957654852462325760/pu/vid/avc1/720x1280/EEXjuvrOvZNJrklu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1957654852462325760/pu/pl/bGkBA_LhI8Fw-ZtM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1957654935287525558",
+        "created_at": "2025-08-19T05:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957671183857643632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472612806600048641",
+              "start": 0,
+              "username": "haitu223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957671183857643632",
+        "in_reply_to_user_id": "1472612806600048641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957654935287525558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haitu223 真女友啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1957654852462325760"
+          ]
+        },
+        "author_id": "1472612806600048641",
+        "conversation_id": "1957654935287525558",
+        "created_at": "2025-08-19T04:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T05:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957654935287525558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "伊蕾娜"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "ntr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7ADgPqWdz",
+              "end": 99,
+              "expanded_url": "https://x.com/haitu223/status/1957654935287525558/video/1",
+              "media_key": "7_1957654852462325760",
+              "start": 76,
+              "url": "https://t.co/f7ADgPqWdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957654935287525558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1600,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "给各位主人/男娘小可爱看女友的骚穴喵~\n只是轻轻动两下就被插出白浆了~\n关注评论转发随机抽一个幸运男娘下次一起3p喵~（车费自理）\n#伊蕾娜 #ntr https://t.co/f7ADgPqWdz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 1024,
+          "like_count": 27097,
+          "listed_count": 7,
+          "media_count": 493,
+          "tweet_count": 5222
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-19T17:00:34.000Z",
+        "description": "你好，这里是板鸭，来自四川省的萌新coser一枚喵.欢迎各位小可爱私信喵~需要互关和咱说一下~qq28795547门槛40喵~接线下委托和寄拍以及定制原味喵",
+        "id": "1472612806600048641",
+        "location": "你的心里❤~",
+        "name": "小板鸭（求转推）",
+        "pinned_tweet_id": "1940117896832983362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680665248628629504/6978GwBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16071,
+          "following_count": 667,
+          "like_count": 1396,
+          "listed_count": 70,
+          "media_count": 83,
+          "tweet_count": 740
+        },
+        "username": "haitu223",
+        "verified": false
+      }
+    ]
+  }
+}

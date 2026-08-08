@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1967795921409937796",
+    "created_at": "2025-09-16T06:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967834070395785405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1938210111992074240",
+          "start": 0,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967834070395785405",
+    "in_reply_to_user_id": "1938210111992074240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967795921409937796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FJUNNNN 可惜的是，我男朋友现在在北京读大学，要不然的话我肯定找寒涟漪姐姐贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967795904775397376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08D8xabIAAhKYd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967795904750202880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08D8xUasAAEIZZ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967795904758571008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08D8xWaYAActdb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1967795921409937796",
+        "created_at": "2025-09-16T06:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967834070395785405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1938210111992074240",
+              "start": 0,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967834070395785405",
+        "in_reply_to_user_id": "1938210111992074240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967795921409937796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FJUNNNN 可惜的是，我男朋友现在在北京读大学，要不然的话我肯定找寒涟漪姐姐贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967795904775397376",
+            "3_1967795904750202880",
+            "3_1967795904758571008"
+          ]
+        },
+        "author_id": "1938210111992074240",
+        "conversation_id": "1967795921409937796",
+        "created_at": "2025-09-16T03:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T04:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967795921409937796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gUwFw8QuqT",
+              "end": 63,
+              "expanded_url": "https://x.com/FJUNNNN/status/1967795921409937796/photo/1",
+              "media_key": "3_1967795904775397376",
+              "start": 40,
+              "url": "https://t.co/gUwFw8QuqT"
+            },
+            {
+              "display_url": "pic.x.com/gUwFw8QuqT",
+              "end": 63,
+              "expanded_url": "https://x.com/FJUNNNN/status/1967795921409937796/photo/1",
+              "media_key": "3_1967795904750202880",
+              "start": 40,
+              "url": "https://t.co/gUwFw8QuqT"
+            },
+            {
+              "display_url": "pic.x.com/gUwFw8QuqT",
+              "end": 63,
+              "expanded_url": "https://x.com/FJUNNNN/status/1967795921409937796/photo/1",
+              "media_key": "3_1967795904758571008",
+              "start": 40,
+              "url": "https://t.co/gUwFw8QuqT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967795921409937796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8674,
+          "like_count": 106,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家可以来武汉大学人民医院（洪山院区）\n在寒涟漪手臂绷带上签名\n大欢迎wwww https://t.co/gUwFw8QuqT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 1033,
+          "like_count": 27578,
+          "listed_count": 7,
+          "media_count": 510,
+          "tweet_count": 5363
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 295,
+          "like_count": 350,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 191
+        },
+        "username": "FJUNNNN",
+        "verified": false
+      }
+    ]
+  }
+}

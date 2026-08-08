@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1811743582493016163",
+    "created_at": "2024-07-13T06:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T07:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812014134432850006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1632979924209512448",
+          "start": 0,
+          "username": "Snow_Flurrying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812014134432850006",
+    "in_reply_to_user_id": "1632979924209512448",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811743582493016163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Flurrying 晚安，贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1811743582493016163",
+        "created_at": "2024-07-13T06:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T07:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812014134432850006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1632979924209512448",
+              "start": 0,
+              "username": "Snow_Flurrying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812014134432850006",
+        "in_reply_to_user_id": "1632979924209512448",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811743582493016163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Flurrying 晚安，贴贴"
+      },
+      {
+        "attachments": {},
+        "author_id": "1632979924209512448",
+        "conversation_id": "1811743582493016163",
+        "created_at": "2024-07-12T12:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T13:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811743582493016163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CWorker62279/s…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/CWorker62279/status/1809249784718668233",
+              "start": 110,
+              "url": "https://t.co/pM20v2whD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811743582493016163",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2856,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809249784718668233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很难过……不敢相信……\n她是我第一个认识的跨女，也是\n她告诉我该如何hrt\n她帮助我迈出了第一步\n每天的晚安贴每隔几天都会新增，当时问她，什么时候晚安贴才不会更新新的人呢\n没有想到是以这种方式……\n晚安，贴贴酱，贴贴？ https://t.co/pM20v2whD8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 663,
+          "like_count": 14670,
+          "listed_count": 5,
+          "tweet_count": 2571
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T05:42:29.000Z",
+        "description": "☆CatBlessU☆",
+        "id": "1632979924209512448",
+        "location": "距离你19KM",
+        "name": "雪落🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715865026601566208/XVF4xTfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 102,
+          "like_count": 1390,
+          "listed_count": 1,
+          "tweet_count": 265
+        },
+        "username": "Snow_Flurrying",
+        "verified": false
+      }
+    ]
+  }
+}

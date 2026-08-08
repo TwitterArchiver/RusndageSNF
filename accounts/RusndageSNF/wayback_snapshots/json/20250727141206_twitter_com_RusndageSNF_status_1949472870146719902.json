@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1949472545004294316",
+    "created_at": "2025-07-27T14:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T15:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949472870146719902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1580050860498771968",
+          "start": 0,
+          "username": "hilu_7355608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949472870146719902",
+    "in_reply_to_user_id": "1580050860498771968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949472545004294316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hilu_7355608 主要是这帮抽象哥自己搞小团体，我们被排挤走的重新再建个群，然后反倒说我们又搞小团体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1949472545004294316",
+        "created_at": "2025-07-27T14:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T15:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949472870146719902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1580050860498771968",
+              "start": 0,
+              "username": "hilu_7355608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949472870146719902",
+        "in_reply_to_user_id": "1580050860498771968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949472545004294316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hilu_7355608 主要是这帮抽象哥自己搞小团体，我们被排挤走的重新再建个群，然后反倒说我们又搞小团体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580050860498771968",
+        "conversation_id": "1949472545004294316",
+        "created_at": "2025-07-27T14:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T15:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949472545004294316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RusndageSNF/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/RusndageSNF/status/1949423456787009729",
+              "start": 29,
+              "url": "https://t.co/QH5IXbDmRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949472545004294316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949423456787009729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我虽然不知道事情全貌。但是小团体一定是没有任何包容性的。 https://t.co/QH5IXbDmRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 1013,
+          "like_count": 26822,
+          "listed_count": 7,
+          "media_count": 482,
+          "tweet_count": 5145
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T04:21:01.000Z",
+        "description": "友人顺人/是个音游人/疑似AS，冒犯到你提前抱歉/可以叫我昼/需要回fo请私信/开放式关系/羡慕每一个会做饭的人/更多成分在主页置顶/如果愿意来咱的小群水群，咱会很开心/最最最最喜欢的宝宝@han_zi53015 /Damn this fucking world",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 94,
+                "username": "han_zi53015"
+              }
+            ]
+          }
+        },
+        "id": "1580050860498771968",
+        "location": "距离你的当前定位26m",
+        "name": "ひる",
+        "pinned_tweet_id": "1946198832154644712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763180266330492928/-z9GzXST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 631,
+          "like_count": 8649,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 3309
+        },
+        "username": "hilu_7355608",
+        "verified": false
+      }
+    ]
+  }
+}

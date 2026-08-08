@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2034412526587310361",
+    "created_at": "2026-03-19T23:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T00:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034780671303196891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1737771740313587713",
+          "start": 0,
+          "username": "hai7926"
+        },
+        {
+          "end": 24,
+          "id": "1534773109940789248",
+          "start": 9,
+          "username": "rainchngshainn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034780671303196891",
+    "in_reply_to_user_id": "1737771740313587713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034436093832286589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hai7926 @rainchngshainn 法律好像允许有性别不一致的诊断/证明的跨性别进入对应的厕所的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2034412526587310361",
+        "created_at": "2026-03-19T23:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T00:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034780671303196891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1737771740313587713",
+              "start": 0,
+              "username": "hai7926"
+            },
+            {
+              "end": 24,
+              "id": "1534773109940789248",
+              "start": 9,
+              "username": "rainchngshainn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034780671303196891",
+        "in_reply_to_user_id": "1737771740313587713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034436093832286589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hai7926 @rainchngshainn 法律好像允许有性别不一致的诊断/证明的跨性别进入对应的厕所的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737771740313587713",
+        "conversation_id": "2034412526587310361",
+        "created_at": "2026-03-19T01:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034436093832286589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1534773109940789248",
+              "start": 0,
+              "username": "rainchngshainn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034436093832286589",
+        "in_reply_to_user_id": "1534773109940789248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9344,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034412526587310361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainchngshainn 为什么法律允许，其实第三卫生间就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 1080,
+          "like_count": 29288,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5841
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T09:47:50.000Z",
+        "description": "已经是18岁老人家了                                                                 \n\n提问箱，什么想问的都可以哦🤤→https://t.co/B76X4yPzg5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=a47988…",
+                "end": 115,
+                "expanded_url": "https://dreamail.cn/send?dm=a47988dc-c01e-4c6e-a202-02c010a62648",
+                "start": 92,
+                "url": "https://t.co/B76X4yPzg5"
+              }
+            ]
+          }
+        },
+        "id": "1737771740313587713",
+        "name": "花",
+        "pinned_tweet_id": "1901346610275340591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891136154382254080/eZLkDGVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 245,
+          "like_count": 1015,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 627
+        },
+        "username": "hai7926",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-09T05:43:39.000Z",
+        "description": "一位神秘的mtf ≽^•⩊•^≼ 🇨🇦 大一生物在读，分享一些日常, 中/Eng/日, 欢迎同类互fo， よろしくお願い！",
+        "id": "1534773109940789248",
+        "location": "Toronto, Ontario",
+        "name": "Rainchngshainn 云欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951680042330890240/9ErV2EFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 489,
+          "like_count": 4521,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 625
+        },
+        "username": "rainchngshainn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1968265585504170231",
+    "created_at": "2025-09-17T12:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T13:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968296356281561495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1515859446492061696",
+          "start": 0,
+          "username": "xb2002b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968296356281561495",
+    "in_reply_to_user_id": "1515859446492061696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968270727607697867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xb2002b 回家了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1968265585504170231",
+        "created_at": "2025-09-17T12:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T13:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968296356281561495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1515859446492061696",
+              "start": 0,
+              "username": "xb2002b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968296356281561495",
+        "in_reply_to_user_id": "1515859446492061696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968270727607697867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xb2002b 回家了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515859446492061696",
+        "conversation_id": "1968265585504170231",
+        "created_at": "2025-09-17T11:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968270727607697867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968270727607697867",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968265585504170231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 多吃点晚上继续战斗（什）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 1035,
+          "like_count": 27604,
+          "listed_count": 7,
+          "media_count": 517,
+          "tweet_count": 5377
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T01:07:24.000Z",
+        "description": "Amateur translator. Chinese and English are accepted.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xb2002b",
+                "end": 23,
+                "expanded_url": "http://github.com/xb2002b",
+                "start": 0,
+                "url": "https://t.co/UqLMrfOvOb"
+              }
+            ]
+          }
+        },
+        "id": "1515859446492061696",
+        "location": "雾之湖",
+        "name": "xb2002b",
+        "pinned_tweet_id": "1957814333725110738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862515176429219840/D4ZJXH3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 107,
+          "like_count": 44035,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 1218
+        },
+        "url": "https://t.co/UqLMrfOvOb",
+        "username": "xb2002b",
+        "verified": false
+      }
+    ]
+  }
+}

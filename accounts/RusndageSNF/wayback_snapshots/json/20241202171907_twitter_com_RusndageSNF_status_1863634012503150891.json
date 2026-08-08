@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1863633996439003136"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "1863634012503150891",
+    "created_at": "2024-12-02T17:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T18:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863634012503150891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HQ5euthXrA",
+          "end": 23,
+          "expanded_url": "https://x.com/RusndageSNF/status/1863634012503150891/video/1",
+          "media_key": "7_1863633996439003136",
+          "start": 0,
+          "url": "https://t.co/HQ5euthXrA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863634012503150891",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/HQ5euthXrA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1532,
+        "height": 960,
+        "media_key": "7_1863633996439003136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1863633996439003136/pu/img/Q0JqR4umK3KDqIOt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1863633996439003136/pu/vid/avc1/320x426/rwTWY_ht49J6hlOc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1863633996439003136/pu/vid/avc1/480x640/OeeMQWOp8mm2c7NE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1863633996439003136/pu/vid/avc1/720x960/ci6wOmsIzokrmhBu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1863633996439003136/pu/pl/tq0q-gj9N-HPdAw2.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1863633996439003136"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "1863634012503150891",
+        "created_at": "2024-12-02T17:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T18:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863634012503150891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQ5euthXrA",
+              "end": 23,
+              "expanded_url": "https://x.com/RusndageSNF/status/1863634012503150891/video/1",
+              "media_key": "7_1863633996439003136",
+              "start": 0,
+              "url": "https://t.co/HQ5euthXrA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863634012503150891",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HQ5euthXrA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 759,
+          "like_count": 19745,
+          "listed_count": 4,
+          "media_count": 311,
+          "tweet_count": 3343
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

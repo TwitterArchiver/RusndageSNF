@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052342530113728512"
+      ],
+      "media_source_tweet_id": [
+        "2052342538011607141"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2052664928188908022",
+    "created_at": "2026-05-08T08:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T09:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052664928188908022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1665595126687883266",
+          "start": 3,
+          "username": "SS_resta2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OomYsQrXTI",
+          "end": 40,
+          "expanded_url": "https://x.com/SS_resta2/status/2052342538011607141/photo/1",
+          "media_key": "3_2052342530113728512",
+          "start": 17,
+          "url": "https://t.co/OomYsQrXTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052664928188908022",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 460
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052342538011607141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SS_resta2: 🚭 https://t.co/OomYsQrXTI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2886,
+        "media_key": "3_2052342530113728512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtiqEja8AAPIQW.jpg",
+        "width": 2746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052342530113728512"
+          ],
+          "media_source_tweet_id": [
+            "2052342538011607141"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2052664928188908022",
+        "created_at": "2026-05-08T08:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052664928188908022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1665595126687883266",
+              "start": 3,
+              "username": "SS_resta2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OomYsQrXTI",
+              "end": 40,
+              "expanded_url": "https://x.com/SS_resta2/status/2052342538011607141/photo/1",
+              "media_key": "3_2052342530113728512",
+              "start": 17,
+              "url": "https://t.co/OomYsQrXTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052664928188908022",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 460
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052342538011607141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SS_resta2: 🚭 https://t.co/OomYsQrXTI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052342530113728512"
+          ]
+        },
+        "author_id": "1665595126687883266",
+        "conversation_id": "2052342538011607141",
+        "created_at": "2026-05-07T10:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052342538011607141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OomYsQrXTI",
+              "end": 25,
+              "expanded_url": "https://x.com/SS_resta2/status/2052342538011607141/photo/1",
+              "media_key": "3_2052342530113728512",
+              "start": 2,
+              "url": "https://t.co/OomYsQrXTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052342538011607141",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 298,
+          "impression_count": 31142,
+          "like_count": 4083,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 460
+        },
+        "reply_settings": "everyone",
+        "text": "🚭 https://t.co/OomYsQrXTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 1100,
+          "like_count": 29937,
+          "listed_count": 8,
+          "media_count": 578,
+          "tweet_count": 6069
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T05:43:38.000Z",
+        "description": "ﾌｧﾝｱｰﾄ🏷#えす太ﾓﾝ 🎀🐰ｻﾌﾞﾀｸﾞ #れす太民と繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 7,
+                "tag": "えす太ﾓﾝ"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "tag": "れす太民と繋がりたい"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/S/shop/sticker…",
+                "end": 23,
+                "expanded_url": "https://line.me/S/shop/sticker/author/1793201/top?lang=ja&utm_source=gnsh_staut",
+                "start": 0,
+                "url": "https://t.co/LTLFfLPoyF"
+              }
+            ]
+          }
+        },
+        "id": "1665595126687883266",
+        "location": "⤵️LINEスタンプとアクキー販売してますのだ‼️",
+        "name": "れす太ﾓﾝ",
+        "pinned_tweet_id": "2007714236500525548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050627280003801088/UDnEukhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7473,
+          "following_count": 346,
+          "like_count": 12772,
+          "listed_count": 42,
+          "media_count": 308,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/LTLFfLPoyF",
+        "username": "SS_resta2",
+        "verified": false
+      }
+    ]
+  }
+}

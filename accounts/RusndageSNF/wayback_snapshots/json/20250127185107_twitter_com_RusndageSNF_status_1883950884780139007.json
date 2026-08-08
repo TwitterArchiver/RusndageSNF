@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1883881521129615857",
+    "created_at": "2025-01-27T18:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T19:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883950884780139007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1059638356609396736",
+          "start": 0,
+          "username": "myfxtrader"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883950884780139007",
+    "in_reply_to_user_id": "1059638356609396736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883881521129615857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myfxtrader 因为政治是个人都能接触到并且有资格去谈论的，但是数学不会是真不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1883881521129615857",
+        "created_at": "2025-01-27T18:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T19:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883950884780139007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1059638356609396736",
+              "start": 0,
+              "username": "myfxtrader"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883950884780139007",
+        "in_reply_to_user_id": "1059638356609396736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883881521129615857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myfxtrader 因为政治是个人都能接触到并且有资格去谈论的，但是数学不会是真不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1059638356609396736",
+        "conversation_id": "1883881521129615857",
+        "created_at": "2025-01-27T14:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T15:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883881521129615857"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "观察"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883881521129615857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 69990,
+          "like_count": 409,
+          "quote_count": 5,
+          "reply_count": 47,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "#观察 当真正的竞争到来时，每个人都喜欢把话题转向政治。可笑😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 871,
+          "like_count": 22257,
+          "listed_count": 7,
+          "media_count": 369,
+          "tweet_count": 3928
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-06T02:47:26.000Z",
+        "description": "盯紧市场，把握时机。理性客观，利益永恒。",
+        "id": "1059638356609396736",
+        "location": "Hong Kong",
+        "name": "外汇交易员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1230373331724947458/8LlXOtfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327916,
+          "following_count": 459,
+          "like_count": 7033,
+          "listed_count": 2951,
+          "media_count": 10984,
+          "tweet_count": 35981
+        },
+        "username": "myfxtrader",
+        "verified": true
+      }
+    ]
+  }
+}

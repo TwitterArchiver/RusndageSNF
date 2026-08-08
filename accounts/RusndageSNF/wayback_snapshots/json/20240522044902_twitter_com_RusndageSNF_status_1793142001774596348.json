@@ -1,0 +1,228 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1793108473816944667",
+    "created_at": "2024-05-22T04:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T05:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793142001774596348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645782504157364224",
+          "start": 0,
+          "username": "0Shimokitazawa0"
+        },
+        {
+          "end": 33,
+          "id": "1676161442980982784",
+          "start": 17,
+          "username": "foudingjingling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793142001774596348",
+    "in_reply_to_user_id": "1645782504157364224",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793139361544069512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0Shimokitazawa0 @foudingjingling 你好大雄，被干的爽吗傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1793108473816944667",
+        "created_at": "2024-05-22T04:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T05:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793142001774596348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645782504157364224",
+              "start": 0,
+              "username": "0Shimokitazawa0"
+            },
+            {
+              "end": 33,
+              "id": "1676161442980982784",
+              "start": 17,
+              "username": "foudingjingling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793142001774596348",
+        "in_reply_to_user_id": "1645782504157364224",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793139361544069512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0Shimokitazawa0 @foudingjingling 你好大雄，被干的爽吗傻逼"
+      },
+      {
+        "attachments": {},
+        "author_id": "1645782504157364224",
+        "conversation_id": "1793108473816944667",
+        "created_at": "2024-05-22T04:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T05:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793139361544069512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 29,
+              "id": "1676161442980982784",
+              "start": 13,
+              "username": "foudingjingling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793139361544069512",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793138546494329071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @foudingjingling 胖虎你好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 647,
+          "like_count": 13400,
+          "listed_count": 5,
+          "tweet_count": 2301
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T13:35:13.000Z",
+        "description": "大麦果汁爱好者，不负责照顾情绪。",
+        "id": "1645782504157364224",
+        "name": "真夏夜の鍋夢",
+        "pinned_tweet_id": "1760666256498421791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782448159555497984/Uq80YN9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 371,
+          "like_count": 800,
+          "listed_count": 0,
+          "tweet_count": 6582
+        },
+        "username": "0Shimokitazawa0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T09:30:17.000Z",
+        "description": "中/Eng/Male/18/🏳️‍🌈pansexual/CS/freshman in a mediocre uni/philosophy /Need a hug/want more friends/know more in private/love all of you",
+        "id": "1676161442980982784",
+        "location": "Peking/Beijing(location of uni",
+        "name": "Ice Cream",
+        "pinned_tweet_id": "1789329387034210469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792984023805075457/Pr0QvriD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 1341,
+          "like_count": 19497,
+          "listed_count": 3,
+          "tweet_count": 9454
+        },
+        "username": "foudingjingling",
+        "verified": false
+      }
+    ]
+  }
+}

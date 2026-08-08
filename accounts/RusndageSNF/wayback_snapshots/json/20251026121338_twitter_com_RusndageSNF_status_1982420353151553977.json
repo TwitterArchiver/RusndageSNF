@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1981949274721272046",
+    "created_at": "2025-10-26T12:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T13:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982420353151553977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1819724503444066304",
+          "start": 0,
+          "username": "Ayyyyyyyysh"
+        },
+        {
+          "end": 22,
+          "id": "1247769753097101318",
+          "start": 13,
+          "username": "X09COTCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982420353151553977",
+    "in_reply_to_user_id": "1819724503444066304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982101360373051687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayyyyyyyysh @X09COTCC 你妈死了往往是你不知道不知情的，要不为什么你说话这个B味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1981949274721272046",
+        "created_at": "2025-10-26T12:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T13:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982420353151553977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1819724503444066304",
+              "start": 0,
+              "username": "Ayyyyyyyysh"
+            },
+            {
+              "end": 22,
+              "id": "1247769753097101318",
+              "start": 13,
+              "username": "X09COTCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982420353151553977",
+        "in_reply_to_user_id": "1819724503444066304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982101360373051687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayyyyyyyysh @X09COTCC 你妈死了往往是你不知道不知情的，要不为什么你说话这个B味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819724503444066304",
+        "conversation_id": "1981949274721272046",
+        "created_at": "2025-10-25T15:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T16:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982101360373051687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247769753097101318",
+              "start": 0,
+              "username": "X09COTCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982101360373051687",
+        "in_reply_to_user_id": "1247769753097101318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3373,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981949274721272046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X09COTCC 真正有精神问题的人，往往是不知道不知情的，他们就算知道了也不会承认"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 1044,
+          "like_count": 27889,
+          "listed_count": 7,
+          "media_count": 527,
+          "tweet_count": 5483
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T13:18:34.000Z",
+        "description": "Personne ne sait ce qui est juste, alors disons simplement que tout est faux.",
+        "id": "1819724503444066304",
+        "location": "France, Gascogne",
+        "name": "変人",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 4736,
+          "like_count": 1961,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 988
+        },
+        "username": "Ayyyyyyyysh",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T06:15:29.000Z",
+        "description": "tell me who i am",
+        "id": "1247769753097101318",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "太阳瓜",
+        "pinned_tweet_id": "1977037026026524749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976459986567053312/fJpGKW31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7526,
+          "following_count": 1756,
+          "like_count": 155997,
+          "listed_count": 18,
+          "media_count": 1269,
+          "tweet_count": 43814
+        },
+        "username": "X09COTCC",
+        "verified": false
+      }
+    ]
+  }
+}

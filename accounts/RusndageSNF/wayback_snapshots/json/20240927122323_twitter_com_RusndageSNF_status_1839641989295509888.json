@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1839639025424204044",
+    "created_at": "2024-09-27T12:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T13:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839641989295509888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1818920358403256320",
+          "start": 0,
+          "username": "lxy240316"
+        },
+        {
+          "end": 26,
+          "id": "1723715289723092992",
+          "start": 11,
+          "username": "CharmingFurina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839641989295509888",
+    "in_reply_to_user_id": "1818920358403256320",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839639025424204044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxy240316 @CharmingFurina 我那个傻逼高中他妈的连超市都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1839639025424204044",
+        "created_at": "2024-09-27T12:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T13:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839641989295509888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1818920358403256320",
+              "start": 0,
+              "username": "lxy240316"
+            },
+            {
+              "end": 26,
+              "id": "1723715289723092992",
+              "start": 11,
+              "username": "CharmingFurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839641989295509888",
+        "in_reply_to_user_id": "1818920358403256320",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839639025424204044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxy240316 @CharmingFurina 我那个傻逼高中他妈的连超市都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818920358403256320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1839639025424204044",
+        "created_at": "2024-09-27T12:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T13:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839639025424204044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "1723715289723092992",
+              "start": 32,
+              "username": "CharmingFurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839639025424204044",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "介于最近我的学校（西南大学附中）所发生的事情，有必进行揭露\n学长＠CharmingFurina可作证\n1.在高一年级开展前所未有的军训\n2.由于扩招过度，现在教室快不够用，将图书馆拆了建教室\n3.由于某些家长举报，将学校商店内所有饮料，大部分零食下架，并不允许住读生外出购买。而食堂多次被举报却从不整改"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️，暂时和 @MuFengkana 住在一起\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 717,
+          "like_count": 17414,
+          "listed_count": 5,
+          "tweet_count": 2975
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "生日20100414/mtf/xyn/无证含糖/HRT20240316/ChOer/163cm 47kg",
+        "id": "1818920358403256320",
+        "location": "重庆",
+        "name": "萱雨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819968967810670592/_cPCjwdy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 442,
+          "like_count": 604,
+          "listed_count": 0,
+          "tweet_count": 45
+        },
+        "username": "lxy240316",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T14:52:12.000Z",
+        "description": "💙中推第一芙門信徒💙/互fo🥰/重慶07男高/高二/理科生/日常清水推/溫和藍色&和統派(不會鍵政的請放心👌🏻)/183cm 62kg/喜歡澀澀/數學/語言學/漢字文化圈/東亞歷史及文化/架空歷史/主玩原神•崩鐵/友LGBT/漢英日韓泰語可/會發自拍/逃生艙•政治帳•偶爾碎碎念@Furina_Thailand",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 139,
+                "username": "Furina_Thailand"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/charmingfurina",
+                "end": 23,
+                "expanded_url": "http://ngl.link/charmingfurina",
+                "start": 0,
+                "url": "https://t.co/Y8AOwF2rRY"
+              }
+            ]
+          }
+        },
+        "id": "1723715289723092992",
+        "location": "勝利路 平壤市 平安南道 大韓民國🇰🇷",
+        "name": "💙迷人的芙芙💙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837364617921855488/zGJNcoY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 2626,
+          "like_count": 50817,
+          "listed_count": 5,
+          "tweet_count": 9007
+        },
+        "url": "https://t.co/Y8AOwF2rRY",
+        "username": "CharmingFurina",
+        "verified": false
+      }
+    ]
+  }
+}

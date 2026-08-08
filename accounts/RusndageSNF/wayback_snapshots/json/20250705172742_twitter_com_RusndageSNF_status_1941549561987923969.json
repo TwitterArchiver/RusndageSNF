@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1941535872043843588",
+    "created_at": "2025-07-05T17:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T18:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941549561987923969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1364519178170892298",
+          "start": 0,
+          "username": "SS7D_0015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941549561987923969",
+    "in_reply_to_user_id": "1364519178170892298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941535872043843588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SS7D_0015 我觉得你需要现在去医院"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1941535868566765570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvG4lfSaAAIb7gX.jpg",
+        "width": 2133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1941535872043843588",
+        "created_at": "2025-07-05T17:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T18:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941549561987923969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1364519178170892298",
+              "start": 0,
+              "username": "SS7D_0015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941549561987923969",
+        "in_reply_to_user_id": "1364519178170892298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941535872043843588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SS7D_0015 我觉得你需要现在去医院"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941535868566765570"
+          ]
+        },
+        "author_id": "1364519178170892298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1941535872043843588",
+        "created_at": "2025-07-05T16:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T17:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941535872043843588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/04TlfoaXri",
+              "end": 30,
+              "expanded_url": "https://x.com/SS7D_0015/status/1941535872043843588/photo/1",
+              "media_key": "3_1941535868566765570",
+              "start": 7,
+              "url": "https://t.co/04TlfoaXri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941535872043843588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的胃，，， https://t.co/04TlfoaXri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 991,
+          "like_count": 26223,
+          "listed_count": 8,
+          "media_count": 450,
+          "tweet_count": 4922
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-24T10:15:27.000Z",
+        "description": "❤️@_NekoKage HRT 2020.10.28 与你进退也共鸣。 裡@SS7E_0020",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "_NekoKage"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "SS7E_0020"
+              }
+            ]
+          }
+        },
+        "id": "1364519178170892298",
+        "location": "西安東站",
+        "name": "VSpook阿语.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935304538548015104/aBLg7IW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 302,
+          "like_count": 1623,
+          "listed_count": 8,
+          "media_count": 1117,
+          "tweet_count": 6547
+        },
+        "username": "SS7D_0015",
+        "verified": false
+      }
+    ]
+  }
+}

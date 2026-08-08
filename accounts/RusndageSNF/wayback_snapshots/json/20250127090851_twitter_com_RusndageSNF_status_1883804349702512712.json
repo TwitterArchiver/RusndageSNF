@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1883757941024788892",
+    "created_at": "2025-01-27T09:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T10:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883804349702512712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1661038832941252610",
+          "start": 0,
+          "username": "deuxexmachina11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883804349702512712",
+    "in_reply_to_user_id": "1661038832941252610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883798070946865377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deuxexmachina11 不吹不黑，确实猛，但是现在可能用的人太多了，有的时候没反应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1883757941024788892",
+        "created_at": "2025-01-27T09:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T10:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883804349702512712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661038832941252610",
+              "start": 0,
+              "username": "deuxexmachina11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883804349702512712",
+        "in_reply_to_user_id": "1661038832941252610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883798070946865377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deuxexmachina11 不吹不黑，确实猛，但是现在可能用的人太多了，有的时候没反应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661038832941252610",
+        "conversation_id": "1883757941024788892",
+        "created_at": "2025-01-27T08:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T09:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883798070946865377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883798070946865377",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883757941024788892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF deepseek理科题/英语题都很强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 866,
+          "like_count": 22215,
+          "listed_count": 7,
+          "media_count": 369,
+          "tweet_count": 3922
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T15:58:28.000Z",
+        "description": "",
+        "id": "1661038832941252610",
+        "location": "银河联邦自由地区",
+        "name": "403💙💛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661038898682765312/b6QmPbIR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 230,
+          "like_count": 1186,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "username": "deuxexmachina11",
+        "verified": false
+      }
+    ]
+  }
+}

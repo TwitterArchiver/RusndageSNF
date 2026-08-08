@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1958389766669713541",
+    "created_at": "2025-08-21T17:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T18:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958583449935388895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1706957692282249216",
+          "start": 0,
+          "username": "XiaWan27472"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958583449935388895",
+    "in_reply_to_user_id": "1706957692282249216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958389766669713541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaWan27472 是tmd整个互联网都是傻逼，因为上网门槛太低了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1238,
+        "media_key": "3_1958389753549824000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy2ZGtgaIAApsx7.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1958389766669713541",
+        "created_at": "2025-08-21T17:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T18:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958583449935388895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1706957692282249216",
+              "start": 0,
+              "username": "XiaWan27472"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958583449935388895",
+        "in_reply_to_user_id": "1706957692282249216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958389766669713541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaWan27472 是tmd整个互联网都是傻逼，因为上网门槛太低了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958389753549824000"
+          ]
+        },
+        "author_id": "1706957692282249216",
+        "conversation_id": "1958389766669713541",
+        "created_at": "2025-08-21T04:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T05:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958389766669713541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PLqG1azbAG",
+              "end": 33,
+              "expanded_url": "https://x.com/XiaWan27472/status/1958389766669713541/photo/1",
+              "media_key": "3_1958389753549824000",
+              "start": 10,
+              "url": "https://t.co/PLqG1azbAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958389766669713541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 49653,
+          "like_count": 424,
+          "quote_count": 2,
+          "reply_count": 80,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "这个网友说得对么？ https://t.co/PLqG1azbAG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 1024,
+          "like_count": 27152,
+          "listed_count": 7,
+          "media_count": 494,
+          "tweet_count": 5240
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T09:03:41.000Z",
+        "description": "山城辣妹子。",
+        "id": "1706957692282249216",
+        "location": "来自长江边，山城辣妹子",
+        "name": "夏天晚风吹",
+        "pinned_tweet_id": "1863238849041997871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906641708882034688/8Cqx7CSG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13928,
+          "following_count": 1032,
+          "like_count": 10323,
+          "listed_count": 74,
+          "media_count": 1395,
+          "tweet_count": 17518
+        },
+        "username": "XiaWan27472",
+        "verified": false
+      }
+    ]
+  }
+}

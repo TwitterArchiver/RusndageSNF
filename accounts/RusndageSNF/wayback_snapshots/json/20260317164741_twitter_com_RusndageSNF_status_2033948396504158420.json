@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2033880196802330667",
+    "created_at": "2026-03-17T16:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T17:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033948396504158420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025993842680598528",
+          "start": 0,
+          "username": "edxb666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033948396504158420",
+    "in_reply_to_user_id": "2025993842680598528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033880196802330667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@edxb666666 抱抱亲亲了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 151333,
+        "height": 720,
+        "media_key": "13_2033873094293729280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033873094293729280/img/Mzk-UL7RAuxKxuyA.jpg",
+        "public_metrics": {
+          "view_count": 1331
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033873094293729280/vid/avc1/480x270/JTyZFD0Tzorn3ltI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033873094293729280/vid/avc1/640x360/D9EB6B6swWqrrBc6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033873094293729280/vid/avc1/1280x720/O36aJ83i5BWJMmcq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033873094293729280/pl/5J8-hwuzt3Ng1YOi.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2033880196802330667",
+        "created_at": "2026-03-17T16:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033948396504158420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025993842680598528",
+              "start": 0,
+              "username": "edxb666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033948396504158420",
+        "in_reply_to_user_id": "2025993842680598528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033880196802330667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edxb666666 抱抱亲亲了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033873094293729280"
+          ]
+        },
+        "author_id": "2025993842680598528",
+        "conversation_id": "2033880196802330667",
+        "created_at": "2026-03-17T12:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T13:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033880196802330667"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "女高母狗"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "变态"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "女同"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "wlw"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "le"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zu1HWI5V21",
+              "end": 151,
+              "expanded_url": "https://x.com/edxb666666/status/2033880196802330667/video/1",
+              "media_key": "13_2033873094293729280",
+              "start": 128,
+              "url": "https://t.co/Zu1HWI5V21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033880196802330667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 3011,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "前天穿完蒂环和炮友在公厕拍的…我们走着走着 她突然说一句：\n你还没让我玩奶奶（我忘记自己答应她见面可以玩了） 我俩拍的时候在闲聊所以消音了 哦对 她问我之前发的和她拍的视频有没有人夸她手好看…这期你们快夸夸！ #女高母狗 #变态 #女同 #wlw #le https://t.co/Zu1HWI5V21"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 1078,
+          "like_count": 29235,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5813
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T17:59:18.000Z",
+        "description": "09高中生不定期更新 喜欢尝试各种大玩具玩扩张会画点画的暴露癖变态女同 别质疑我取向 拍摄一切内容均出于爱好且均为免费🚫ai 无门槛 扩列可私 随缘加 （炮友仅有一位 目前只和她做",
+        "id": "2025993842680598528",
+        "location": "广州",
+        "name": "Edxb🔞（复活复健版",
+        "pinned_tweet_id": "2030671688015233131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025993970757890048/8vui9Jh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4283,
+          "following_count": 136,
+          "like_count": 527,
+          "listed_count": 9,
+          "media_count": 24,
+          "tweet_count": 202
+        },
+        "username": "edxb666666",
+        "verified": false
+      }
+    ]
+  }
+}

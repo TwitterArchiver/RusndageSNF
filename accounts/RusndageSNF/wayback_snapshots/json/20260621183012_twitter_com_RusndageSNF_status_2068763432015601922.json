@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068739192243564544"
+      ],
+      "media_source_tweet_id": [
+        "2068739210555916426"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "2068763432015601922",
+    "created_at": "2026-06-21T18:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068763432015601922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650498704812437504",
+          "start": 3,
+          "username": "xxjuzi091123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jffCWeDAVT",
+          "end": 54,
+          "expanded_url": "https://x.com/xxjuzi091123/status/2068739210555916426/video/1",
+          "media_key": "13_2068739192243564544",
+          "start": 31,
+          "url": "https://t.co/jffCWeDAVT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068763432015601922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068739210555916426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxjuzi091123: 京介好强 我要学京介吸烟 https://t.co/jffCWeDAVT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5176,
+        "height": 1280,
+        "media_key": "13_2068739192243564544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068739192243564544/img/VYYP3u2R_5rg4jRU.jpg",
+        "public_metrics": {
+          "view_count": 53
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068739192243564544/vid/avc1/320x568/8NDGPtWVtAfcJ7xO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068739192243564544/vid/avc1/480x852/9AhXWMIQE3fbduw1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068739192243564544/vid/avc1/720x1280/34r7_YLwF8Wgqmwf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068739192243564544/pl/WxRXFdDqqqTqXN1s.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068739192243564544"
+          ],
+          "media_source_tweet_id": [
+            "2068739210555916426"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "2068763432015601922",
+        "created_at": "2026-06-21T18:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068763432015601922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650498704812437504",
+              "start": 3,
+              "username": "xxjuzi091123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jffCWeDAVT",
+              "end": 54,
+              "expanded_url": "https://x.com/xxjuzi091123/status/2068739210555916426/video/1",
+              "media_key": "13_2068739192243564544",
+              "start": 31,
+              "url": "https://t.co/jffCWeDAVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068763432015601922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068739210555916426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxjuzi091123: 京介好强 我要学京介吸烟 https://t.co/jffCWeDAVT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068739192243564544"
+          ]
+        },
+        "author_id": "1650498704812437504",
+        "conversation_id": "2068739210555916426",
+        "created_at": "2026-06-21T16:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068739210555916426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jffCWeDAVT",
+              "end": 36,
+              "expanded_url": "https://x.com/xxjuzi091123/status/2068739210555916426/video/1",
+              "media_key": "13_2068739192243564544",
+              "start": 13,
+              "url": "https://t.co/jffCWeDAVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068739210555916426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "京介好强 我要学京介吸烟 https://t.co/jffCWeDAVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 1110,
+          "like_count": 30597,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 6179
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T13:55:57.000Z",
+        "description": "2009.11.23 hrt2024.2.25 也许是家长党 坐标河北 大部分时间都在玩apex 也许是树洞 可以私信给我🥰 会互fo 祝你拥有一个美好的一天",
+        "id": "1650498704812437504",
+        "location": "河北",
+        "name": "橘子ay🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836909720642125825/zOdhE63W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 712,
+          "like_count": 212,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1108
+        },
+        "url": "",
+        "username": "xxjuzi091123",
+        "verified": false
+      }
+    ]
+  }
+}

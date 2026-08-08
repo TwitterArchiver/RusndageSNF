@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1902298104365510891",
+    "created_at": "2025-03-19T11:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T12:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902320072678633823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1701530505525780480",
+          "start": 0,
+          "username": "yaupwp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902320072678633823",
+    "in_reply_to_user_id": "1701530505525780480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902298104365510891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaupwp 呜呜呜呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1902298101206892544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmZSC1NWQAAFGM7.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1902298104365510891",
+        "created_at": "2025-03-19T11:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T12:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902320072678633823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1701530505525780480",
+              "start": 0,
+              "username": "yaupwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902320072678633823",
+        "in_reply_to_user_id": "1701530505525780480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902298104365510891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaupwp 呜呜呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902298101206892544"
+          ]
+        },
+        "author_id": "1701530505525780480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1902298104365510891",
+        "created_at": "2025-03-19T09:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T10:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902298104365510891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1901130557087772674/L8NgPNC4?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1901130557087772674/L8NgPNC4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/vkEer9y5Kn"
+            },
+            {
+              "display_url": "pic.x.com/ZGOntpjtnF",
+              "end": 64,
+              "expanded_url": "https://x.com/yaupwp/status/1902298104365510891/photo/1",
+              "media_key": "3_1902298101206892544",
+              "start": 41,
+              "url": "https://t.co/ZGOntpjtnF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902298104365510891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/vkEer9y5Kn https://t.co/ZGOntpjtnF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 903,
+          "like_count": 23269,
+          "listed_count": 6,
+          "media_count": 402,
+          "tweet_count": 4208
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T09:38:03.000Z",
+        "description": "MtX",
+        "id": "1701530505525780480",
+        "location": "疯狂宇宙•天国",
+        "name": "元bao",
+        "pinned_tweet_id": "1873832270777532902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872720939395559424/YxaztM_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 1002,
+          "like_count": 6641,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 2126
+        },
+        "username": "yaupwp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1942693023936307217",
+    "created_at": "2025-07-08T21:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T22:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942697651612573895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1444640763070005251",
+          "start": 0,
+          "username": "hqin_chihiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942697651612573895",
+    "in_reply_to_user_id": "1444640763070005251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942693023936307217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hqin_chihiro 那属实是很惨了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1942693023936307217",
+        "created_at": "2025-07-08T21:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T22:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942697651612573895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1444640763070005251",
+              "start": 0,
+              "username": "hqin_chihiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942697651612573895",
+        "in_reply_to_user_id": "1444640763070005251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942693023936307217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hqin_chihiro 那属实是很惨了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444640763070005251",
+        "conversation_id": "1942693023936307217",
+        "created_at": "2025-07-08T21:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T22:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942693023936307217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942693023936307217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校附近也是开了个k，思考了好一会要不要弄张早餐卡\n结果突然想起来还有一周就放假了，老家住的地方离k十万八千里远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 996,
+          "like_count": 26335,
+          "listed_count": 8,
+          "media_count": 455,
+          "tweet_count": 4972
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "",
+        "id": "1444640763070005251",
+        "location": "Shenyang City, China",
+        "name": "hqin🎲",
+        "pinned_tweet_id": "1704143724668752295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923666854490304512/knaiYqk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 893,
+          "like_count": 13906,
+          "listed_count": 5,
+          "media_count": 512,
+          "tweet_count": 7366
+        },
+        "username": "hqin_chihiro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1959848596792393981",
+    "created_at": "2025-08-25T18:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T19:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960051566960107680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798442428548194304",
+          "start": 0,
+          "username": "LeoRGB030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960051566960107680",
+    "in_reply_to_user_id": "1798442428548194304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960031941060968583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeoRGB030 我无所谓的，别人愿意嘲笑我，就嘲笑我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1959848596792393981",
+        "created_at": "2025-08-25T18:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T19:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960051566960107680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798442428548194304",
+              "start": 0,
+              "username": "LeoRGB030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960051566960107680",
+        "in_reply_to_user_id": "1798442428548194304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960031941060968583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoRGB030 我无所谓的，别人愿意嘲笑我，就嘲笑我吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798442428548194304",
+        "conversation_id": "1959848596792393981",
+        "created_at": "2025-08-25T17:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T18:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960031941060968583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960031941060968583",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959848596792393981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 你还发网上！（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 1030,
+          "like_count": 27214,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 5266
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T19:51:11.000Z",
+        "description": "",
+        "id": "1798442428548194304",
+        "name": "LeoRGB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798442463251795969/JXykA-Ev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 213,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "LeoRGB030",
+        "verified": false
+      }
+    ]
+  }
+}

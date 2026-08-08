@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2062225168874062113",
+    "created_at": "2026-06-03T17:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062225168874062113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaosusu456/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/xiaosusu456/status/2062034181228843418",
+          "start": 6,
+          "url": "https://t.co/YumIPH09JU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062225168874062113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062034181228843418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我加上去 https://t.co/YumIPH09JU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062034177537826816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3RKMrbYAADYrU.jpg",
+        "width": 1215
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062034177881722880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3RKN9a0AAcvv9.jpg",
+        "width": 1205
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062034178171154432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3RKPCbMAAz6_6.jpg",
+        "width": 1199
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062034178414432256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3RKP8bUAA3qUu.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2062225168874062113",
+        "created_at": "2026-06-03T17:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062225168874062113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaosusu456/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/xiaosusu456/status/2062034181228843418",
+              "start": 6,
+              "url": "https://t.co/YumIPH09JU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062225168874062113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062034181228843418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我加上去 https://t.co/YumIPH09JU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062034177537826816",
+            "3_2062034177881722880",
+            "3_2062034178171154432",
+            "3_2062034178414432256"
+          ]
+        },
+        "author_id": "1892789733287460864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062034181228843418",
+        "created_at": "2026-06-03T04:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062034181228843418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U9FC2jWA3h",
+              "end": 160,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2062034181228843418/photo/1",
+              "media_key": "3_2062034177537826816",
+              "start": 137,
+              "url": "https://t.co/U9FC2jWA3h"
+            },
+            {
+              "display_url": "pic.x.com/U9FC2jWA3h",
+              "end": 160,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2062034181228843418/photo/1",
+              "media_key": "3_2062034177881722880",
+              "start": 137,
+              "url": "https://t.co/U9FC2jWA3h"
+            },
+            {
+              "display_url": "pic.x.com/U9FC2jWA3h",
+              "end": 160,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2062034181228843418/photo/1",
+              "media_key": "3_2062034178171154432",
+              "start": 137,
+              "url": "https://t.co/U9FC2jWA3h"
+            },
+            {
+              "display_url": "pic.x.com/U9FC2jWA3h",
+              "end": 160,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2062034181228843418/photo/1",
+              "media_key": "3_2062034178414432256",
+              "start": 137,
+              "url": "https://t.co/U9FC2jWA3h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062034181228843418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 38146,
+          "like_count": 74,
+          "quote_count": 46,
+          "reply_count": 64,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "我们正在抓紧添加名单，确保每一个姐妹们都能上榜，这个排行榜将会在V3.5MTF世界上见到。\n同时我们正在加急招募排榜人与投稿人，以更客观更明确的形式，向大家展示更好的排名，如有需要，请加我置顶的群聊，皆时会创立一个新的机构，叫做''跨圈排榜机构''。\n敬请期待...... https://t.co/U9FC2jWA3h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@z2404 头图画师也是最好的朋友 @XyanXyan0387  @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 72,
+                "username": "z2404"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "XyanXyan0387"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062223587784966144/wHBUeY0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 1104,
+          "like_count": 30259,
+          "listed_count": 7,
+          "media_count": 584,
+          "tweet_count": 6142
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI\nMTF世界创始人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf-world.com",
+                "end": 23,
+                "expanded_url": "http://mtf-world.com",
+                "start": 0,
+                "url": "https://t.co/wL0Pqnb7i9"
+              }
+            ]
+          }
+        },
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060953077486858240/uae6848X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 93,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/wL0Pqnb7i9",
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

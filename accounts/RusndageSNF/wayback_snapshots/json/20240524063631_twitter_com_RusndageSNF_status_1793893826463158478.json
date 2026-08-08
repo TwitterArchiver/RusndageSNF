@@ -1,0 +1,233 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1793844716599115902",
+    "created_at": "2024-05-24T06:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T07:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793893826463158478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1657452862606303232",
+          "start": 0,
+          "username": "Spasmmmm0d1C"
+        },
+        {
+          "end": 28,
+          "id": "1648540039419412481",
+          "start": 14,
+          "username": "FreakyDuckkkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793893826463158478",
+    "in_reply_to_user_id": "1657452862606303232",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793845734850375699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spasmmmm0d1C @FreakyDuckkkk 月薪2w已经算很有钱了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1793844716599115902",
+        "created_at": "2024-05-24T06:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T07:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793893826463158478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1657452862606303232",
+              "start": 0,
+              "username": "Spasmmmm0d1C"
+            },
+            {
+              "end": 28,
+              "id": "1648540039419412481",
+              "start": 14,
+              "username": "FreakyDuckkkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793893826463158478",
+        "in_reply_to_user_id": "1657452862606303232",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793845734850375699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spasmmmm0d1C @FreakyDuckkkk 月薪2w已经算很有钱了吧"
+      },
+      {
+        "attachments": {},
+        "author_id": "1657452862606303232",
+        "conversation_id": "1793844716599115902",
+        "created_at": "2024-05-24T03:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T04:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793845734850375699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1648540039419412481",
+              "start": 0,
+              "username": "FreakyDuckkkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793845734850375699",
+        "in_reply_to_user_id": "1648540039419412481",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1112,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793844716599115902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreakyDuckkkk 還在煽情還在煽情😅自己選的生小孩自己造的孽，沒錢你生啥小孩啊生，好了現在沒得玩屎了上抖音跟別人訴苦來咯😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 645,
+          "like_count": 13458,
+          "listed_count": 5,
+          "tweet_count": 2309
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T18:29:35.000Z",
+        "description": "a nowhere man.喜欢小叽，热爱cs\n渴望在因特网寻找慰藉的死人，多暴论\n可以用英文中文粤语同我沟通🤗\n如果我觉得跟你关系很好会另外再加你XD\n粉红/女权请不要评论我的帖子，自觉右上角认爹\n讨厌我的发言也请自觉右上角认爹谢谢😁",
+        "id": "1657452862606303232",
+        "location": "nowhere land",
+        "name": "spaasm0oo0oo0odod1111c",
+        "pinned_tweet_id": "1793209148840276131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792919235766726658/WB9Z01Ph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 398,
+          "like_count": 10441,
+          "listed_count": 3,
+          "tweet_count": 6469
+        },
+        "username": "Spasmmmm0d1C",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T04:12:36.000Z",
+        "description": "you can rule the world with colors flying high\n\ncutie owl🐧 @Its_Snowy_Owl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 59,
+                "username": "Its_Snowy_Owl"
+              }
+            ]
+          }
+        },
+        "id": "1648540039419412481",
+        "location": "东突厥斯坦再教育营",
+        "name": "IMBABYDUCKLING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653615188774629377/rti_Bbae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 472,
+          "like_count": 190690,
+          "listed_count": 14,
+          "tweet_count": 27216
+        },
+        "username": "FreakyDuckkkk",
+        "verified": false
+      }
+    ]
+  }
+}

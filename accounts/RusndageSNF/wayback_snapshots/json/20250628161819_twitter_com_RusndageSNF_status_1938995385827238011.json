@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1938609867327238348",
+    "created_at": "2025-06-28T16:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T17:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938995385827238011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938995385827238011",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938609867327238348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 是这样的，学历的培养和运气有不小的关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1938609867327238348",
+        "created_at": "2025-06-28T16:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T17:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938995385827238011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938995385827238011",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938609867327238348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 是这样的，学历的培养和运气有不小的关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850566498412318720",
+        "conversation_id": "1938609867327238348",
+        "created_at": "2025-06-27T14:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T15:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938609867327238348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938609867327238348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 45102,
+          "like_count": 626,
+          "quote_count": 9,
+          "reply_count": 77,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我现在已经对高学历祛魅了，因为他们可能只是碰巧拥有了好的教育资源"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 986,
+          "like_count": 25958,
+          "listed_count": 8,
+          "media_count": 446,
+          "tweet_count": 4845
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜中推圈的大家都叫我萝卜哥｜空蝉原｜06｜INFP｜ ♏️｜高中生｜日本語学习中｜乌蒙dx｜随缘fo｜想认识我给我打钱｜188｜388｜520｜1314｜5200",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yanyan_kwaii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yanyan_kwaii",
+                "start": 0,
+                "url": "https://t.co/7PLNNU5F9q"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "幸せが続きますように",
+        "name": "hara🥕",
+        "pinned_tweet_id": "1937812595777659360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938181651831656448/nddFGYZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7076,
+          "following_count": 343,
+          "like_count": 2949,
+          "listed_count": 8,
+          "media_count": 362,
+          "tweet_count": 2058
+        },
+        "url": "https://t.co/7PLNNU5F9q",
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

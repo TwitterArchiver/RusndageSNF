@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2039577892691050700",
+    "created_at": "2026-04-02T15:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039719566922965329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1423549752185180162",
+          "start": 0,
+          "username": "QingYuOnline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039719566922965329",
+    "in_reply_to_user_id": "1423549752185180162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039577892691050700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingYuOnline 蹲会厕所"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2039577892691050700",
+        "created_at": "2026-04-02T15:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039719566922965329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1423549752185180162",
+              "start": 0,
+              "username": "QingYuOnline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039719566922965329",
+        "in_reply_to_user_id": "1423549752185180162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039577892691050700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingYuOnline 蹲会厕所"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423549752185180162",
+        "conversation_id": "2039577892691050700",
+        "created_at": "2026-04-02T05:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:36:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039577783173578879",
+          "2039577892691050700"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "4i"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "求助"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039577892691050700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 71386,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "紧急求助！\n灌肠后肚子胀是怎么回事？\n还肚子疼？？\n\n#4i #求助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2038973419287621846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 1089,
+          "like_count": 29568,
+          "listed_count": 8,
+          "media_count": 570,
+          "tweet_count": 5932
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T07:41:33.000Z",
+        "description": "清妤(yú) ｜坐标🇨🇦｜ENTP｜双｜字母圈人士（佛系版）｜ 喜爱跳舞！｜韩娱妹｜拿推特当朋友圈｜想聊天请打钱谢谢☺️",
+        "id": "1423549752185180162",
+        "name": "清妤online",
+        "pinned_tweet_id": "1988393713882853470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783762272038330368/CUhO4cOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4120,
+          "following_count": 31,
+          "like_count": 102,
+          "listed_count": 7,
+          "media_count": 355,
+          "tweet_count": 1020
+        },
+        "username": "QingYuOnline",
+        "verified": true
+      }
+    ]
+  }
+}

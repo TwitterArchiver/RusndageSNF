@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1819673295689568348",
+    "created_at": "2024-08-03T11:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T12:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819694376416866679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565231003987505153",
+          "start": 0,
+          "username": "Kirishima_Arash"
+        },
+        {
+          "end": 24,
+          "id": "1381591540355637252",
+          "start": 17,
+          "username": "BH2USU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819694376416866679",
+    "in_reply_to_user_id": "1565231003987505153",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819674689339527439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirishima_Arash @BH2USU 看我主页"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1819673295689568348",
+        "created_at": "2024-08-03T11:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T12:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819694376416866679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565231003987505153",
+              "start": 0,
+              "username": "Kirishima_Arash"
+            },
+            {
+              "end": 24,
+              "id": "1381591540355637252",
+              "start": 17,
+              "username": "BH2USU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819694376416866679",
+        "in_reply_to_user_id": "1565231003987505153",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819674689339527439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirishima_Arash @BH2USU 看我主页"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565231003987505153",
+        "conversation_id": "1819673295689568348",
+        "created_at": "2024-08-03T10:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T11:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819674689339527439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1381591540355637252",
+              "start": 0,
+              "username": "BH2USU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819674689339527439",
+        "in_reply_to_user_id": "1381591540355637252",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819673295689568348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BH2USU 想要原图来填一填"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 672,
+          "like_count": 15319,
+          "listed_count": 5,
+          "tweet_count": 2657
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T06:52:35.000Z",
+        "description": "是重度正太控w  MTX ~ 🏳️‍🌈🏳️‍⚧️  \n好想变可爱啊呜呜                          \n闲聊贴贴抱抱QQ群:970700610 ❤️",
+        "id": "1565231003987505153",
+        "location": "广州",
+        "name": "雾岛岚🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1813013796052738332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5118,
+          "following_count": 4762,
+          "like_count": 68058,
+          "listed_count": 8,
+          "tweet_count": 38211
+        },
+        "username": "Kirishima_Arash",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-12T12:54:36.000Z",
+        "description": "最爱的猫猫  @KaZeNaGi_Q\n键政禁止🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "KaZeNaGi_Q"
+              }
+            ]
+          }
+        },
+        "id": "1381591540355637252",
+        "location": "瀋陽",
+        "name": "神樂坂言水🍥🏳️‍⚧️BH²USU",
+        "pinned_tweet_id": "1754738817389805832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812419509258506240/c9pYnB5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 333,
+          "like_count": 2024,
+          "listed_count": 3,
+          "tweet_count": 725
+        },
+        "username": "BH2USU",
+        "verified": false
+      }
+    ]
+  }
+}

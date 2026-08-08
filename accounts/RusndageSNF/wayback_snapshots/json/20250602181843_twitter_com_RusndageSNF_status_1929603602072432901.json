@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1929595500359307525",
+    "created_at": "2025-06-02T18:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T19:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929603602072432901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853401698628448256",
+          "start": 0,
+          "username": "SchneeSchmit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929603602072432901",
+    "in_reply_to_user_id": "1853401698628448256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929595500359307525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SchneeSchmit 不可以"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929595500359307525].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929595500359307525",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929595500359307525"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1929595500359307525",
+        "created_at": "2025-06-02T18:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T19:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929603602072432901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853401698628448256",
+              "start": 0,
+              "username": "SchneeSchmit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929603602072432901",
+        "in_reply_to_user_id": "1853401698628448256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929595500359307525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SchneeSchmit 不可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1780,
+          "following_count": 962,
+          "like_count": 25573,
+          "listed_count": 8,
+          "media_count": 438,
+          "tweet_count": 4725
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T11:39:39.000Z",
+        "description": "前世 @SchneeSchmitt\n再強的外表, 也藏不住真實的自己...\n這裡是雪花貓的貓窩, 藏了深為不知人的事\n限熟悉推友(通常被此帳追蹤)可以申請訪問\n🍥27/12/2024斷續含糖小量od自殘+自閉症+不穩定抑鬱(求抱抱), 泛性戀，深櫃 🩵MtX🩷, INFP-T\n@CwuteMarikowo 的竉物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "SchneeSchmitt"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "CwuteMarikowo"
+              }
+            ]
+          }
+        },
+        "id": "1853401698628448256",
+        "location": "Madrid, España | 馬德里, 西班牙",
+        "name": "雪花 (日常區) 💕🏳️‍⚧️🍥🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929542651344523264/tG7dTJuH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 377,
+          "like_count": 21978,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2176
+        },
+        "username": "SchneeSchmit",
+        "verified": false
+      }
+    ]
+  }
+}

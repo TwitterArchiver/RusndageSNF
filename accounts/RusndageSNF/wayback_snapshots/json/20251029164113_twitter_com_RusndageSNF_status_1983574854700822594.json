@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1983554091793182792",
+    "created_at": "2025-10-29T16:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983574854700822594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902297181157257218",
+          "start": 0,
+          "username": "aoya_toboso_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983574854700822594",
+    "in_reply_to_user_id": "1902297181157257218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983554091793182792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoya_toboso_01 这是什么游戏？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1983554019789611008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4b_3yZboAA5k2L.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1983554019563053057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4b_3xjaoAEz7wm.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1983554054463840256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4b_5zkaYAAzbro.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1983554091793182792",
+        "created_at": "2025-10-29T16:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983574854700822594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902297181157257218",
+              "start": 0,
+              "username": "aoya_toboso_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983574854700822594",
+        "in_reply_to_user_id": "1902297181157257218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983554091793182792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoya_toboso_01 这是什么游戏？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983554019789611008",
+            "3_1983554019563053057",
+            "3_1983554054463840256"
+          ]
+        },
+        "author_id": "1902297181157257218",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983554091793182792",
+        "created_at": "2025-10-29T15:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983554091793182792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "葵矢枢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VsoA1WIBLp",
+              "end": 28,
+              "expanded_url": "https://x.com/aoya_toboso_01/status/1983554091793182792/photo/1",
+              "media_key": "3_1983554019789611008",
+              "start": 5,
+              "url": "https://t.co/VsoA1WIBLp"
+            },
+            {
+              "display_url": "pic.x.com/VsoA1WIBLp",
+              "end": 28,
+              "expanded_url": "https://x.com/aoya_toboso_01/status/1983554091793182792/photo/1",
+              "media_key": "3_1983554019563053057",
+              "start": 5,
+              "url": "https://t.co/VsoA1WIBLp"
+            },
+            {
+              "display_url": "pic.x.com/VsoA1WIBLp",
+              "end": 28,
+              "expanded_url": "https://x.com/aoya_toboso_01/status/1983554091793182792/photo/1",
+              "media_key": "3_1983554054463840256",
+              "start": 5,
+              "url": "https://t.co/VsoA1WIBLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983554091793182792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 220,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#葵矢枢 https://t.co/VsoA1WIBLp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 1045,
+          "like_count": 27923,
+          "listed_count": 7,
+          "media_count": 527,
+          "tweet_count": 5501
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "谢谢你听我碎碎念🌝/已自宫只是幻想，是阉割爱好者🤤/非二元enby/左下的、性少数、不婚族友好的🥰/是个爱凑热闹的抽象人🤔/不友好看重传宗接代的劳保和刻薄的人",
+        "id": "1902297181157257218",
+        "name": "已自宫🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1919609393244692624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983548774594359296/OGVc4At6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 149,
+          "like_count": 6603,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 649
+        },
+        "username": "aoya_toboso_01",
+        "verified": false
+      }
+    ]
+  }
+}

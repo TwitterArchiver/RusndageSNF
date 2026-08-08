@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1998775935664033945",
+    "created_at": "2025-12-11T06:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T07:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999009891420455030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1890848153525706752",
+          "start": 0,
+          "username": "MoxiYolo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999009891420455030",
+    "in_reply_to_user_id": "1890848153525706752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998775935664033945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoxiYolo 结束了呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1998775932673531904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70UHuybIAAQY0v.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1998775935664033945",
+        "created_at": "2025-12-11T06:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999009891420455030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1890848153525706752",
+              "start": 0,
+              "username": "MoxiYolo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999009891420455030",
+        "in_reply_to_user_id": "1890848153525706752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998775935664033945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoxiYolo 结束了呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998775932673531904"
+          ]
+        },
+        "author_id": "1890848153525706752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998775935664033945",
+        "created_at": "2025-12-10T15:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T16:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998775935664033945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kr5zdoIkI",
+              "end": 47,
+              "expanded_url": "https://x.com/MoxiYolo/status/1998775935664033945/photo/1",
+              "media_key": "3_1998775932673531904",
+              "start": 24,
+              "url": "https://t.co/8kr5zdoIkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998775935664033945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8208,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "历史性的一刻！\n网易我的世界《花雨庭》正式关服 https://t.co/8kr5zdoIkI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 1047,
+          "like_count": 27993,
+          "listed_count": 7,
+          "media_count": 529,
+          "tweet_count": 5562
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T19:38:35.000Z",
+        "description": "网名消防，并非消防行业及消防员//男🌈17岁//坐标湖北十堰//此推只发布抽象-日常-游戏-擦边//厌蠢",
+        "id": "1890848153525706752",
+        "location": "湖北 十堰",
+        "name": "消防🏖️",
+        "pinned_tweet_id": "1992772211682488602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996256461077561345/sW2AN50z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6615,
+          "following_count": 528,
+          "like_count": 1100,
+          "listed_count": 5,
+          "media_count": 141,
+          "tweet_count": 1329
+        },
+        "username": "MoxiYolo",
+        "verified": false
+      }
+    ]
+  }
+}

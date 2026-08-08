@@ -1,0 +1,241 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1794038366146625583",
+    "created_at": "2024-05-25T16:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T17:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794398440572723377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525135090476515331",
+          "start": 0,
+          "username": "em_Lazzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794398440572723377",
+    "in_reply_to_user_id": "1525135090476515331",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794038366146625583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@em_Lazzy 5 to 8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1794038366146625583",
+        "created_at": "2024-05-25T16:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T17:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794398440572723377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525135090476515331",
+              "start": 0,
+              "username": "em_Lazzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794398440572723377",
+        "in_reply_to_user_id": "1525135090476515331",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794038366146625583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@em_Lazzy 5 to 8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794038363290279936"
+          ]
+        },
+        "author_id": "1525135090476515331",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1794038366146625583",
+        "created_at": "2024-05-24T16:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T17:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794038366146625583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/BZpNAAI67A",
+              "end": 54,
+              "expanded_url": "https://twitter.com/em_Lazzy/status/1794038366146625583/photo/1",
+              "media_key": "3_1794038363290279936",
+              "start": 31,
+              "url": "https://t.co/BZpNAAI67A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794038366146625583",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 147651,
+          "like_count": 652,
+          "quote_count": 281,
+          "reply_count": 1006,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "How would you take your coffee https://t.co/BZpNAAI67A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 648,
+          "like_count": 13511,
+          "listed_count": 5,
+          "tweet_count": 2323
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-13T15:25:25.000Z",
+        "description": "Dm for promos/ads/social media handling",
+        "id": "1525135090476515331",
+        "location": "Dallas, TX",
+        "name": "Lazzyyyyyy",
+        "pinned_tweet_id": "1794366522510782973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544447805758083072/3FHcDGN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39919,
+          "following_count": 3858,
+          "like_count": 31386,
+          "listed_count": 99,
+          "tweet_count": 2535
+        },
+        "username": "em_Lazzy",
+        "verified": true
+      }
+    ]
+  }
+}

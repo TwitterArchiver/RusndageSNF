@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1971554504714985870",
+    "created_at": "2025-09-27T03:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T04:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971772213897646136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1602328096622800896",
+          "start": 0,
+          "username": "dutyge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971772213897646136",
+    "in_reply_to_user_id": "1602328096622800896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971554504714985870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dutyge 等中国人真的变成loser的时候，他们又该不乐意了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1510,
+        "media_key": "3_1971554497005531136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1xeXolWsAAAPcO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1971554504714985870",
+        "created_at": "2025-09-27T03:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T04:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971772213897646136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1602328096622800896",
+              "start": 0,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971772213897646136",
+        "in_reply_to_user_id": "1602328096622800896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971554504714985870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dutyge 等中国人真的变成loser的时候，他们又该不乐意了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971554497005531136"
+          ]
+        },
+        "author_id": "1602328096622800896",
+        "conversation_id": "1971554504714985870",
+        "created_at": "2025-09-26T12:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T13:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971554504714985870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aaDwLZ0Q9x",
+              "end": 55,
+              "expanded_url": "https://x.com/dutyge/status/1971554504714985870/photo/1",
+              "media_key": "3_1971554497005531136",
+              "start": 32,
+              "url": "https://t.co/aaDwLZ0Q9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971554504714985870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 161838,
+          "like_count": 1054,
+          "quote_count": 7,
+          "reply_count": 56,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "如何看待这个观点：国内混得不好的人，在国外也基本上混不开？\n👇 https://t.co/aaDwLZ0Q9x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2167,
+          "following_count": 1038,
+          "like_count": 27707,
+          "listed_count": 7,
+          "media_count": 519,
+          "tweet_count": 5415
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "duty哥小号，失业报道采集检索。",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46559,
+          "following_count": 97,
+          "like_count": 0,
+          "listed_count": 204,
+          "media_count": 7837,
+          "tweet_count": 13612
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

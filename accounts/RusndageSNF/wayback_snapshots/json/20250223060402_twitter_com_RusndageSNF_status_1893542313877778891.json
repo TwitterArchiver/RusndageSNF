@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1893509431654260864",
+    "created_at": "2025-02-23T06:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T07:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893542313877778891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1828707077323198464",
+          "start": 0,
+          "username": "Apatite6248901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893542313877778891",
+    "in_reply_to_user_id": "1828707077323198464",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893509431654260864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apatite6248901 ccneed"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1893509431654260864",
+        "created_at": "2025-02-23T06:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T07:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893542313877778891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1828707077323198464",
+              "start": 0,
+              "username": "Apatite6248901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893542313877778891",
+        "in_reply_to_user_id": "1828707077323198464",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893509431654260864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apatite6248901 ccneed"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828707077323198464",
+        "conversation_id": "1893509431654260864",
+        "created_at": "2025-02-23T03:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T04:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893509431654260864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IAmTheSolipsis…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/IAmTheSolipsism/status/1893487265625583691",
+              "start": 53,
+              "url": "https://t.co/8FQV5GfFEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893509431654260864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893487265625583691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想操法西斯小男娘，想操毛左小男娘，想操安那其小男娘，想操皇汉小男娘，想操支黑小男娘，想操各种各样的小男娘 https://t.co/8FQV5GfFEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1893309762294391019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 893,
+          "like_count": 22643,
+          "listed_count": 7,
+          "media_count": 391,
+          "tweet_count": 4065
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T08:12:28.000Z",
+        "description": "高中牲/福瑞控/航天/粥批/二次元/友跨顺男🏳️‍⚧️/友同🏳️‍🌈但是直的/轻中抑/ADHD/政治光谱左下/现居达利安市/生日071209",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "biupiukiu.net",
+                "end": 23,
+                "expanded_url": "https://www.biupiukiu.net/",
+                "start": 0,
+                "url": "https://t.co/FTe7vHiVDn"
+              }
+            ]
+          }
+        },
+        "id": "1828707077323198464",
+        "location": "在高潮的青年路",
+        "name": "湛陨_Apatite.",
+        "pinned_tweet_id": "1879476554897777075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850494407830908928/shSpZ6vS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 977,
+          "like_count": 8019,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1644
+        },
+        "url": "https://t.co/FTe7vHiVDn",
+        "username": "Apatite6248901",
+        "verified": false
+      }
+    ]
+  }
+}

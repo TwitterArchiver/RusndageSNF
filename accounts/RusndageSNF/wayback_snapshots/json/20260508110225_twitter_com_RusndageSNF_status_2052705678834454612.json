@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2052676467356803337",
+    "created_at": "2026-05-08T11:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052705678834454612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510074668274774016",
+          "start": 0,
+          "username": "junna_hung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052705678834454612",
+    "in_reply_to_user_id": "1510074668274774016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052676467356803337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@junna_hung 喜欢喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052676458313850880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHySXQCaoAAYQ81.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2052676467356803337",
+        "created_at": "2026-05-08T11:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052705678834454612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510074668274774016",
+              "start": 0,
+              "username": "junna_hung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052705678834454612",
+        "in_reply_to_user_id": "1510074668274774016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052676467356803337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@junna_hung 喜欢喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052676458313850880"
+          ]
+        },
+        "author_id": "1510074668274774016",
+        "conversation_id": "2052676467356803337",
+        "created_at": "2026-05-08T09:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052676467356803337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ismaQAO41",
+              "end": 32,
+              "expanded_url": "https://x.com/junna_hung/status/2052676467356803337/photo/1",
+              "media_key": "3_2052676458313850880",
+              "start": 9,
+              "url": "https://t.co/6ismaQAO41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052676467356803337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 12872,
+          "like_count": 928,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "30歲 是個女優 https://t.co/6ismaQAO41"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 1100,
+          "like_count": 29938,
+          "listed_count": 8,
+          "media_count": 578,
+          "tweet_count": 6070
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T02:00:38.000Z",
+        "description": "【X唯一正版帳號】 \n🇯🇵@TRANS_CLUB_專屬 / 🇹🇼台灣男娘AV女優\n✨debut (WAAP) 2025.12.25 / ✉️商業合作請聯絡經紀人 @kitty740907 / 📀https://t.co/5KC14JSFQk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "TRANS_CLUB_"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "kitty740907"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fansone.co/junna_hung",
+                "end": 120,
+                "expanded_url": "http://fansone.co/junna_hung",
+                "start": 97,
+                "url": "https://t.co/5KC14JSFQk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/junnahung",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/junnahung",
+                "start": 0,
+                "url": "https://t.co/8kHOu2xWG3"
+              }
+            ]
+          }
+        },
+        "id": "1510074668274774016",
+        "name": "Junna筱鈞｜純純(じゅんじゅん ) ♂ 200k 🔞 X唯一正版帳號",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045921221439901696/9MN7zmBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208990,
+          "following_count": 984,
+          "like_count": 11476,
+          "listed_count": 871,
+          "media_count": 629,
+          "tweet_count": 3022
+        },
+        "url": "https://t.co/8kHOu2xWG3",
+        "username": "junna_hung",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1967163453132739044",
+    "created_at": "2025-09-15T04:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T05:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967448278427193834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1322102588225974273",
+          "start": 0,
+          "username": "qingtia13992055"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967448278427193834",
+    "in_reply_to_user_id": "1322102588225974273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967163453132739044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingtia13992055 应该查一下他的朋友是不是有穆斯林，是不是有黑人，或者是他生前是不是吃过熊猫快餐"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69133,
+        "height": 720,
+        "media_key": "13_1967006698943770628",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967006698943770628/img/oj8McMEzEYPe8wQK.jpg",
+        "public_metrics": {
+          "view_count": 771137
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967006698943770628/vid/avc1/480x270/jtJNWrOb96gGYVBs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967006698943770628/vid/avc1/640x360/IGSd2OIpvkxsY9IL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967006698943770628/vid/avc1/1280x720/fHJNmPEXI87R2sAT.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967006698943770628/pl/mjol1OXhMls0FLsV.m3u8?tag=14&v=089"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1967163453132739044",
+        "created_at": "2025-09-15T04:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T05:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967448278427193834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1322102588225974273",
+              "start": 0,
+              "username": "qingtia13992055"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967448278427193834",
+        "in_reply_to_user_id": "1322102588225974273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967163453132739044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingtia13992055 应该查一下他的朋友是不是有穆斯林，是不是有黑人，或者是他生前是不是吃过熊猫快餐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967006698943770628"
+          ],
+          "media_source_tweet_id": [
+            "1967007170463232322"
+          ]
+        },
+        "author_id": "1322102588225974273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967163453132739044",
+        "created_at": "2025-09-14T09:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T10:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967163453132739044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NKed4sjlUw",
+              "end": 151,
+              "expanded_url": "https://x.com/vrajadev/status/1967007170463232322/video/1",
+              "media_key": "13_1967006698943770628",
+              "start": 128,
+              "url": "https://t.co/NKed4sjlUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967163453132739044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 110526,
+          "like_count": 236,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "💥独家消息：消息人士称，查理·柯克刺客泰勒·罗宾逊与他的变性伴侣同居。\n\n该名男子由男性转变为女性，目前正全力配合联邦调查局的工作。\n\n采访泰勒罗宾逊和兰斯特维格斯的邻居时，他们表示，他们像一对同性恋夫妇一样牵手接吻，而兰斯明显正在转变为跨性别女性。\n\n https://t.co/NKed4sjlUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 1033,
+          "like_count": 27537,
+          "listed_count": 7,
+          "media_count": 506,
+          "tweet_count": 5347
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-30T09:06:46.000Z",
+        "description": "新中国联邦人 #设计 #绘画 Designer Animator Art… #表情包设计、#卡通画像 #手绘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 7,
+                "tag": "设计"
+              },
+              {
+                "end": 14,
+                "start": 11,
+                "tag": "绘画"
+              },
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "表情包设计"
+              },
+              {
+                "end": 50,
+                "start": 45,
+                "tag": "卡通画像"
+              },
+              {
+                "end": 54,
+                "start": 51,
+                "tag": "手绘"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gettr.com/user/qingtian",
+                "end": 23,
+                "expanded_url": "https://gettr.com/user/qingtian",
+                "start": 0,
+                "url": "https://t.co/8qWX3Q4VRq"
+              }
+            ]
+          }
+        },
+        "id": "1322102588225974273",
+        "name": "晴天",
+        "pinned_tweet_id": "1612412124550287361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728656325826220032/uZ0L1jbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5894,
+          "following_count": 965,
+          "like_count": 17529,
+          "listed_count": 11,
+          "media_count": 1760,
+          "tweet_count": 9976
+        },
+        "url": "https://t.co/8qWX3Q4VRq",
+        "username": "qingtia13992055",
+        "verified": true
+      }
+    ]
+  }
+}

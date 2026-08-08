@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026325466",
+          "name": "IBM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026325466",
+          "name": "IBM"
+        }
+      }
+    ],
+    "conversation_id": "2063987153148039645",
+    "created_at": "2026-06-08T14:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063987153148039645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1909649973551284226",
+          "start": 3,
+          "username": "kun25972"
+        },
+        {
+          "end": 24,
+          "id": "2324742907",
+          "start": 14,
+          "username": "chaoho554"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063987153148039645",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 742
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063902785905824233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kun25972: @chaoho554 Panduan training IBM tahun 1979 pernah memuat: \"komputer tidak bisa dimintai pertanggungjawaban, maka komputer tid…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_2063902749235032064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR0nYsbMAAomhU.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          }
+        ],
+        "conversation_id": "2063987153148039645",
+        "created_at": "2026-06-08T14:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063987153148039645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909649973551284226",
+              "start": 3,
+              "username": "kun25972"
+            },
+            {
+              "end": 24,
+              "id": "2324742907",
+              "start": 14,
+              "username": "chaoho554"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063987153148039645",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 742
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063902785905824233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kun25972: @chaoho554 Panduan training IBM tahun 1979 pernah memuat: \"komputer tidak bisa dimintai pertanggungjawaban, maka komputer tid…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063902749235032064"
+          ]
+        },
+        "author_id": "1909649973551284226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026325466",
+              "name": "IBM"
+            }
+          }
+        ],
+        "conversation_id": "2063794007965421971",
+        "created_at": "2026-06-08T08:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063902785905824233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2324742907",
+              "start": 0,
+              "username": "chaoho554"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tl1F3Nlaul",
+              "end": 308,
+              "expanded_url": "https://x.com/kun25972/status/2063902785905824233/photo/1",
+              "media_key": "3_2063902749235032064",
+              "start": 285,
+              "url": "https://t.co/Tl1F3Nlaul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063902785905824233",
+        "in_reply_to_user_id": "2324742907",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 433,
+          "impression_count": 142705,
+          "like_count": 3658,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 742
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063794007965421971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaoho554 Panduan training IBM tahun 1979 pernah memuat: \"komputer tidak bisa dimintai pertanggungjawaban, maka komputer tidak boleh digunakan untuk mengambil keputusan manajerial\"\n\nQuotes yg harusnya ditato ke jidat setiap org yg make AI buat decision making krusial macam kasus ini https://t.co/Tl1F3Nlaul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 1106,
+          "like_count": 30293,
+          "listed_count": 7,
+          "media_count": 585,
+          "tweet_count": 6146
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T16:50:32.000Z",
+        "description": "Bring down the government \nThey don't, they don't speak for us\n\n-No Surprises, Radiohead",
+        "id": "1909649973551284226",
+        "name": "NekoGato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059605733185077248/XAHPMZ9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 56,
+          "like_count": 4761,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 634
+        },
+        "username": "kun25972",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-03T03:19:23.000Z",
+        "description": "Focus on today for a better future | Web Developer | Part of @apexfnf_io",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "apexfnf_io"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "indraportofolio.vercel.app",
+                "end": 23,
+                "expanded_url": "https://indraportofolio.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/0QPzQox1cQ"
+              }
+            ]
+          }
+        },
+        "id": "2324742907",
+        "name": "詹朝賀",
+        "pinned_tweet_id": "2034171934003630493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036524360245321730/20Rcp4zw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 284,
+          "like_count": 4687,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/0QPzQox1cQ",
+        "username": "chaoho554",
+        "verified": true
+      }
+    ]
+  }
+}

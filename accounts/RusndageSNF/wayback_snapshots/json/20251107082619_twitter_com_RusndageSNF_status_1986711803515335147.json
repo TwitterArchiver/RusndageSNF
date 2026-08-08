@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1986403272660316305",
+    "created_at": "2025-11-07T08:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T09:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986711803515335147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1353169870691549184",
+          "start": 0,
+          "username": "iPaulCanada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986711803515335147",
+    "in_reply_to_user_id": "1353169870691549184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986403272660316305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iPaulCanada 葫芦岛，那地方正好能看见渤海造船厂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1102,
+        "media_key": "3_1986403269573226496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5EfP8-WMAALi20.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1986403272660316305",
+        "created_at": "2025-11-07T08:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986711803515335147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353169870691549184",
+              "start": 0,
+              "username": "iPaulCanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986711803515335147",
+        "in_reply_to_user_id": "1353169870691549184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986403272660316305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPaulCanada 葫芦岛，那地方正好能看见渤海造船厂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986403269573226496"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "1986403272660316305",
+        "created_at": "2025-11-06T12:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T13:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986403272660316305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxTUy2ErH2",
+              "end": 33,
+              "expanded_url": "https://x.com/iPaulCanada/status/1986403272660316305/photo/1",
+              "media_key": "3_1986403269573226496",
+              "start": 10,
+              "url": "https://t.co/nxTUy2ErH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986403272660316305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 331234,
+          "like_count": 1034,
+          "quote_count": 5,
+          "reply_count": 57,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "重点是钱到位了再抓 https://t.co/nxTUy2ErH2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2301,
+          "following_count": 1046,
+          "like_count": 27993,
+          "listed_count": 7,
+          "media_count": 527,
+          "tweet_count": 5513
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "Canada",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149862,
+          "following_count": 509,
+          "like_count": 7541,
+          "listed_count": 617,
+          "media_count": 10402,
+          "tweet_count": 16842
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

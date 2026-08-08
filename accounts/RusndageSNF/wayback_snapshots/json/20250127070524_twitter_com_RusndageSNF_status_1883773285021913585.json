@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1883736381744435499",
+    "created_at": "2025-01-27T07:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T08:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883773285021913585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "888172653881638912",
+          "start": 0,
+          "username": "Nokta_gardisto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883773285021913585",
+    "in_reply_to_user_id": "888172653881638912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883736381744435499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nokta_gardisto 确实好用，做数学题什么的推理能力很强，但是写文章之类的就不太行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1883736381744435499",
+        "created_at": "2025-01-27T07:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T08:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883773285021913585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "888172653881638912",
+              "start": 0,
+              "username": "Nokta_gardisto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883773285021913585",
+        "in_reply_to_user_id": "888172653881638912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883736381744435499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nokta_gardisto 确实好用，做数学题什么的推理能力很强，但是写文章之类的就不太行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "888172653881638912",
+        "conversation_id": "1883736381744435499",
+        "created_at": "2025-01-27T04:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T05:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883736381744435499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883736381744435499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1050,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人的反应：啊deepseek好牛逼东升西落了美股要完蛋了，AI泡沫要炸了。\n我的反应：难道不是因为幻方量化的CEO自曝有五万张H100，引发美国政府可能的对英伟达新一轮调查制裁导致的？\n两年前幻方的CEO就往外说自己有泥锅最多的算力卡，只是当时没啥人注意罢了。\n五万张H100，这个数字说实话不小了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 866,
+          "like_count": 22194,
+          "listed_count": 7,
+          "media_count": 367,
+          "tweet_count": 3913
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T23:03:56.000Z",
+        "description": "#跨性别奸奇神选（非二元）(她/she）\\Asexual\\Manchu研究\\海盗党\\#啤酒安那其主义\\SISU\n\\queer/女性主义\\#儒林外史 栏目总编辑\\#民哲\\虚元\\Proud of what I am !\\辽北精神分析研究所\\被转发内容不代表个人观点\\Bluesky:https://t.co/OUGHO96twB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "跨性别奸奇神选"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "tag": "啤酒安那其主义"
+              },
+              {
+                "end": 73,
+                "start": 68,
+                "tag": "儒林外史"
+              },
+              {
+                "end": 83,
+                "start": 80,
+                "tag": "民哲"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yovahti.bsky.social",
+                "end": 162,
+                "expanded_url": "http://yovahti.bsky.social",
+                "start": 139,
+                "url": "https://t.co/OUGHO96twB"
+              }
+            ]
+          }
+        },
+        "id": "888172653881638912",
+        "location": "IP属地：东北亚",
+        "name": "Yöttevakt|sama⚪🏴‍☠️💙🇫🇮🏴🏳️‍⚧️（國外）",
+        "pinned_tweet_id": "1774675363718955425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870866101372108800/jOqBDW6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9764,
+          "following_count": 723,
+          "like_count": 40820,
+          "listed_count": 44,
+          "media_count": 982,
+          "tweet_count": 3833
+        },
+        "username": "Nokta_gardisto",
+        "verified": false
+      }
+    ]
+  }
+}

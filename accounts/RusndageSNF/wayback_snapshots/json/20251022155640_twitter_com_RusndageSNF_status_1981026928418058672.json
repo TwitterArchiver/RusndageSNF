@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981026923921731585"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "1981026928418058672",
+    "created_at": "2025-10-22T15:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T16:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981026928418058672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CBOK2GveyX",
+          "end": 33,
+          "expanded_url": "https://x.com/RusndageSNF/status/1981026928418058672/photo/1",
+          "media_key": "3_1981026923921731585",
+          "start": 10,
+          "url": "https://t.co/CBOK2GveyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981026928418058672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "然后就被枪毙了（） https://t.co/CBOK2GveyX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_1981026923921731585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G34FfcrW8AEq5Xs.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981026923921731585"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "1981026928418058672",
+        "created_at": "2025-10-22T15:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T16:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981026928418058672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBOK2GveyX",
+              "end": 33,
+              "expanded_url": "https://x.com/RusndageSNF/status/1981026928418058672/photo/1",
+              "media_key": "3_1981026923921731585",
+              "start": 10,
+              "url": "https://t.co/CBOK2GveyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981026928418058672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "然后就被枪毙了（） https://t.co/CBOK2GveyX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 1046,
+          "like_count": 27856,
+          "listed_count": 7,
+          "media_count": 526,
+          "tweet_count": 5469
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

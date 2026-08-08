@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1486579770183798786",
+    "created_at": "2024-09-01T15:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T16:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830261920970252795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1220760161935077378",
+          "start": 0,
+          "username": "MM93302216"
+        },
+        {
+          "end": 23,
+          "id": "791197",
+          "start": 12,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830261920970252795",
+    "in_reply_to_user_id": "1220760161935077378",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1486620575963430912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MM93302216 @bbcchinese 妳马斯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1486579770183798786",
+        "created_at": "2024-09-01T15:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T16:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830261920970252795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1220760161935077378",
+              "start": 0,
+              "username": "MM93302216"
+            },
+            {
+              "end": 23,
+              "id": "791197",
+              "start": 12,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830261920970252795",
+        "in_reply_to_user_id": "1220760161935077378",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1486620575963430912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MM93302216 @bbcchinese 妳马斯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1220760161935077378",
+        "conversation_id": "1486579770183798786",
+        "created_at": "2022-01-27T08:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2022-01-27T09:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1486620575963430912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1486620575963430912",
+        "in_reply_to_user_id": "791197",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1486579770183798786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 教唆未成年人LGBT是死罪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 682,
+          "like_count": 16310,
+          "listed_count": 5,
+          "tweet_count": 2753
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-24T17:28:21.000Z",
+        "description": "",
+        "id": "1220760161935077378",
+        "name": "MM",
+        "pinned_tweet_id": "1493527842159689729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361326132050731008/jFq3S3_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 52,
+          "like_count": 8759,
+          "listed_count": 4,
+          "tweet_count": 6712
+        },
+        "username": "MM93302216",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4286158,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11460,
+          "tweet_count": 151046
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

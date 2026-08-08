@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2058103279549346230",
+    "created_at": "2026-05-23T08:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058103279549346230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058103279549346230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057959747861491962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: “我们的宽容，往往给了最不需要宽容的群体。”\n\n这话非常赞同👍\n\n我也承认错误，哪怕是没有恶意的调侃也不妥，对有精神疾病的弱势群体来说尤其如此。\n\n但国内还有一种狂热分子，没有诊断出精神疾病但行为跟精神病人没什么区别。 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1335,
+        "media_key": "3_2057959743935725569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9Xe8tXwAEGF_J.jpg",
+        "width": 750
+      },
+      {
+        "height": 824,
+        "media_key": "3_2057959743935672320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9Xe8tW8AAg3-8.jpg",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2058103279549346230",
+        "created_at": "2026-05-23T08:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058103279549346230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058103279549346230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057959747861491962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: “我们的宽容，往往给了最不需要宽容的群体。”\n\n这话非常赞同👍\n\n我也承认错误，哪怕是没有恶意的调侃也不妥，对有精神疾病的弱势群体来说尤其如此。\n\n但国内还有一种狂热分子，没有诊断出精神疾病但行为跟精神病人没什么区别。 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057959743935725569",
+            "3_2057959743935672320"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2057959747861491962",
+        "created_at": "2026-05-22T23:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T00:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057959747861491962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x158i2OiUe",
+              "end": 133,
+              "expanded_url": "https://x.com/Kenntnis22/status/2057959747861491962/photo/1",
+              "media_key": "3_2057959743935725569",
+              "start": 110,
+              "url": "https://t.co/x158i2OiUe"
+            },
+            {
+              "display_url": "pic.x.com/x158i2OiUe",
+              "end": 133,
+              "expanded_url": "https://x.com/Kenntnis22/status/2057959747861491962/photo/1",
+              "media_key": "3_2057959743935672320",
+              "start": 110,
+              "url": "https://t.co/x158i2OiUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057959747861491962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 7674,
+          "like_count": 176,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "“我们的宽容，往往给了最不需要宽容的群体。”\n\n这话非常赞同👍\n\n我也承认错误，哪怕是没有恶意的调侃也不妥，对有精神疾病的弱势群体来说尤其如此。\n\n但国内还有一种狂热分子，没有诊断出精神疾病但行为跟精神病人没什么区别。 https://t.co/x158i2OiUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 1106,
+          "like_count": 30116,
+          "listed_count": 7,
+          "media_count": 581,
+          "tweet_count": 6106
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2057089306997493763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55241,
+          "following_count": 440,
+          "like_count": 58398,
+          "listed_count": 264,
+          "media_count": 12585,
+          "tweet_count": 19309
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

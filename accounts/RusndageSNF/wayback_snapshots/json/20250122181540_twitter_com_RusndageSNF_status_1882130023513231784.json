@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1882129740112470211",
+    "created_at": "2025-01-22T18:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T19:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882130023513231784"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1882130023513231784",
+    "in_reply_to_user_id": "1236317911431536640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882129740112470211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是我想让我闺蜜回来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1882129740112470211",
+        "created_at": "2025-01-22T18:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T19:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882130023513231784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882130023513231784",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882129740112470211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我想让我闺蜜回来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882129736110878720"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1882129740112470211",
+        "created_at": "2025-01-22T18:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T19:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882129740112470211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzuN0zTy0K",
+              "end": 38,
+              "expanded_url": "https://x.com/RusndageSNF/status/1882129740112470211/photo/1",
+              "media_key": "3_1882129736110878720",
+              "start": 15,
+              "url": "https://t.co/mzuN0zTy0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882129740112470211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别报警，不小心把袋扯开了（） https://t.co/mzuN0zTy0K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 856,
+          "like_count": 22044,
+          "listed_count": 7,
+          "media_count": 364,
+          "tweet_count": 3840
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

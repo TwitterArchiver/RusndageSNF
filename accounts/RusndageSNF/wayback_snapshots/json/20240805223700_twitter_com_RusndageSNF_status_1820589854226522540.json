@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1820520782872850583",
+    "created_at": "2024-08-05T22:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T23:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820589854226522540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1479298731887501314",
+          "start": 0,
+          "username": "meng9017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820589854226522540",
+    "in_reply_to_user_id": "1479298731887501314",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820520782872850583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meng9017 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1820520782872850583",
+        "created_at": "2024-08-05T22:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T23:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820589854226522540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1479298731887501314",
+              "start": 0,
+              "username": "meng9017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820589854226522540",
+        "in_reply_to_user_id": "1479298731887501314",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820520782872850583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meng9017 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820520779777527808"
+          ]
+        },
+        "author_id": "1479298731887501314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1820520782872850583",
+        "created_at": "2024-08-05T18:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T19:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820520782872850583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1819014405264420865/6FMTaW2q?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1819014405264420865/6FMTaW2q?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/m4VPLsaggw"
+            },
+            {
+              "display_url": "pic.x.com/fdxz5vstwj",
+              "end": 64,
+              "expanded_url": "https://twitter.com/meng9017/status/1820520782872850583/photo/1",
+              "media_key": "3_1820520779777527808",
+              "start": 41,
+              "url": "https://t.co/FdXz5VStwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820520782872850583",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/m4VPLsaggw https://t.co/FdXz5VStwj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 673,
+          "like_count": 15409,
+          "listed_count": 5,
+          "tweet_count": 2662
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T03:48:05.000Z",
+        "description": "永遠愛著的那個她@chuhen265/可愛的寶寶@xxxxxxsbdd/最好的閨蜜@n_xiaonuo_n @_so_coin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "chuhen265"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "xxxxxxsbdd"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "n_xiaonuo_n"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "_so_coin"
+              }
+            ]
+          }
+        },
+        "id": "1479298731887501314",
+        "location": "遼寧省大連市",
+        "name": "夢夢🍥",
+        "pinned_tweet_id": "1791020274814767429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792653247242772480/KMjnsRW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 573,
+          "like_count": 2343,
+          "listed_count": 3,
+          "tweet_count": 1019
+        },
+        "username": "meng9017",
+        "verified": false
+      }
+    ]
+  }
+}

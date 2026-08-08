@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1968356859179671833",
+    "created_at": "2025-09-18T06:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T07:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968570581386707326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "169175461",
+          "start": 0,
+          "username": "Alex_Suk_Yeom"
+        },
+        {
+          "end": 27,
+          "id": "2786701",
+          "start": 15,
+          "username": "williamlong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968570581386707326",
+    "in_reply_to_user_id": "169175461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968428792285990947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alex_Suk_Yeom @williamlong 用20%的价格做出了60%的味道，物超所值了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1968356859179671833",
+        "created_at": "2025-09-18T06:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T07:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968570581386707326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "169175461",
+              "start": 0,
+              "username": "Alex_Suk_Yeom"
+            },
+            {
+              "end": 27,
+              "id": "2786701",
+              "start": 15,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968570581386707326",
+        "in_reply_to_user_id": "169175461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968428792285990947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alex_Suk_Yeom @williamlong 用20%的价格做出了60%的味道，物超所值了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "169175461",
+        "conversation_id": "1968356859179671833",
+        "created_at": "2025-09-17T21:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T22:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968428792285990947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2786701",
+              "start": 0,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968428792285990947",
+        "in_reply_to_user_id": "2786701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13086,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968356859179671833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlong 从来没吃过萨莉亚，请教它的味道如何呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 1037,
+          "like_count": 27618,
+          "listed_count": 7,
+          "media_count": 518,
+          "tweet_count": 5385
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-21T18:41:42.000Z",
+        "description": "若幕落下",
+        "id": "169175461",
+        "location": "Somewhere in the Far East",
+        "name": "Hae Yeom 海盐",
+        "pinned_tweet_id": "1814322743850029291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932215322926329857/DMOZ1FIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 2143,
+          "like_count": 4237,
+          "listed_count": 5,
+          "media_count": 1132,
+          "tweet_count": 11963
+        },
+        "username": "Alex_Suk_Yeom",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "青青子衿，悠悠我心，但为君故，沉吟至今",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388994,
+          "following_count": 338,
+          "like_count": 0,
+          "listed_count": 2726,
+          "media_count": 3310,
+          "tweet_count": 30114
+        },
+        "username": "williamlong",
+        "verified": true
+      }
+    ]
+  }
+}

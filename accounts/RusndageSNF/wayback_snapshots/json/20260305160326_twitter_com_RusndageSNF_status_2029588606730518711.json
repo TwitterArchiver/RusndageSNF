@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2029588606730518711",
+    "created_at": "2026-03-05T16:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T17:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029588606730518711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jueduizhengyi_…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/jueduizhengyi_A/status/2029220751480635844",
+          "start": 21,
+          "url": "https://t.co/AW1fnVexwP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029588606730518711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029220751480635844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我身边的自杀率也是，好好活着，求求你们了 https://t.co/AW1fnVexwP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1705,
+        "media_key": "3_2029220745411477504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCk9hEUawAAomB_.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2029588606730518711",
+        "created_at": "2026-03-05T16:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T17:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029588606730518711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jueduizhengyi_…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/jueduizhengyi_A/status/2029220751480635844",
+              "start": 21,
+              "url": "https://t.co/AW1fnVexwP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029588606730518711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029220751480635844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我身边的自杀率也是，好好活着，求求你们了 https://t.co/AW1fnVexwP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029220745411477504"
+          ]
+        },
+        "author_id": "1654534022448713728",
+        "conversation_id": "2029220751480635844",
+        "created_at": "2026-03-04T15:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029220751480635844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a578u8eOMS",
+              "end": 50,
+              "expanded_url": "https://x.com/jueduizhengyi_A/status/2029220751480635844/photo/1",
+              "media_key": "3_2029220745411477504",
+              "start": 27,
+              "url": "https://t.co/a578u8eOMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029220751480635844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 27577,
+          "like_count": 655,
+          "quote_count": 22,
+          "reply_count": 59,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "最近日本自杀频率好高。春天这么美好的季节，不要死好吗 https://t.co/a578u8eOMS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 1079,
+          "like_count": 28998,
+          "listed_count": 9,
+          "media_count": 562,
+          "tweet_count": 5767
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:10:34.000Z",
+        "description": "Sugawara/菅原です｜INTJ｜男｜仮面ライダー｜キャラクターデザイナー｜小さな雑記｜中野区",
+        "id": "1654534022448713728",
+        "location": "Nakano-ku, Tokyo",
+        "name": "Suga",
+        "pinned_tweet_id": "1974848022489252350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023369052463534080/pFWaydVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 241,
+          "like_count": 49540,
+          "listed_count": 1,
+          "media_count": 891,
+          "tweet_count": 6766
+        },
+        "username": "jueduizhengyi_A",
+        "verified": false
+      }
+    ]
+  }
+}

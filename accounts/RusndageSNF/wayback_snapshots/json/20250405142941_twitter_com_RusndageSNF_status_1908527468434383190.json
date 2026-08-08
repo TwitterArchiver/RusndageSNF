@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1908379342247473165",
+    "created_at": "2025-04-05T14:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T15:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908527468434383190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1707263138",
+          "start": 0,
+          "username": "pinkworm886"
+        },
+        {
+          "end": 24,
+          "id": "2396906006",
+          "start": 13,
+          "username": "shizunyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908527468434383190",
+    "in_reply_to_user_id": "1707263138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908526339587449214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pinkworm886 @shizunyan_ 我觉得我不太...ok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1908379342247473165",
+        "created_at": "2025-04-05T14:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T15:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908527468434383190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707263138",
+              "start": 0,
+              "username": "pinkworm886"
+            },
+            {
+              "end": 24,
+              "id": "2396906006",
+              "start": 13,
+              "username": "shizunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908527468434383190",
+        "in_reply_to_user_id": "1707263138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908526339587449214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pinkworm886 @shizunyan_ 我觉得我不太...ok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707263138",
+        "conversation_id": "1908379342247473165",
+        "created_at": "2025-04-05T14:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T15:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908526339587449214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 24,
+              "id": "2396906006",
+              "start": 13,
+              "username": "shizunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908526339587449214",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908466543580897684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @shizunyan_ 照顾好自己…别学他们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️/ADHD+ASD\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 928,
+          "like_count": 23940,
+          "listed_count": 6,
+          "media_count": 407,
+          "tweet_count": 4322
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-28T13:08:39.000Z",
+        "description": "",
+        "id": "1707263138",
+        "location": "Melbourne, Victoria",
+        "name": "Debeaa",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 770,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 850
+        },
+        "username": "pinkworm886",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-18T23:23:12.000Z",
+        "description": "shizu | 自傷 shtwt |",
+        "id": "2396906006",
+        "location": "void",
+        "name": "しず",
+        "pinned_tweet_id": "1868889445971472456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853737893241704448/tz8XbgoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 408,
+          "like_count": 33748,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 3871
+        },
+        "username": "shizunyan_",
+        "verified": false
+      }
+    ]
+  }
+}

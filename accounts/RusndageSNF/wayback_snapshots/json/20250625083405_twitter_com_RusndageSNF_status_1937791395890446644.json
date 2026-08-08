@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1937103922885435509",
+    "created_at": "2025-06-25T08:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T09:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937791395890446644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937791395890446644",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937103922885435509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk oiiaiooiiai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 983,
+        "media_key": "3_1937103911568965632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuH5vo4WgAAvSES.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1937103922885435509",
+        "created_at": "2025-06-25T08:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T09:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937791395890446644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937791395890446644",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937103922885435509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk oiiaiooiiai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937103911568965632"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1937103922885435509",
+        "created_at": "2025-06-23T11:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T12:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937103922885435509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9w4dpSx64",
+              "end": 23,
+              "expanded_url": "https://x.com/codyhunk/status/1937103922885435509/photo/1",
+              "media_key": "3_1937103911568965632",
+              "start": 0,
+              "url": "https://t.co/D9w4dpSx64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937103922885435509",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 238271,
+          "like_count": 4102,
+          "quote_count": 15,
+          "reply_count": 42,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D9w4dpSx64"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 982,
+          "like_count": 25865,
+          "listed_count": 8,
+          "media_count": 445,
+          "tweet_count": 4807
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，喜欢和大家交朋友，平时分享梗图。没啥雷点，爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏(互fo",
+        "pinned_tweet_id": "1937115545910018402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912733546407686145/-TA4wnE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 800,
+          "like_count": 1369,
+          "listed_count": 7,
+          "media_count": 1967,
+          "tweet_count": 2165
+        },
+        "username": "codyhunk",
+        "verified": false
+      }
+    ]
+  }
+}

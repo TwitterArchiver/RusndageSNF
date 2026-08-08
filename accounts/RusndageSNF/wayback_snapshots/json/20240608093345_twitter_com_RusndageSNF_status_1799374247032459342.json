@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1799331618668068890",
+    "created_at": "2024-06-08T09:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T10:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799374247032459342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799374247032459342",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799331618668068890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi 这是人的本性啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1799331618668068890",
+        "created_at": "2024-06-08T09:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T10:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799374247032459342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799374247032459342",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799331618668068890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi 这是人的本性啊"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799331554532990977"
+          ]
+        },
+        "author_id": "1553107630511603712",
+        "conversation_id": "1799331618668068890",
+        "created_at": "2024-06-08T06:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T07:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799331618668068890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/QQTX9Rs4za",
+              "end": 38,
+              "expanded_url": "https://twitter.com/JiZhenYouZi/status/1799331618668068890/photo/1",
+              "media_key": "3_1799331554532990977",
+              "start": 15,
+              "url": "https://t.co/QQTX9Rs4za"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799331618668068890",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6043,
+          "like_count": 126,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你们每天宣传的都是这种文化？ https://t.co/QQTX9Rs4za"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 649,
+          "like_count": 13996,
+          "listed_count": 5,
+          "tweet_count": 2425
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "“一天，我看见过四十三次日落。”",
+        "id": "1553107630511603712",
+        "name": "纪真由子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794768338981396480/SDIrfgjp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 2018,
+          "like_count": 7890,
+          "listed_count": 8,
+          "tweet_count": 7445
+        },
+        "username": "JiZhenYouZi",
+        "verified": false
+      }
+    ]
+  }
+}

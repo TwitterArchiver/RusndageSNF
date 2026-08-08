@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2064837213049782542",
+    "created_at": "2026-06-11T12:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065051406982402392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1243558241377718274",
+          "start": 0,
+          "username": "thisis_an_apple"
+        },
+        {
+          "end": 27,
+          "id": "1601549039287566336",
+          "start": 17,
+          "username": "mmmammm_a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065051406982402392",
+    "in_reply_to_user_id": "1243558241377718274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064858895454257197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thisis_an_apple @mmmammm_a 熟人引荐制就很容易变成小圈子自嗨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2064837213049782542",
+        "created_at": "2026-06-11T12:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065051406982402392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243558241377718274",
+              "start": 0,
+              "username": "thisis_an_apple"
+            },
+            {
+              "end": 27,
+              "id": "1601549039287566336",
+              "start": 17,
+              "username": "mmmammm_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065051406982402392",
+        "in_reply_to_user_id": "1243558241377718274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064858895454257197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thisis_an_apple @mmmammm_a 熟人引荐制就很容易变成小圈子自嗨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243558241377718274",
+        "conversation_id": "2064837213049782542",
+        "created_at": "2026-06-10T23:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T00:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064858895454257197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1601549039287566336",
+              "start": 0,
+              "username": "mmmammm_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064858895454257197",
+        "in_reply_to_user_id": "1601549039287566336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064837213049782542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmammm_a 1. base哪里是不能说的，容易有警察来查\n2. 这种通常是熟人引荐制，原因是一样的\n3. 多找新朋友，就会被推荐给他所在的组织"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2344,
+          "following_count": 1107,
+          "like_count": 30382,
+          "listed_count": 7,
+          "media_count": 585,
+          "tweet_count": 6155
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T15:19:43.000Z",
+        "description": "MtF，HRT 2024/09/25。\n我已经不知道要做什么了。\n脾气很好，请不要惹我生气或者和我辩论，我会哭。 要互粉可以私信。",
+        "id": "1243558241377718274",
+        "name": "风油精灵🏳️‍⚧️",
+        "pinned_tweet_id": "2003413981206344169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051717895366037504/Oa1TAFw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 44,
+          "like_count": 69,
+          "listed_count": 4,
+          "media_count": 536,
+          "tweet_count": 11821
+        },
+        "username": "thisis_an_apple",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T12:07:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️She / They / Transfeminist",
+        "id": "1601549039287566336",
+        "name": "北雁沐风🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2057217556277010698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718974847135760384/lV4ZzeQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 256,
+          "like_count": 8972,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 2390
+        },
+        "username": "mmmammm_a",
+        "verified": false
+      }
+    ]
+  }
+}

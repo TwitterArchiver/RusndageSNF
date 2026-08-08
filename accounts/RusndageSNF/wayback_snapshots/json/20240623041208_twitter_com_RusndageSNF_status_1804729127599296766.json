@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1804717883114610968",
+    "created_at": "2024-06-23T04:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T05:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804729127599296766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1625868333898940416",
+          "start": 0,
+          "username": "Dufay1963"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804729127599296766",
+    "in_reply_to_user_id": "1625868333898940416",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804717883114610968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dufay1963 沟槽的鸣式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1804717883114610968",
+        "created_at": "2024-06-23T04:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T05:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804729127599296766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1625868333898940416",
+              "start": 0,
+              "username": "Dufay1963"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804729127599296766",
+        "in_reply_to_user_id": "1625868333898940416",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804717883114610968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dufay1963 沟槽的鸣式"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804717880359227392"
+          ]
+        },
+        "author_id": "1625868333898940416",
+        "conversation_id": "1804717883114610968",
+        "created_at": "2024-06-23T03:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T04:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804717883114610968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UoSLLX7JBe",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Dufay1963/status/1804717883114610968/photo/1",
+              "media_key": "3_1804717880359227392",
+              "start": 34,
+              "url": "https://t.co/UoSLLX7JBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804717883114610968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做爱是这样的，只要插进去就可以了，而前列腺需要考虑的事情就很多了。 https://t.co/UoSLLX7JBe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 654,
+          "like_count": 14260,
+          "listed_count": 5,
+          "tweet_count": 2505
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T14:43:45.000Z",
+        "description": "mtx，类残疾人，一个无聊枯燥的人。",
+        "id": "1625868333898940416",
+        "name": "Guillaume",
+        "pinned_tweet_id": "1800163321313992784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801574925553307648/rp68EoSd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 258,
+          "like_count": 2601,
+          "listed_count": 0,
+          "tweet_count": 9
+        },
+        "username": "Dufay1963",
+        "verified": false
+      }
+    ]
+  }
+}

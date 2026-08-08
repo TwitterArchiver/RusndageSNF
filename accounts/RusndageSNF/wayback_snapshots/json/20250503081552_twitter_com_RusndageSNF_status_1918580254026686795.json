@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1918510847669813673",
+    "created_at": "2025-05-03T08:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T09:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918580254026686795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1883059385997635585",
+          "start": 0,
+          "username": "Kikyo4000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918580254026686795",
+    "in_reply_to_user_id": "1883059385997635585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918510847669813673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kikyo4000 这是真十年前的文案了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1918510847669813673",
+        "created_at": "2025-05-03T08:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T09:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918580254026686795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1883059385997635585",
+              "start": 0,
+              "username": "Kikyo4000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918580254026686795",
+        "in_reply_to_user_id": "1883059385997635585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918510847669813673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikyo4000 这是真十年前的文案了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883059385997635585",
+        "conversation_id": "1918510847669813673",
+        "created_at": "2025-05-03T03:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T04:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918510847669813673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918510847669813673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2107,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "求助！我的哥哥被寄生兽寄生了！我的哥\n哥经常把自己关在房间里，我有时候会忘\n记敲门就进去，结果却看见哥哥一只手抓\n着小腹下方位置的一条触手一样的奇径的\n东西，我确定我身上是没有这东西的，以\n前看见过，不过没在意，最近看了寄生\n兽，越来越觉得哥哥好奇径，是不是寄\n生兽控制了，好可怕！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 952,
+          "like_count": 24748,
+          "listed_count": 7,
+          "media_count": 422,
+          "tweet_count": 4505
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T07:48:51.000Z",
+        "description": "",
+        "id": "1883059385997635585",
+        "location": "馬斯克親媽の墳頭",
+        "name": "花取醬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890751901462892544/ZJRBTAXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 237,
+          "like_count": 3047,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 476
+        },
+        "username": "Kikyo4000",
+        "verified": false
+      }
+    ]
+  }
+}

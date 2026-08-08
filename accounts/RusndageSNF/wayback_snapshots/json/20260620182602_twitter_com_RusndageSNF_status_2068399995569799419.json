@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2068386915259384070",
+    "created_at": "2026-06-20T18:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068399995569799419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1650498704812437504",
+          "start": 0,
+          "username": "xxjuzi091123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068399995569799419",
+    "in_reply_to_user_id": "1650498704812437504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068386915259384070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxjuzi091123 之前的ESL小短片里马西西就扮演的白女"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 130,
+        "media_key": "3_2068386907407736832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRi7vobYAAIG1F.jpg",
+        "width": 532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2068386915259384070",
+        "created_at": "2026-06-20T18:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068399995569799419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650498704812437504",
+              "start": 0,
+              "username": "xxjuzi091123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068399995569799419",
+        "in_reply_to_user_id": "1650498704812437504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068386915259384070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxjuzi091123 之前的ESL小短片里马西西就扮演的白女"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068386907407736832"
+          ]
+        },
+        "author_id": "1650498704812437504",
+        "conversation_id": "2068386915259384070",
+        "created_at": "2026-06-20T17:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068386915259384070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMqIoaZRsF",
+              "end": 127,
+              "expanded_url": "https://x.com/xxjuzi091123/status/2068386915259384070/photo/1",
+              "media_key": "3_2068386907407736832",
+              "start": 104,
+              "url": "https://t.co/xMqIoaZRsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068386915259384070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么马西西越来越像一个女性，他甚至比很多跨性别都更像是女性（？）\nwhymagixx Become like a woman，He passes better than some trans women. https://t.co/xMqIoaZRsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@deuxexmachina11 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062693095582703616/t6H-wwRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 1108,
+          "like_count": 30569,
+          "listed_count": 7,
+          "media_count": 587,
+          "tweet_count": 6174
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T13:55:57.000Z",
+        "description": "11.23河北廊坊 vev@ ccccs",
+        "id": "1650498704812437504",
+        "location": "河北",
+        "name": "小小橘子🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836909720642125825/zOdhE63W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 700,
+          "like_count": 211,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1046
+        },
+        "url": "",
+        "username": "xxjuzi091123",
+        "verified": false
+      }
+    ]
+  }
+}

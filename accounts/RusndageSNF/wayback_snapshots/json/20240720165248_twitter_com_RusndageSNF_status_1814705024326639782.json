@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1814532054807146628",
+    "created_at": "2024-07-20T16:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T17:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814705024326639782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1071094209749417984",
+          "start": 0,
+          "username": "BeiyanNa3AlF6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814705024326639782",
+    "in_reply_to_user_id": "1071094209749417984",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814532054807146628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeiyanNa3AlF6 建议以后非精神疾病患者医闹禁止去三甲医院就诊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1814532054807146628",
+        "created_at": "2024-07-20T16:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T17:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814705024326639782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1071094209749417984",
+              "start": 0,
+              "username": "BeiyanNa3AlF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814705024326639782",
+        "in_reply_to_user_id": "1071094209749417984",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814532054807146628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeiyanNa3AlF6 建议以后非精神疾病患者医闹禁止去三甲医院就诊"
+      },
+      {
+        "attachments": {},
+        "author_id": "1071094209749417984",
+        "conversation_id": "1814532054807146628",
+        "created_at": "2024-07-20T05:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T06:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814532054807146628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/22HomoPoliticu…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/22HomoPoliticus/status/1814452334698869071",
+              "start": 143,
+              "url": "https://t.co/Q0mh4M5qsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814532054807146628",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 21160,
+          "like_count": 247,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814452334698869071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们近期收到多份报告：武汉市精神卫生中心的跨性别友善医师李赋，近期因被就诊者家属殴打至需在外院接受治疗，对接诊跨性别的意愿有所降低。\n\n基于以上信息，近期不建议前往李赋医师处就诊。\n\n我们强烈谴责一切医闹行为，呼吁建立健全医闹防范机制。\n\n谨代表社群对李赋医师隔空致以诚挚慰问和感谢。 https://t.co/Q0mh4M5qsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 672,
+          "like_count": 14877,
+          "listed_count": 5,
+          "tweet_count": 2603
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T17:28:54.000Z",
+        "description": "MtX-MtF振荡器。木饭桶/INTP/Ingress Resistance/Android Dev/@nixos_org pkgs maintainer/中文 Vocaloid/Xperia，Kotlin/C#/cmn/en/de，Member of @MtFwiki。回关可私信。爱的人@yifusuyi。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "nixos_org"
+              },
+              {
+                "end": 135,
+                "start": 127,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 154,
+                "start": 145,
+                "username": "yifusuyi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Cryolitia",
+                "end": 23,
+                "expanded_url": "http://t.me/Cryolitia",
+                "start": 0,
+                "url": "https://t.co/9fN5MeUZqk"
+              }
+            ]
+          }
+        },
+        "id": "1071094209749417984",
+        "location": "Rhineland-Palatinate, Germany",
+        "name": "北雁 Na₃AlF₆🍥",
+        "pinned_tweet_id": "1789557554231869659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620498439485403137/zPt4c0Rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 1245,
+          "like_count": 78066,
+          "listed_count": 9,
+          "tweet_count": 4581
+        },
+        "url": "https://t.co/9fN5MeUZqk",
+        "username": "BeiyanNa3AlF6",
+        "verified": false
+      }
+    ]
+  }
+}

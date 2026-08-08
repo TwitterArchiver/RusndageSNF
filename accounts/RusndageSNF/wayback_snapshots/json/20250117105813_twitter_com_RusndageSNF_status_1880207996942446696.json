@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1879491906742395123",
+    "created_at": "2025-01-17T10:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T11:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880207996942446696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596652915959078913",
+          "start": 0,
+          "username": "nanami5513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880207996942446696",
+    "in_reply_to_user_id": "1596652915959078913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879491906742395123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami5513 寄吧湾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1879491906742395123",
+        "created_at": "2025-01-17T10:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T11:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880207996942446696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596652915959078913",
+              "start": 0,
+              "username": "nanami5513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880207996942446696",
+        "in_reply_to_user_id": "1596652915959078913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879491906742395123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami5513 寄吧湾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879491897380745216",
+            "3_1879491897384984576"
+          ]
+        },
+        "author_id": "1596652915959078913",
+        "conversation_id": "1879491906742395123",
+        "created_at": "2025-01-15T11:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T12:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879491906742395123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U69ixZlR08",
+              "end": 53,
+              "expanded_url": "https://x.com/nanami5513/status/1879491906742395123/photo/1",
+              "media_key": "3_1879491897380745216",
+              "start": 30,
+              "url": "https://t.co/U69ixZlR08"
+            },
+            {
+              "display_url": "pic.x.com/U69ixZlR08",
+              "end": 53,
+              "expanded_url": "https://x.com/nanami5513/status/1879491906742395123/photo/1",
+              "media_key": "3_1879491897384984576",
+              "start": 30,
+              "url": "https://t.co/U69ixZlR08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879491906742395123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 17136,
+          "like_count": 182,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么B站推荐这个\n\n云飞这么看意外的还超级pass（哭了 https://t.co/U69ixZlR08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 844,
+          "like_count": 21898,
+          "listed_count": 7,
+          "media_count": 361,
+          "tweet_count": 3798
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T23:51:38.000Z",
+        "description": "是主人的猫猫～mcew～ /ixxx(混沌)/05年MtF/大证/天残家长吓坏党/HRT 2024.9.9/重度抑郁/重度焦虑/双相/大抵是有BPD/自残警告/七海喜欢的/爱的/独占的/要一直陪七海的/对象/主人@mcew_233/捞七海回来的人@miya122369 /C&P在读/以后可能考408（大一试图跑路中）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "mcew_233"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "miya122369"
+              }
+            ]
+          }
+        },
+        "id": "1596652915959078913",
+        "location": "主人衣服里",
+        "name": "七海🍥",
+        "pinned_tweet_id": "1877875953948414387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832845344121712640/7e-GXeYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 284,
+          "like_count": 2326,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1123
+        },
+        "username": "nanami5513",
+        "verified": true
+      }
+    ]
+  }
+}

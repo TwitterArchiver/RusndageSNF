@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1948268407926747138",
+    "created_at": "2025-07-24T06:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T07:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948268407926747138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "994208371040337921",
+          "start": 3,
+          "username": "litztsong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948268407926747138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947773028584263897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @litztsong: 世界上最跨的人\n她的包上挂了“可以找我借雌二醇”，鱼板和玉桂狗的挂件\n她在上海市中心的咖啡店当中注射雌二醇，引发了一场纠纷\n她不是日本人，也不再是高中生，但她的衣柜里装满了JK装\n她解决了数个朋友电脑的疑难杂症\n她的电脑装着debian系的Linu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947773017637240832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwfhPWNbwAAmARS.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1947773017599447045",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwfhPWEbEAUxCTo.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1947773017662361601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwfhPWTbEAE1oje.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1947773017620402176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwfhPWJa0AAorz0.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1948268407926747138",
+        "created_at": "2025-07-24T06:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T07:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948268407926747138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "994208371040337921",
+              "start": 3,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948268407926747138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947773028584263897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @litztsong: 世界上最跨的人\n她的包上挂了“可以找我借雌二醇”，鱼板和玉桂狗的挂件\n她在上海市中心的咖啡店当中注射雌二醇，引发了一场纠纷\n她不是日本人，也不再是高中生，但她的衣柜里装满了JK装\n她解决了数个朋友电脑的疑难杂症\n她的电脑装着debian系的Linu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947773017637240832",
+            "3_1947773017599447045",
+            "3_1947773017662361601",
+            "3_1947773017620402176"
+          ]
+        },
+        "author_id": "994208371040337921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1947773028584263897",
+        "created_at": "2025-07-22T21:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T22:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947773028584263897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wL7ofImzf4",
+              "end": 151,
+              "expanded_url": "https://x.com/litztsong/status/1947773028584263897/photo/1",
+              "media_key": "3_1947773017637240832",
+              "start": 128,
+              "url": "https://t.co/wL7ofImzf4"
+            },
+            {
+              "display_url": "pic.x.com/wL7ofImzf4",
+              "end": 151,
+              "expanded_url": "https://x.com/litztsong/status/1947773028584263897/photo/1",
+              "media_key": "3_1947773017599447045",
+              "start": 128,
+              "url": "https://t.co/wL7ofImzf4"
+            },
+            {
+              "display_url": "pic.x.com/wL7ofImzf4",
+              "end": 151,
+              "expanded_url": "https://x.com/litztsong/status/1947773028584263897/photo/1",
+              "media_key": "3_1947773017662361601",
+              "start": 128,
+              "url": "https://t.co/wL7ofImzf4"
+            },
+            {
+              "display_url": "pic.x.com/wL7ofImzf4",
+              "end": 151,
+              "expanded_url": "https://x.com/litztsong/status/1947773028584263897/photo/1",
+              "media_key": "3_1947773017620402176",
+              "start": 128,
+              "url": "https://t.co/wL7ofImzf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947773028584263897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "世界上最跨的人\n她的包上挂了“可以找我借雌二醇”，鱼板和玉桂狗的挂件\n她在上海市中心的咖啡店当中注射雌二醇，引发了一场纠纷\n她不是日本人，也不再是高中生，但她的衣柜里装满了JK装\n她解决了数个朋友电脑的疑难杂症\n她的电脑装着debian系的Linux系统\n她的书架的最显眼的位置上摆着算法导论，March高等有机化学和stahl教授的基础精神科药理学\n她喜欢吃萨莉亚\n她总是喜欢去有无障碍/第三卫生间的地方\n她业余时间经常去射箭\n她的精神科诊断需要在那一栏里写三行\n她随身带着苯二氮䓬类药物和nBZDs，作为送给朋友的办手礼\n她对od圈的药物了如指掌，以至于和地雷妹们都有共同话题\n她刚和陌生的同类认识就到了她同类开房的宾馆房间/家里，然后不出10分钟两人就脱下了衣服在床上抱在了一起\n关心她的朋友每次见到她的第一件事是检查她的手臂有没有伤口\n她打的聊天最后总有一个（，有时聊天会以meow开头\n她经常访问阿拉丁的网站，并总是在上面买些奇怪的试剂\n她能准确得根据途径站判断列车走的线路\n她能根据动车车头的样子认出车组型号\n她乘坐的阴间时间的绿皮车提前到站了35分钟，然而她却很难过，因为没有车票效益最大化\n她，就是世界上最跨的人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 18905,
+          "like_count": 222,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "世界上最跨的人\n她的包上挂了“可以找我借雌二醇”，鱼板和玉桂狗的挂件\n她在上海市中心的咖啡店当中注射雌二醇，引发了一场纠纷\n她不是日本人，也不再是高中生，但她的衣柜里装满了JK装\n她解决了数个朋友电脑的疑难杂症\n她的电脑装着debian系的Linux系统 https://t.co/wL7ofImzf4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 1013,
+          "like_count": 26728,
+          "listed_count": 8,
+          "media_count": 463,
+          "tweet_count": 5082
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtF(post surgery)/psychopath(schizo)/paliperidone&quetiapine user/ASD/上海本地人/猫猫 @jenniferlew2024 个人群（personal group chat）：https://t.co/16lZFMyT6P",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "jenniferlew2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 144,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 121,
+                "url": "https://t.co/16lZFMyT6P"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "location": "上海, 中华人民共和国",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "1945959146395684952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2764,
+          "following_count": 1896,
+          "like_count": 3412,
+          "listed_count": 16,
+          "media_count": 1358,
+          "tweet_count": 12299
+        },
+        "username": "litztsong",
+        "verified": false
+      }
+    ]
+  }
+}

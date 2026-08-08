@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1926274954091250061",
+    "created_at": "2025-05-25T12:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T13:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926616441668641108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1048022597823164416",
+          "start": 0,
+          "username": "HiallouL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926616441668641108",
+    "in_reply_to_user_id": "1048022597823164416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926274954091250061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiallouL 两家大头其实都能当头子，价值观都挺正的，deepseek没像文心一言一样傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 274,
+        "media_key": "3_1926274949527822336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GruA3FpW4AABg7T.jpg",
+        "width": 1286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1926274954091250061",
+        "created_at": "2025-05-25T12:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T13:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926616441668641108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1048022597823164416",
+              "start": 0,
+              "username": "HiallouL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926616441668641108",
+        "in_reply_to_user_id": "1048022597823164416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926274954091250061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiallouL 两家大头其实都能当头子，价值观都挺正的，deepseek没像文心一言一样傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926274949527822336"
+          ]
+        },
+        "author_id": "1048022597823164416",
+        "conversation_id": "1926274954091250061",
+        "created_at": "2025-05-24T13:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T14:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926274954091250061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5eO4utHSwX",
+              "end": 36,
+              "expanded_url": "https://x.com/HiallouL/status/1926274954091250061/photo/1",
+              "media_key": "3_1926274949527822336",
+              "start": 13,
+              "url": "https://t.co/5eO4utHSwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926274954091250061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1419,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "讲真让gpt当跨权头子吧 https://t.co/5eO4utHSwX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 957,
+          "like_count": 25304,
+          "listed_count": 0,
+          "media_count": 433,
+          "tweet_count": 4647
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕",
+        "id": "1048022597823164416",
+        "location": "把不息的生机种在每一个旅人心里",
+        "name": "Hallo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608389665610174464/O7Jr75LC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 1122,
+          "like_count": 13971,
+          "listed_count": 4,
+          "media_count": 746,
+          "tweet_count": 3855
+        },
+        "username": "HiallouL",
+        "verified": false
+      }
+    ]
+  }
+}

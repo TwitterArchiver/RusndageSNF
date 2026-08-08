@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949426539675959296"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "1949426577290178588",
+    "created_at": "2025-07-27T11:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T12:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949426577290178588"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6SmhEOZjC6",
+          "end": 40,
+          "expanded_url": "https://x.com/RusndageSNF/status/1949426577290178588/photo/1",
+          "media_key": "3_1949426539675959296",
+          "start": 17,
+          "url": "https://t.co/6SmhEOZjC6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949426577290178588",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有了您这样的人才会变成笑话的哦亲 https://t.co/6SmhEOZjC6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 236,
+        "media_key": "3_1949426539675959296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3BG_0awAAW7u8.png",
+        "width": 423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949426539675959296"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "1949426577290178588",
+        "created_at": "2025-07-27T11:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949426577290178588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SmhEOZjC6",
+              "end": 40,
+              "expanded_url": "https://x.com/RusndageSNF/status/1949426577290178588/photo/1",
+              "media_key": "3_1949426539675959296",
+              "start": 17,
+              "url": "https://t.co/6SmhEOZjC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949426577290178588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有了您这样的人才会变成笑话的哦亲 https://t.co/6SmhEOZjC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 1013,
+          "like_count": 26813,
+          "listed_count": 7,
+          "media_count": 479,
+          "tweet_count": 5126
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

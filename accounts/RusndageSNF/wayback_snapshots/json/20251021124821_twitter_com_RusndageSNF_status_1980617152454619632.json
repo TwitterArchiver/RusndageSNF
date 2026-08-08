@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1980617152454619632",
+    "created_at": "2025-10-21T12:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980617152454619632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980617152454619632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980138233741848754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 时隔一年，本条信息是一条资金方面的求助，引用推文是所有的赞赏方式（请在不影响自己生活和生存的情况下进行赞赏）：\n赞赏者可以添加寒涟漪的任何一个平台的联系方式（我即时通信平台的使用频率排序分别为telegram，QQ，推特，知乎，微信）。… h…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1980617152454619632].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1980617152454619632",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1980617152454619632"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1820,
+        "media_key": "3_1980138230176468992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rdOqfW0AABkSC.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2002,
+        "media_key": "3_1980138230608531456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rdOsGXkAAJmpi.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980138230176468992",
+            "3_1980138230608531456"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1980138233741848754",
+        "created_at": "2025-10-20T05:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980138233741848754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ZJpp4jraa",
+              "end": 142,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1980138233741848754/photo/1",
+              "media_key": "3_1980138230176468992",
+              "start": 119,
+              "url": "https://t.co/6ZJpp4jraa"
+            },
+            {
+              "display_url": "pic.x.com/6ZJpp4jraa",
+              "end": 142,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1980138233741848754/photo/1",
+              "media_key": "3_1980138230608531456",
+              "start": 119,
+              "url": "https://t.co/6ZJpp4jraa"
+            },
+            {
+              "display_url": "x.com/lianyiganyu/st…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/lianyiganyu/status/1883892557207470495",
+              "start": 143,
+              "url": "https://t.co/UfvRgu9fCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980138233741848754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "时隔一年，本条信息是一条资金方面的求助，引用推文是所有的赞赏方式（请在不影响自己生活和生存的情况下进行赞赏）：\n赞赏者可以添加寒涟漪的任何一个平台的联系方式（我即时通信平台的使用频率排序分别为telegram，QQ，推特，知乎，微信）。\n当前因为多方面的原因，尽管和去年十月相比，情况有所好转，但是庇护所项目的资金缺口仍然巨大，我本人（寒涟漪）的负债金额也在过去这一年扩大。\n目前武汉地区有五个房屋（当前居住人数三十多人）需要在十月末至十一月初缴付房租，其中两个房屋因为两年租约到期，房东将续约标准改至了半年付和年付（因搬家成本，续约仍然比搬家要划算），这意味着需要在半月时间内支付七万元人民币的房租，目前仍然有三万多元的缺口。\n同时，当前仍然在聘请和试岗在涟漪危机干预小组全职工作的专业人员（周均工作时间44小时以上，社工或临床与咨询专业学历或有个人经验），更高的人员成本同时也是为了将高度依赖于寒涟漪本人的工作进行分摊和转移和对志愿者劳动力的有效利用。\n元旦后将会发布2025年的工作简报，更详细的资金开销情况和小组工作情况可通过telegram直接和我进行私信（仅限赞赏者）\n以下是在引用推文的基础上的补充赞赏渠道（如果有些赞赏渠道被封锁，可以替换这些）\n银行卡：6214 8327 5592 0571（潘佳彤）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 12982,
+          "like_count": 97,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883892557207470495",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "时隔一年，本条信息是一条资金方面的求助，引用推文是所有的赞赏方式（请在不影响自己生活和生存的情况下进行赞赏）：\n赞赏者可以添加寒涟漪的任何一个平台的联系方式（我即时通信平台的使用频率排序分别为telegram，QQ，推特，知乎，微信）。 https://t.co/6ZJpp4jraa https://t.co/UfvRgu9fCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 1047,
+          "like_count": 27838,
+          "listed_count": 7,
+          "media_count": 524,
+          "tweet_count": 5465
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39813,
+          "following_count": 3657,
+          "like_count": 1277,
+          "listed_count": 70,
+          "media_count": 352,
+          "tweet_count": 2550
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

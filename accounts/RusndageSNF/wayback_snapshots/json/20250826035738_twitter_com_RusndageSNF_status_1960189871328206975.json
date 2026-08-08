@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1959848596792393981",
+    "created_at": "2025-08-26T03:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T04:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960189871328206975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634941864368549891",
+          "start": 0,
+          "username": "R1_thamclub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960189871328206975",
+    "in_reply_to_user_id": "1634941864368549891",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960097525932892566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1_thamclub 我21年 22年的时候重度DL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1959848596792393981",
+        "created_at": "2025-08-26T03:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T04:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960189871328206975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634941864368549891",
+              "start": 0,
+              "username": "R1_thamclub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960189871328206975",
+        "in_reply_to_user_id": "1634941864368549891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960097525932892566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1_thamclub 我21年 22年的时候重度DL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634941864368549891",
+        "conversation_id": "1959848596792393981",
+        "created_at": "2025-08-25T21:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T22:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960097525932892566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960097525932892566",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960051703182721114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 原来是同好啊，那没事了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 1031,
+          "like_count": 27230,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 5272
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:38:25.000Z",
+        "description": "性别是伪娘|| 身高168体重98斤|| 接线下||接定制||喜欢abdl和捆绑 || 求投喂 || 想找主人I私人企鹅2265963779门槛20同好随便",
+        "id": "1634941864368549891",
+        "location": "中国大陆江苏省南京市",
+        "name": "あやまち",
+        "pinned_tweet_id": "1769074288286368002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898925627157393408/imjDcUNB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 470,
+          "like_count": 62,
+          "listed_count": 6,
+          "media_count": 206,
+          "tweet_count": 951
+        },
+        "username": "R1_thamclub",
+        "verified": false
+      }
+    ]
+  }
+}

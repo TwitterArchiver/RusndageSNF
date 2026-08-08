@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1915969249832800513",
+    "created_at": "2025-04-28T05:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T06:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916729140402680028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1636735469953368067",
+          "start": 0,
+          "username": "maatchaaca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916729140402680028",
+    "in_reply_to_user_id": "1636735469953368067",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915969249832800513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maatchaaca i gonna ptsd tbh fuck u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28490,
+        "height": 1280,
+        "media_key": "7_1915969191305482240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1915969191305482240/pu/img/vUlc56JLPi6Qpt2p.jpg",
+        "public_metrics": {
+          "view_count": 10978800
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915969191305482240/pu/vid/avc1/320x568/JjExb2cKT7v5DCjy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915969191305482240/pu/vid/avc1/480x852/cEhZX1z1Rn2DdEwJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915969191305482240/pu/vid/avc1/720x1280/ieUEDbAmeYTBfSYm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1915969191305482240/pu/pl/TuVc6AOSfpx71W8T.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1915969249832800513",
+        "created_at": "2025-04-28T05:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T06:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916729140402680028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1636735469953368067",
+              "start": 0,
+              "username": "maatchaaca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916729140402680028",
+        "in_reply_to_user_id": "1636735469953368067",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915969249832800513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maatchaaca i gonna ptsd tbh fuck u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1915969191305482240"
+          ]
+        },
+        "author_id": "1636735469953368067",
+        "conversation_id": "1915969249832800513",
+        "created_at": "2025-04-26T03:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T04:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915969249832800513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzRrC1csjy",
+              "end": 73,
+              "expanded_url": "https://x.com/maatchaaca/status/1915969249832800513/video/1",
+              "media_key": "7_1915969191305482240",
+              "start": 50,
+              "url": "https://t.co/rzRrC1csjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915969249832800513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4019,
+          "impression_count": 39581835,
+          "like_count": 13407,
+          "quote_count": 4944,
+          "reply_count": 2127,
+          "retweet_count": 608
+        },
+        "reply_settings": "everyone",
+        "text": "Long hair is beautiful, short hair is cool👩🏻🧑🏻🤣🫵🏻 https://t.co/rzRrC1csjy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 951,
+          "like_count": 24592,
+          "listed_count": 6,
+          "media_count": 418,
+          "tweet_count": 4463
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T14:25:59.000Z",
+        "description": "Well to the well || 📩 DM for business",
+        "id": "1636735469953368067",
+        "location": "Bandung, Jawa Barat",
+        "name": "𝓐sha🍀",
+        "pinned_tweet_id": "1915608174906008046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851885936394801158/lBY1856u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8669,
+          "following_count": 2555,
+          "like_count": 227520,
+          "listed_count": 8,
+          "media_count": 1414,
+          "tweet_count": 185283
+        },
+        "username": "maatchaaca",
+        "verified": true
+      }
+    ]
+  }
+}

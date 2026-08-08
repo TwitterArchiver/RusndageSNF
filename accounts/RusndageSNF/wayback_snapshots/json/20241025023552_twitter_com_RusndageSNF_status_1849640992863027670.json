@@ -1,0 +1,142 @@
+{
+  "data": {
+    "author_id": "1236317911431536640",
+    "conversation_id": "1849640992863027670",
+    "created_at": "2024-10-25T02:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-25T03:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1849640992863027670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "id": "1849640992863027670",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849340763261567058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 劝人慎重吃糖的全称叫做，「吃糖要慎重，因为社会对跨性别的接受度还不足，跨性别医疗包括整形等有很多局限性，性别标签的改变可能会带来生活工作社会中的角色的变化。」\n\n全篇没有一个字是说问题是激素水平和吃糖死得快，阅读条款的时候麻烦您费力，请把下拉条点…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1236317911431536640",
+        "conversation_id": "1849640992863027670",
+        "created_at": "2024-10-25T02:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T03:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849640992863027670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "id": "1849640992863027670",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849340763261567058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 劝人慎重吃糖的全称叫做，「吃糖要慎重，因为社会对跨性别的接受度还不足，跨性别医疗包括整形等有很多局限性，性别标签的改变可能会带来生活工作社会中的角色的变化。」\n\n全篇没有一个字是说问题是激素水平和吃糖死得快，阅读条款的时候麻烦您费力，请把下拉条点…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 758,
+          "like_count": 19946,
+          "listed_count": 4,
+          "media_count": 315,
+          "tweet_count": 3373
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "坏蛋猫咪😎",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12559,
+          "following_count": 179,
+          "like_count": 361,
+          "listed_count": 40,
+          "media_count": 69,
+          "tweet_count": 11772
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

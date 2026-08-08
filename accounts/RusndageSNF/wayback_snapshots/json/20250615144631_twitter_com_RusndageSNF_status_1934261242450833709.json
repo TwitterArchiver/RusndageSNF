@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1934076518176862435",
+    "created_at": "2025-06-15T14:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T15:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934261242450833709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1620322708994068481",
+          "start": 0,
+          "username": "jinsenala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934261242450833709",
+    "in_reply_to_user_id": "1620322708994068481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934076518176862435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinsenala 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1934076518176862435",
+        "created_at": "2025-06-15T14:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T15:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934261242450833709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1620322708994068481",
+              "start": 0,
+              "username": "jinsenala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934261242450833709",
+        "in_reply_to_user_id": "1620322708994068481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934076518176862435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinsenala 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620322708994068481",
+        "conversation_id": "1934076518176862435",
+        "created_at": "2025-06-15T02:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T03:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934076518176862435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934076518176862435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1365,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "离家出走×2 没有地方去，这回找不到住的地方就随便找个高点的楼跳下去了，反正也没活着的盼头了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 972,
+          "like_count": 25798,
+          "listed_count": 7,
+          "media_count": 440,
+          "tweet_count": 4769
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:27:34.000Z",
+        "description": "时间流逝吧，你是多么的残酷｜\n对那菈最好最好超级好的姐姐！@Puddingbs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "Puddingbs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinsenala",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinsenala",
+                "start": 0,
+                "url": "https://t.co/hD2vn4klWw"
+              }
+            ]
+          }
+        },
+        "id": "1620322708994068481",
+        "location": "终之空",
+        "name": "金色那菈🏳️‍⚧️",
+        "pinned_tweet_id": "1933875022902460556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819587398030053378/F0OxzlKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 576,
+          "like_count": 2135,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1215
+        },
+        "url": "https://t.co/hD2vn4klWw",
+        "username": "jinsenala",
+        "verified": false
+      }
+    ]
+  }
+}

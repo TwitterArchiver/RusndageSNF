@@ -1,0 +1,142 @@
+{
+  "data": {
+    "author_id": "1236317911431536640",
+    "conversation_id": "1848538282659111011",
+    "created_at": "2024-10-22T01:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-22T02:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848538282659111011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "id": "1848538282659111011",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848353643814322547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 人们终于想起来，跨性别女性不是淫乱的代名词。在一个原生的社交平台，你最先刷到的，永远是是男同的鸡巴，精液，沾满精液的鸡巴和沾满鸡巴的精液。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1236317911431536640",
+        "conversation_id": "1848538282659111011",
+        "created_at": "2024-10-22T01:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-22T02:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848538282659111011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "id": "1848538282659111011",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848353643814322547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 人们终于想起来，跨性别女性不是淫乱的代名词。在一个原生的社交平台，你最先刷到的，永远是是男同的鸡巴，精液，沾满精液的鸡巴和沾满鸡巴的精液。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 757,
+          "like_count": 19971,
+          "listed_count": 4,
+          "media_count": 316,
+          "tweet_count": 3374
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "丄",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12554,
+          "following_count": 180,
+          "like_count": 361,
+          "listed_count": 40,
+          "media_count": 69,
+          "tweet_count": 11785
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1805805157055148274",
+    "created_at": "2024-06-26T04:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T05:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805815125376655449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805815125376655449",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805805157055148274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi 吃！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1805805157055148274",
+        "created_at": "2024-06-26T04:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T05:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805815125376655449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805815125376655449",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805805157055148274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi 吃！！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1553107630511603712",
+        "conversation_id": "1805805157055148274",
+        "created_at": "2024-06-26T03:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T04:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805805157055148274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805805157055148274",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经好几年没有吃过麦当劳了\n\n应该有五六年吧，记不清了\n\n对麦麦最后的记忆还停留在很久以前..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 655,
+          "like_count": 14309,
+          "listed_count": 5,
+          "tweet_count": 2513
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "春风桃李花开日，秋雨梧桐叶落时",
+        "id": "1553107630511603712",
+        "name": "纪真由子",
+        "pinned_tweet_id": "1801088179564646713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799821012789309442/wurGNeui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 2221,
+          "like_count": 8653,
+          "listed_count": 8,
+          "tweet_count": 8585
+        },
+        "username": "JiZhenYouZi",
+        "verified": false
+      }
+    ]
+  }
+}

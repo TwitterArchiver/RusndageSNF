@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2009910704443404724",
+    "created_at": "2026-01-12T05:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T06:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010588018663633248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921042330834137088",
+          "start": 0,
+          "username": "wazi0yourGL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010588018663633248",
+    "in_reply_to_user_id": "1921042330834137088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010465803611910560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wazi0yourGL 我给他看过，他说挺像的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2009910704443404724",
+        "created_at": "2026-01-12T05:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T06:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010588018663633248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921042330834137088",
+              "start": 0,
+              "username": "wazi0yourGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010588018663633248",
+        "in_reply_to_user_id": "1921042330834137088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010465803611910560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wazi0yourGL 我给他看过，他说挺像的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921042330834137088",
+        "conversation_id": "2009910704443404724",
+        "created_at": "2026-01-11T21:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T22:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010465803611910560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010465803611910560",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009910704443404724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 给他看术后效果图，既然避不开不如直面问题。如果他排斥术后效果，感觉就不会翻车的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 1050,
+          "like_count": 28304,
+          "listed_count": 7,
+          "media_count": 541,
+          "tweet_count": 5636
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T03:19:36.000Z",
+        "description": "Born in Macau, lived in Macau temporarily, traveled to Japan, afraid of cold and rain. I'm a supporter of the sexual minority community 🏳️‍🌈",
+        "id": "1921042330834137088",
+        "location": "Macau",
+        "name": "袜子🧦🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978249881321123840/fR3hfyXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 16,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 77
+        },
+        "username": "wazi0yourGL",
+        "verified": false
+      }
+    ]
+  }
+}

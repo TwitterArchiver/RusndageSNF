@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1943949968072687785",
+    "created_at": "2025-07-12T08:26:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T09:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943949968072687785"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "Mixue Empire",
+          "probability": 0.755,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1112048550",
+          "start": 3,
+          "username": "Doug_rooney"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943949968072687785",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2713
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943637736100913506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Doug_rooney: The Mixue Empire looks much nicer and as an added bonus will give you delicious ice cream rather than horrific  war crimes…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1943637734108561408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvkwOKmWAAAiQ4Q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1943949968072687785",
+        "created_at": "2025-07-12T08:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T09:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943949968072687785"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Mixue Empire",
+              "probability": 0.755,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1112048550",
+              "start": 3,
+              "username": "Doug_rooney"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943949968072687785",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2713
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943637736100913506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Doug_rooney: The Mixue Empire looks much nicer and as an added bonus will give you delicious ice cream rather than horrific  war crimes…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943637734108561408"
+          ]
+        },
+        "author_id": "1112048550",
+        "conversation_id": "1943637736100913506",
+        "created_at": "2025-07-11T11:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T12:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943637736100913506"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Mixue Empire",
+              "probability": 0.8118,
+              "start": 4,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ozipCRJlS",
+              "end": 146,
+              "expanded_url": "https://x.com/Doug_rooney/status/1943637736100913506/photo/1",
+              "media_key": "3_1943637734108561408",
+              "start": 123,
+              "url": "https://t.co/0ozipCRJlS"
+            },
+            {
+              "display_url": "x.com/FToast60/statu…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/FToast60/status/1943305102162563530",
+              "start": 147,
+              "url": "https://t.co/4HMzPhgNct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943637736100913506",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 898,
+          "impression_count": 635277,
+          "like_count": 15816,
+          "quote_count": 226,
+          "reply_count": 103,
+          "retweet_count": 2713
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943305102162563530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The Mixue Empire looks much nicer and as an added bonus will give you delicious ice cream rather than horrific  war crimes https://t.co/0ozipCRJlS https://t.co/4HMzPhgNct"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943919764566683648/0VKtwa2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1822,
+          "following_count": 999,
+          "like_count": 26478,
+          "listed_count": 8,
+          "media_count": 458,
+          "tweet_count": 5011
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-22T17:02:24.000Z",
+        "description": "Beijing booster. Hebei apologist. Make Shanghai Jiangsu Again",
+        "id": "1112048550",
+        "name": "Douglas Rooney",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939373833217044480/ToD0FFBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 877,
+          "like_count": 10677,
+          "listed_count": 13,
+          "media_count": 1247,
+          "tweet_count": 8043
+        },
+        "username": "Doug_rooney",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1800898964121886772",
+    "created_at": "2024-06-12T23:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T00:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801039090663686257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1430192552532090880",
+          "start": 0,
+          "username": "shoshannim86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801039090663686257",
+    "in_reply_to_user_id": "1430192552532090880",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800898964121886772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoshannim86 这应该是清某吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1800898964121886772",
+        "created_at": "2024-06-12T23:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T00:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801039090663686257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1430192552532090880",
+              "start": 0,
+              "username": "shoshannim86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801039090663686257",
+        "in_reply_to_user_id": "1430192552532090880",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800898964121886772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoshannim86 这应该是清某吧"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800898935655211008"
+          ]
+        },
+        "author_id": "1430192552532090880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          }
+        ],
+        "conversation_id": "1800898964121886772",
+        "created_at": "2024-06-12T14:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T15:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800898964121886772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fZxGmN8AXg",
+              "end": 29,
+              "expanded_url": "https://twitter.com/shoshannim86/status/1800898964121886772/photo/1",
+              "media_key": "3_1800898935655211008",
+              "start": 6,
+              "url": "https://t.co/fZxGmN8AXg"
+            },
+            {
+              "display_url": "x.com/shoshannim86/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/shoshannim86/status/1800782634836279461",
+              "start": 30,
+              "url": "https://t.co/ltxdsHtdgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800898964121886772",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7218,
+          "like_count": 88,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800782634836279461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析： https://t.co/fZxGmN8AXg https://t.co/ltxdsHtdgp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 652,
+          "like_count": 13958,
+          "listed_count": 5,
+          "tweet_count": 2446
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T15:37:36.000Z",
+        "description": "残忍变性女巫",
+        "id": "1430192552532090880",
+        "location": "宛平南路600号",
+        "name": "Shoshannim",
+        "pinned_tweet_id": "1709869240076099742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700782467429629952/Xga0bJoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 599,
+          "like_count": 20443,
+          "listed_count": 0,
+          "tweet_count": 1365
+        },
+        "username": "shoshannim86",
+        "verified": false
+      }
+    ]
+  }
+}

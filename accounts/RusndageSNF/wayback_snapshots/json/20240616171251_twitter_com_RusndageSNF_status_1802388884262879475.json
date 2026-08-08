@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1802388868165193728"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1802388884262879475",
+    "created_at": "2024-06-16T17:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T18:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802388884262879475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/sOMhIml4oi",
+          "end": 48,
+          "expanded_url": "https://twitter.com/RusndageSNF/status/1802388884262879475/photo/1",
+          "media_key": "3_1802388868165193728",
+          "start": 25,
+          "url": "https://t.co/sOMhIml4oi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802388884262879475",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次吃萨莉亚，和好多好多北京本地的木桶饭！！！ https://t.co/sOMhIml4oi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1802388868165193728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQNfIEoa0AAfrl0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802388868165193728"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1802388884262879475",
+        "created_at": "2024-06-16T17:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T18:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802388884262879475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/sOMhIml4oi",
+              "end": 48,
+              "expanded_url": "https://twitter.com/RusndageSNF/status/1802388884262879475/photo/1",
+              "media_key": "3_1802388868165193728",
+              "start": 25,
+              "url": "https://t.co/sOMhIml4oi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802388884262879475",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次吃萨莉亚，和好多好多北京本地的木桶饭！！！ https://t.co/sOMhIml4oi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 656,
+          "like_count": 14082,
+          "listed_count": 5,
+          "tweet_count": 2468
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

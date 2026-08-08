@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1855842999848284558",
+    "created_at": "2024-11-13T04:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T05:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856551513306607841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835902045431443456",
+          "start": 0,
+          "username": "snowfall8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856551513306607841",
+    "in_reply_to_user_id": "1835902045431443456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855842999848284558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snowfall8964 所以给我情绪价值，我就是乐意愿意被他干，怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1855842999848284558",
+        "created_at": "2024-11-13T04:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T05:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856551513306607841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835902045431443456",
+              "start": 0,
+              "username": "snowfall8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856551513306607841",
+        "in_reply_to_user_id": "1835902045431443456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855842999848284558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snowfall8964 所以给我情绪价值，我就是乐意愿意被他干，怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835902045431443456",
+        "conversation_id": "1855842999848284558",
+        "created_at": "2024-11-11T05:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T06:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855842999848284558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855842999848284558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 115720,
+          "like_count": 1505,
+          "quote_count": 41,
+          "reply_count": 109,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的觉得“在原生家庭里得不到爱和理解”的人，太容易挨操了。\n只要有人认真听你说话，在合适的时间给你一个温暖的拥抱，在你难过的时候，擦掉你的眼泪，再时不时地夸一夸你……\n那完了！百分百挨操！！还是心甘情愿被操！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，糖豆人和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 746,
+          "like_count": 18884,
+          "listed_count": 4,
+          "tweet_count": 3256
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T04:42:25.000Z",
+        "description": "𝙄 𝙙𝙤𝙣'𝙩 𝙝𝙖𝙫𝙚 𝙩𝙝𝙚 𝙨𝙪𝙣/只回门槛",
+        "id": "1835902045431443456",
+        "location": "🚪52(纯绿) / 520(非绿)",
+        "name": "唐泽雪穗",
+        "pinned_tweet_id": "1849245298834772413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844370417194237953/NzOiYQ62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 49,
+          "like_count": 331,
+          "listed_count": 4,
+          "tweet_count": 336
+        },
+        "username": "snowfall8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1949425405938868585",
+    "created_at": "2025-07-27T11:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T12:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949425405938868585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CeciL4210/stat…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/CeciL4210/status/1949418009665364207",
+          "start": 55,
+          "url": "https://t.co/RoV6t1xmDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949425405938868585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949418009665364207",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "您不是与跨圈切割了嘛？不是看不起跨吗？不是说做不上手术和不Pass都是因为不努力吗，怎么还劳烦您在这发言呢？ https://t.co/RoV6t1xmDD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1949425405938868585",
+        "created_at": "2025-07-27T11:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949425405938868585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CeciL4210/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/CeciL4210/status/1949418009665364207",
+              "start": 55,
+              "url": "https://t.co/RoV6t1xmDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949425405938868585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949418009665364207",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您不是与跨圈切割了嘛？不是看不起跨吗？不是说做不上手术和不Pass都是因为不努力吗，怎么还劳烦您在这发言呢？ https://t.co/RoV6t1xmDD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568517542741966863",
+        "conversation_id": "1949414865606734307",
+        "created_at": "2025-07-27T10:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949418009665364207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949418009665364207",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949414865606734307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF 建议您加入红老头这种更权威的cdts圈子，可能更适合你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 1013,
+          "like_count": 26813,
+          "listed_count": 7,
+          "media_count": 476,
+          "tweet_count": 5122
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T08:31:46.000Z",
+        "description": "顺直女 模拟飞行 拍机 古典乐",
+        "id": "1568517542741966863",
+        "location": "Liaoning",
+        "name": "Ceci L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851155198519250944/FORMF1gM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 83,
+          "like_count": 668,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 60
+        },
+        "username": "CeciL4210",
+        "verified": false
+      }
+    ]
+  }
+}

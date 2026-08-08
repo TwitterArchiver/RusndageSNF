@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1915281356395077890",
+    "created_at": "2025-04-26T02:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T03:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915958518189904167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1025546987578556417",
+          "start": 0,
+          "username": "FTMiaoX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915958518189904167",
+    "in_reply_to_user_id": "1025546987578556417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915281356395077890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FTMiaoX B站incel总认为自己是白楠，实际上自己就是个眯眯眼小黄人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1636,
+        "media_key": "3_1915281348241350657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpRyPRbbYAE3qxF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1915281356395077890",
+        "created_at": "2025-04-26T02:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T03:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915958518189904167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1025546987578556417",
+              "start": 0,
+              "username": "FTMiaoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915958518189904167",
+        "in_reply_to_user_id": "1025546987578556417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915281356395077890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FTMiaoX B站incel总认为自己是白楠，实际上自己就是个眯眯眼小黄人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915281348241350657"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "conversation_id": "1915281356395077890",
+        "created_at": "2025-04-24T05:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T06:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915281356395077890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jIlHJnHWrs",
+              "end": 23,
+              "expanded_url": "https://x.com/FTMiaoX/status/1915281356395077890/photo/1",
+              "media_key": "3_1915281348241350657",
+              "start": 0,
+              "url": "https://t.co/jIlHJnHWrs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915281356395077890",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 50958,
+          "like_count": 882,
+          "quote_count": 9,
+          "reply_count": 13,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jIlHJnHWrs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人，弹珠运动和F1爱好者\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 951,
+          "like_count": 24561,
+          "listed_count": 6,
+          "media_count": 418,
+          "tweet_count": 4452
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "ftx/ftm/ASD/ADHD/S/Dom/我是发条 你的温柔赛博小黑猫/一般路过肥宅/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/主页搜索“授权”可以看到我的一些转载授权/我爱你 希望你幸福快乐 提问https://t.co/a4UYlpzxKj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "BakaHDT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ftmiao",
+                "end": 155,
+                "expanded_url": "https://ngl.link/ftmiao",
+                "start": 132,
+                "url": "https://t.co/a4UYlpzxKj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着BakaHDT的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6542,
+          "following_count": 3155,
+          "like_count": 157943,
+          "listed_count": 17,
+          "media_count": 2635,
+          "tweet_count": 26355
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "FTMiaoX",
+        "verified": false
+      }
+    ]
+  }
+}

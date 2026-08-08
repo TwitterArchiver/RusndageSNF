@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949420017445228544"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "conversation_id": "1949420466973942065",
+    "created_at": "2025-07-27T10:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T11:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949420466973942065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mw4Ps4CQig",
+          "end": 133,
+          "expanded_url": "https://x.com/RusndageSNF/status/1949420466973942065/photo/1",
+          "media_key": "3_1949420017445228544",
+          "start": 110,
+          "url": "https://t.co/Mw4Ps4CQig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949420466973942065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "首先，你他妈是脑瘫吗？当年你咋退群的说句好听点的是因为大家给你台阶下了，说不好听点的就是被踹了，现在你又找了一堆狗来咬我，你说我猥亵你你倒是拿出点实际的证据啊，别在那一天到晚胡咧咧我，你要是真觉得我猥亵你了赶紧去报警啊 https://t.co/Mw4Ps4CQig"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 191,
+        "media_key": "3_1949420017445228544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw27LWnb0AAU2eg.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949420017445228544"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "conversation_id": "1949420466973942065",
+        "created_at": "2025-07-27T10:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949420466973942065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mw4Ps4CQig",
+              "end": 133,
+              "expanded_url": "https://x.com/RusndageSNF/status/1949420466973942065/photo/1",
+              "media_key": "3_1949420017445228544",
+              "start": 110,
+              "url": "https://t.co/Mw4Ps4CQig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949420466973942065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "首先，你他妈是脑瘫吗？当年你咋退群的说句好听点的是因为大家给你台阶下了，说不好听点的就是被踹了，现在你又找了一堆狗来咬我，你说我猥亵你你倒是拿出点实际的证据啊，别在那一天到晚胡咧咧我，你要是真觉得我猥亵你了赶紧去报警啊 https://t.co/Mw4Ps4CQig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 1013,
+          "like_count": 26813,
+          "listed_count": 7,
+          "media_count": 474,
+          "tweet_count": 5114
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      }
+    ]
+  }
+}

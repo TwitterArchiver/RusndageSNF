@@ -1,0 +1,673 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Auto racing action from the Formula One circuit.",
+          "id": "10002765236",
+          "name": "Formula One Racing"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+          "id": "1682471344305324038",
+          "name": "Hungarian Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+          "id": "1710063341262036992",
+          "name": "Qatar Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+          "id": "1718559425315696640",
+          "name": "Mexico City Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+          "id": "1719780187770945537",
+          "name": "São Paulo Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+          "id": "1725575501769572352",
+          "name": "Las Vegas Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Racing",
+          "id": "1058103880376971264",
+          "name": "Racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "Formula 1",
+          "id": "854701577994616832",
+          "name": "Formula 1"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+          "id": "1682471344305324038",
+          "name": "Hungarian Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+          "id": "1710063341262036992",
+          "name": "Qatar Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+          "id": "1718559425315696640",
+          "name": "Mexico City Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+          "id": "1719780187770945537",
+          "name": "São Paulo Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+          "id": "1725575501769572352",
+          "name": "Las Vegas Grand Prix 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Auto racing",
+          "id": "847900599387430912",
+          "name": "Auto racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Formula 1",
+          "id": "854701577994616832",
+          "name": "Formula 1"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1497266565669998594",
+          "name": "Open-wheel racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509530211146088466",
+          "name": "Motorsport"
+        }
+      }
+    ],
+    "conversation_id": "2079556927311478823",
+    "created_at": "2026-07-21T13:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079556927311478823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 166,
+          "id": "1664948430920359936",
+          "start": 151,
+          "username": "Snowcomics9452"
+        },
+        {
+          "end": 180,
+          "id": "1581134413512859648",
+          "start": 169,
+          "username": "xiaoxueljx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079556927311478823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "06​年|ENFP-T|ADHD|双相情感障碍 焦虑症|ODer，但在努力戒掉 Trans（持证含糖MtF，She/Her）🏳️‍⚧️ 已RLE未SRS（没钱orz），算是半家长党（？） JMR国内社区创始者之一，JMR官方字幕组副组长\n糖豆人万冠玩家（3000h+） 也经常看F1哦 另外的雪花还有\n@Snowcomics9452 和 @xiaoxueljx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Auto racing action from the Formula One circuit.",
+              "id": "10002765236",
+              "name": "Formula One Racing"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          }
+        ],
+        "conversation_id": "2079556927311478823",
+        "created_at": "2026-07-21T13:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079556927311478823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 166,
+              "id": "1664948430920359936",
+              "start": 151,
+              "username": "Snowcomics9452"
+            },
+            {
+              "end": 180,
+              "id": "1581134413512859648",
+              "start": 169,
+              "username": "xiaoxueljx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079556927311478823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "06​年|ENFP-T|ADHD|双相情感障碍 焦虑症|ODer，但在努力戒掉 Trans（持证含糖MtF，She/Her）🏳️‍⚧️ 已RLE未SRS（没钱orz），算是半家长党（？） JMR国内社区创始者之一，JMR官方字幕组副组长\n糖豆人万冠玩家（3000h+） 也经常看F1哦 另外的雪花还有\n@Snowcomics9452 和 @xiaoxueljx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2066101831777030392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 1119,
+          "like_count": 30791,
+          "listed_count": 7,
+          "media_count": 592,
+          "tweet_count": 6219
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️含糖MtX/F🍥/\n這裡是雪花新聞中心，追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics 小貓窩: @SchneeSchmit 可線下面基",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Snowcomics"
+              },
+              {
+                "end": 148,
+                "start": 135,
+                "username": "SchneeSchmit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transky.mtf.wiki",
+                "end": 23,
+                "expanded_url": "https://transky.mtf.wiki/",
+                "start": 0,
+                "url": "https://t.co/z3o74Bauki"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1930283656918249583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039378938917789696/DGi_6ZUz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1888,
+          "following_count": 3332,
+          "like_count": 37608,
+          "listed_count": 4,
+          "media_count": 1024,
+          "tweet_count": 8445
+        },
+        "url": "https://t.co/z3o74Bauki",
+        "username": "Snowcomics9452",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T04:06:46.000Z",
+        "description": "喜欢写点小工具，默默无闻的萌新前端老登。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhblog.top",
+                "end": 23,
+                "expanded_url": "http://xhblog.top",
+                "start": 0,
+                "url": "https://t.co/0DH1NwASSw"
+              }
+            ]
+          }
+        },
+        "id": "1581134413512859648",
+        "location": "台湾",
+        "name": "Snow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944723101499162624/UTELByms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 232,
+          "like_count": 1025,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 682
+        },
+        "url": "https://t.co/0DH1NwASSw",
+        "username": "xiaoxueljx",
+        "verified": false
+      }
+    ]
+  }
+}

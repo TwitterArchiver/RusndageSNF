@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1879966849972294121",
+    "created_at": "2025-01-16T19:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T20:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879972257424179201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "91769734",
+          "start": 0,
+          "username": "tempovoyager"
+        },
+        {
+          "end": 28,
+          "id": "819252081764814848",
+          "start": 14,
+          "username": "Jellesmarbles"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879972257424179201",
+    "in_reply_to_user_id": "91769734",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879967403926503461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tempovoyager @Jellesmarbles no snowballs???"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1879966849972294121",
+        "created_at": "2025-01-16T19:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T20:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879972257424179201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "91769734",
+              "start": 0,
+              "username": "tempovoyager"
+            },
+            {
+              "end": 28,
+              "id": "819252081764814848",
+              "start": 14,
+              "username": "Jellesmarbles"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879972257424179201",
+        "in_reply_to_user_id": "91769734",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879967403926503461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tempovoyager @Jellesmarbles no snowballs???"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "91769734",
+        "conversation_id": "1879966849972294121",
+        "created_at": "2025-01-16T19:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T20:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879967403926503461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "819252081764814848",
+              "start": 0,
+              "username": "Jellesmarbles"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879967403926503461",
+        "in_reply_to_user_id": "819252081764814848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879966849972294121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jellesmarbles Where are my glorious snowballs? -.-"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 843,
+          "like_count": 21909,
+          "listed_count": 7,
+          "media_count": 361,
+          "tweet_count": 3797
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-22T11:04:37.000Z",
+        "description": "#hasmob 🐰 \n#NonÈGiusto\n#dieSchammussdieSeitewechseln\n\nGaming, Drawing, Tangling - dies das Ananas\n\nI am not here to please you. 🖕",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "hasmob"
+              },
+              {
+                "end": 22,
+                "start": 11,
+                "tag": "NonÈGiusto"
+              },
+              {
+                "end": 52,
+                "start": 23,
+                "tag": "dieSchammussdieSeitewechseln"
+              }
+            ]
+          }
+        },
+        "id": "91769734",
+        "location": "🖕",
+        "name": "Loootie",
+        "pinned_tweet_id": "665494461045190656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863887498054705152/JUjwfuk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 298,
+          "like_count": 49810,
+          "listed_count": 4,
+          "media_count": 1036,
+          "tweet_count": 26285
+        },
+        "username": "tempovoyager",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-11T18:38:12.000Z",
+        "description": "Creators of parallel universes with marbles since 2006 • 1.43 mln subs on YT • ML • M1 • MR • As seen on Last Week Tonight •https://t.co/A52YXzUMfe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jellesmarbleruns.com",
+                "end": 147,
+                "expanded_url": "http://www.jellesmarbleruns.com",
+                "start": 124,
+                "url": "https://t.co/A52YXzUMfe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/@JellesMarbleR…",
+                "end": 23,
+                "expanded_url": "http://YouTube.com/@JellesMarbleRuns",
+                "start": 0,
+                "url": "https://t.co/wQ0RdCsoJD"
+              }
+            ]
+          }
+        },
+        "id": "819252081764814848",
+        "name": "Jelle’s Marble Runs",
+        "pinned_tweet_id": "1873399955966291972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639590844889006080/Q_4rnyjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37949,
+          "following_count": 2543,
+          "like_count": 7013,
+          "listed_count": 83,
+          "media_count": 1787,
+          "tweet_count": 4999
+        },
+        "url": "https://t.co/wQ0RdCsoJD",
+        "username": "Jellesmarbles",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1958783291458560192",
+    "created_at": "2025-08-22T12:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T13:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958864465480323147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "940931345001299970",
+          "start": 0,
+          "username": "pxwwu_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958864465480323147",
+    "in_reply_to_user_id": "940931345001299970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958783291458560192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pxwwu_chan 三年前刚HRT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958783287939538946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy7_BbWboAIV4v6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958783288023425025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy7_BbqboAEekjJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958783288505769986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy7_BddboAI56bp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1958783291458560192",
+        "created_at": "2025-08-22T12:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T13:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958864465480323147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "940931345001299970",
+              "start": 0,
+              "username": "pxwwu_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958864465480323147",
+        "in_reply_to_user_id": "940931345001299970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958783291458560192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pxwwu_chan 三年前刚HRT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958783287939538946",
+            "3_1958783288023425025",
+            "3_1958783288505769986"
+          ]
+        },
+        "author_id": "940931345001299970",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1958783291458560192",
+        "created_at": "2025-08-22T06:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T07:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958783291458560192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BmZVdbJ8YW",
+              "end": 78,
+              "expanded_url": "https://x.com/pxwwu_chan/status/1958783291458560192/photo/1",
+              "media_key": "3_1958783287939538946",
+              "start": 55,
+              "url": "https://t.co/BmZVdbJ8YW"
+            },
+            {
+              "display_url": "pic.x.com/BmZVdbJ8YW",
+              "end": 78,
+              "expanded_url": "https://x.com/pxwwu_chan/status/1958783291458560192/photo/1",
+              "media_key": "3_1958783288023425025",
+              "start": 55,
+              "url": "https://t.co/BmZVdbJ8YW"
+            },
+            {
+              "display_url": "pic.x.com/BmZVdbJ8YW",
+              "end": 78,
+              "expanded_url": "https://x.com/pxwwu_chan/status/1958783291458560192/photo/1",
+              "media_key": "3_1958783288505769986",
+              "start": 55,
+              "url": "https://t.co/BmZVdbJ8YW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958783291458560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1932,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给电池鼓包吃灰三年的6sp换完电池后看着定格在三年前的timeline，有的人已经不在，有的人已经彻底不在🥲 https://t.co/BmZVdbJ8YW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 1027,
+          "like_count": 27170,
+          "listed_count": 7,
+          "media_count": 495,
+          "tweet_count": 5246
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-13T13:08:09.000Z",
+        "description": "🦋：@pxwwu.com|家暴党️|已摆烂の02年老阿姨|176cm|伪音摆烂中|🩷：MoeDreamAria（已销号，在用游客模式）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "pxwwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+olTirZL8HI03M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+olTirZL8HI03MTVl",
+                "start": 0,
+                "url": "https://t.co/WJWQzHwI82"
+              }
+            ]
+          }
+        },
+        "id": "940931345001299970",
+        "location": "阿莉亚的被窝",
+        "name": "pxwwu🦀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786755868819959808/fS4YVhX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12575,
+          "following_count": 3157,
+          "like_count": 173523,
+          "listed_count": 43,
+          "media_count": 3613,
+          "tweet_count": 17850
+        },
+        "url": "https://t.co/WJWQzHwI82",
+        "username": "pxwwu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1813137921400271206",
+    "created_at": "2024-07-16T11:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T12:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813169655617409453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741393579946188801",
+          "start": 0,
+          "username": "wsjgdykdsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813169655617409453",
+    "in_reply_to_user_id": "1741393579946188801",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813137921400271206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsjgdykdsj 你呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1813137921400271206",
+        "created_at": "2024-07-16T11:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T12:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813169655617409453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741393579946188801",
+              "start": 0,
+              "username": "wsjgdykdsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813169655617409453",
+        "in_reply_to_user_id": "1741393579946188801",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813137921400271206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsjgdykdsj 你呢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1741393579946188801",
+        "conversation_id": "1813137921400271206",
+        "created_at": "2024-07-16T09:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T10:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813137921400271206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1813137921400271206",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4397,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 81,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望你们打出nn不是男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 668,
+          "like_count": 14762,
+          "listed_count": 5,
+          "tweet_count": 2586
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T09:39:25.000Z",
+        "description": "沪国皇帝\n本体@irohakawaiinee\n臭乡下的进城来拱白菜了\n互fo大法好，不论是三无号，看黄号，还是见证号。fo我必回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "irohakawaiinee"
+              }
+            ]
+          }
+        },
+        "id": "1741393579946188801",
+        "name": "星川いろは⛩️三代目（parody",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791049464150691840/ks94Qr1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 525,
+          "like_count": 616,
+          "listed_count": 1,
+          "tweet_count": 219
+        },
+        "username": "wsjgdykdsj",
+        "verified": false
+      }
+    ]
+  }
+}

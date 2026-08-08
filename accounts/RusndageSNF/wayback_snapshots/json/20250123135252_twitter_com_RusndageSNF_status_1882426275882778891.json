@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1882088339161145686",
+    "created_at": "2025-01-23T13:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T14:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882426275882778891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882426275882778891",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882088339161145686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ 人都是有私心的，人是动物，总会有野心的，没人是圣人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1882088339161145686",
+        "created_at": "2025-01-23T13:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T14:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882426275882778891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882426275882778891",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882088339161145686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ 人都是有私心的，人是动物，总会有野心的，没人是圣人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882088321654099968"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "1882088339161145686",
+        "created_at": "2025-01-22T15:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T16:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882088339161145686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBMowgdmD5",
+              "end": 29,
+              "expanded_url": "https://x.com/huahuojiang_/status/1882088339161145686/photo/1",
+              "media_key": "3_1882088321654099968",
+              "start": 6,
+              "url": "https://t.co/QBMowgdmD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882088339161145686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6058,
+          "like_count": 82,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "邀诸位共想 https://t.co/QBMowgdmD5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像来源于Pinky Eye",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 856,
+          "like_count": 22064,
+          "listed_count": 7,
+          "media_count": 364,
+          "tweet_count": 3856
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@Muoujiang_｜换一个提问箱：https://t.co/LtoB1mlWHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Muoujiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang/",
+                "end": 55,
+                "expanded_url": "https://ngl.link/huahuojiang/",
+                "start": 32,
+                "url": "https://t.co/LtoB1mlWHz"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1874363360755831286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770720359312240640/qCqdMpdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3963,
+          "following_count": 3165,
+          "like_count": 55883,
+          "listed_count": 7,
+          "media_count": 2294,
+          "tweet_count": 42881
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

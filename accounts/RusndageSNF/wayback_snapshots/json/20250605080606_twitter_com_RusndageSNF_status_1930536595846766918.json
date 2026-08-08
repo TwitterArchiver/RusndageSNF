@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1930513340037562650",
+    "created_at": "2025-06-05T08:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T09:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930536595846766918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1008798933059919872",
+          "start": 0,
+          "username": "xzcraftp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930536595846766918",
+    "in_reply_to_user_id": "1008798933059919872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930513340037562650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzcraftp 酷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2099,
+        "media_key": "3_1930513326695731200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsqPpG_bUAAKDHP.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1930513340037562650",
+        "created_at": "2025-06-05T08:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T09:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930536595846766918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1008798933059919872",
+              "start": 0,
+              "username": "xzcraftp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930536595846766918",
+        "in_reply_to_user_id": "1008798933059919872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930513340037562650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzcraftp 酷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930513326695731200"
+          ]
+        },
+        "author_id": "1008798933059919872",
+        "conversation_id": "1930513340037562650",
+        "created_at": "2025-06-05T06:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T07:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930513340037562650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRQofrrjdS",
+              "end": 49,
+              "expanded_url": "https://x.com/xzcraftp/status/1930513340037562650/photo/1",
+              "media_key": "3_1930513326695731200",
+              "start": 26,
+              "url": "https://t.co/oRQofrrjdS"
+            },
+            {
+              "display_url": "x.com/xzcraftpaint/s…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/xzcraftpaint/status/1930474666063474920",
+              "start": 50,
+              "url": "https://t.co/w6mouNBIKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930513340037562650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930474666063474920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道自己的立牌去哪了只好帶小藍騎出門🫠\n飛機！ https://t.co/oRQofrrjdS https://t.co/w6mouNBIKE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 965,
+          "like_count": 25688,
+          "listed_count": 8,
+          "media_count": 438,
+          "tweet_count": 4740
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-18T19:49:43.000Z",
+        "description": "繪帳 @xzcraftpaint 第一次私訊我也可發文標註不然會遺漏消息😅",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "xzcraftpaint"
+              }
+            ]
+          }
+        },
+        "id": "1008798933059919872",
+        "name": "XzCraftP 卡屁",
+        "pinned_tweet_id": "1830535037961281665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852399530060460034/qAawS38Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 1152,
+          "like_count": 48992,
+          "listed_count": 0,
+          "media_count": 2786,
+          "tweet_count": 12426
+        },
+        "username": "xzcraftp",
+        "verified": false
+      }
+    ]
+  }
+}

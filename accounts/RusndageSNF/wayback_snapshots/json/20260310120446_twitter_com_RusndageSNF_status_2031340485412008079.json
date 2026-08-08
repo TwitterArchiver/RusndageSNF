@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2031281628136546814",
+    "created_at": "2026-03-10T12:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T13:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031340485412008079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "168139512",
+          "start": 0,
+          "username": "geekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031340485412008079",
+    "in_reply_to_user_id": "168139512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031281628136546814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geekbb 国行apple care+就是被他们搞的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2031281628136546814",
+        "created_at": "2026-03-10T12:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031340485412008079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "168139512",
+              "start": 0,
+              "username": "geekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031340485412008079",
+        "in_reply_to_user_id": "168139512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031281628136546814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geekbb 国行apple care+就是被他们搞的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "168139512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2031281628136546814",
+        "created_at": "2026-03-10T08:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031281628136546814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031281628136546814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前人砍树，后人暴晒。\n\nPhone 17 出现大量恶意换屏退货，有一批人通过苹果官网下单 iPhone 17 Pro Max，收到手机拆下原装屏幕换上国产劣质屏，然后申请 14 天无理由退货，一次换屏转卖赚1100元，实现零成本套取利润。\n\n现在苹果全面收紧退换货检测标准，开始严格核对退回设备内部核心零件的专属序列号 。如果发现机器动过螺丝或存在非原装部件，苹果将精准拦截，拒绝退款并原路退回手机 。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 129982,
+          "like_count": 455,
+          "quote_count": 17,
+          "reply_count": 124,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "前人砍树，后人暴晒。\n\nPhone 17 出现大量恶意换屏退货，有一批人通过苹果官网下单 iPhone 17 Pro Max，收到手机拆下原装屏幕换上国产劣质屏，然后申请 14 天无理由退货，一次换屏转卖赚1100元，实现零成本套取利润。\n\n现在苹果全面收紧退换货检测标准，开始严格核对退回设备内部核心零件的专属序列号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 1081,
+          "like_count": 29114,
+          "listed_count": 9,
+          "media_count": 563,
+          "tweet_count": 5788
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "QingQ77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0jXq"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108891,
+          "following_count": 485,
+          "like_count": 19939,
+          "listed_count": 1162,
+          "media_count": 6740,
+          "tweet_count": 26108
+        },
+        "url": "https://t.co/lNbogZ0jXq",
+        "username": "geekbb",
+        "verified": true
+      }
+    ]
+  }
+}

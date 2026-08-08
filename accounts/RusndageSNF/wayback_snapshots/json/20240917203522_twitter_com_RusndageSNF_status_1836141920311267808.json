@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1836000601831780699",
+    "created_at": "2024-09-17T20:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T21:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836141920311267808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1747138924450029568",
+          "start": 0,
+          "username": "od_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836141920311267808",
+    "in_reply_to_user_id": "1747138924450029568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836000601831780699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_wiki 阿里？纳西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1836000601831780699",
+        "created_at": "2024-09-17T20:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T21:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836141920311267808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1747138924450029568",
+              "start": 0,
+              "username": "od_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836141920311267808",
+        "in_reply_to_user_id": "1747138924450029568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836000601831780699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_wiki 阿里？纳西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836000591975182336"
+          ]
+        },
+        "author_id": "1747138924450029568",
+        "conversation_id": "1836000601831780699",
+        "created_at": "2024-09-17T11:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T12:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836000601831780699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kyy2ut7uux",
+              "end": 30,
+              "expanded_url": "https://twitter.com/od_wiki/status/1836000601831780699/photo/1",
+              "media_key": "3_1836000591975182336",
+              "start": 7,
+              "url": "https://t.co/kyY2UT7UUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836000601831780699",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 36506,
+          "like_count": 279,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "科技使人进步 https://t.co/kyY2UT7UUX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "糖豆人和F1爱好者🏳️‍⚧️，暂时和 @MuFengkana 住在一起\n头像来源于 @popopoka_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "popopoka_"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1667760606970286080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693961904984064/M6r7iACM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 702,
+          "like_count": 17051,
+          "listed_count": 5,
+          "tweet_count": 2866
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "个人Galgame站：https://t.co/OXiOIO9QLM\n个人博客：https://t.co/jzBbyyNnJF\n赌狗俱乐部：https://t.co/VGq4FK04Cv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "58game.xyz",
+                "end": 34,
+                "expanded_url": "https://58game.xyz/",
+                "start": 11,
+                "url": "https://t.co/OXiOIO9QLM"
+              },
+              {
+                "display_url": "hiv.icu",
+                "end": 63,
+                "expanded_url": "https://hiv.icu/",
+                "start": 40,
+                "url": "https://t.co/jzBbyyNnJF"
+              },
+              {
+                "display_url": "t.me/dugoujulebu",
+                "end": 93,
+                "expanded_url": "https://t.me/dugoujulebu",
+                "start": 70,
+                "url": "https://t.co/VGq4FK04Cv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/YHP0zrJSxF"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "東京 港区",
+        "name": "✟°ʚ胖猫ɞ°✟",
+        "pinned_tweet_id": "1836034369275773338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821511007279206400/sD9YYCcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12484,
+          "following_count": 5562,
+          "like_count": 5122,
+          "listed_count": 13,
+          "tweet_count": 3624
+        },
+        "url": "https://t.co/YHP0zrJSxF",
+        "username": "od_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1899671693104214104",
+    "created_at": "2025-06-18T17:55:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T18:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935396010622341146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "JR_YamanoteE235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935396010622341146",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899671693104214104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JR_YamanoteE235 新的预告片出了，定档2026年5月了，可是你已经不在了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1899671693104214104].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1899671693104214104",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1899671693104214104"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1899671693104214104",
+        "created_at": "2025-06-18T17:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T18:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935396010622341146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "JR_YamanoteE235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935396010622341146",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899671693104214104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JR_YamanoteE235 新的预告片出了，定档2026年5月了，可是你已经不在了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "ADHDer，MtF🏳️‍⚧️，但本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 977,
+          "like_count": 25845,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 4786
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "牡丹は散っても花だ 夏が去っても追慕は切だ",
+        "id": "1688233455363219456",
+        "name": "JR東日本E235系電車 山手線",
+        "pinned_tweet_id": "1850524863343288383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849373688258576384/cmk7PSGT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 997,
+          "like_count": 123773,
+          "listed_count": 7,
+          "media_count": 2543,
+          "tweet_count": 24639
+        },
+        "username": "JR_YamanoteE235",
+        "verified": false
+      }
+    ]
+  }
+}

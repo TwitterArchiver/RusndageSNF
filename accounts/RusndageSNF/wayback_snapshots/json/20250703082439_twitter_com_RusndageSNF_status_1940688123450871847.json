@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1940679792615215549",
+    "created_at": "2025-07-03T08:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T09:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940688123450871847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1399226898907947010",
+          "start": 0,
+          "username": "FSummer233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940688123450871847",
+    "in_reply_to_user_id": "1399226898907947010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940679792615215549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FSummer233 咋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1940679780770500612",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu6t-nub0AQPL8Y.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1940679792615215549",
+        "created_at": "2025-07-03T08:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T09:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940688123450871847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1399226898907947010",
+              "start": 0,
+              "username": "FSummer233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940688123450871847",
+        "in_reply_to_user_id": "1399226898907947010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940679792615215549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FSummer233 咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940679780770500612"
+          ]
+        },
+        "author_id": "1399226898907947010",
+        "conversation_id": "1940679792615215549",
+        "created_at": "2025-07-03T07:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T08:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940679792615215549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmcTqgoOhn",
+              "end": 94,
+              "expanded_url": "https://x.com/FSummer233/status/1940679792615215549/photo/1",
+              "media_key": "3_1940679780770500612",
+              "start": 71,
+              "url": "https://t.co/lmcTqgoOhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940679792615215549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要对一个人太好太信任，哪怕对方对你也很好，因为往往对方只会知道ta对你好，并不会意识到你对ta好\n（尤其是在你无法用暴力手段压制对方的时候 https://t.co/lmcTqgoOhn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 986,
+          "like_count": 26131,
+          "listed_count": 8,
+          "media_count": 449,
+          "tweet_count": 4898
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T04:51:14.000Z",
+        "description": "是含糖小男娘哦 在努力变可爱喵\n坐标京津冀 可线下有偿",
+        "id": "1399226898907947010",
+        "name": "Fox_summer233🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558687128275415042/qn4M4xAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1169,
+          "following_count": 222,
+          "like_count": 2516,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1397
+        },
+        "username": "FSummer233",
+        "verified": false
+      }
+    ]
+  }
+}

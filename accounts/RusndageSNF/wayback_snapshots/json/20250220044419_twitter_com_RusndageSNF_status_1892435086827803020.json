@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1892409721472114838",
+    "created_at": "2025-02-20T04:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T05:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892435086827803020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817144107174957056",
+          "start": 0,
+          "username": "trydothebetter"
+        },
+        {
+          "end": 30,
+          "id": "1566815552777383936",
+          "start": 16,
+          "username": "TianqiChen666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892435086827803020",
+    "in_reply_to_user_id": "1817144107174957056",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892410942828200326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trydothebetter @TianqiChen666 ccb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1892409721472114838",
+        "created_at": "2025-02-20T04:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T05:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892435086827803020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817144107174957056",
+              "start": 0,
+              "username": "trydothebetter"
+            },
+            {
+              "end": 30,
+              "id": "1566815552777383936",
+              "start": 16,
+              "username": "TianqiChen666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892435086827803020",
+        "in_reply_to_user_id": "1817144107174957056",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892410942828200326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trydothebetter @TianqiChen666 ccb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817144107174957056",
+        "conversation_id": "1892409721472114838",
+        "created_at": "2025-02-20T03:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T04:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892410942828200326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1566815552777383936",
+              "start": 0,
+              "username": "TianqiChen666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892410942828200326",
+        "in_reply_to_user_id": "1566815552777383936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892409721472114838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianqiChen666 ☝🤓诶，那么实际上这个表情包是什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Winterpeg（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1873910970558587270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 888,
+          "like_count": 22595,
+          "listed_count": 7,
+          "media_count": 388,
+          "tweet_count": 4043
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T10:25:00.000Z",
+        "description": "bilibili 知名虚拟UP主/直播高能主播/天下第一可爱/每涨200fo抄写一次ID/分享好听的歌曲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/12656805…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/1265680561?from=search",
+                "start": 0,
+                "url": "https://t.co/F4f36RgkLU"
+              }
+            ]
+          }
+        },
+        "id": "1817144107174957056",
+        "location": "云南",
+        "name": "永雏塔菲",
+        "pinned_tweet_id": "1891623636806558155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885642231987490817/kGrGJPmu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 752,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/F4f36RgkLU",
+        "username": "trydothebetter",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T15:48:41.000Z",
+        "description": "大学生、中国人🇨🇳、いま成都に住んでいる。みんなと仲良くしたい！\n|絡み重視|変な垢以外フォロバ💯|アニメ|kig初心者|恋人🥰：@podf14|里：@menma_sub|興味：#原神、#アークナイツ、#ブルアカ、#ボカロ、#着ぐるみ|\n親友:@haku_dabai @2temisinin\n|匿名質問↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 89,
+                "tag": "原神"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "アークナイツ"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 111,
+                "start": 107,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 117,
+                "start": 112,
+                "tag": "着ぐるみ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "podf14"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "menma_sub"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "haku_dabai"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "2temisinin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/TianqiChen6665…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/TianqiChen66655157",
+                "start": 0,
+                "url": "https://t.co/fCSPq9Gws0"
+              }
+            ]
+          }
+        },
+        "id": "1566815552777383936",
+        "location": "Sichuan",
+        "name": "めんま",
+        "pinned_tweet_id": "1858391483382206967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888774893803814912/-hJmwcMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12624,
+          "following_count": 7140,
+          "like_count": 76057,
+          "listed_count": 42,
+          "media_count": 4475,
+          "tweet_count": 14226
+        },
+        "url": "https://t.co/fCSPq9Gws0",
+        "username": "TianqiChen666",
+        "verified": true
+      }
+    ]
+  }
+}

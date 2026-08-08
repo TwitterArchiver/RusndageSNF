@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1954809167773917394",
+    "created_at": "2025-08-11T07:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T08:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954812127044153567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558730611556175873",
+          "start": 0,
+          "username": "ChisakaKanako"
+        },
+        {
+          "end": 29,
+          "id": "1600208165269741570",
+          "start": 15,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954812127044153567",
+    "in_reply_to_user_id": "1558730611556175873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954809167773917394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChisakaKanako @MeowCatherina 很适合通模了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954809158970257408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDgkrQaMAAKH-5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1954809167773917394",
+        "created_at": "2025-08-11T07:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T08:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954812127044153567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558730611556175873",
+              "start": 0,
+              "username": "ChisakaKanako"
+            },
+            {
+              "end": 29,
+              "id": "1600208165269741570",
+              "start": 15,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954812127044153567",
+        "in_reply_to_user_id": "1558730611556175873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954809167773917394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChisakaKanako @MeowCatherina 很适合通模了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954809158970257408"
+          ]
+        },
+        "author_id": "1558730611556175873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1954809167773917394",
+        "created_at": "2025-08-11T07:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T08:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954809167773917394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1600208165269741570",
+              "start": 8,
+              "username": "MeowCatherina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6LtgPeuW1S",
+              "end": 46,
+              "expanded_url": "https://x.com/ChisakaKanako/status/1954809167773917394/photo/1",
+              "media_key": "3_1954809158970257408",
+              "start": 23,
+              "url": "https://t.co/6LtgPeuW1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954809167773917394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奈酱的探视礼物 @MeowCatherina https://t.co/6LtgPeuW1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 1018,
+          "like_count": 27002,
+          "listed_count": 7,
+          "media_count": 491,
+          "tweet_count": 5197
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "避雷四川现代医院小红书无耻盗图用顺女照片假装术后跨女宣传自家缩肩手术技术不成熟花费上万取俩锁骨术后一堆后遗症实际肩宽根本没变化一堆医托哄骗你去问就是三甲医院统一话术不要相信任何IP在四川的医疗帖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chisakakanako.notion.site/96f67217a4c041…",
+                "end": 23,
+                "expanded_url": "https://chisakakanako.notion.site/96f67217a4c0410eb35c4200f835eafa?pvs=4",
+                "start": 0,
+                "url": "https://t.co/ot7AE8ZHyA"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "1934452141684670766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938162412697620481/84c4M-W4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5620,
+          "following_count": 1541,
+          "like_count": 41672,
+          "listed_count": 7,
+          "media_count": 46,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/ot7AE8ZHyA",
+        "username": "ChisakaKanako",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "20INTP｜⚠️一只不会说话和社交的AuDHD｜🏫Monash｜🐈/🏹/🚴/💻｜AM&CS&EE｜某司高管(逃)｜意面神教牧师｜BA4R**｜GPG pubKey: C1D9 84F0 BBA1 B3B9｜🚪50,啥也没有｜持证嗓音训练师 160CNY｜@2196F3 的家养猫｜@StarNekOvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 128,
+                "username": "2196F3"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "StarNekOvO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDTeP"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906720680164589568/QYK6UxuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5890,
+          "following_count": 1065,
+          "like_count": 61082,
+          "listed_count": 18,
+          "media_count": 1759,
+          "tweet_count": 20369
+        },
+        "url": "https://t.co/8NIDYwDTeP",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

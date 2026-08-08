@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1974294620239769630",
+    "created_at": "2025-10-04T16:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T17:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974507968646524967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843195741432668160",
+          "start": 0,
+          "username": "dudu1187998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974507968646524967",
+    "in_reply_to_user_id": "1843195741432668160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974294620239769630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu1187998 太坏了～"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30806,
+        "height": 582,
+        "media_key": "7_1974294156492296192",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1974294156492296192/pu/img/UeA2hmKDWSTNyzrE.jpg",
+        "public_metrics": {
+          "view_count": 336
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974294156492296192/pu/vid/avc1/592x270/uGG6YUzk6nRzyZnw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974294156492296192/pu/vid/avc1/790x360/VDJTd1wQq5vGq-S6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974294156492296192/pu/vid/avc1/1278x582/A0riqo4S-CU7OG9R.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1974294156492296192/pu/pl/tEp-3gPBmG1tJarh.m3u8?tag=12"
+          }
+        ],
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1974294620239769630",
+        "created_at": "2025-10-04T16:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T17:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974507968646524967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843195741432668160",
+              "start": 0,
+              "username": "dudu1187998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974507968646524967",
+        "in_reply_to_user_id": "1843195741432668160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974294620239769630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu1187998 太坏了～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1974294156492296192"
+          ]
+        },
+        "author_id": "1843195741432668160",
+        "conversation_id": "1974294620239769630",
+        "created_at": "2025-10-04T02:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T03:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974294620239769630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VfTscTYngp",
+              "end": 40,
+              "expanded_url": "https://x.com/dudu1187998/status/1974294620239769630/video/1",
+              "media_key": "7_1974294156492296192",
+              "start": 17,
+              "url": "https://t.co/VfTscTYngp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974294620239769630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 914,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是大坏豆😂把豆子都扒拉下去了🤗 https://t.co/VfTscTYngp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 1043,
+          "like_count": 27800,
+          "listed_count": 7,
+          "media_count": 521,
+          "tweet_count": 5438
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T07:45:09.000Z",
+        "description": "",
+        "id": "1843195741432668160",
+        "name": "豆豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934137401318023168/ZUPIqf_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 29,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 205
+        },
+        "username": "dudu1187998",
+        "verified": false
+      }
+    ]
+  }
+}

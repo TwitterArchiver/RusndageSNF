@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024016248569282560"
+      ],
+      "media_source_tweet_id": [
+        "2024016348599259350"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Parenting K-6 kids",
+          "id": "864926035569135616",
+          "name": "Parenting K-6 kids"
+        }
+      }
+    ],
+    "conversation_id": "2024089996064346548",
+    "created_at": "2026-02-18T11:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T12:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024089996064346548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "914028453174796293",
+          "start": 3,
+          "username": "Ajisai1207_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DqMFArOGnY",
+          "end": 40,
+          "expanded_url": "https://x.com/Ajisai1207_/status/2024016348599259350/photo/1",
+          "media_key": "3_2024016248569282560",
+          "start": 17,
+          "url": "https://t.co/DqMFArOGnY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024089996064346548",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024016348599259350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ajisai1207_: https://t.co/DqMFArOGnY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1686,
+        "media_key": "3_2024016248569282560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbADeuXQAAnXc2.jpg",
+        "width": 1684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024016248569282560"
+          ],
+          "media_source_tweet_id": [
+            "2024016348599259350"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Parenting K-6 kids",
+              "id": "864926035569135616",
+              "name": "Parenting K-6 kids"
+            }
+          }
+        ],
+        "conversation_id": "2024089996064346548",
+        "created_at": "2026-02-18T11:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024089996064346548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "914028453174796293",
+              "start": 3,
+              "username": "Ajisai1207_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqMFArOGnY",
+              "end": 40,
+              "expanded_url": "https://x.com/Ajisai1207_/status/2024016348599259350/photo/1",
+              "media_key": "3_2024016248569282560",
+              "start": 17,
+              "url": "https://t.co/DqMFArOGnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024089996064346548",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024016348599259350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ajisai1207_: https://t.co/DqMFArOGnY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024016248569282560"
+          ]
+        },
+        "author_id": "914028453174796293",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Parenting K-6 kids",
+              "id": "864926035569135616",
+              "name": "Parenting K-6 kids"
+            }
+          }
+        ],
+        "conversation_id": "2024016348599259350",
+        "created_at": "2026-02-18T07:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024016348599259350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqMFArOGnY",
+              "end": 23,
+              "expanded_url": "https://x.com/Ajisai1207_/status/2024016348599259350/photo/1",
+              "media_key": "3_2024016248569282560",
+              "start": 0,
+              "url": "https://t.co/DqMFArOGnY"
+            },
+            {
+              "display_url": "x.com/lxeagle17/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lxeagle17/status/2023746176022151623",
+              "start": 24,
+              "url": "https://t.co/Dg8yRuAVn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024016348599259350",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 25547,
+          "like_count": 178,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023746176022151623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/DqMFArOGnY https://t.co/Dg8yRuAVn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n建议加入此辽宁跨儿群：564181067\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 1072,
+          "like_count": 28775,
+          "listed_count": 9,
+          "media_count": 552,
+          "tweet_count": 5715
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 909,
+          "like_count": 12776,
+          "listed_count": 14,
+          "media_count": 548,
+          "tweet_count": 5984
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

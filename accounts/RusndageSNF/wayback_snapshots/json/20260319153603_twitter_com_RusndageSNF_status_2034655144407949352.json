@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "pixiv",
+          "id": "1038127846168780800",
+          "name": "pixiv (ピクシブ)"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2034328283408732280",
+    "created_at": "2026-03-19T15:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T16:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034655144407949352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1498191070466752518",
+          "start": 0,
+          "username": "shipincen1"
+        },
+        {
+          "end": 28,
+          "id": "1222974486863106051",
+          "start": 12,
+          "username": "himawari5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034655144407949352",
+    "in_reply_to_user_id": "1498191070466752518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034637385804521545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shipincen1 @himawari5201314 那他妈是投本子的人的问题又不是app的问题，就像pixiv有一堆傻逼AI图不加AItag一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2034328283408732280",
+        "created_at": "2026-03-19T15:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034655144407949352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1498191070466752518",
+              "start": 0,
+              "username": "shipincen1"
+            },
+            {
+              "end": 28,
+              "id": "1222974486863106051",
+              "start": 12,
+              "username": "himawari5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034655144407949352",
+        "in_reply_to_user_id": "1498191070466752518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034637385804521545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shipincen1 @himawari5201314 那他妈是投本子的人的问题又不是app的问题，就像pixiv有一堆傻逼AI图不加AItag一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498191070466752518",
+        "conversation_id": "2034328283408732280",
+        "created_at": "2026-03-19T14:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034637385804521545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236317911431536640",
+              "start": 0,
+              "username": "RusndageSNF"
+            },
+            {
+              "end": 29,
+              "id": "1222974486863106051",
+              "start": 13,
+              "username": "himawari5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034637385804521545",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034624642246496349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RusndageSNF @himawari5201314 他們設計缺陷不能根本屏蔽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @DK_E_MANDDONA  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "DK_E_MANDDONA"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1949413688424935614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989744695497416704/bN5yNMQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2301,
+          "following_count": 1081,
+          "like_count": 29282,
+          "listed_count": 8,
+          "media_count": 568,
+          "tweet_count": 5835
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T06:59:37.000Z",
+        "description": "多坑",
+        "id": "1498191070466752518",
+        "name": "Perse_冥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033919096367276032/DKylexye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 524,
+          "like_count": 27950,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1432
+        },
+        "username": "shipincen1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-30T20:07:07.000Z",
+        "description": "一个🔞nsfw的男同性恋🏳️‍🌈画师，喜欢画美少年（成年\n蓝p https://t.co/3yqHx8Rrug\n大眼\nhttps://t.co/fUNnOVyoou\n蓝天https://t.co/xyEogUeiP4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/32377712",
+                "end": 55,
+                "expanded_url": "https://www.pixiv.net/users/32377712",
+                "start": 32,
+                "url": "https://t.co/3yqHx8Rrug"
+              },
+              {
+                "display_url": "weibo.com/u/6398810560",
+                "end": 82,
+                "expanded_url": "https://weibo.com/u/6398810560",
+                "start": 59,
+                "url": "https://t.co/fUNnOVyoou"
+              },
+              {
+                "display_url": "bsky.app/profile/himawa…",
+                "end": 108,
+                "expanded_url": "https://bsky.app/profile/himawari1106.bsky.social",
+                "start": 85,
+                "url": "https://t.co/xyEogUeiP4"
+              }
+            ]
+          }
+        },
+        "id": "1222974486863106051",
+        "name": "🔞himawari 男妈妈小课堂",
+        "pinned_tweet_id": "1977409950000513074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915852062652354561/AkNZ8lEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4399,
+          "following_count": 198,
+          "like_count": 3187,
+          "listed_count": 12,
+          "media_count": 263,
+          "tweet_count": 1731
+        },
+        "username": "himawari5201314",
+        "verified": false
+      }
+    ]
+  }
+}

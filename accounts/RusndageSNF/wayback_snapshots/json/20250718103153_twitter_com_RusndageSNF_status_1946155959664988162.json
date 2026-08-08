@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1945932648766980329",
+    "created_at": "2025-07-18T10:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T11:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946155959664988162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1251444237222240258",
+          "start": 0,
+          "username": "IIInoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946155959664988162",
+    "in_reply_to_user_id": "1251444237222240258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945932648766980329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IIInoki 翔林嫂，臭宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1945932648766980329",
+        "created_at": "2025-07-18T10:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T11:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946155959664988162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1251444237222240258",
+              "start": 0,
+              "username": "IIInoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946155959664988162",
+        "in_reply_to_user_id": "1251444237222240258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945932648766980329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIInoki 翔林嫂，臭宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251444237222240258",
+        "conversation_id": "1945932648766980329",
+        "created_at": "2025-07-17T19:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T20:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945932648766980329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945932648766980329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 24027,
+          "like_count": 382,
+          "quote_count": 13,
+          "reply_count": 38,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "直把杭州作便州"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 1007,
+          "like_count": 26587,
+          "listed_count": 8,
+          "media_count": 461,
+          "tweet_count": 5060
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-18T09:35:39.000Z",
+        "description": "Nobody “文科”🐶博士 人间不值得 生活推 風立ちぬ、いざ生きめやも 背景图 by @IIInoki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "IIInoki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inoki.cc",
+                "end": 23,
+                "expanded_url": "https://www.inoki.cc",
+                "start": 0,
+                "url": "https://t.co/4mBacSf4mT"
+              }
+            ]
+          }
+        },
+        "id": "1251444237222240258",
+        "location": "114514",
+        "name": "鹿 𝕟𝕠𝕜𝕚𝕟𝕠𝕜𝕚 祥子",
+        "pinned_tweet_id": "1854157543364301204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831914566684438528/Tjbm3SmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10126,
+          "following_count": 1632,
+          "like_count": 62377,
+          "listed_count": 81,
+          "media_count": 2214,
+          "tweet_count": 30569
+        },
+        "url": "https://t.co/4mBacSf4mT",
+        "username": "IIInoki",
+        "verified": false
+      }
+    ]
+  }
+}

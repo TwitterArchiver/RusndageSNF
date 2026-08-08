@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2057819172953108798",
+    "created_at": "2026-05-22T13:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057819172953108798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1514545830493044736",
+          "start": 3,
+          "username": "Miwu0721"
+        },
+        {
+          "end": 24,
+          "id": "1863439189909618688",
+          "start": 14,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057819172953108798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057732748090179825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miwu0721: @hsn8086xe 男人一生只哭……次，中间忘了，niko梦碎南极洲major"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2057819172953108798",
+        "created_at": "2026-05-22T13:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057819172953108798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1514545830493044736",
+              "start": 3,
+              "username": "Miwu0721"
+            },
+            {
+              "end": 24,
+              "id": "1863439189909618688",
+              "start": 14,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057819172953108798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057732748090179825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miwu0721: @hsn8086xe 男人一生只哭……次，中间忘了，niko梦碎南极洲major"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514545830493044736",
+        "conversation_id": "2057630343474352596",
+        "created_at": "2026-05-22T07:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057732748090179825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057732748090179825",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 689,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057630343474352596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 男人一生只哭……次，中间忘了，niko梦碎南极洲major"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 1105,
+          "like_count": 30100,
+          "listed_count": 7,
+          "media_count": 581,
+          "tweet_count": 6105
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:07:35.000Z",
+        "description": "你好！我是米坞(Miwu/ミウ)\n碧蓝航线/星露谷物语/CS2/战争雷霆玩家、全推最尊重菠萝油的主播、本质好女孩、国家一级退堂鼓表演艺术家、日本語は勉強する、よろしくお願いします。\n涩涩里推：@Miuu0721、⭐😡：@emilia_yuni_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 96,
+                "username": "Miuu0721"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "emilia_yuni_"
+              }
+            ]
+          }
+        },
+        "id": "1514545830493044736",
+        "location": "皇后大道東",
+        "name": "ミウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044300060884922368/zAjplHfc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 450,
+          "like_count": 92326,
+          "listed_count": 4,
+          "media_count": 763,
+          "tweet_count": 3794
+        },
+        "username": "Miwu0721",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36300,
+          "following_count": 371,
+          "like_count": 229,
+          "listed_count": 107,
+          "media_count": 14375,
+          "tweet_count": 14458
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

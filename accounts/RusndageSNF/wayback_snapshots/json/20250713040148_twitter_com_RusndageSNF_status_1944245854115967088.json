@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1943971297882779742",
+    "created_at": "2025-07-13T04:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T05:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944245854115967088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1771562039485534208",
+          "start": 0,
+          "username": "soyorin_chihaya"
+        },
+        {
+          "end": 28,
+          "id": "1817659740367036416",
+          "start": 17,
+          "username": "zhoupanjjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944245854115967088",
+    "in_reply_to_user_id": "1771562039485534208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944178799983440076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soyorin_chihaya @zhoupanjjp 你倒是看完啊，他要把胳膊砍下来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1943971297882779742",
+        "created_at": "2025-07-13T04:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T05:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944245854115967088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1771562039485534208",
+              "start": 0,
+              "username": "soyorin_chihaya"
+            },
+            {
+              "end": 28,
+              "id": "1817659740367036416",
+              "start": 17,
+              "username": "zhoupanjjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944245854115967088",
+        "in_reply_to_user_id": "1771562039485534208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944178799983440076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soyorin_chihaya @zhoupanjjp 你倒是看完啊，他要把胳膊砍下来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771562039485534208",
+        "conversation_id": "1943971297882779742",
+        "created_at": "2025-07-12T23:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T00:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944178799983440076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817659740367036416",
+              "start": 0,
+              "username": "zhoupanjjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944178799983440076",
+        "in_reply_to_user_id": "1817659740367036416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944106344644325690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoupanjjp 谢谢你！🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是前JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n头像画师 @deuxexmachina11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "deuxexmachina11"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1941459019530658228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944109983370514432/ijX5D8TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 1001,
+          "like_count": 26501,
+          "listed_count": 8,
+          "media_count": 458,
+          "tweet_count": 5022
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T15:38:07.000Z",
+        "description": "硬硬的，原来是祥木😇|MyGO!!!!!一生推！|素/祥/爱|电吉他苦手 新人练习影色舞中......|提问箱：https://t.co/WnizPPYL4h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/flying_StarRai…",
+                "end": 79,
+                "expanded_url": "https://ngl.link/flying_StarRail79402",
+                "start": 56,
+                "url": "https://t.co/WnizPPYL4h"
+              }
+            ]
+          }
+        },
+        "id": "1771562039485534208",
+        "location": "羽丘女子学园",
+        "name": "嘴硬不过Soyo木硬不过Kiko",
+        "pinned_tweet_id": "1908800653897740447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921068183345094656/a-W8bW6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 579,
+          "like_count": 34433,
+          "listed_count": 1,
+          "media_count": 927,
+          "tweet_count": 8528
+        },
+        "username": "soyorin_chihaya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T20:34:05.000Z",
+        "description": "海外新能源工程牛马一头。",
+        "id": "1817659740367036416",
+        "name": "保护我方嘴炮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932118302400139264/TScWKSR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 2679,
+          "like_count": 1610,
+          "listed_count": 4,
+          "media_count": 483,
+          "tweet_count": 7946
+        },
+        "username": "zhoupanjjp",
+        "verified": true
+      }
+    ]
+  }
+}

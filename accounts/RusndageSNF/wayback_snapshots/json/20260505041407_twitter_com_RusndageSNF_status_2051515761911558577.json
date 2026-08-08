@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2051515761911558577",
+    "created_at": "2026-05-05T04:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051515761911558577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1780369819310981120",
+          "start": 3,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051515761911558577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051392898613334150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @520illusion: 这张图里的很多人已经不在了 \n\n包括这张图的创作者 凶手是亚硝酸钠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2051515761911558577",
+        "created_at": "2026-05-05T04:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051515761911558577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1780369819310981120",
+              "start": 3,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051515761911558577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051392898613334150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @520illusion: 这张图里的很多人已经不在了 \n\n包括这张图的创作者 凶手是亚硝酸钠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780369819310981120",
+        "conversation_id": "2051392898613334150",
+        "created_at": "2026-05-04T20:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T21:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051392898613334150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wtxycCO/status…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/wtxycCO/status/1905998653095035205",
+              "start": 34,
+              "url": "https://t.co/YAzVPmQ14T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051392898613334150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 685,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905998653095035205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这张图里的很多人已经不在了 \n\n包括这张图的创作者 凶手是亚硝酸钠 https://t.co/YAzVPmQ14T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师 @deuxexmachina11  头图画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "deuxexmachina11"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2048108763861991863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042291013981782019/DCmVaNLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 1099,
+          "like_count": 29887,
+          "listed_count": 8,
+          "media_count": 577,
+          "tweet_count": 6054
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 杭州南京合肥随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 终将成为你 | 我向神明祈祷 许你岁岁平安  | 故里蓝鸢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市轨道交通3号线中兴大桥南站A出口",
+        "name": "ill",
+        "pinned_tweet_id": "1879295666419286059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4660,
+          "following_count": 192,
+          "like_count": 10181,
+          "listed_count": 7,
+          "media_count": 889,
+          "tweet_count": 5907
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

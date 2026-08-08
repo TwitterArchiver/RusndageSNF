@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "1904307130301288683",
+    "created_at": "2025-03-25T06:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T07:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904422950373347361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1705975905167020032",
+          "start": 0,
+          "username": "EmoooXYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904422950373347361",
+    "in_reply_to_user_id": "1236317911431536640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904422894337446258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmoooXYN 裸检"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1904307130301288683",
+        "created_at": "2025-03-25T06:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T07:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904422950373347361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1705975905167020032",
+              "start": 0,
+              "username": "EmoooXYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904422950373347361",
+        "in_reply_to_user_id": "1236317911431536640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904422894337446258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmoooXYN 裸检"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "1904307130301288683",
+        "created_at": "2025-03-25T06:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T07:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904422894337446258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1705975905167020032",
+              "start": 0,
+              "username": "EmoooXYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904422894337446258",
+        "in_reply_to_user_id": "1705975905167020032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904307130301288683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmoooXYN 我们也没要求多减，但是要拍CT照，要把上衣脱下来，然后就炸毛了，所以医生也知道我精神问题，所以说就让我单检了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "MtF，但本体是前JMR雪球队退役球圆Snowflake（？）/糖豆人，弹珠运动和F1爱好者🏳️‍⚧️，\n最爱的家人 @MuFengkana \n头像画师 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "MuFengkana"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "location": "Hailfern，现居Snoronto（划去）",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "1900564583427019183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848303553942810624/rIr7KaDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 911,
+          "like_count": 23579,
+          "listed_count": 6,
+          "media_count": 403,
+          "tweet_count": 4239
+        },
+        "username": "RusndageSNF",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T16:02:16.000Z",
+        "description": "年份: 2007 / 身高: 166cm / 体重: 57kg / 有对象了 请勿打扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "emooo.net",
+                "end": 23,
+                "expanded_url": "https://emooo.net",
+                "start": 0,
+                "url": "https://t.co/yqcZ9ZzC1i"
+              }
+            ]
+          }
+        },
+        "id": "1705975905167020032",
+        "name": "云汐",
+        "pinned_tweet_id": "1891639129462517910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899247971017125888/KYSy9Nvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 1926,
+          "like_count": 783,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 864
+        },
+        "url": "https://t.co/yqcZ9ZzC1i",
+        "username": "EmoooXYN",
+        "verified": false
+      }
+    ]
+  }
+}
