@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2087928031373672475",
+    "created_at": "2026-08-14T03:55:08.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T04:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088112160035754326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1686090256876199937",
+          "start": 0,
+          "username": "SKT0196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088112160035754326",
+    "in_reply_to_user_id": "1686090256876199937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087928031373672475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SKT0196 治耳朵中，勿扰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2087928031373672475",
+        "created_at": "2026-08-14T03:55:08.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088112160035754326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1686090256876199937",
+              "start": 0,
+              "username": "SKT0196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088112160035754326",
+        "in_reply_to_user_id": "1686090256876199937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087928031373672475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SKT0196 治耳朵中，勿扰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686090256876199937",
+        "conversation_id": "2087928031373672475",
+        "created_at": "2026-08-13T15:43:29.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087928031373672475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087928031373672475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3677,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点想念一个西班牙狙击手"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2088112160035754326",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2079556927311478823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 1127,
+          "like_count": 30881,
+          "listed_count": 8,
+          "media_count": 596,
+          "tweet_count": 6274
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-31T19:03:44.000Z",
+        "description": "我是诡/GUIIYGUI，she/her，Artist\n画点想画的，严禁🚫AI🚫！\n目前在搞CSGO，感谢你的喜欢💜",
+        "id": "1686090256876199937",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087928031373672475",
+        "name": "诡法师",
+        "pinned_tweet_id": "2029936530689773774",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686090256876199937/1690830478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029714296062754816/7lHb7ImU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 256,
+          "like_count": 1229,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "SKT0196",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

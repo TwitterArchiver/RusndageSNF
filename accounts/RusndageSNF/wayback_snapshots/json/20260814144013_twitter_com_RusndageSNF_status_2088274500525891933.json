@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2088201575512887801",
+    "created_at": "2026-08-14T14:40:13.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088274500525891933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479696561302999042",
+          "start": 0,
+          "username": "quite8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088274500525891933",
+    "in_reply_to_user_id": "1479696561302999042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088201575512887801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quite8964 该名称已被占用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2088201565379428352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrIQovbAAAl5zn.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2088201575512887801",
+        "created_at": "2026-08-14T14:40:13.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088274500525891933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quite8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088274500525891933",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088201575512887801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quite8964 该名称已被占用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088201565379428352"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "conversation_id": "2088201575512887801",
+        "created_at": "2026-08-14T09:50:27.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088201575512887801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9yTqY1nX9L",
+              "end": 29,
+              "expanded_url": "https://x.com/quite8964/status/2088201575512887801/photo/1",
+              "media_key": "3_2088201565379428352",
+              "start": 6,
+              "url": "https://t.co/9yTqY1nX9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088201575512887801",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088201565379428352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么呢🤔 https://t.co/9yTqY1nX9L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2088274500525891933",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2079556927311478823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2383,
+          "following_count": 1125,
+          "like_count": 30880,
+          "listed_count": 8,
+          "media_count": 596,
+          "tweet_count": 6276
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2088259145577189881",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "2085000009490243749",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1479696561302999042/1718372140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10841,
+          "following_count": 3133,
+          "like_count": 33034,
+          "listed_count": 30,
+          "media_count": 663,
+          "tweet_count": 14912
+        },
+        "url": "",
+        "username": "quite8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

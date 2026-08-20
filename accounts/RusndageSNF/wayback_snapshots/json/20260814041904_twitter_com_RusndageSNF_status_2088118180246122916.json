@@ -1,0 +1,637 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087877150137634816"
+      ],
+      "media_source_tweet_id": [
+        "2087877171515965448"
+      ]
+    },
+    "author_id": "1236317911431536640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045347491",
+          "name": "Counter-Strike"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045347491",
+          "name": "Counter-Strike"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2088118180246122916",
+    "created_at": "2026-08-14T04:19:04.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T05:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088118180246122916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1586555197899145216",
+          "start": 3,
+          "username": "CSlowqmemes"
+        },
+        {
+          "end": 57,
+          "id": "1603165118510030855",
+          "start": 46,
+          "username": "clashdotgg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wqo97m90q2",
+          "end": 81,
+          "expanded_url": "https://x.com/CSlowqmemes/status/2087877171515965448/video/1",
+          "media_key": "13_2087877150137634816",
+          "start": 58,
+          "url": "https://t.co/Wqo97m90q2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088118180246122916",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2087877150137634816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087877171515965448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CSlowqmemes: COUNTER STRIKE\n\nsponsored by @clashdotgg https://t.co/Wqo97m90q2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8938,
+        "height": 720,
+        "media_key": "13_2087877150137634816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087877150137634816/img/3aROUKYWJrMme8y4.jpg",
+        "public_metrics": {
+          "view_count": 126861
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087877150137634816/vid/avc1/320x320/1PhAColn8SFbOsTW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087877150137634816/vid/avc1/540x540/gTy-vFAyJEtT56eL.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087877150137634816/vid/avc1/720x720/iocK0GK5ZovnET7Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087877150137634816/pl/ISwCYyUbDLvJgXVt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087877150137634816"
+          ]
+        },
+        "author_id": "1586555197899145216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2087877171515965448",
+        "created_at": "2026-08-13T12:21:23.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087877171515965448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1603165118510030855",
+              "start": 29,
+              "username": "clashdotgg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wqo97m90q2",
+              "end": 64,
+              "expanded_url": "https://x.com/CSlowqmemes/status/2087877171515965448/video/1",
+              "media_key": "13_2087877150137634816",
+              "start": 41,
+              "url": "https://t.co/Wqo97m90q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087877171515965448",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087877150137634816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 629,
+          "impression_count": 263483,
+          "like_count": 6297,
+          "quote_count": 17,
+          "reply_count": 23,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "COUNTER STRIKE\n\nsponsored by @clashdotgg https://t.co/Wqo97m90q2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087877150137634816"
+          ],
+          "media_source_tweet_id": [
+            "2087877171515965448"
+          ]
+        },
+        "author_id": "1236317911431536640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045347491",
+              "name": "Counter-Strike"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2088118180246122916",
+        "created_at": "2026-08-14T04:19:04.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088118180246122916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1586555197899145216",
+              "start": 3,
+              "username": "CSlowqmemes"
+            },
+            {
+              "end": 57,
+              "id": "1603165118510030855",
+              "start": 46,
+              "username": "clashdotgg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wqo97m90q2",
+              "end": 81,
+              "expanded_url": "https://x.com/CSlowqmemes/status/2087877171515965448/video/1",
+              "media_key": "13_2087877150137634816",
+              "start": 58,
+              "url": "https://t.co/Wqo97m90q2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088118180246122916",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2087877150137634816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087877171515965448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CSlowqmemes: COUNTER STRIKE\n\nsponsored by @clashdotgg https://t.co/Wqo97m90q2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2088118180246122916",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2079556927311478823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 1127,
+          "like_count": 30882,
+          "listed_count": 8,
+          "media_count": 596,
+          "tweet_count": 6275
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-30T03:06:57.000Z",
+        "description": "The home of COUNTER-STRIKE memes sponsored by @clashdotgg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "clashdotgg"
+              }
+            ]
+          }
+        },
+        "id": "1586555197899145216",
+        "is_identity_verified": false,
+        "location": "DM 4 promos 💰",
+        "most_recent_tweet_id": "2087877171515965448",
+        "name": "low quality counter-strike memes",
+        "pinned_tweet_id": "2060354222424826353",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586555197899145216/1674451297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602648838505840640/xNeoPfno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37252,
+          "following_count": 19,
+          "like_count": 3271,
+          "listed_count": 53,
+          "media_count": 1092,
+          "tweet_count": 1649
+        },
+        "url": "",
+        "username": "CSlowqmemes",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-14T23:09:12.000Z",
+        "description": "Case battles, crypto cashouts, and free to play\n\nClaim your 3 FREE Cases 👇👇👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/4y8kaycx",
+                "end": 23,
+                "expanded_url": "https://tinyurl.com/4y8kaycx",
+                "start": 0,
+                "url": "https://t.co/lzz0kt4CMs"
+              }
+            ]
+          }
+        },
+        "id": "1603165118510030855",
+        "is_identity_verified": false,
+        "location": "Worldwide",
+        "most_recent_tweet_id": "2087996025646535117",
+        "name": "ClashGG",
+        "pinned_tweet_id": "2068502563838660837",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1603165118510030855/1781120336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064794455492739072/25zfF3yW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89598,
+          "following_count": 271,
+          "like_count": 3362,
+          "listed_count": 44,
+          "media_count": 389,
+          "tweet_count": 1647
+        },
+        "url": "https://t.co/lzz0kt4CMs",
+        "username": "clashdotgg",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}
