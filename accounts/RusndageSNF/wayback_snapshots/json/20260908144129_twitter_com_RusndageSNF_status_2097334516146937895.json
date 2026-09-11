@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2096923156694933601",
+    "created_at": "2026-09-08T14:41:29.000Z",
+    "display_text_range": [
+      10,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097334516146937895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463116235478999042",
+          "start": 0,
+          "username": "Nihili10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097334516146937895",
+    "in_reply_to_user_id": "1463116235478999042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096923156694933601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nihili10 而且这种\"pure-blood lesbians\"内部之间也是有阶级的，例如学历歧视"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2096923156694933601",
+        "created_at": "2026-09-08T14:41:29.000Z",
+        "display_text_range": [
+          10,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097334516146937895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463116235478999042",
+              "start": 0,
+              "username": "Nihili10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097334516146937895",
+        "in_reply_to_user_id": "1463116235478999042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096923156694933601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nihili10 而且这种\"pure-blood lesbians\"内部之间也是有阶级的，例如学历歧视"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463116235478999042",
+        "conversation_id": "2096923156694933601",
+        "created_at": "2026-09-07T11:26:54.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096923156694933601"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 277,
+              "start": 274,
+              "tag": "女同"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cassdiary143/s…",
+              "end": 301,
+              "expanded_url": "https://twitter.com/cassdiary143/status/2096789157850784187",
+              "start": 278,
+              "url": "https://t.co/T3qgqlXyUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096923156694933601",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 65903,
+          "like_count": 185,
+          "quote_count": 1,
+          "reply_count": 39,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096789157850784187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The mainstream Chinese lesbian community doesn't accept anything related to men, like not accepting their girlfriend had sex with a man.\nThey also really dislike trans women because they're not \"pure-blooded\" women.\nTop of the hierarchy of contempt are pure-blood lesbians.\n#女同 https://t.co/T3qgqlXyUY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2097334516146937895",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2079556927311478823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 1118,
+          "like_count": 31101,
+          "listed_count": 8,
+          "media_count": 596,
+          "tweet_count": 6313
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-23T12:04:37.000Z",
+        "description": "我是猪猪，喜欢吃饭，哼唧哼唧~\n可以喊我“nihili”/You can call me Nihili/爱的黑洞/跨妹/trans pride/我的🐷@xiliver1\n#perth",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "perth"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xiliver1"
+              }
+            ]
+          }
+        },
+        "id": "1463116235478999042",
+        "is_identity_verified": false,
+        "location": "Perth",
+        "most_recent_tweet_id": "2097333162464739686",
+        "name": "Nihili不是男的（谢邀，人在土澳，刚下飞机,Perth）",
+        "pinned_tweet_id": "1642900290918809600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1463116235478999042/1764179760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993739960495878145/jrGB8W1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 574,
+          "like_count": 53855,
+          "listed_count": 2,
+          "media_count": 877,
+          "tweet_count": 13662
+        },
+        "url": "",
+        "username": "Nihili10",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

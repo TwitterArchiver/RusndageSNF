@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2096312490590371942",
+    "created_at": "2026-09-07T07:51:08.000Z",
+    "display_text_range": [
+      14,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T08:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096868859689279557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1990083055231631361",
+          "start": 0,
+          "username": "All4theY1108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096868859689279557",
+    "in_reply_to_user_id": "1990083055231631361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096312490590371942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@All4theY1108 哦原来你们知道学生压力已经大到这样了啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096312477068009472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReZF1XboAA0O5v.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2096312490590371942",
+        "created_at": "2026-09-07T07:51:08.000Z",
+        "display_text_range": [
+          14,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T08:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096868859689279557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1990083055231631361",
+              "start": 0,
+              "username": "All4theY1108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096868859689279557",
+        "in_reply_to_user_id": "1990083055231631361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096312490590371942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@All4theY1108 哦原来你们知道学生压力已经大到这样了啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096312477068009472"
+          ]
+        },
+        "author_id": "1990083055231631361",
+        "conversation_id": "2096312490590371942",
+        "created_at": "2026-09-05T19:00:20.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096312490590371942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/awe0kYqtLi",
+              "end": 25,
+              "expanded_url": "https://x.com/All4theY1108/status/2096312490590371942/photo/1",
+              "media_key": "3_2096312477068009472",
+              "start": 2,
+              "url": "https://t.co/awe0kYqtLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096312490590371942",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096312477068009472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 18483,
+          "like_count": 123,
+          "quote_count": 12,
+          "reply_count": 29,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/awe0kYqtLi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2096868859689279557",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2079556927311478823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2356,
+          "following_count": 1117,
+          "like_count": 31073,
+          "listed_count": 8,
+          "media_count": 596,
+          "tweet_count": 6307
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "在你的個人資料上加入自我介紹",
+        "id": "1990083055231631361",
+        "is_identity_verified": false,
+        "location": "在你身后",
+        "most_recent_tweet_id": "2096649612794995056",
+        "name": "GAZE",
+        "pinned_tweet_id": "2092710870627594685",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990083055231631361/1781402845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093558286775881728/T1h1pcdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 47,
+          "like_count": 7783,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 4734
+        },
+        "url": "",
+        "username": "All4theY1108",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

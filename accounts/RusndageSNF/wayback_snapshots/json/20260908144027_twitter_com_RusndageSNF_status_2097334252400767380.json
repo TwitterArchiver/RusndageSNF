@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2097230039284916561",
+    "created_at": "2026-09-08T14:40:27.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097334252400767380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047433069116719104",
+          "start": 0,
+          "username": "N552AA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097334252400767380",
+    "in_reply_to_user_id": "2047433069116719104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097230039284916561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA8 别再吞药了好不好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2097230001775288320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrbkzQboAAOimu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097230012189712385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrblaDbIAElG_S.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2097230026412535808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrbmPCaMAAfUMa.jpg",
+        "width": 810
+      },
+      {
+        "height": 810,
+        "media_key": "3_2097230033169653760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrbmoNboAAQeab.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2097230039284916561",
+        "created_at": "2026-09-08T14:40:27.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097334252400767380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047433069116719104",
+              "start": 0,
+              "username": "N552AA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097334252400767380",
+        "in_reply_to_user_id": "2047433069116719104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097230039284916561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA8 别再吞药了好不好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097230001775288320",
+            "3_2097230012189712385",
+            "3_2097230026412535808",
+            "3_2097230033169653760"
+          ]
+        },
+        "author_id": "2047433069116719104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097230039284916561",
+        "created_at": "2026-09-08T07:46:20.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T08:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097230039284916561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hYtQgUaN8c",
+              "end": 29,
+              "expanded_url": "https://x.com/N552AA8/status/2097230039284916561/photo/1",
+              "media_key": "3_2097230001775288320",
+              "start": 6,
+              "url": "https://t.co/hYtQgUaN8c"
+            },
+            {
+              "display_url": "pic.x.com/hYtQgUaN8c",
+              "end": 29,
+              "expanded_url": "https://x.com/N552AA8/status/2097230039284916561/photo/1",
+              "media_key": "3_2097230012189712385",
+              "start": 6,
+              "url": "https://t.co/hYtQgUaN8c"
+            },
+            {
+              "display_url": "pic.x.com/hYtQgUaN8c",
+              "end": 29,
+              "expanded_url": "https://x.com/N552AA8/status/2097230039284916561/photo/1",
+              "media_key": "3_2097230026412535808",
+              "start": 6,
+              "url": "https://t.co/hYtQgUaN8c"
+            },
+            {
+              "display_url": "pic.x.com/hYtQgUaN8c",
+              "end": 29,
+              "expanded_url": "https://x.com/N552AA8/status/2097230039284916561/photo/1",
+              "media_key": "3_2097230033169653760",
+              "start": 6,
+              "url": "https://t.co/hYtQgUaN8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097230039284916561",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097230001775288320"
+          },
+          {
+            "media_key": "3_2097230012189712385"
+          },
+          {
+            "media_key": "3_2097230026412535808"
+          },
+          {
+            "media_key": "3_2097230033169653760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 799,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "洗胃好难受 https://t.co/hYtQgUaN8c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2097334252400767380",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2079556927311478823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 1118,
+          "like_count": 31101,
+          "listed_count": 8,
+          "media_count": 596,
+          "tweet_count": 6312
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:51:07.000Z",
+        "description": "08/mtx（f？/ENTP-T/ASD/C-PTSD/ADHD/快速循环型双相/BPD/osdd-1a/重度焦虑/重度失眠/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder💊/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/ugd1wwbKjr"
+              }
+            ]
+          }
+        },
+        "id": "2047433069116719104",
+        "is_identity_verified": false,
+        "location": "宛平南路600号",
+        "most_recent_tweet_id": "2097230039284916561",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（八代目）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047433261555576832/tJJpmxLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 161,
+          "like_count": 444,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/ugd1wwbKjr",
+        "username": "N552AA8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

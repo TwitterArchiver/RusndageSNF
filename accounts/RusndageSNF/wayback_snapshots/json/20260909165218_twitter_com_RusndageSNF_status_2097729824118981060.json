@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2097467685290545173",
+    "created_at": "2026-09-09T16:52:18.000Z",
+    "display_text_range": [
+      10,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T17:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097729824118981060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884546510919979008",
+          "start": 0,
+          "username": "iamThuja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097729824118981060",
+    "in_reply_to_user_id": "1884546510919979008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097467685290545173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamThuja 因为辱华这个理由已经被用烂了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2097467459314102272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuziphbsAA44JS.jpg",
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2097467685290545173",
+        "created_at": "2026-09-09T16:52:18.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097729824118981060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884546510919979008",
+              "start": 0,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097729824118981060",
+        "in_reply_to_user_id": "1884546510919979008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097467685290545173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamThuja 因为辱华这个理由已经被用烂了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097467459314102272"
+          ]
+        },
+        "author_id": "1884546510919979008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097467685290545173",
+        "created_at": "2026-09-08T23:30:39.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T00:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097467685290545173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ce9ssFDw63",
+              "end": 67,
+              "expanded_url": "https://x.com/iamThuja/status/2097467685290545173/photo/1",
+              "media_key": "3_2097467459314102272",
+              "start": 44,
+              "url": "https://t.co/Ce9ssFDw63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097467685290545173",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097467459314102272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 28737,
+          "like_count": 222,
+          "quote_count": 1,
+          "reply_count": 54,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "互联网进入大洗白时代。无论你过去干了什么死嘛事儿，就算是辱华也能装死几年美美继续开播喽 https://t.co/Ce9ssFDw63"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2097729824118981060",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2097348248445104337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 1119,
+          "like_count": 31149,
+          "listed_count": 8,
+          "media_count": 596,
+          "tweet_count": 6339
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "@theRealThuja唯一小号，@notThujaS原老号。默认一切到处瞎鉴证追着叫的嗣爹嗣妈/亚文化头号粪海狂蛆（我线下真不是大老粗，喝高了会泄露隐私⛔️先去问AI查我成分立场再开火好不，各位\\\\欢迎勇士把我搬回墙里，感激不尽（我是直男。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "notThujaS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "is_identity_verified": false,
+        "location": "航天基地中心区总裁室（距您85m）",
+        "most_recent_tweet_id": "2097705437034672348",
+        "name": "岑柏今天堵桥了吗（扫狐狸没有在千恋万花打折时为了丛雨忍痛买正版不快进打完从雨线结果发现从雨一点也不平",
+        "pinned_tweet_id": "2091798873790632058",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884546510919979008/1785280718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095477013247348736/45QoLpbE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 1032,
+          "like_count": 10251,
+          "listed_count": 6,
+          "media_count": 413,
+          "tweet_count": 4535
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThuja",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

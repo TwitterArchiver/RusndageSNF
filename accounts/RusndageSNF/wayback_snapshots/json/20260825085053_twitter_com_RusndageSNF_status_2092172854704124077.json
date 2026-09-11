@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2091770454856057306",
+    "created_at": "2026-08-25T08:50:53.000Z",
+    "display_text_range": [
+      13,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T09:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092172854704124077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1639491357680205826",
+          "start": 0,
+          "username": "weijinxiao3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092172854704124077",
+    "in_reply_to_user_id": "1639491357680205826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091770454856057306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weijinxiao3 这一拳下去，直接躺地上打开懂车帝APP，挑选自己喜欢的车了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7233,
+        "height": 1280,
+        "media_key": "13_2091770407447863296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091770407447863296/img/WDRrGspZ-ZxzcFOU.jpg",
+        "public_metrics": {
+          "view_count": 1059447
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091770407447863296/vid/avc1/320x568/FC1ByoaJ3HFNervR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091770407447863296/vid/avc1/480x852/m1pIWz-_J95O4-3K.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091770407447863296/vid/avc1/720x1280/h1rGiDJPugcUvX91.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091770407447863296/pl/FoEiWsolHSeIZ3Oo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2091770454856057306",
+        "created_at": "2026-08-25T08:50:53.000Z",
+        "display_text_range": [
+          13,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092172854704124077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1639491357680205826",
+              "start": 0,
+              "username": "weijinxiao3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092172854704124077",
+        "in_reply_to_user_id": "1639491357680205826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091770454856057306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weijinxiao3 这一拳下去，直接躺地上打开懂车帝APP，挑选自己喜欢的车了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091770407447863296"
+          ]
+        },
+        "author_id": "1639491357680205826",
+        "conversation_id": "2091770454856057306",
+        "created_at": "2026-08-24T06:11:54.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091770454856057306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QYtJ562dN0",
+              "end": 53,
+              "expanded_url": "https://x.com/weijinxiao3/status/2091770454856057306/video/1",
+              "media_key": "13_2091770407447863296",
+              "start": 30,
+              "url": "https://t.co/QYtJ562dN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091770454856057306",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091770407447863296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 615,
+          "impression_count": 1521445,
+          "like_count": 2573,
+          "quote_count": 21,
+          "reply_count": 685,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "笑死了。女装大佬骗帅哥约会，最后被帅哥一拳放翻。。。无敌了 https://t.co/QYtJ562dN0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2092172854704124077",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2079556927311478823",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 1118,
+          "like_count": 30977,
+          "listed_count": 8,
+          "media_count": 596,
+          "tweet_count": 6293
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-25T04:56:41.000Z",
+        "description": "Auditable football forecasting, without betting hype.\n\nWe lock model probabilities before kickoff, compare them with market-implied probabilities, and publish e",
+        "id": "1639491357680205826",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092172622507426208",
+        "name": "Football Model Lab",
+        "pinned_tweet_id": "2085248361737880031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639491357680205826/1785078391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081395431234473984/1jUOTupA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6131,
+          "following_count": 5624,
+          "like_count": 10017,
+          "listed_count": 0,
+          "media_count": 616,
+          "tweet_count": 5195
+        },
+        "url": "",
+        "username": "weijinxiao3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

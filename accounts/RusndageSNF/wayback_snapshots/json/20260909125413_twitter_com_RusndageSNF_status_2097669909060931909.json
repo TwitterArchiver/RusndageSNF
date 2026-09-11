@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2097669909060931909",
+    "created_at": "2026-09-09T12:54:13.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T13:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097669909060931909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1199031468",
+          "start": 3,
+          "username": "GatitaDisidente"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097669909060931909",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6684
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097199141906428134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @GatitaDisidente: “Las mujeres trans no son hombres que interpretan el rol de mujeres, sino mujeres que, desde la adolescencia o incluso…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2097199133241085952",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRq_gBAXkAAHNsb.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRq_gBAXkAAHNsb.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2097669909060931909",
+        "created_at": "2026-09-09T12:54:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097669909060931909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1199031468",
+              "start": 3,
+              "username": "GatitaDisidente"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097669909060931909",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6684
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097199141906428134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @GatitaDisidente: “Las mujeres trans no son hombres que interpretan el rol de mujeres, sino mujeres que, desde la adolescencia o incluso…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2097199133241085952"
+          ]
+        },
+        "author_id": "1199031468",
+        "conversation_id": "2097199141906428134",
+        "created_at": "2026-09-08T05:43:34.000Z",
+        "display_text_range": [
+          0,
+          245
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097199141906428134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpEO9wLo7M",
+              "end": 269,
+              "expanded_url": "https://x.com/GatitaDisidente/status/2097199141906428134/photo/1",
+              "media_key": "16_2097199133241085952",
+              "start": 246,
+              "url": "https://t.co/bpEO9wLo7M"
+            },
+            {
+              "display_url": "x.com/xmeowwoemx_017…",
+              "end": 293,
+              "expanded_url": "https://twitter.com/xmeowwoemx_017/status/2096954801976418531",
+              "start": 270,
+              "url": "https://t.co/gGh4UxVmPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097199141906428134",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "16_2097199133241085952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2940,
+          "impression_count": 334163,
+          "like_count": 37888,
+          "quote_count": 35,
+          "reply_count": 0,
+          "retweet_count": 6684
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096954801976418531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "“Las mujeres trans no son hombres que interpretan el rol de mujeres, sino mujeres que, desde la adolescencia o incluso antes, fueron forzadas a interpretar el rol de hombres. ¿Cómo es que algo tan sencillo no le cabe en la cabeza a tanta gente?” https://t.co/bpEO9wLo7M https://t.co/gGh4UxVmPG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2097669909060931909",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2097348248445104337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2376,
+          "following_count": 1118,
+          "like_count": 31131,
+          "listed_count": 8,
+          "media_count": 596,
+          "tweet_count": 6336
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-20T00:06:34.000Z",
+        "description": "🏳️‍⚧️ | «No hay para nosotros ni programa máximo ni programa mínimo: el comunismo es una sola y misma cosa, es lo mínimo que debemos realizar»\nRosa Luxemburgo",
+        "id": "1199031468",
+        "is_identity_verified": false,
+        "location": "Ciudad de México",
+        "most_recent_tweet_id": "2097579768145174978",
+        "name": "𝐅𝐥𝐨𝐫𝐚 𝐈𝐫𝐢𝐧𝐚❤️‍🔥🗡️",
+        "pinned_tweet_id": "2067302866633498750",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1199031468/1772835460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088671890982514688/Hc8LDof6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9696,
+          "following_count": 1326,
+          "like_count": 95542,
+          "listed_count": 18,
+          "media_count": 2422,
+          "tweet_count": 30553
+        },
+        "url": "",
+        "username": "GatitaDisidente",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
