@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2101145293932601564",
+    "created_at": "2026-09-19T15:33:33.000Z",
+    "display_text_range": [
+      10,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101333883380019405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2010820785477443584",
+          "start": 0,
+          "username": "lyxiiexd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101333883380019405",
+    "in_reply_to_user_id": "2010820785477443584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101145293932601564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxiiexd 那你为什么不争取免费卫生巾的权利而选择让男同没有私密清洁剂？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2101145293932601564",
+        "created_at": "2026-09-19T15:33:33.000Z",
+        "display_text_range": [
+          10,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101333883380019405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2010820785477443584",
+              "start": 0,
+              "username": "lyxiiexd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101333883380019405",
+        "in_reply_to_user_id": "2010820785477443584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101145293932601564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxiiexd 那你为什么不争取免费卫生巾的权利而选择让男同没有私密清洁剂？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010820785477443584",
+        "conversation_id": "2101145293932601564",
+        "created_at": "2026-09-19T03:04:10.000Z",
+        "display_text_range": [
+          0,
+          196
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101145293932601564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AllPop_BR/stat…",
+              "end": 220,
+              "expanded_url": "https://twitter.com/AllPop_BR/status/2101025352399098259",
+              "start": 197,
+              "url": "https://t.co/M6QWrPcYlj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101145293932601564",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 766,
+          "impression_count": 1194328,
+          "like_count": 39821,
+          "quote_count": 518,
+          "reply_count": 600,
+          "retweet_count": 3288
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101025352399098259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "que bom que os gays vao poder fazer a chuca com segurança, mas até no mundo lgbt existe misoginia né? absorventes gratuitos não temos, mas higienizador íntimo para homens gays fazerem chuca temos! https://t.co/M6QWrPcYlj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2101333883380019405",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2097348248445104337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 1118,
+          "like_count": 31239,
+          "listed_count": 8,
+          "media_count": 597,
+          "tweet_count": 6356
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-12T21:07:12.000Z",
+        "description": "ㅤㅤㅤㅤㅤ written by mitski ⋆˚꩜｡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lyxiexd.carrd.co",
+                "end": 23,
+                "expanded_url": "http://lyxiexd.carrd.co",
+                "start": 0,
+                "url": "https://t.co/5k9jY6C1Wr"
+              }
+            ]
+          }
+        },
+        "id": "2010820785477443584",
+        "is_identity_verified": false,
+        "location": "In the shadow of the stars ✮⋆˙",
+        "most_recent_tweet_id": "2101178770329677980",
+        "name": "lexie ᶻ 𝗓 𐰁",
+        "pinned_tweet_id": "2098246394427376091",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010820785477443584/1788308818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100343944651436032/FI0gVMTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 173,
+          "like_count": 53752,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 15651
+        },
+        "url": "https://t.co/5k9jY6C1Wr",
+        "username": "lyxiiexd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2102763254359691554",
+    "created_at": "2026-09-24T08:48:59.000Z",
+    "display_text_range": [
+      13,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T09:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103044010281693189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929798380240465921",
+          "start": 0,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103044010281693189",
+    "in_reply_to_user_id": "1929798380240465921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102763254359691554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AacerF59616 你看他这名字，你就知道他正不正常了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2102762829388578816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6DpwSaAAAbnfB.jpg",
+        "width": 915
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2102762829439008768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6DpwebgAAmoZp.jpg",
+        "width": 1104
+      },
+      {
+        "height": 2181,
+        "media_key": "3_2102762829388660737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6DpwSbQAEl9Y9.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2102763254359691554",
+        "created_at": "2026-09-24T08:48:59.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T09:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103044010281693189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103044010281693189",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102763254359691554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 你看他这名字，你就知道他正不正常了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102762829388578816",
+            "3_2102762829439008768",
+            "3_2102762829388660737"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102763254359691554",
+        "created_at": "2026-09-23T14:13:21.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102763254359691554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUhFXCQfaW",
+              "end": 101,
+              "expanded_url": "https://x.com/AacerF59616/status/2102763254359691554/photo/1",
+              "media_key": "3_2102762829388578816",
+              "start": 78,
+              "url": "https://t.co/GUhFXCQfaW"
+            },
+            {
+              "display_url": "pic.x.com/GUhFXCQfaW",
+              "end": 101,
+              "expanded_url": "https://x.com/AacerF59616/status/2102763254359691554/photo/1",
+              "media_key": "3_2102762829439008768",
+              "start": 78,
+              "url": "https://t.co/GUhFXCQfaW"
+            },
+            {
+              "display_url": "pic.x.com/GUhFXCQfaW",
+              "end": 101,
+              "expanded_url": "https://x.com/AacerF59616/status/2102763254359691554/photo/1",
+              "media_key": "3_2102762829388660737",
+              "start": 78,
+              "url": "https://t.co/GUhFXCQfaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102763254359691554",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102762829388578816"
+          },
+          {
+            "media_key": "3_2102762829439008768"
+          },
+          {
+            "media_key": "3_2102762829388660737"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4526,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有在对岸的Mtf同类说一下，你们那边真的人均歧视无证含糖觉得无证含糖都是心里有问题吗？你们那边有个“正规跨”可是这样说的哦，还是说兔畜又在无中生有了呢 https://t.co/GUhFXCQfaW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2103044010281693189",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2097348248445104337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2378,
+          "following_count": 1120,
+          "like_count": 31285,
+          "listed_count": 8,
+          "media_count": 598,
+          "tweet_count": 6361
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王｜“化作余烬，鏖战到底”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2103036285954953507",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3344,
+          "following_count": 1021,
+          "like_count": 8216,
+          "listed_count": 2,
+          "media_count": 631,
+          "tweet_count": 3546
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

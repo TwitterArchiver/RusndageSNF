@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1236317911431536640",
+    "conversation_id": "2101017035668898128",
+    "created_at": "2026-09-19T15:42:14.000Z",
+    "display_text_range": [
+      11,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T16:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101336068880732376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816440350778785792",
+          "start": 0,
+          "username": "gcfinmuse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101336068880732376",
+    "in_reply_to_user_id": "1816440350778785792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101017035668898128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gcfinmuse 你们不争取就没有呗，谁叫你们不争取了？又不是男性让你们没有免费卫生巾用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "16_2101017021060136960",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HShP2VdWwAA5vwa.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HShP2VdWwAA5vwa.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236317911431536640",
+        "conversation_id": "2101017035668898128",
+        "created_at": "2026-09-19T15:42:14.000Z",
+        "display_text_range": [
+          11,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T16:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101336068880732376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816440350778785792",
+              "start": 0,
+              "username": "gcfinmuse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101336068880732376",
+        "in_reply_to_user_id": "1816440350778785792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101017035668898128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gcfinmuse 你们不争取就没有呗，谁叫你们不争取了？又不是男性让你们没有免费卫生巾用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2101017021060136960"
+          ]
+        },
+        "author_id": "1816440350778785792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Brazilian 35th president.",
+              "id": "862070591737675776",
+              "name": "Luiz Inácio \"Lula\" da Silva"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Brazilian 35th president.",
+              "id": "862070591737675776",
+              "name": "Luiz Inácio \"Lula\" da Silva"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "38",
+              "name": "Political Race"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazilian 35th president.",
+              "id": "862070591737675776",
+              "name": "Luiz Inácio \"Lula\" da Silva"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about healthcare system in Brazil inside the political world.",
+              "id": "966317888993878016",
+              "name": "Healthcare System in Brazil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1488973753274929152",
+              "name": "Political events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653237720625152",
+              "name": "Brazil political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518940800985427968",
+              "name": "Brazil political events"
+            }
+          }
+        ],
+        "conversation_id": "2101017035668898128",
+        "created_at": "2026-09-18T18:34:30.000Z",
+        "display_text_range": [
+          0,
+          271
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T19:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101017035668898128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/octOEEs0JG",
+              "end": 295,
+              "expanded_url": "https://x.com/gcfinmuse/status/2101017035668898128/photo/1",
+              "media_key": "16_2101017021060136960",
+              "start": 272,
+              "url": "https://t.co/octOEEs0JG"
+            },
+            {
+              "display_url": "x.com/humilde/status…",
+              "end": 319,
+              "expanded_url": "https://twitter.com/humilde/status/2100944828502519952",
+              "start": 296,
+              "url": "https://t.co/A51IqWhQ2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101017035668898128",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "16_2101017021060136960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 92044,
+          "like_count": 8427,
+          "quote_count": 64,
+          "reply_count": 62,
+          "retweet_count": 1469
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100944828502519952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "E mulheres seguem não recebendo absorvente gratuito, vacina do hpv depois de adultas, reposição hormonal depois da menopausa e etc... fascinante como a medicina e os projetos de governo são sempre voltados a melhoras a vida do homem ( mesmo com futilidades como uma chuca https://t.co/octOEEs0JG https://t.co/A51IqWhQ2t"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-03-07T15:48:59.000Z",
+        "description": "本体是JMR雪球队退役球圆Snowflake（划去）/糖豆人 JMR F1/ADHDer Trans🏳️‍⚧️\n详细自介看主页置顶喵～\n头像画师@K09412 头图画师也是最好的朋友 @XyanXyan0387",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "K09412"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "XyanXyan0387"
+              }
+            ]
+          }
+        },
+        "id": "1236317911431536640",
+        "is_identity_verified": false,
+        "location": "Hailfern，现居Snoronto（划去）",
+        "most_recent_tweet_id": "2101336068880732376",
+        "name": "Rusndage小雪花❄️🍥",
+        "pinned_tweet_id": "2097348248445104337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236317911431536640/1776786133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078386679447240704/5DG2XoKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 1118,
+          "like_count": 31244,
+          "listed_count": 8,
+          "media_count": 597,
+          "tweet_count": 6358
+        },
+        "url": "",
+        "username": "RusndageSNF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-25T11:49:21.000Z",
+        "description": "𝕭𝖆𝖗𝖇𝖎𝖊𝖒𝖎𝖓 𝖋𝖆𝖓 𝖆𝖈𝖈𝖔𝖚𝖓𝖙 | 𝖔𝖓𝖑𝖞 𝖆𝖗𝖒𝖞 | 𝕵𝖎𝖐𝖔𝖔𝖐𝖆 𝖉𝖔𝖊𝖓𝖙𝖊",
+        "id": "1816440350778785792",
+        "is_identity_verified": false,
+        "location": "⁷",
+        "most_recent_tweet_id": "2101178148180099559",
+        "name": "𝐒𝐤𝐚𝐫⁷ VAI VER O BTS",
+        "pinned_tweet_id": "2034883854595457147",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816440350778785792/1777434604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058600757427949568/nwqvwdyh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 340,
+          "like_count": 44392,
+          "listed_count": 4,
+          "media_count": 1267,
+          "tweet_count": 12524
+        },
+        "url": "",
+        "username": "gcfinmuse",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
